@@ -21,6 +21,12 @@ surrogate models), the search requires a small number of queries.
 <img src='doc/framework.png' width='800px'>
 </center>
 
+## UNIVERSITY OF LUXEMBOURG - HPC
+This project is designed to run on the HPC Iris cluster using SLURM for job scheduling. To execute the code, follow these steps:
+
+Access the Cluster: Connect to the Iris cluster via ssh iris-cluster (ensure you have an active account).
+Allocate Resources: Request GPU resources suitable for your workload.
+Submit Jobs: As the code execution exceeds two hours, use the sbatch command to submit jobs for batch processing. Job submission scripts are included in this repository for convenience
 
 ## RESULTS - AI& CYBERSECURITY
 The scripts we have developed are located in the scripts folder, with their corresponding logs stored in the results folder. Please note that we have included only a subset of the generated adversarial images due to their large file sizes. 
