@@ -242,7 +242,7 @@ for idx in tqdm(range(100)):
                 f.write(f"idx: {idx}, {im_id}, counts: {n_query}\n")
             break
 
-        if loss_plus < loss_minus, loss:
+        if loss_plus < loss_minus:
             loss = loss_plus
             w_np = w_np_temp_plus
             w_np = w_np / w_np.sum()
