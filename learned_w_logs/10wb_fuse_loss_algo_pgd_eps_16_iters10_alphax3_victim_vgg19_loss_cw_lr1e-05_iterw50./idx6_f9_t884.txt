@@ -1,0 +1,1500 @@
+n_iters: 10, iter_w: 0, loss: -3.820302963256836
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 1, loss: -4.543726921081543
+w: [0.10003946903397104, 0.09998427974505572, 0.09991458583133452, 0.09988322709626696, 0.09993082343960724, 0.10033508903136308, 0.09996838204130254, 0.09988559079759163, 0.10006921819931552, 0.09998933478419174]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 2, loss: -1.4864559173583984
+w: [0.10008611580518713, 0.10005160449286199, 0.09945171677852081, 0.09952791562671602, 0.10003069357402454, 0.10084442045192436, 0.09975154260241882, 0.0995925359213832, 0.10100769858242016, 0.09965575616454307]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 3, loss: -2.2687816619873047
+w: [0.10015557190272013, 0.10007045665972501, 0.09891826499078027, 0.09918637350687715, 0.10020796590902997, 0.10149191410855792, 0.09939657902308395, 0.09929567590203504, 0.10211059633775132, 0.09916660165943922]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 4, loss: -0.9096956253051758
+w: [0.10022898430195881, 0.10010226701072691, 0.09833715252464825, 0.09873583133119257, 0.10042779043076659, 0.10194102604494674, 0.09910497701453984, 0.0989773405762027, 0.1035136827052517, 0.09863094805976583]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 5, loss: -3.3679380416870117
+w: [0.10033280610767054, 0.10004112221957129, 0.09787465183076434, 0.09827998531743981, 0.1007022251564903, 0.10265543870878487, 0.0986860564304048, 0.09856230429699395, 0.10482324129591021, 0.09804216863596994]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 6, loss: -3.7452611923217773
+w: [0.10036845871548095, 0.1000373066112645, 0.09740499437838687, 0.09784534098892857, 0.10094595592304874, 0.10316611333010325, 0.09833318458999116, 0.09829174292192198, 0.10624868226347334, 0.0973582202774006]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 7, loss: -3.8794665336608887
+w: [0.10044709416721392, 0.1000332877375042, 0.09693880020270428, 0.09743477755255771, 0.10111158695892769, 0.10370815128895111, 0.09796261113878399, 0.09794396643645815, 0.10771757939788316, 0.09670214511901577]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 8, loss: -1.6708717346191406
+w: [0.10053712656813621, 0.09991227266066198, 0.09651196560783895, 0.09696612550711102, 0.10141936389581824, 0.10427779567081222, 0.09757271471942242, 0.0976551120372477, 0.10908877243758659, 0.09605875089536486]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 9, loss: -0.6206083297729492
+w: [0.10062751154156094, 0.09985357571726146, 0.09607615313402569, 0.09652218963784046, 0.10168287067233997, 0.10492851688403478, 0.09720466067447527, 0.09729904125534138, 0.11044730179934668, 0.09535817868377337]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 10, loss: -2.225900650024414
+w: [0.10073633431525875, 0.09981848086387714, 0.09571449937500622, 0.09611506894414265, 0.10194635446120373, 0.10552027120108151, 0.09674720309191727, 0.09700097980251673, 0.11176295122192106, 0.09463785672307509]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 11, loss: -1.553356647491455
+w: [0.10082596782625693, 0.09974801679894235, 0.0954072465926317, 0.09563006187187106, 0.1021811277113326, 0.10612437355570613, 0.09629720356081946, 0.09654130817076391, 0.11333259116726127, 0.09391210274441451]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 12, loss: -6.173643112182617
+w: [0.10096109196424967, 0.0996542207802752, 0.09504496984659833, 0.09512924640896334, 0.10244402377628128, 0.1066467727429961, 0.09584824779066423, 0.09613081471958457, 0.11497482584822624, 0.09316578612216096]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 13, loss: -6.527575492858887
+w: [0.1010588997791362, 0.0995753197524797, 0.09474653232667399, 0.09464761272063053, 0.1027453351807255, 0.1072840347610863, 0.09545099318139393, 0.09587146240452575, 0.11614953199123267, 0.0924702779021154]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 14, loss: -4.3718414306640625
+w: [0.10119652783565936, 0.0995025911906805, 0.09436112450465545, 0.09415069433590545, 0.10303191011595732, 0.10783680440696308, 0.09505955670948303, 0.09555267158430673, 0.11756599687038713, 0.09174212244600195]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 15, loss: -2.714867115020752
+w: [0.10133435017150447, 0.099386320407934, 0.09396948277786499, 0.09370382320268726, 0.10324672371427158, 0.10850385683793569, 0.09458527370096993, 0.09520678264554766, 0.11906665734680116, 0.09099672919448341]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 16, loss: -3.6091675758361816
+w: [0.10153803890866969, 0.09933346068877416, 0.09366224697372919, 0.09322686903943699, 0.10346384140069735, 0.10888389420854179, 0.09415807107320094, 0.0949249252978779, 0.12050713206675141, 0.0903015203423205]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 17, loss: -5.350094795227051
+w: [0.10171384137836152, 0.09929910027759489, 0.09330740083967247, 0.09287166925621732, 0.1037352726005654, 0.10940893963528184, 0.09380259553437865, 0.09467305323716682, 0.12155840042728569, 0.08962972681347538]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 18, loss: -5.075631141662598
+w: [0.1018338813636384, 0.09917177507409869, 0.0928912890369873, 0.09245587025449771, 0.10397913372593647, 0.10988338953676706, 0.093379686171577, 0.09434711570474831, 0.12316808905080061, 0.08888977008094831]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 19, loss: -4.379037857055664
+w: [0.10197707806486897, 0.09916759604823296, 0.09261212601765845, 0.09200194408327717, 0.10413611175453084, 0.11028389745465177, 0.09297842150052489, 0.09411422598439435, 0.12452040556123695, 0.08820819353062359]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 20, loss: -5.228335380554199
+w: [0.10207128551601502, 0.09906936342009771, 0.09222565476781117, 0.09163448666374432, 0.10425423932835405, 0.1108717093207272, 0.09258389259766979, 0.09384750241850932, 0.1259425745432976, 0.08749929142377386]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 21, loss: -5.238341331481934
+w: [0.10215868842423, 0.09898011879422933, 0.09183411728579934, 0.09121107081729246, 0.10439794988006813, 0.11135029556581989, 0.092281365186278, 0.09355354437642396, 0.1274087512421423, 0.08682409842771663]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 22, loss: -3.8165550231933594
+w: [0.10229057188236916, 0.09885227072269773, 0.09155006724372955, 0.09084433814607118, 0.10450411441538976, 0.1118631623396112, 0.09188729149869702, 0.09331043737281157, 0.12873738987206992, 0.08616035650655281]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 23, loss: -3.05165958404541
+w: [0.10242380303496072, 0.09876766510237746, 0.0912095259953216, 0.09044661493405286, 0.10464114556350891, 0.11240912028021853, 0.09141517965387032, 0.09307985156184588, 0.1301779841892919, 0.0854291096845518]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 24, loss: -1.9088001251220703
+w: [0.10259198561622923, 0.09865952850586121, 0.09098211603586996, 0.09007999573396284, 0.10464072410876057, 0.11291340494114038, 0.09103023761523583, 0.09282360788154467, 0.13149049123106982, 0.08478790833032551]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 25, loss: 0.6920442581176758
+w: [0.10273746510418022, 0.09848445147452178, 0.09062026245182445, 0.08968845459672256, 0.10487080241757533, 0.11348118696694237, 0.09066417914620278, 0.09259031228601093, 0.13274873608432924, 0.08411414947169026]
+label victim: (123, 'spiny lobster, langouste, rock lobster, crawfish, crayfish, sea crawfish')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 26, loss: -2.3142995834350586
+w: [0.10284622729350885, 0.09831809863919694, 0.09038571593065117, 0.08927472184217786, 0.10503892459826268, 0.11401303976887925, 0.09023425945977365, 0.09228568929508195, 0.13409542115640935, 0.08350790201605826]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 27, loss: -5.870514869689941
+w: [0.1029351206160684, 0.09816128054364212, 0.09009174070168821, 0.08886571294205643, 0.10522259298079376, 0.1144663521666085, 0.08989565313823913, 0.09199582400392822, 0.13551009421458315, 0.08285562869239205]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 28, loss: -6.214210510253906
+w: [0.1029748845859354, 0.09805340878053838, 0.08980092825926625, 0.08851252059623993, 0.10549429623483046, 0.11500256979459418, 0.08946526401992001, 0.09168483606184445, 0.1367594304489648, 0.08225186121786623]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 29, loss: -4.961668491363525
+w: [0.10297427497667727, 0.09797186450962246, 0.08957980709875318, 0.08812553137285387, 0.10574137608574583, 0.11545776387676578, 0.08910536909909328, 0.09144427654250151, 0.13797994879218817, 0.08161978764579858]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 30, loss: 1.4875855445861816
+w: [0.10299095293446806, 0.097811808346645, 0.08923160040520192, 0.08770525588910555, 0.10604191827181206, 0.11593908851484071, 0.0887165320200839, 0.0911825776860574, 0.13930862470197639, 0.08107164122980896]
+label victim: (170, 'Irish wolfhound')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 31, loss: -4.292895317077637
+w: [0.10307535455015196, 0.09771929118567846, 0.08894136965134783, 0.08736967117126578, 0.106177308866861, 0.11640996533202193, 0.08835281985892203, 0.09095422826384081, 0.1405128310438047, 0.08048716007610564]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 32, loss: -5.349688529968262
+w: [0.10302777789571721, 0.09758624031433413, 0.08866833239030408, 0.08693370966513428, 0.10650703943728024, 0.11699876706879969, 0.08793144383664117, 0.09071596995393388, 0.14175425505491626, 0.07987646438293908]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 33, loss: -5.938387870788574
+w: [0.10305764107718375, 0.09747287776759803, 0.08829310146405829, 0.08657146980141768, 0.1067627731850453, 0.11747138151771869, 0.0875494071577649, 0.09041024096519734, 0.14313848253754757, 0.07927262452646845]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 34, loss: -5.693780899047852
+w: [0.10306644640138854, 0.09741185355214324, 0.08802138915723894, 0.08621191149784885, 0.10697354299938616, 0.11789063890834464, 0.08720440382923289, 0.09019383251731902, 0.14428262702965733, 0.0787433541074405]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 35, loss: -5.942049980163574
+w: [0.10317052218480215, 0.0972352057638964, 0.08772171459529264, 0.08584425806951677, 0.10716651070324186, 0.11840977154725978, 0.08679629980315681, 0.08988963184780727, 0.14560580108261809, 0.07816028440240815]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 36, loss: -1.2434206008911133
+w: [0.10319194130443189, 0.0971697261838941, 0.08742441260444446, 0.08547779248292568, 0.10731904790744626, 0.11890874557641302, 0.08644447599293384, 0.08963422681079895, 0.14683156156295413, 0.07759806957375773]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 37, loss: -1.6206035614013672
+w: [0.10324759241746063, 0.09709220717071032, 0.0871161990926331, 0.0851184633814435, 0.1075473293668971, 0.11926845267821523, 0.08604755240527909, 0.08933203961818836, 0.1481444988640079, 0.07708566500516469]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 38, loss: 1.0264673233032227
+w: [0.10333601466751421, 0.09696760194863077, 0.08687792373337766, 0.08476512287736147, 0.1077672630567419, 0.11970618927838768, 0.08567037686323442, 0.0890816384657952, 0.1492985001780647, 0.07652936893089188]
+label victim: (123, 'spiny lobster, langouste, rock lobster, crawfish, crayfish, sea crawfish')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 39, loss: -6.333136558532715
+w: [0.10340130129053206, 0.09681285069316618, 0.08656510317929832, 0.08438098016597634, 0.10791832159008984, 0.12036398726795881, 0.08529173960292195, 0.08875147240049688, 0.150482872660102, 0.07603137114945767]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 40, loss: -5.792682647705078
+w: [0.10363335940348985, 0.09672458714128652, 0.0863700425170684, 0.08403686028766216, 0.10803564859869928, 0.1207679232057862, 0.08496354677925223, 0.08853654031246486, 0.15141228724326725, 0.07551920451102319]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 41, loss: -5.887529373168945
+w: [0.10376331768093833, 0.09663623584591197, 0.0860573061308568, 0.08370246617412797, 0.10817962512614704, 0.12127553390752707, 0.0846609987720868, 0.08831306818178765, 0.15237927213267066, 0.0750321760479458]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 42, loss: -5.294410705566406
+w: [0.1038689944511733, 0.09650919186343154, 0.08583521447856654, 0.0833131018142107, 0.10832585325263192, 0.12179927298899158, 0.0843481359836524, 0.08797013355443829, 0.15348182226633397, 0.07454827934656967]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 43, loss: -6.567146301269531
+w: [0.10398993772876487, 0.0964154498351823, 0.08560263879979117, 0.08301794021261825, 0.10849686905196433, 0.12213607082825338, 0.08397153352003746, 0.0877082336617028, 0.1545697838275151, 0.07409154253417038]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 44, loss: -4.125594139099121
+w: [0.10407365254432284, 0.0963220507245843, 0.08538370173969936, 0.08271829354115692, 0.10863355806586364, 0.12244487809194593, 0.08367634881867533, 0.08748703915271637, 0.15564382951494354, 0.07361664780609181]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 45, loss: -6.1787519454956055
+w: [0.10415333547100089, 0.09630379652962787, 0.08519443656254626, 0.08240976646741953, 0.1087837592580034, 0.12276032409506372, 0.0833810055322903, 0.08723669089998731, 0.15658599176192534, 0.0731908934221354]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 46, loss: -5.349275588989258
+w: [0.10418909055388913, 0.09625131203823288, 0.08494899318206531, 0.08208400838931, 0.10885836383699084, 0.1232151725386944, 0.08313569083777476, 0.08698938902317806, 0.15761053374953723, 0.07271744585032738]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 47, loss: -5.968869209289551
+w: [0.10420368658539622, 0.09623488338901039, 0.08469054249131483, 0.0817344565110411, 0.10901766693968797, 0.12363664423811199, 0.082779685180065, 0.0867291434466938, 0.158766012420554, 0.07220727879812487]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 48, loss: -0.4521055221557617
+w: [0.10424395505060773, 0.096202580527328, 0.08444730956770266, 0.08143182488185537, 0.10904065552618362, 0.12400241465199552, 0.0825208291289317, 0.0865648446305564, 0.1597540366165632, 0.0717915494182759]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 49, loss: -6.007502555847168
+w: [0.10432453839622591, 0.09611948246947961, 0.08410961437875077, 0.08111477166600704, 0.10922658335770588, 0.12435622322259808, 0.08222693113314514, 0.08636761037190831, 0.16080378929419312, 0.07135045570998616]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 0, loss: -3.820302963256836
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 1, loss: -4.543726921081543
+w: [0.10003946903397104, 0.09998427974505572, 0.09991458583133452, 0.09988322709626696, 0.09993082343960724, 0.10033508903136308, 0.09996838204130254, 0.09988559079759163, 0.10006921819931552, 0.09998933478419174]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 2, loss: -1.4864559173583984
+w: [0.10008611580518713, 0.10005160449286199, 0.09945171677852081, 0.09952791562671602, 0.10003069357402454, 0.10084442045192436, 0.09975154260241882, 0.0995925359213832, 0.10100769858242016, 0.09965575616454307]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 3, loss: -2.2687816619873047
+w: [0.10015557190272013, 0.10007045665972501, 0.09891826499078027, 0.09918637350687715, 0.10020796590902997, 0.10149191410855792, 0.09939657902308395, 0.09929567590203504, 0.10211059633775132, 0.09916660165943922]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 4, loss: -0.9096956253051758
+w: [0.10022898430195881, 0.10010226701072691, 0.09833715252464825, 0.09873583133119257, 0.10042779043076659, 0.10194102604494674, 0.09910497701453984, 0.0989773405762027, 0.1035136827052517, 0.09863094805976583]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 5, loss: -3.3679380416870117
+w: [0.10033280610767054, 0.10004112221957129, 0.09787465183076434, 0.09827998531743981, 0.1007022251564903, 0.10265543870878487, 0.0986860564304048, 0.09856230429699395, 0.10482324129591021, 0.09804216863596994]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 6, loss: -3.7452611923217773
+w: [0.10036845871548095, 0.1000373066112645, 0.09740499437838687, 0.09784534098892857, 0.10094595592304874, 0.10316611333010325, 0.09833318458999116, 0.09829174292192198, 0.10624868226347334, 0.0973582202774006]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 7, loss: -3.8794665336608887
+w: [0.10044709416721392, 0.1000332877375042, 0.09693880020270428, 0.09743477755255771, 0.10111158695892769, 0.10370815128895111, 0.09796261113878399, 0.09794396643645815, 0.10771757939788316, 0.09670214511901577]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 8, loss: -1.6708717346191406
+w: [0.10053712656813621, 0.09991227266066198, 0.09651196560783895, 0.09696612550711102, 0.10141936389581824, 0.10427779567081222, 0.09757271471942242, 0.0976551120372477, 0.10908877243758659, 0.09605875089536486]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 9, loss: -0.6206083297729492
+w: [0.10062751154156094, 0.09985357571726146, 0.09607615313402569, 0.09652218963784046, 0.10168287067233997, 0.10492851688403478, 0.09720466067447527, 0.09729904125534138, 0.11044730179934668, 0.09535817868377337]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 10, loss: -2.225900650024414
+w: [0.10073633431525875, 0.09981848086387714, 0.09571449937500622, 0.09611506894414265, 0.10194635446120373, 0.10552027120108151, 0.09674720309191727, 0.09700097980251673, 0.11176295122192106, 0.09463785672307509]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 11, loss: -1.553356647491455
+w: [0.10082596782625693, 0.09974801679894235, 0.0954072465926317, 0.09563006187187106, 0.1021811277113326, 0.10612437355570613, 0.09629720356081946, 0.09654130817076391, 0.11333259116726127, 0.09391210274441451]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 12, loss: -6.173643112182617
+w: [0.10096109196424967, 0.0996542207802752, 0.09504496984659833, 0.09512924640896334, 0.10244402377628128, 0.1066467727429961, 0.09584824779066423, 0.09613081471958457, 0.11497482584822624, 0.09316578612216096]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 13, loss: -6.527575492858887
+w: [0.1010588997791362, 0.0995753197524797, 0.09474653232667399, 0.09464761272063053, 0.1027453351807255, 0.1072840347610863, 0.09545099318139393, 0.09587146240452575, 0.11614953199123267, 0.0924702779021154]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 14, loss: -4.3718414306640625
+w: [0.10119652783565936, 0.0995025911906805, 0.09436112450465545, 0.09415069433590545, 0.10303191011595732, 0.10783680440696308, 0.09505955670948303, 0.09555267158430673, 0.11756599687038713, 0.09174212244600195]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 15, loss: -2.714867115020752
+w: [0.10133435017150447, 0.099386320407934, 0.09396948277786499, 0.09370382320268726, 0.10324672371427158, 0.10850385683793569, 0.09458527370096993, 0.09520678264554766, 0.11906665734680116, 0.09099672919448341]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 16, loss: -3.6091675758361816
+w: [0.10153803890866969, 0.09933346068877416, 0.09366224697372919, 0.09322686903943699, 0.10346384140069735, 0.10888389420854179, 0.09415807107320094, 0.0949249252978779, 0.12050713206675141, 0.0903015203423205]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 17, loss: -5.350094795227051
+w: [0.10171384137836152, 0.09929910027759489, 0.09330740083967247, 0.09287166925621732, 0.1037352726005654, 0.10940893963528184, 0.09380259553437865, 0.09467305323716682, 0.12155840042728569, 0.08962972681347538]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 18, loss: -5.075631141662598
+w: [0.1018338813636384, 0.09917177507409869, 0.0928912890369873, 0.09245587025449771, 0.10397913372593647, 0.10988338953676706, 0.093379686171577, 0.09434711570474831, 0.12316808905080061, 0.08888977008094831]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 19, loss: -4.379037857055664
+w: [0.10197707806486897, 0.09916759604823296, 0.09261212601765845, 0.09200194408327717, 0.10413611175453084, 0.11028389745465177, 0.09297842150052489, 0.09411422598439435, 0.12452040556123695, 0.08820819353062359]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 20, loss: -5.228335380554199
+w: [0.10207128551601502, 0.09906936342009771, 0.09222565476781117, 0.09163448666374432, 0.10425423932835405, 0.1108717093207272, 0.09258389259766979, 0.09384750241850932, 0.1259425745432976, 0.08749929142377386]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 21, loss: -5.238341331481934
+w: [0.10215868842423, 0.09898011879422933, 0.09183411728579934, 0.09121107081729246, 0.10439794988006813, 0.11135029556581989, 0.092281365186278, 0.09355354437642396, 0.1274087512421423, 0.08682409842771663]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 22, loss: -3.8165550231933594
+w: [0.10229057188236916, 0.09885227072269773, 0.09155006724372955, 0.09084433814607118, 0.10450411441538976, 0.1118631623396112, 0.09188729149869702, 0.09331043737281157, 0.12873738987206992, 0.08616035650655281]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 23, loss: -3.05165958404541
+w: [0.10242380303496072, 0.09876766510237746, 0.0912095259953216, 0.09044661493405286, 0.10464114556350891, 0.11240912028021853, 0.09141517965387032, 0.09307985156184588, 0.1301779841892919, 0.0854291096845518]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 24, loss: -1.3815317153930664
+w: [0.10259198561622923, 0.09865952850586121, 0.09098211603586996, 0.09007999573396284, 0.10464072410876057, 0.11291340494114038, 0.09103023761523583, 0.09282360788154467, 0.13149049123106982, 0.08478790833032551]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 25, loss: -2.3022212982177734
+w: [0.10273667637668227, 0.09848445250567942, 0.09061972885176148, 0.0896887862970048, 0.10486998414950556, 0.11348162792981256, 0.09066407597310674, 0.09258955888062691, 0.13275053844936607, 0.084114570586454]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 26, loss: -3.8901076316833496
+w: [0.10284540782101456, 0.09830757135130835, 0.09033608044997445, 0.08927627531723738, 0.10505165975392994, 0.1140290149774579, 0.090330050977796, 0.09227500067968862, 0.13409721249258957, 0.0834517261790034]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 27, loss: -0.4531393051147461
+w: [0.10299372257346324, 0.09811852170346762, 0.09005318773349982, 0.0888066563626125, 0.10526535996408883, 0.11454172233976892, 0.08989661782631625, 0.09206557029433901, 0.13544277187902218, 0.08281586932342169]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 28, loss: -4.240653038024902
+w: [0.10323101549295097, 0.0979776316929505, 0.08973267171448454, 0.08837810952841857, 0.10548851612781614, 0.11505409697992511, 0.08949027794905833, 0.09171965424896754, 0.13671510382592367, 0.08221292243950451]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 29, loss: -6.117725372314453
+w: [0.10336855163369593, 0.09783313890620428, 0.08942187126891649, 0.0879691877434909, 0.10572416033245031, 0.11548867782715444, 0.08914122474540842, 0.09140189346672367, 0.13805835191732277, 0.0815929421586328]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 30, loss: -3.1383705139160156
+w: [0.10353428560418539, 0.09777027829314251, 0.08916161343925436, 0.0876098232753553, 0.1058932470927976, 0.11588971799053291, 0.08882408569891308, 0.09110039990069049, 0.13917958422317964, 0.08103696448194889]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 31, loss: -0.5453681945800781
+w: [0.10357939296570778, 0.09767930603721384, 0.08887556420190959, 0.0871398437110335, 0.1061327976857078, 0.1163636685598695, 0.08848815242268579, 0.09085309054632786, 0.14040305596111435, 0.08048512790842993]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 32, loss: -3.581723213195801
+w: [0.10357267164480509, 0.09756185213986712, 0.08859529495834403, 0.08670096648936795, 0.10630942752017969, 0.11686405233581994, 0.08810716266831202, 0.09055956395517163, 0.141797730775657, 0.07993127751247546]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 33, loss: -3.516596794128418
+w: [0.10357044444711204, 0.09749219386079762, 0.08826882744282019, 0.08628761118069962, 0.10658068211456771, 0.11730992580645873, 0.08763038881426181, 0.09031980972762811, 0.14320731869232772, 0.0793327979133264]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 34, loss: -7.8262939453125
+w: [0.10360223772436021, 0.09737470829001878, 0.08803939456204486, 0.0859072206003266, 0.1068033771900807, 0.11771846700750499, 0.08731132335839334, 0.0900931113748896, 0.14435044696404734, 0.07879971292833356]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 35, loss: -4.335812568664551
+w: [0.10368502686736204, 0.09726656560859712, 0.0877433159656249, 0.08553361626744903, 0.10681991600278055, 0.11824304181781069, 0.08692203838939931, 0.08988051545632376, 0.14564042113571796, 0.07826554248893465]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 36, loss: -6.535093307495117
+w: [0.10383827617657294, 0.09712719374057328, 0.08745750973960412, 0.08512861912126261, 0.10688522213202842, 0.11869552090670057, 0.08661254679792348, 0.08960494030109452, 0.14692600050036678, 0.07772417058387336]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 37, loss: -6.039429664611816
+w: [0.10394389803246676, 0.09696084309164701, 0.0871803880356257, 0.08480178774272916, 0.1071080250850273, 0.11923825006173283, 0.08624759880189556, 0.08928857802153987, 0.14806716157476366, 0.07716346955257208]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 38, loss: -4.902774810791016
+w: [0.10398898213677608, 0.09674909508026092, 0.08693407705770176, 0.08438299922001966, 0.10724843136636523, 0.11976144934737838, 0.08592472691717107, 0.08908968856886426, 0.14929428509039833, 0.07662626521506423]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 39, loss: -6.346147537231445
+w: [0.10413822125275973, 0.09663097584882677, 0.08668481778274541, 0.08410312725500706, 0.10737729771562488, 0.1200268159481038, 0.08553892060141444, 0.08882971091089881, 0.15059298087333384, 0.07607713181128534]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 40, loss: -5.336847305297852
+w: [0.1042213786600031, 0.09651506435372711, 0.08653027359468608, 0.08374328300046167, 0.10755446004840766, 0.12043846637622993, 0.08522019291433142, 0.08866404787716996, 0.1515251458622321, 0.07558768731275102]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 41, loss: -4.749090194702148
+w: [0.10431973347693912, 0.09640498636755455, 0.086277575681351, 0.0833984135296989, 0.10770146971944893, 0.12080542623151885, 0.08493900915540267, 0.08845635322372523, 0.15262335509577343, 0.07507367751858732]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 42, loss: -6.071236610412598
+w: [0.10442569264784032, 0.09633825627967543, 0.08601548048785639, 0.08310687344127886, 0.10784179841827986, 0.12107954532515218, 0.08462510045473168, 0.08831779726064, 0.15362042662268469, 0.07462902906186071]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 43, loss: -6.006777763366699
+w: [0.10456578638701697, 0.0963123916558669, 0.08579224883181857, 0.08280307771949191, 0.10791534047483368, 0.12136616296190894, 0.08439034340134179, 0.0880803113474951, 0.15458717889828688, 0.0741871583219392]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 44, loss: -4.863263130187988
+w: [0.1046384089241794, 0.0962150734204245, 0.085586844500682, 0.08247101661230373, 0.10802149691274224, 0.12161993720862152, 0.08409538110131272, 0.08785562362317818, 0.15576042575029664, 0.07373579194625915]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 45, loss: -4.515104293823242
+w: [0.10461931502905424, 0.09622689607296538, 0.08527625677387421, 0.0821437650890871, 0.1081583734312001, 0.12201968284866822, 0.08376649468664796, 0.0876332926314682, 0.15685921241834147, 0.07329671101869317]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 46, loss: -5.844535827636719
+w: [0.10466124581621025, 0.09617884389813194, 0.08503203694032074, 0.08184460110923591, 0.10827201550415184, 0.12234376879608648, 0.08344721291742306, 0.08743297999464315, 0.15790802305958201, 0.07287927196421465]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 47, loss: -6.665366172790527
+w: [0.10478066648976227, 0.09608457798976792, 0.08472016769203862, 0.08153375024782263, 0.10836994268450546, 0.12275695861548741, 0.08314482496236465, 0.08721021206801984, 0.1590768035353394, 0.07232209571489182]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 48, loss: -6.190885543823242
+w: [0.10480717808561342, 0.0960074054044939, 0.08438380169253554, 0.08122439634127461, 0.10850604689010485, 0.12319411870501122, 0.08284653609888973, 0.08705012437691866, 0.16012513770853093, 0.07185525469662725]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+
+n_iters: 10, iter_w: 49, loss: -4.35781192779541
+w: [0.10489902132681146, 0.09597922489961773, 0.08406153433251524, 0.08096101593406256, 0.1086043417455766, 0.12346293430618445, 0.08257243851843878, 0.08685078140995889, 0.161246565528642, 0.07136214199819221]
+label victim: (884, 'vault')
+label wb 0: (884, 'vault')
+label wb 1: (884, 'vault')
+label wb 2: (884, 'vault')
+label wb 3: (884, 'vault')
+label wb 4: (884, 'vault')
+label wb 5: (884, 'vault')
+label wb 6: (884, 'vault')
+label wb 7: (884, 'vault')
+label wb 8: (884, 'vault')
+label wb 9: (884, 'vault')
+
+

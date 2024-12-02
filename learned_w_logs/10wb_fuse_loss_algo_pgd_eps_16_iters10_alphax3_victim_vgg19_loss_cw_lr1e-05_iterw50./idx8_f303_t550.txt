@@ -1,0 +1,1500 @@
+n_iters: 10, iter_w: 0, loss: 7.1484832763671875
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+label victim: (302, 'ground beetle, carabid beetle')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 1, loss: 3.512444496154785
+w: [0.09991533005481362, 0.10005290110547362, 0.09961755482426478, 0.10009688752225862, 0.1002900692933556, 0.10029450156399963, 0.09998100531018464, 0.10001893388302356, 0.09999206794306251, 0.09974074849956346]
+label victim: (786, 'sewing machine')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 2, loss: 2.7320876121520996
+w: [0.1002086207065857, 0.10006876388880741, 0.09896707356437058, 0.0996076282298273, 0.10065610242343342, 0.10088656984446874, 0.09984027647809374, 0.10011408879940861, 0.10030408831393024, 0.0993467877510743]
+label victim: (786, 'sewing machine')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 3, loss: 2.6691360473632812
+w: [0.10046643105084331, 0.09994671053893092, 0.09812528269271147, 0.09912267847753749, 0.10105482881057497, 0.10169107422670852, 0.09957131924975046, 0.10006752581260582, 0.10113574557555877, 0.09881840356477832]
+label victim: (786, 'sewing machine')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 4, loss: 2.674496650695801
+w: [0.10085171031578706, 0.09978204591060823, 0.09713705991095115, 0.0984856176972707, 0.10153743086602023, 0.10277414996735726, 0.09912940238967069, 0.09997313840569136, 0.10218764272183854, 0.09814180181480489]
+label victim: (786, 'sewing machine')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 5, loss: 1.760408878326416
+w: [0.10136326681127872, 0.09955112960265883, 0.09608626634973143, 0.09789477847274507, 0.10194929182682884, 0.10398903178370537, 0.09864116233494677, 0.09981810386302009, 0.10341909162632648, 0.09728787732875839]
+label victim: (786, 'sewing machine')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 6, loss: 3.1162538528442383
+w: [0.10199447099086843, 0.0993616392655299, 0.09499030782744282, 0.09730858238393389, 0.10231034182969116, 0.10511513784852967, 0.0981612755955997, 0.09963369544186752, 0.10468450034274535, 0.09644004847379145]
+label victim: (786, 'sewing machine')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 7, loss: 1.9184489250183105
+w: [0.10258155668489512, 0.0990181172376233, 0.0938766746940117, 0.09669698540810287, 0.1027174412703903, 0.10627043229501826, 0.09762937428305755, 0.09947455606084424, 0.10624501337481988, 0.09548984869123697]
+label victim: (786, 'sewing machine')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 8, loss: 1.132929801940918
+w: [0.1031150933850073, 0.09876079652083283, 0.09271186638680644, 0.09606385883929086, 0.1031420772316016, 0.10736444520823664, 0.09707099022642465, 0.0993245261941747, 0.1078934671228189, 0.09455287888480624]
+label victim: (320, 'damselfly')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 9, loss: 0.591156005859375
+w: [0.10360435344316578, 0.09851779063957883, 0.09149820200861648, 0.09540656438439979, 0.10365510198610937, 0.10851803357890616, 0.09651082813013824, 0.09913383542716905, 0.1096122083723302, 0.093543082029586]
+label victim: (786, 'sewing machine')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 10, loss: 2.797518730163574
+w: [0.10417484808769638, 0.09824781901831232, 0.09035885099630758, 0.09476633846316815, 0.1040618689247353, 0.10952219891345782, 0.0958995914386323, 0.09909131359329026, 0.11127859993561087, 0.09259857062878893]
+label victim: (786, 'sewing machine')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 11, loss: 5.685667037963867
+w: [0.10490641637578074, 0.09813160595385258, 0.08914254553430795, 0.09417031934185219, 0.1044095817860402, 0.11067454086413091, 0.09534798064226378, 0.09887999064639068, 0.11277870893808234, 0.09155830991729859]
+label victim: (320, 'damselfly')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 12, loss: 1.972447395324707
+w: [0.10548464284986753, 0.09792505089367065, 0.08801622970511666, 0.09361490940080108, 0.10469807554783712, 0.11176171609140886, 0.09477857391939354, 0.0986993469110332, 0.11445002086174015, 0.09057143381913113]
+label victim: (303, 'long-horned beetle, longicorn, longicorn beetle')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 13, loss: 1.0037031173706055
+w: [0.10618055997644973, 0.09766802825790447, 0.08684133931161116, 0.09294523225922813, 0.10493531858756659, 0.11291659203133114, 0.09417799008904264, 0.0985023731847878, 0.116248981476065, 0.08958358482601335]
+label victim: (786, 'sewing machine')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 14, loss: -0.26058483123779297
+w: [0.10678521771533656, 0.09741351479761762, 0.08570626648601225, 0.09240910880781576, 0.10525350194961079, 0.11403956032165254, 0.09356865320437725, 0.09826067946152318, 0.11801013097318865, 0.0885533662828652]
+label victim: (550, 'espresso maker')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 15, loss: 0.8208990097045898
+w: [0.107464425028765, 0.09715983574037106, 0.0845849856564518, 0.09189954756273001, 0.10560484583659817, 0.11515363835627584, 0.09293979646800067, 0.09804710398112759, 0.11962839157680649, 0.08751742979287339]
+label victim: (688, 'oscilloscope, scope, cathode-ray oscilloscope, CRO')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 16, loss: 6.542173862457275
+w: [0.10827797068701646, 0.096886831384061, 0.08343846746446029, 0.09137102392570189, 0.10596774708026611, 0.11615160173678096, 0.09226642392067615, 0.09784922264294398, 0.12130283156098261, 0.08648787959711043]
+label victim: (302, 'ground beetle, carabid beetle')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 17, loss: 6.818411827087402
+w: [0.10887041916332739, 0.0967348667526019, 0.08230561145243732, 0.09084274874745976, 0.10626618636647302, 0.11717512532567617, 0.0916509370688949, 0.0976767874237902, 0.12302339229252286, 0.08545392540681647]
+label victim: (302, 'ground beetle, carabid beetle')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 18, loss: 3.100264072418213
+w: [0.10945883519496988, 0.09651895160333203, 0.08118010911086875, 0.09036261595282852, 0.1066906787297369, 0.1181612105369339, 0.0910830279420859, 0.09749266057242001, 0.12458044635523365, 0.08447146400159038]
+label victim: (302, 'ground beetle, carabid beetle')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 19, loss: 1.092355728149414
+w: [0.1101370740784163, 0.0963372481845526, 0.0800688563176338, 0.08975413724582884, 0.1071131005646951, 0.11936134446332228, 0.09043892945120992, 0.09713127794911422, 0.12616410971844816, 0.08349392202677865]
+label victim: (786, 'sewing machine')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 20, loss: 0.28461742401123047
+w: [0.1107166647404576, 0.0960977858857332, 0.07894104875395468, 0.08920103819996372, 0.10738677674976699, 0.12049114138715576, 0.08980001061569345, 0.09695742990217986, 0.12791690329932548, 0.08249120046576923]
+label victim: (786, 'sewing machine')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 21, loss: 0.9971280097961426
+w: [0.11130048121494962, 0.09583847749605069, 0.07782863022800177, 0.08866366164831374, 0.107785677760357, 0.1215091611933252, 0.08914465594591355, 0.09669878529057362, 0.12973364450896124, 0.08149682471355348]
+label victim: (688, 'oscilloscope, scope, cathode-ray oscilloscope, CRO')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 22, loss: 0.7416467666625977
+w: [0.11186905987524663, 0.0955799906006979, 0.07671745013775895, 0.0880593588262341, 0.10817489907501127, 0.12252129589689321, 0.08848176960812736, 0.09644608190722269, 0.13166924103967842, 0.08048085303312955]
+label victim: (688, 'oscilloscope, scope, cathode-ray oscilloscope, CRO')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 23, loss: 0.5942707061767578
+w: [0.11256184469512846, 0.09541143400594643, 0.07560677097411042, 0.08755135851839498, 0.1085381258432121, 0.12342657093290088, 0.0878610489037439, 0.09614333254408927, 0.13340280078807437, 0.0794967127943994]
+label victim: (786, 'sewing machine')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 24, loss: -2.3187217712402344
+w: [0.11307868541733794, 0.09523970413717128, 0.074510799744687, 0.08705889939545138, 0.10889923871813972, 0.12434901180747183, 0.08721111145813872, 0.0959321045218888, 0.13516210108769958, 0.07855834371201366]
+label victim: (550, 'espresso maker')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 25, loss: -0.6024274826049805
+w: [0.11375998936880187, 0.09503966300022945, 0.07332188650777183, 0.08644811882075026, 0.10930886453405841, 0.12529029860765195, 0.08663210985742371, 0.09567184835782615, 0.13694573123629578, 0.07758148970919064]
+label victim: (550, 'espresso maker')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 26, loss: -0.3989906311035156
+w: [0.11440691938998046, 0.09481449842585123, 0.07218515089137634, 0.08591269169417103, 0.10975809482265297, 0.12610921431016875, 0.08606272115369004, 0.09536097504910507, 0.1387235793239778, 0.07666615493902633]
+label victim: (550, 'espresso maker')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 27, loss: 0.527869701385498
+w: [0.11491651361718272, 0.09457938005779189, 0.07109065694784615, 0.08535232798691515, 0.11024151593796033, 0.1269056952525872, 0.08533070064019203, 0.09514528129261447, 0.1406830277352986, 0.07575490053161155]
+label victim: (786, 'sewing machine')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 28, loss: 2.5506362915039062
+w: [0.11556978128651546, 0.09432415985218577, 0.07000469693183024, 0.08478905720840456, 0.11079750473666594, 0.1277264758661089, 0.08470097559590924, 0.09491623370429651, 0.14233739256606662, 0.07483372225201666]
+label victim: (786, 'sewing machine')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 29, loss: 1.1966943740844727
+w: [0.11611723891220055, 0.09409376983886816, 0.06885182622849022, 0.08421389311772493, 0.11119020559371237, 0.12861199892023614, 0.08403742161015504, 0.09471830591838205, 0.14420395457310378, 0.07396138528712685]
+label victim: (526, 'desk')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 30, loss: -0.39672183990478516
+w: [0.11677195254471548, 0.09380674744899352, 0.06766422002853363, 0.08367662495059655, 0.11172985016523704, 0.1293825591227534, 0.08348015727588448, 0.0945065674522668, 0.14588415604473537, 0.07309716496628374]
+label victim: (550, 'espresso maker')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 31, loss: 1.2118959426879883
+w: [0.11745013323420679, 0.09365352255089386, 0.06656026005673536, 0.08315889517757478, 0.11225556691036469, 0.13025711264697837, 0.08280237345937455, 0.0942202020201883, 0.14746537339059468, 0.07217656055308852]
+label victim: (688, 'oscilloscope, scope, cathode-ray oscilloscope, CRO')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 32, loss: 2.3019580841064453
+w: [0.11795340357904922, 0.09340166186569654, 0.06551062666800199, 0.08264800346170503, 0.11259855630496285, 0.13106429005710787, 0.08215775284296675, 0.0940151176929285, 0.14926268602849604, 0.0713879014990852]
+label victim: (790, 'shopping basket')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 33, loss: 2.4714536666870117
+w: [0.11850332749164152, 0.09324165238371153, 0.06448256663059149, 0.08213074499652541, 0.11306963087141957, 0.13179530912262055, 0.08150818008034587, 0.0938106178437577, 0.15087108870446847, 0.07058688187491785]
+label victim: (303, 'long-horned beetle, longicorn, longicorn beetle')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 34, loss: 0.1781749725341797
+w: [0.11903369944283024, 0.09300401211432889, 0.06337786084781301, 0.08163289290209017, 0.1134482946038326, 0.13257614167235904, 0.08091817437793958, 0.09360457803177659, 0.15259848695224007, 0.06980585905478985]
+label victim: (526, 'desk')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 35, loss: -0.46520328521728516
+w: [0.1195862127637835, 0.09273390729935511, 0.062281669880383465, 0.08113296128021874, 0.11392745691365291, 0.133393557184808, 0.080341294761692, 0.09339127120444075, 0.15413917034791474, 0.06907249836375068]
+label victim: (550, 'espresso maker')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 36, loss: -0.24169540405273438
+w: [0.12019067432206072, 0.09248706453521265, 0.061166381263410646, 0.08058319763728339, 0.1143193619913394, 0.13411180105460313, 0.07971118968028212, 0.09319376296853783, 0.15596605416515474, 0.06827051238211522]
+label victim: (550, 'espresso maker')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 37, loss: -0.013148307800292969
+w: [0.12074968715694503, 0.09223170693002859, 0.060095236497310627, 0.08008641127340344, 0.11469483216709545, 0.1348696453951125, 0.07916258377072737, 0.09302435561887076, 0.15757780331575114, 0.06750773787475509]
+label victim: (550, 'espresso maker')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 38, loss: 0.952733039855957
+w: [0.12131808670684995, 0.09196142915379983, 0.05904147498412132, 0.07962372696383847, 0.11518042946772797, 0.13548874156263319, 0.07856844856739462, 0.09287061530882947, 0.15919147214576249, 0.0667555751390428]
+label victim: (526, 'desk')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 39, loss: -0.19404029846191406
+w: [0.12187484281475097, 0.09169835492937924, 0.05799128914183631, 0.07909899788343097, 0.11551080694268652, 0.13622917004880902, 0.07801060280730047, 0.09272011935816903, 0.16083719796759588, 0.06602861810604167]
+label victim: (550, 'espresso maker')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 40, loss: 1.2132058143615723
+w: [0.1223806387570224, 0.09139209625470027, 0.05698885482026803, 0.07856379573966803, 0.11599544973557632, 0.13683880185676597, 0.07746751754075887, 0.09251822391048975, 0.16247972299188776, 0.06537489839286267]
+label victim: (526, 'desk')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 41, loss: -0.45453548431396484
+w: [0.12289560363594318, 0.0911221147060792, 0.055996850879474876, 0.07805641374089721, 0.11643646443331261, 0.1374484666843456, 0.0768879363796604, 0.09235468639331225, 0.16411548107026722, 0.0646859820767076]
+label victim: (550, 'espresso maker')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 42, loss: 2.6823854446411133
+w: [0.12339812575324957, 0.09088684910681365, 0.05495671397435102, 0.07757190271507303, 0.1169227158739928, 0.13815910303080878, 0.07633365867812174, 0.09217979191253002, 0.16558379643093935, 0.06400734252411978]
+label victim: (786, 'sewing machine')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 43, loss: -0.4170551300048828
+w: [0.12382921013306618, 0.0906383582791393, 0.053957319281400434, 0.07703650461189548, 0.11732003895171281, 0.13892642486206191, 0.07582801684735402, 0.09200894719218616, 0.16710761799419366, 0.06334756184698992]
+label victim: (550, 'espresso maker')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 44, loss: -1.9029192924499512
+w: [0.12422288759445557, 0.09039770414714951, 0.0529595098103572, 0.0765495275978985, 0.11774568960159647, 0.13965205590354984, 0.07531861668223636, 0.09185299797059181, 0.1686164149686459, 0.06268459572351893]
+label victim: (550, 'espresso maker')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 45, loss: 0.47148609161376953
+w: [0.12461488680276771, 0.09016910025109359, 0.05195475239832494, 0.07610907896308028, 0.11813118540459684, 0.14032734335342834, 0.07476997694243367, 0.09168177776148675, 0.17019806171700178, 0.06204383640578597]
+label victim: (786, 'sewing machine')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 46, loss: 0.17627525329589844
+w: [0.12510740148721913, 0.08994778442135067, 0.05100873550921507, 0.07564223647790759, 0.11856896880595794, 0.14085982771991593, 0.07424620756964333, 0.09150999773521452, 0.17175575568061746, 0.061353084592958344]
+label victim: (526, 'desk')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 47, loss: 1.8129968643188477
+w: [0.1255100839144237, 0.08968962206826461, 0.05006934049093727, 0.07515947254258995, 0.11883891188020464, 0.14145609451914817, 0.07371800065757092, 0.09137765961871741, 0.1734307381338953, 0.06075007617424794]
+label victim: (786, 'sewing machine')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 48, loss: 2.5425209999084473
+w: [0.12588961030965956, 0.08940546313405118, 0.0491157331823125, 0.07473839460973243, 0.11925604820809103, 0.14208491310145321, 0.07315339850495985, 0.09114955663633752, 0.17510002533489866, 0.060106856978504104]
+label victim: (526, 'desk')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 49, loss: -1.6426572799682617
+w: [0.1262430668843508, 0.08912551675074773, 0.048132120251461505, 0.07430757348854623, 0.11961780465738873, 0.14276232432519018, 0.07258725574395439, 0.09097439336716992, 0.17680425568855854, 0.059445688842632]
+label victim: (550, 'espresso maker')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 0, loss: 7.1484832763671875
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+label victim: (302, 'ground beetle, carabid beetle')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 1, loss: 3.512444496154785
+w: [0.09991533005481362, 0.10005290110547362, 0.09961755482426478, 0.10009688752225862, 0.1002900692933556, 0.10029450156399963, 0.09998100531018464, 0.10001893388302356, 0.09999206794306251, 0.09974074849956346]
+label victim: (786, 'sewing machine')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 2, loss: 2.7320876121520996
+w: [0.1002086207065857, 0.10006876388880741, 0.09896707356437058, 0.0996076282298273, 0.10065610242343342, 0.10088656984446874, 0.09984027647809374, 0.10011408879940861, 0.10030408831393024, 0.0993467877510743]
+label victim: (786, 'sewing machine')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 3, loss: 2.6691360473632812
+w: [0.10046643105084331, 0.09994671053893092, 0.09812528269271147, 0.09912267847753749, 0.10105482881057497, 0.10169107422670852, 0.09957131924975046, 0.10006752581260582, 0.10113574557555877, 0.09881840356477832]
+label victim: (786, 'sewing machine')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 4, loss: 1.174260139465332
+w: [0.10085171031578706, 0.09978204591060823, 0.09713705991095115, 0.0984856176972707, 0.10153743086602023, 0.10277414996735726, 0.09912940238967069, 0.09997313840569136, 0.10218764272183854, 0.09814180181480489]
+label victim: (786, 'sewing machine')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 5, loss: 3.045353412628174
+w: [0.10140333456535781, 0.09957178338811364, 0.09607521044931969, 0.09781760777141298, 0.10194506908802838, 0.10399316466918179, 0.0986517249968087, 0.09982703990282098, 0.10342225105101052, 0.09729281411794541]
+label victim: (302, 'ground beetle, carabid beetle')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 6, loss: 2.125030517578125
+w: [0.10196032210150639, 0.09929253051029267, 0.09492996752324893, 0.09716967506204179, 0.10240296828206924, 0.10513745202647648, 0.09817835871908867, 0.09969176452875984, 0.10483555482389491, 0.09640140642262109]
+label victim: (786, 'sewing machine')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 7, loss: 1.154435157775879
+w: [0.10249497634884726, 0.0989625574525181, 0.09382017656824038, 0.09657576552566854, 0.1028540158441329, 0.10619471711511438, 0.0976353501742919, 0.09952996978164776, 0.10643702101694517, 0.09549545017259341]
+label victim: (786, 'sewing machine')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 8, loss: 2.451145648956299
+w: [0.10306088392181155, 0.09867287743506312, 0.09267641342265653, 0.09599703240527897, 0.10326057422846764, 0.10737609109938605, 0.09704061359939538, 0.09938378667197667, 0.10796881965352399, 0.09456290756244021]
+label victim: (320, 'damselfly')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 9, loss: 5.125157833099365
+w: [0.10359283886790478, 0.09836549111642783, 0.09151415802645053, 0.09536162566553219, 0.10371151042641731, 0.10853784316529914, 0.09640529930719655, 0.09927447952220153, 0.10969294844021424, 0.09354380546235594]
+label victim: (319, "dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk")
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 10, loss: 1.41776704788208
+w: [0.10413426430748549, 0.09810113048768057, 0.09036947488275687, 0.09475640660057405, 0.104077103008312, 0.10972851406945547, 0.09581894433600198, 0.09908735168712976, 0.11137857501503641, 0.0925482356055674]
+label victim: (786, 'sewing machine')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 11, loss: 0.6591792106628418
+w: [0.10463171669558247, 0.09787255022981768, 0.08922378641426124, 0.09412926442450358, 0.10450485786293105, 0.11087683434106119, 0.09522943686087132, 0.09895448480639314, 0.11308392884540049, 0.09149313951917797]
+label victim: (471, 'cannon')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 12, loss: -0.1862659454345703
+w: [0.10516194467898335, 0.09762820938456296, 0.08803168720903895, 0.09353439101236213, 0.1049714264052212, 0.11214192050228987, 0.09461186782992671, 0.09864961149779534, 0.11484713142753743, 0.09042181005228202]
+label victim: (550, 'espresso maker')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 13, loss: 0.8521442413330078
+w: [0.1056087021181966, 0.09740549653751307, 0.08689574201732855, 0.0928957062442523, 0.10543041602580416, 0.11325347521052465, 0.09403266557195801, 0.09852067833884406, 0.11660646199118438, 0.0893506559443943]
+label victim: (786, 'sewing machine')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 14, loss: 0.7207231521606445
+w: [0.10621251000430859, 0.09717166580352878, 0.08569092763105099, 0.09229139134684476, 0.10593343649659372, 0.11450721101158556, 0.09339110848544419, 0.0981577761120096, 0.11830179539316886, 0.08834217771546506]
+label victim: (786, 'sewing machine')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 15, loss: 1.2514619827270508
+w: [0.10670156168511251, 0.09696324356536722, 0.08456144028195964, 0.09170429405119024, 0.10642172843842053, 0.11556103512860721, 0.09277806864360495, 0.09790374520594598, 0.12016497501451576, 0.08723990798527596]
+label victim: (302, 'ground beetle, carabid beetle')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 16, loss: -0.6909065246582031
+w: [0.10729964138361875, 0.09680702272649747, 0.0833537934400418, 0.09112962788567841, 0.10681179638090461, 0.11660989611037618, 0.09209218777470425, 0.09768118181825758, 0.1220353666758435, 0.08617948580407746]
+label victim: (550, 'espresso maker')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 17, loss: 0.9821929931640625
+w: [0.10789858126019593, 0.096615305061732, 0.08224186219048553, 0.09049193631414341, 0.10731967850280773, 0.11761144106294515, 0.09141958985632423, 0.09737355547251246, 0.12388178412197941, 0.08514626615687415]
+label victim: (786, 'sewing machine')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 18, loss: 1.0203924179077148
+w: [0.10837449435564027, 0.09643555903093438, 0.08107373748008075, 0.08989362149287022, 0.10775244389397175, 0.11862719318621026, 0.0909041650925539, 0.09713662178961582, 0.12560708887637845, 0.08419507480174426]
+label victim: (786, 'sewing machine')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 19, loss: 1.3859286308288574
+w: [0.1088195525929028, 0.09617202669099176, 0.07990603745546443, 0.08930946989129296, 0.1081607839372138, 0.11964246575954636, 0.09022571345158982, 0.0968878414262828, 0.12763233710818095, 0.08324377168653417]
+label victim: (319, "dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk")
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 20, loss: 5.8900957107543945
+w: [0.10927696562613073, 0.09594795581458192, 0.07874496443829254, 0.08871804477210932, 0.10861563210025837, 0.12064145044875768, 0.08954185917020308, 0.0967560758921328, 0.1295536235998945, 0.08220342813763917]
+label victim: (302, 'ground beetle, carabid beetle')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 21, loss: 0.7018842697143555
+w: [0.1098286763626363, 0.09570376178300909, 0.07763603363748302, 0.08814525793216937, 0.10910356146415263, 0.12151993759823798, 0.08889208278982817, 0.09649767366663148, 0.13140228363164028, 0.08127073113421152]
+label victim: (778, 'scale, weighing machine')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 22, loss: 0.18300342559814453
+w: [0.11036908301192007, 0.09551062273725774, 0.07655419673057857, 0.08750377276249464, 0.10951252622581963, 0.12249847327274085, 0.08824226722073723, 0.09617281504506763, 0.1332470079194448, 0.08038923507393875]
+label victim: (688, 'oscilloscope, scope, cathode-ray oscilloscope, CRO')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 23, loss: -0.2926597595214844
+w: [0.11082192616536903, 0.09519952483089611, 0.07550518620728937, 0.08689839765402495, 0.1099321592306773, 0.12337693293650814, 0.08765464878309091, 0.09598923577823733, 0.13510981878489264, 0.07951216962901415]
+label victim: (550, 'espresso maker')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 24, loss: 0.6658201217651367
+w: [0.11131107074579481, 0.0949662795818981, 0.07439190792791632, 0.08630696488044962, 0.11039105580999418, 0.12441655384828836, 0.08695769866205036, 0.09570304282683594, 0.1369739038516181, 0.07858152186515424]
+label victim: (526, 'desk')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 25, loss: 4.32260274887085
+w: [0.11174384064261177, 0.09471833045578393, 0.073337687149019, 0.08581060832935794, 0.11082384947405749, 0.1253401748079298, 0.08637489465106633, 0.09542542782626, 0.13875972464539266, 0.07766546201852112]
+label victim: (319, "dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk")
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 26, loss: 1.970628261566162
+w: [0.1122242465669824, 0.094455659167568, 0.07229684092649148, 0.08525414813493061, 0.11121924266228976, 0.1262545908075275, 0.08578255621968223, 0.0952080760656201, 0.14047203409855707, 0.07683260535035082]
+label victim: (688, 'oscilloscope, scope, cathode-ray oscilloscope, CRO')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 27, loss: -0.47402095794677734
+w: [0.1125304637321817, 0.09424724514102988, 0.071243675776918, 0.0846651606596245, 0.11164294354147729, 0.12723335675138225, 0.0851812347809154, 0.09495233985217567, 0.14231356034015044, 0.07599001942414495]
+label victim: (550, 'espresso maker')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 28, loss: 0.707545280456543
+w: [0.11285238953953289, 0.09403303920359173, 0.07020437022865177, 0.08410357682092356, 0.11215239808500906, 0.1280686247050719, 0.08453608937815184, 0.0947431302854154, 0.14416099002007537, 0.07514539173357637]
+label victim: (786, 'sewing machine')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 29, loss: 0.8080058097839355
+w: [0.11331352054335053, 0.0938587521928741, 0.06916393996826459, 0.08355849356511977, 0.11259019865147138, 0.12886497516732073, 0.0839029103050969, 0.09452006851285756, 0.14589258344974926, 0.07433455764389514]
+label victim: (606, 'iron, smoothing iron')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 30, loss: 3.9406776428222656
+w: [0.11367043442943736, 0.09366426740990147, 0.06809723314760778, 0.08306803293285721, 0.11298013427384691, 0.1297182626372732, 0.0833009516961022, 0.09436066815704734, 0.14758785297436278, 0.07355216234156375]
+label victim: (319, "dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk")
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 31, loss: 1.557713508605957
+w: [0.11400452792862825, 0.09338783770141743, 0.06706463475403764, 0.08254377301065388, 0.11343990318367687, 0.13060528288066942, 0.08270521085714434, 0.09419660236163013, 0.14928654855012197, 0.07276567877202009]
+label victim: (786, 'sewing machine')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 32, loss: -0.4766530990600586
+w: [0.1143092811627288, 0.09314804770788543, 0.06602818362846592, 0.08204174334490118, 0.11394299423136776, 0.1314237353180697, 0.0820821004183474, 0.09395219905679206, 0.1510997926225941, 0.07197192250884771]
+label victim: (550, 'espresso maker')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 33, loss: 4.921133518218994
+w: [0.11471532116243155, 0.09292646215944554, 0.06503485950814758, 0.08152164280980868, 0.11447444659015314, 0.13229986953310974, 0.08148404151375427, 0.09368887702807359, 0.15260178436179977, 0.0712526953332761]
+label victim: (319, "dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk")
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 34, loss: -0.6123600006103516
+w: [0.11510378621585096, 0.09263421587706741, 0.06406023584315881, 0.08101202922647723, 0.11490114965743593, 0.13305478179511004, 0.08090109542391971, 0.09345094803493864, 0.15438079320539574, 0.07050096472064564]
+label victim: (550, 'espresso maker')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 35, loss: -0.44769954681396484
+w: [0.11547219152104887, 0.09237663852865093, 0.06306358800363787, 0.08049173047679228, 0.11535072000894886, 0.13380971071429898, 0.08026882105245549, 0.09334899681890119, 0.15607981168880827, 0.06973779118645732]
+label victim: (550, 'espresso maker')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 36, loss: 2.234938621520996
+w: [0.11581718983599688, 0.09216298855927205, 0.062053871571851354, 0.07997315496397073, 0.11575195132493002, 0.13471197974458127, 0.07973196934428746, 0.09302419975281202, 0.15771991310189828, 0.06905278180039989]
+label victim: (320, 'damselfly')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 37, loss: -0.4558115005493164
+w: [0.11626904578200395, 0.09191125439688604, 0.06106781762185992, 0.07945076711328579, 0.11612514407725094, 0.13560136688719213, 0.07915824792099009, 0.0928262568048774, 0.15925670832933053, 0.0683333910663232]
+label victim: (550, 'espresso maker')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 38, loss: 2.1300039291381836
+w: [0.11658429842220396, 0.09165471867004635, 0.06014254536790122, 0.07899300377086173, 0.11652682710422539, 0.13635255247921668, 0.07866045386800469, 0.09266721843705664, 0.16075784736834137, 0.0676605345121421]
+label victim: (786, 'sewing machine')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 39, loss: 1.773406982421875
+w: [0.1170036623325702, 0.09144306857903849, 0.059129521614565486, 0.07844562067465959, 0.11697801144318047, 0.1371274037001686, 0.07807460272030327, 0.09248732076425852, 0.16239666056859886, 0.06691412760265654]
+label victim: (526, 'desk')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 40, loss: 0.0958099365234375
+w: [0.1173827365557616, 0.09125316705993354, 0.05807790709626429, 0.07796618096332414, 0.11734627833370191, 0.13784912702361815, 0.0775975217128555, 0.09218391946100743, 0.1640785389891239, 0.06626462280440966]
+label victim: (786, 'sewing machine')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 41, loss: -0.027466773986816406
+w: [0.11774503064160093, 0.0910338434429438, 0.05704416292929901, 0.07750960168894593, 0.11780447962312604, 0.13854644058141766, 0.07701874862238534, 0.0920530207830789, 0.1656680640016723, 0.06557660768553009]
+label victim: (550, 'espresso maker')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 42, loss: 1.5147924423217773
+w: [0.11811028232903906, 0.09075403848774867, 0.056060337206782794, 0.07710495196748254, 0.11820308713761085, 0.13917411998649448, 0.07643568419904803, 0.09190319136777834, 0.1673707870652638, 0.06488352025275142]
+label victim: (688, 'oscilloscope, scope, cathode-ray oscilloscope, CRO')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 43, loss: 2.094357490539551
+w: [0.1186060360400063, 0.09051515835018657, 0.05506185526060796, 0.07667668360609572, 0.11857257142516704, 0.1397848193298984, 0.07592500892994494, 0.09174862658924073, 0.16891586303464273, 0.06419337743420958]
+label victim: (688, 'oscilloscope, scope, cathode-ray oscilloscope, CRO')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 44, loss: -0.028076171875
+w: [0.11902968467470311, 0.09030576385740223, 0.054009537528591334, 0.07620524212596197, 0.1189705894443733, 0.14053961946610985, 0.07540496807345584, 0.09160096675924087, 0.17037892595805948, 0.06355470211210214]
+label victim: (550, 'espresso maker')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 45, loss: 1.0169363021850586
+w: [0.11938541289169273, 0.09005158886807475, 0.05304669329427768, 0.07579510815508948, 0.11937199170605063, 0.14119554194685738, 0.07487398155940025, 0.09150109600813834, 0.1719134672830503, 0.0628651182873686]
+label victim: (423, 'barber chair')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 46, loss: 2.036590576171875
+w: [0.1198334164305976, 0.08986664390869926, 0.05204057204029462, 0.07536104430924392, 0.11975741232069435, 0.14198238979034417, 0.07434478817307816, 0.091222990034328, 0.17339274045910322, 0.062198002533616736]
+label victim: (319, "dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk")
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 47, loss: -0.41738319396972656
+w: [0.12017331486160657, 0.08972023409819956, 0.05105246646897576, 0.07493890127919627, 0.12007927763402099, 0.14272041088525106, 0.07377252415810605, 0.09104095318086833, 0.1749253414989292, 0.06157657593484626]
+label victim: (550, 'espresso maker')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 48, loss: 1.5607638359069824
+w: [0.12058702268132018, 0.08950722669761123, 0.05012287145429177, 0.07454163792681315, 0.12043248469486519, 0.1432464069659801, 0.07325966232560979, 0.09096181456672615, 0.17642669262000024, 0.06091418006678221]
+label victim: (774, 'sandal')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (76, 'tarantula')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+
+n_iters: 10, iter_w: 49, loss: -0.4535074234008789
+w: [0.12092540064186622, 0.089232808923315, 0.04914278069544779, 0.07418283724698634, 0.12086650233700644, 0.14387224684096028, 0.07278305649954074, 0.09084169997623262, 0.17781763039474613, 0.06033503644389847]
+label victim: (550, 'espresso maker')
+label wb 0: (550, 'espresso maker')
+label wb 1: (550, 'espresso maker')
+label wb 2: (550, 'espresso maker')
+label wb 3: (550, 'espresso maker')
+label wb 4: (550, 'espresso maker')
+label wb 5: (550, 'espresso maker')
+label wb 6: (550, 'espresso maker')
+label wb 7: (550, 'espresso maker')
+label wb 8: (550, 'espresso maker')
+label wb 9: (550, 'espresso maker')
+
+

@@ -1,0 +1,1500 @@
+n_iters: 10, iter_w: 0, loss: 0.3119659423828125
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+label victim: (791, 'shopping cart')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 1, loss: 0.5100383758544922
+w: [0.09998723218615099, 0.09990464972757694, 0.09952883449345318, 0.09973871429055184, 0.10006550786726771, 0.1001827621400656, 0.09954484016294962, 0.10023805811604779, 0.10150272954035568, 0.09930667147558066]
+label victim: (791, 'shopping cart')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 2, loss: -0.12577533721923828
+w: [0.0995907820065554, 0.09914359548813612, 0.09790465443682103, 0.09898060987829374, 0.09983995645816776, 0.1010537545687504, 0.09842239118127705, 0.1002332032597279, 0.10711233145262869, 0.09771872126964204]
+label victim: (772, 'safety pin')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 3, loss: -2.1557493209838867
+w: [0.09896927797916252, 0.09810254746641553, 0.09598735493540926, 0.09801926330123699, 0.09961209830357605, 0.10212745312952816, 0.09710274408262404, 0.10001402810812453, 0.11430803512192182, 0.09575719757200113]
+label victim: (772, 'safety pin')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 4, loss: 0.3926982879638672
+w: [0.09831180475437953, 0.09692457489211764, 0.09389477301535783, 0.09697139240044626, 0.09940157273695802, 0.10312719679392836, 0.09573737045338314, 0.09964066035678008, 0.12248648456487336, 0.09350417003177557]
+label victim: (791, 'shopping cart')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 5, loss: -0.07859420776367188
+w: [0.09759930010212706, 0.0957463412961832, 0.0917319997633618, 0.09594150662252904, 0.09908411030201034, 0.10427890340103597, 0.09440298294513687, 0.09910310099292922, 0.1309129136740522, 0.09119884090063429]
+label victim: (772, 'safety pin')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 6, loss: -0.34100341796875
+w: [0.09679898271014271, 0.0945008305612893, 0.08955651323501661, 0.09484841402051294, 0.09877368263461987, 0.1052384608736218, 0.09311386457773738, 0.09853534667946055, 0.13971883665968518, 0.08891506804791359]
+label victim: (772, 'safety pin')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 7, loss: 0.2580709457397461
+w: [0.09590596384149029, 0.09329165464057862, 0.08730773061354792, 0.0937102821517289, 0.0983095780865884, 0.10618504138831922, 0.09176874620466415, 0.09793474735531747, 0.14901823165139047, 0.08656802406637447]
+label victim: (791, 'shopping cart')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 8, loss: -0.2670774459838867
+w: [0.09498665358498948, 0.09213511954101826, 0.08509970407843145, 0.09256998916802762, 0.09782458679802554, 0.1069016131637526, 0.09049697976528794, 0.09748213889060188, 0.15822134015066255, 0.08428187485920265]
+label victim: (772, 'safety pin')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 9, loss: -1.362259864807129
+w: [0.09399003506982939, 0.09092320645390088, 0.08284442196929499, 0.0914009757482708, 0.09743114281219019, 0.10775692098742119, 0.08924193352874236, 0.09707365133550597, 0.1673708688127205, 0.0819668432821238]
+label victim: (772, 'safety pin')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 10, loss: 1.520956039428711
+w: [0.09293727408580423, 0.08975584205687401, 0.08069763034404, 0.09019935112600776, 0.09714149173000508, 0.10851889032388877, 0.08800406465321214, 0.09648411204163851, 0.1764611124269264, 0.07980023121160323]
+label victim: (791, 'shopping cart')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 11, loss: 0.5975170135498047
+w: [0.09198432181433742, 0.08855840625937356, 0.07857440069709595, 0.0890621235701288, 0.09679766049894938, 0.10915002158759315, 0.086751437486149, 0.09597204303022909, 0.18546685379673147, 0.07768273125941222]
+label victim: (791, 'shopping cart')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 12, loss: 1.885666847229004
+w: [0.09091600118971169, 0.08732586369093809, 0.07650708900966692, 0.08788072974074414, 0.0962212900506023, 0.11003252014891014, 0.08554341236643698, 0.09542555949021676, 0.19448772023697314, 0.07565981407579997]
+label victim: (791, 'shopping cart')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 13, loss: 1.1058578491210938
+w: [0.08978746541912229, 0.08601281884776407, 0.07442492716234686, 0.0867166988466479, 0.09569483252362092, 0.11051902395815509, 0.08430134314923807, 0.09488104403141674, 0.20405124904761188, 0.07361059701407616]
+label victim: (791, 'shopping cart')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 14, loss: 1.5334138870239258
+w: [0.08871144158915396, 0.08477004249890607, 0.07237049920764811, 0.08552058976508943, 0.09506124768017092, 0.11124421979940553, 0.08313188720632281, 0.09428778319619513, 0.21322335511139337, 0.07167893394571467]
+label victim: (406, 'altar')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 15, loss: 1.8855013847351074
+w: [0.08759357468976818, 0.08346632025272682, 0.07037679050711072, 0.08436331104927201, 0.09450831220233596, 0.11192090667188215, 0.0819308019998735, 0.09379818347269199, 0.22220536137656247, 0.06983643777777626]
+label victim: (791, 'shopping cart')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 16, loss: 2.5577688217163086
+w: [0.08651517129928062, 0.08217206474674017, 0.06837894446047146, 0.08319803632348764, 0.09394244067702155, 0.11250599326533527, 0.08070738556046898, 0.09321796498102873, 0.2313004796102612, 0.0680615190759042]
+label victim: (791, 'shopping cart')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 17, loss: -0.9135904312133789
+w: [0.08547975644305622, 0.08095961727088694, 0.06648499875524043, 0.0821035418389997, 0.09332326851811379, 0.11307296083554488, 0.07958055395453034, 0.09269109064986791, 0.23988763827476797, 0.06641657345899186]
+label victim: (772, 'safety pin')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 18, loss: -0.3509521484375
+w: [0.08437641676160526, 0.0797261466486417, 0.06456635498748674, 0.08091585037868079, 0.0925483526460227, 0.11364402870811191, 0.07842888933173671, 0.09221320873195876, 0.24881738173897833, 0.06476337006677711]
+label victim: (772, 'safety pin')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 19, loss: 0.4425039291381836
+w: [0.08331325754069328, 0.07863790310222789, 0.06273901326096938, 0.07985795647801326, 0.09202757892841058, 0.1143634852716652, 0.07730651175082107, 0.0915741353668737, 0.2570450123574255, 0.06313514594290022]
+label victim: (791, 'shopping cart')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 20, loss: 1.0890769958496094
+w: [0.08231755815604874, 0.07750263376564401, 0.06101752847631377, 0.07882754918559587, 0.09160896258372467, 0.11506308752532596, 0.07626614024757197, 0.0912508266812967, 0.26452588695340074, 0.061619826425077524]
+label victim: (791, 'shopping cart')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 21, loss: 1.3744115829467773
+w: [0.08120350955652797, 0.07640308576031857, 0.05935599836145404, 0.0777625768858878, 0.09087195230645452, 0.11561609542207622, 0.07515798385134538, 0.09058523950270193, 0.2729008151141185, 0.06014274323911514]
+label victim: (406, 'altar')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 22, loss: 0.007250785827636719
+w: [0.08016778279863795, 0.07535402084878035, 0.05769696688743349, 0.0767693620938431, 0.09030953969408131, 0.11646472251433056, 0.0741501095151967, 0.09024955423960403, 0.2800694596073105, 0.05876848180078214]
+label victim: (791, 'shopping cart')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 23, loss: -1.6333589553833008
+w: [0.07910654266548357, 0.07428302055859809, 0.05611645904064765, 0.07571949523121269, 0.08959967076018709, 0.1170106706327631, 0.07309452197722606, 0.08976256819299828, 0.2878643814586666, 0.057442669482216706]
+label victim: (772, 'safety pin')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 24, loss: 2.4280900955200195
+w: [0.07814546318490409, 0.07329284602368982, 0.05457131876415066, 0.07484218312805126, 0.08911046080066606, 0.11771978457820659, 0.0721188068198646, 0.08944415191219943, 0.29463212000660544, 0.05612286478166205]
+label victim: (791, 'shopping cart')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 25, loss: 2.2964401245117188
+w: [0.07723750017310428, 0.0723261735408637, 0.05308385187709324, 0.0738693025703234, 0.08855741435994474, 0.11851066493063354, 0.07130015771053094, 0.08892862281078101, 0.30124004961961837, 0.05494626240710675]
+label victim: (406, 'altar')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 26, loss: 1.4587926864624023
+w: [0.07620130299517888, 0.07118567123542062, 0.05157556148080097, 0.0728975915070941, 0.08793488130061942, 0.11925219185973888, 0.07037186444081164, 0.08858908891057274, 0.30823487803125593, 0.05375696823850685]
+label victim: (791, 'shopping cart')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 27, loss: 1.0799813270568848
+w: [0.07534754611902451, 0.07023706460050352, 0.05016213485751277, 0.07203717762260901, 0.0873811879912772, 0.119787712346718, 0.06954622019667857, 0.08803439055109023, 0.31486400620293453, 0.052602559511651624]
+label victim: (406, 'altar')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 28, loss: 2.2133994102478027
+w: [0.07442920800905954, 0.06925063376975753, 0.048762542546113195, 0.07129838106360542, 0.0867264011485196, 0.12052278271861189, 0.06867423969232106, 0.08768889218003531, 0.3211502246770246, 0.05149669419495189]
+label victim: (791, 'shopping cart')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 29, loss: 0.24454498291015625
+w: [0.07361842469020688, 0.06830067212499637, 0.047430946247389645, 0.0705725449454601, 0.08603090621914529, 0.12120655667714138, 0.06777056507975594, 0.0872778135106492, 0.3273459251219992, 0.050445645383256035]
+label victim: (791, 'shopping cart')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 30, loss: 2.1030139923095703
+w: [0.07279067357085801, 0.06732188803621295, 0.04610544801548744, 0.06983287805139646, 0.08552295805896057, 0.12208572795586704, 0.06689123423854251, 0.08689710647195384, 0.33313498659918533, 0.04941709900153578]
+label victim: (791, 'shopping cart')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 31, loss: 0.42937278747558594
+w: [0.0720019292320435, 0.06640255790271177, 0.04476362258431364, 0.06903550763814914, 0.08503020647414866, 0.12281359270595428, 0.06604468867453979, 0.08657855838167254, 0.33882804921919, 0.04850128718727652]
+label victim: (791, 'shopping cart')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 32, loss: 1.490316390991211
+w: [0.07116466372393088, 0.06557173333903157, 0.043491378219366106, 0.0681830855672418, 0.08439764668729095, 0.12336889963778779, 0.06519291999012299, 0.08606760932734815, 0.34495946720718607, 0.04760259630069354]
+label victim: (791, 'shopping cart')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 33, loss: 0.7783379554748535
+w: [0.07033709063772729, 0.06474623429731462, 0.042240045025274564, 0.06748164899733941, 0.08393596926646908, 0.12429590461748218, 0.06439911443262347, 0.0858426742236952, 0.35004175667820975, 0.04667956182386457]
+label victim: (406, 'altar')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 34, loss: -1.032583236694336
+w: [0.06949105571010045, 0.06389844082356755, 0.04105455141320144, 0.06681798462214514, 0.08357698944998174, 0.12518725405011039, 0.06372983531197533, 0.08551671757013783, 0.35488529838282, 0.045841872665960195]
+label victim: (772, 'safety pin')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 35, loss: 2.233541965484619
+w: [0.06857569556560633, 0.06304100419539953, 0.03983156044722432, 0.06606111198638802, 0.082929509651437, 0.12591476805310303, 0.06290551521342674, 0.08493266123082095, 0.3607162525737605, 0.04509192108283363]
+label victim: (791, 'shopping cart')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 36, loss: 0.13978004455566406
+w: [0.06785248526132596, 0.06229447742172128, 0.038727935779228805, 0.06549195855803737, 0.08248779410785244, 0.12680159497757218, 0.0622512368048096, 0.08458892092407996, 0.365170066458003, 0.044333529707369465]
+label victim: (791, 'shopping cart')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 37, loss: 1.9781179428100586
+w: [0.06700911033967422, 0.061496571770367124, 0.037593747825914466, 0.06468559736350386, 0.08181680576671801, 0.12749056636205558, 0.06144474274391682, 0.08417759553409662, 0.3707024307787102, 0.043582831515043136]
+label victim: (791, 'shopping cart')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 38, loss: 2.0115151405334473
+w: [0.06620389150484704, 0.06072732132727272, 0.036532373209343244, 0.06393373040035301, 0.08129778365079952, 0.12827056732084924, 0.06063864186727635, 0.08384274107243574, 0.37572187374386645, 0.04283107590295672]
+label victim: (406, 'altar')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 39, loss: 0.6128182411193848
+w: [0.0655239009926946, 0.060079408608981005, 0.03555468886890969, 0.06333824157723791, 0.08094136797256264, 0.12898277282675802, 0.0599645297308907, 0.08373434026420987, 0.3797807082178851, 0.04210004093987048]
+label victim: (406, 'altar')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 40, loss: 3.3229050636291504
+w: [0.06480062065701518, 0.05929393572398204, 0.03452196036240223, 0.06261338604580605, 0.08040885544372156, 0.12945374843697596, 0.059161650341672915, 0.08347632148416434, 0.3848705343201132, 0.041398987184146474]
+label victim: (406, 'altar')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 41, loss: 2.1749215126037598
+w: [0.06408203065898764, 0.05860473625378397, 0.03356056596923455, 0.06205999489357764, 0.07995841859269999, 0.13020178450568654, 0.058397027272318026, 0.0831505330009327, 0.3892302531311208, 0.04075465572165802]
+label victim: (406, 'altar')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 42, loss: 2.3543567657470703
+w: [0.0634949283618172, 0.05797161868983364, 0.03261068599582678, 0.06148532469554075, 0.07951511724531438, 0.13078471379014564, 0.05774200799204846, 0.08286081757390736, 0.3933963711337868, 0.04013841452177889]
+label victim: (791, 'shopping cart')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 43, loss: 2.9887471199035645
+w: [0.06277905330199705, 0.05729083128501871, 0.03165774476269432, 0.06073268320289846, 0.07909210067023532, 0.13142573885489056, 0.05705618465529124, 0.08266443357479854, 0.39777130757988904, 0.039529922112286765]
+label victim: (743, 'prison, prison house')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 44, loss: 0.009462356567382812
+w: [0.062145365176084384, 0.056772042777756763, 0.03078789695935042, 0.060269408686051365, 0.07867907565341643, 0.13218641086923918, 0.056497542851516924, 0.08225334688708666, 0.40145362489151726, 0.03895528524798054]
+label victim: (791, 'shopping cart')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 45, loss: 2.3098502159118652
+w: [0.06147817567390044, 0.05620915346570822, 0.02990048170180313, 0.05970307660211778, 0.07822977808361692, 0.13290026026654858, 0.05596653896202141, 0.08191487880317538, 0.40532942043824227, 0.038368236002866]
+label victim: (791, 'shopping cart')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 46, loss: 0.7500200271606445
+w: [0.060849590315194865, 0.05570465915386757, 0.029005669056633317, 0.05911887893807154, 0.07788530999640907, 0.13352297779182706, 0.055384938936633855, 0.08173914314492181, 0.4090007507559244, 0.03778808191051644]
+label victim: (791, 'shopping cart')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 47, loss: 2.8277459144592285
+w: [0.060070707697428005, 0.05505800627038801, 0.02810024384305866, 0.05838197895998081, 0.07729545801564013, 0.13415833718429881, 0.0547100487055216, 0.08144254469071706, 0.4135280325552168, 0.03725464207774996]
+label victim: (791, 'shopping cart')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 48, loss: 1.720688819885254
+w: [0.05950999802024875, 0.05460824233604674, 0.02726115637514429, 0.05770134513394951, 0.07696568154598643, 0.1350671877892245, 0.054143580239670024, 0.08127899196468193, 0.4167053922396126, 0.03675842435543512]
+label victim: (406, 'altar')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 49, loss: -0.5783748626708984
+w: [0.05884051818076643, 0.05408263133341193, 0.02637938365548806, 0.057032950486882214, 0.07656553255965, 0.13579547708658388, 0.05355354761439943, 0.08111221333170301, 0.42035805360987993, 0.03627969214123515]
+label victim: (772, 'safety pin')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 0, loss: -1.6172122955322266
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+label victim: (772, 'safety pin')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 1, loss: 0.2249460220336914
+w: [0.09990695859617611, 0.09995334936783504, 0.09952378516748328, 0.09973397130649055, 0.10014280557958236, 0.10020531736898092, 0.09952981247001438, 0.10019341140104521, 0.1015311318400446, 0.09927945690234774]
+label victim: (791, 'shopping cart')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 2, loss: -1.8726134300231934
+w: [0.09942736185319863, 0.09916147516658501, 0.09797031645189777, 0.09916298073100456, 0.10009995895529639, 0.10109354144879408, 0.09835680455621224, 0.1000740473433992, 0.10698754054101955, 0.09766597295259273]
+label victim: (772, 'safety pin')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 3, loss: 0.9538030624389648
+w: [0.09879832097105222, 0.0981010704885644, 0.09608545160387573, 0.09833818786833051, 0.09994686825756906, 0.10201591112578438, 0.09706441536255721, 0.09978443330326288, 0.1141768860555694, 0.0956884549634343]
+label victim: (791, 'shopping cart')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 4, loss: -0.6320505142211914
+w: [0.09809980898252833, 0.0970557641903469, 0.0940177055843484, 0.09735183119874613, 0.09972579138942285, 0.10300775244226917, 0.09575029280701555, 0.09937266014361279, 0.12212008589035873, 0.09349830737135137]
+label victim: (772, 'safety pin')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 5, loss: -0.3423805236816406
+w: [0.09734041891591977, 0.09581197292739899, 0.09185964731987478, 0.0962458775924268, 0.09948508999083017, 0.10396599716751646, 0.09442331858835125, 0.09884159498380785, 0.13086523942792488, 0.09116084308594903]
+label victim: (772, 'safety pin')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 6, loss: 0.6105279922485352
+w: [0.0965700728974881, 0.09454276049444196, 0.08968127321551041, 0.09508350530376151, 0.09918506987317782, 0.10486698459267133, 0.09311371991816292, 0.09830292174756147, 0.1398368947472643, 0.08881679720996008]
+label victim: (791, 'shopping cart')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 7, loss: 0.7430086135864258
+w: [0.09573221904799187, 0.09323580125864257, 0.08750657821785394, 0.09383735112055389, 0.09887811143464874, 0.1056819327588801, 0.09182589000343122, 0.09775098964772767, 0.14906322436168046, 0.08648790214858958]
+label victim: (406, 'altar')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 8, loss: -0.2850370407104492
+w: [0.0948303485712083, 0.09191064619345515, 0.08529410562309467, 0.09249484410715005, 0.09859867679633892, 0.106456488383106, 0.09057294178786118, 0.09717391072842115, 0.15846090489612444, 0.08420713291324007]
+label victim: (772, 'safety pin')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 9, loss: -0.5583887100219727
+w: [0.09390719723767572, 0.09061244299912631, 0.08306141703884079, 0.09121213740127415, 0.09814524966849425, 0.10726965324362754, 0.08933303991363344, 0.0964939928370696, 0.1679648469043507, 0.08200002275590754]
+label victim: (772, 'safety pin')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 10, loss: 1.520674228668213
+w: [0.09292602246359774, 0.08929462119250024, 0.0808582274711621, 0.08994237054588795, 0.09783327820369873, 0.10803339796694568, 0.08815929586579409, 0.09583443751234345, 0.17728274426241938, 0.07983560451565073]
+label victim: (791, 'shopping cart')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 11, loss: 0.923954963684082
+w: [0.09200856733897136, 0.08793141491825028, 0.07869867764809167, 0.0886663063345051, 0.09741097034835786, 0.10888928077967744, 0.08685766448638922, 0.0950899900628666, 0.18668235183625023, 0.0777647762466402]
+label victim: (406, 'altar')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 12, loss: -0.5604877471923828
+w: [0.0909456554954802, 0.08650164863187285, 0.0765289072971713, 0.08730124754546321, 0.09704140267806628, 0.10960771960295, 0.0856246584329548, 0.09445983584042233, 0.19634263232637017, 0.07564629214924885]
+label victim: (772, 'safety pin')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 13, loss: -0.6635637283325195
+w: [0.0899078393355526, 0.08505986312611334, 0.07446843825617884, 0.08598696487979446, 0.09651178101460245, 0.11033114037578667, 0.08442228170339516, 0.09381647354442221, 0.20578855061902288, 0.07370666714513137]
+label victim: (772, 'safety pin')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 14, loss: 0.7407541275024414
+w: [0.08877435719666334, 0.08363059230439492, 0.07240487035439681, 0.08465491996232738, 0.09591593321378965, 0.11102640394755256, 0.08325369884119631, 0.09309264182013403, 0.21542898454505505, 0.07181759781449003]
+label victim: (791, 'shopping cart')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 15, loss: 0.2768526077270508
+w: [0.08773905973713582, 0.08228464994541823, 0.0704208289065799, 0.08338702231090867, 0.09534097257784993, 0.11157574722557323, 0.08211007441905675, 0.09243174697231407, 0.2246886531953826, 0.07002124470978069]
+label victim: (791, 'shopping cart')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 16, loss: -0.4096641540527344
+w: [0.08667150385837495, 0.08092554691715471, 0.06843363785290725, 0.08212831050872736, 0.09476492669254286, 0.11249659711923665, 0.08099734045115893, 0.09180107782273847, 0.2334800775589821, 0.06830098121817675]
+label victim: (772, 'safety pin')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 17, loss: 0.20701217651367188
+w: [0.08560304465096721, 0.07958607149634575, 0.06643633699011797, 0.08069163866194796, 0.09411095574835686, 0.11312076882203086, 0.0798062133140702, 0.09121263152931469, 0.24278389794205685, 0.06664844084479173]
+label victim: (791, 'shopping cart')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 18, loss: 2.434758186340332
+w: [0.08456227789272847, 0.07838301612056436, 0.06459728792540638, 0.07941282089399583, 0.09337888909938774, 0.11366767270146118, 0.0787444409849629, 0.09068931038795378, 0.2514380641276492, 0.06512621986589014]
+label victim: (791, 'shopping cart')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 19, loss: 1.399332046508789
+w: [0.08364599702845839, 0.0772470968170507, 0.0628617657661646, 0.07830162994578461, 0.09269304014893165, 0.11448828338107458, 0.07776880564001731, 0.09011751144135209, 0.2592624939628295, 0.06361337586833658]
+label victim: (791, 'shopping cart')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 20, loss: 0.904423713684082
+w: [0.08265313650748629, 0.07607089566602113, 0.061130508313390786, 0.07712864247307195, 0.09217286259678022, 0.11511018412737399, 0.07676017491051164, 0.08955494043869196, 0.2673439030311399, 0.06207475193553201]
+label victim: (791, 'shopping cart')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 21, loss: 1.8962492942810059
+w: [0.0817417877780694, 0.07490488148049873, 0.059441460988782314, 0.07587083325642313, 0.09170465515313786, 0.11582357711850251, 0.07584349466857651, 0.08918575046423968, 0.27481398199705, 0.06066957709471984]
+label victim: (791, 'shopping cart')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 22, loss: 1.1557884216308594
+w: [0.08075602245593445, 0.07378068718765686, 0.057822848044851195, 0.07463915718010566, 0.09103644421518385, 0.11641888772964026, 0.07485339376341958, 0.08869917112329348, 0.28260447993991106, 0.05938890836000366]
+label victim: (406, 'altar')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 23, loss: 1.8135533332824707
+w: [0.07972555368288121, 0.07260862174851387, 0.05616281125148782, 0.0733686516183193, 0.09043573521023238, 0.11684676828568731, 0.07391045615930719, 0.0882063026907364, 0.29064294564700793, 0.05809215370582656]
+label victim: (406, 'altar')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 24, loss: 3.433688163757324
+w: [0.07886966839955836, 0.07152588266591238, 0.054605837848126074, 0.07234507609736388, 0.08975476476143128, 0.1173378455849191, 0.07302029822514827, 0.08769813106594049, 0.29792269251357273, 0.0569198028380273]
+label victim: (406, 'altar')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 25, loss: 1.6662626266479492
+w: [0.07793587511611198, 0.07038926382674361, 0.05298898626894669, 0.07130366392611398, 0.08926115405791826, 0.11790771883954389, 0.07208514737627236, 0.08729942235358082, 0.3051470036606397, 0.05568176457412886]
+label victim: (791, 'shopping cart')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 26, loss: 1.9499702453613281
+w: [0.07723254349667334, 0.06948518741950785, 0.05152145271587504, 0.0704239797058562, 0.08868898762174525, 0.11855882027884232, 0.07130020559769046, 0.086787866456773, 0.3114580111600659, 0.05454294554697063]
+label victim: (791, 'shopping cart')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 27, loss: 0.705482006072998
+w: [0.0764204857139336, 0.06850700273028047, 0.050060886248948507, 0.06948745000148417, 0.08816766712475617, 0.11926986125454082, 0.07054366452674199, 0.0864118356253038, 0.3176923239116182, 0.0534388228623923]
+label victim: (406, 'altar')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 28, loss: 1.4890365600585938
+w: [0.07559919793591656, 0.06761502444679415, 0.048627036829675854, 0.06858707783599306, 0.08775166805452488, 0.11985296062818099, 0.06974369450859474, 0.08591047026112374, 0.32394205915992424, 0.05237081033927175]
+label victim: (791, 'shopping cart')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 29, loss: 2.953070640563965
+w: [0.0747644454981446, 0.06674045472005177, 0.04720659082126269, 0.06767098513641202, 0.08717361051495995, 0.12060495303892318, 0.06904327886418965, 0.08548666740116895, 0.32996483205486654, 0.051344181950020516]
+label victim: (791, 'shopping cart')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 30, loss: 0.7075929641723633
+w: [0.07392046513386465, 0.0658243577014505, 0.04579809848048919, 0.06672848185251809, 0.08666317630017273, 0.12129603322695302, 0.06829968116161225, 0.08506373667520943, 0.33610893235972955, 0.05029703710800062]
+label victim: (791, 'shopping cart')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 31, loss: 2.615078926086426
+w: [0.07316255127835052, 0.06498874856656521, 0.04454115527249426, 0.06592396863984028, 0.08614515942021335, 0.12186205974114322, 0.06753611679987948, 0.08460781256285957, 0.34188357212742393, 0.04934885559123018]
+label victim: (791, 'shopping cart')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 32, loss: 1.3494720458984375
+w: [0.07234537316332003, 0.06413891676654371, 0.043266835427905485, 0.06506940089346357, 0.08555300470157859, 0.12267169916001797, 0.06682523190164147, 0.08410056083325411, 0.34761265258516766, 0.04841632456710729]
+label victim: (791, 'shopping cart')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 33, loss: 0.9525442123413086
+w: [0.07155675452287448, 0.06340467582439403, 0.04204569584656523, 0.06430861307379562, 0.08500563296067912, 0.12337570070259977, 0.06606237027014149, 0.08356754118480396, 0.3531486635160338, 0.04752435209811244]
+label victim: (791, 'shopping cart')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 34, loss: 0.49009037017822266
+w: [0.07086376121230041, 0.06275877440288646, 0.04088110157481647, 0.06357742570239572, 0.0845849813232856, 0.12413898346048904, 0.06540229517765031, 0.08322555724890318, 0.3578392222529668, 0.04672789764430602]
+label victim: (406, 'altar')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 35, loss: 1.2003521919250488
+w: [0.07008337247574567, 0.06197055673463951, 0.039718304876108425, 0.06273114006922456, 0.08406149320195637, 0.12512706943584417, 0.06475054974217219, 0.08298159566678454, 0.36265804691774767, 0.04591787087977696]
+label victim: (791, 'shopping cart')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 36, loss: 1.165994644165039
+w: [0.06927655467533216, 0.061206912582825415, 0.03857855200181356, 0.06193364995487693, 0.08353217635297894, 0.12596441618658863, 0.06403496030214964, 0.08256411292365572, 0.3677978147951994, 0.04511085022457952]
+label victim: (791, 'shopping cart')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 37, loss: 3.420619487762451
+w: [0.06845351892207152, 0.060441638634881244, 0.03745192924416538, 0.0610407228387819, 0.08289474553061449, 0.1265538500920526, 0.06329057357235482, 0.08210972465889542, 0.3733540978613238, 0.04440919864485879]
+label victim: (406, 'altar')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 38, loss: 1.3620100021362305
+w: [0.0678440339945742, 0.05985621211906526, 0.03639329702339737, 0.06037360945058784, 0.08260113241698276, 0.12738871881560956, 0.0627196830567141, 0.08186482683953449, 0.3773155746121211, 0.0436429116714133]
+label victim: (406, 'altar')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 39, loss: 1.6036009788513184
+w: [0.06699321258249928, 0.05919749212117253, 0.035284739184582, 0.05955813788897343, 0.08217484090120727, 0.12804461721366384, 0.062112706053720136, 0.08153619241287986, 0.382124739639329, 0.04297332200197258]
+label victim: (406, 'altar')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 40, loss: 1.7677998542785645
+w: [0.06627812640415583, 0.05858444270478971, 0.03421615181419677, 0.05881085560875482, 0.08168644405531172, 0.12879188973818173, 0.06153362168039756, 0.0811909204478547, 0.3866360278156583, 0.042271519730698856]
+label victim: (791, 'shopping cart')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (611, 'jigsaw puzzle')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 41, loss: 2.01777982711792
+w: [0.06552553043659935, 0.05775876696833414, 0.03313227502456138, 0.05783217413799019, 0.08113187268686128, 0.12953306605393908, 0.060748243514975916, 0.08087599708820106, 0.3917976957093913, 0.04166437837914622]
+label victim: (406, 'altar')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 42, loss: 2.3057432174682617
+w: [0.06494021732266171, 0.05705693421329736, 0.03210363671420403, 0.057126715570832216, 0.08062004291182426, 0.1298182393214748, 0.060089506137580885, 0.08046070292977173, 0.3967141536931325, 0.04106985118522074]
+label victim: (791, 'shopping cart')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 43, loss: 1.7927312850952148
+w: [0.06427588682785426, 0.056308480458943086, 0.0310991389378794, 0.056310294676998246, 0.0801870229103854, 0.1306002024103611, 0.059496996673868596, 0.08021142306561488, 0.4010319004070456, 0.040478653631049424]
+label victim: (791, 'shopping cart')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 44, loss: 2.9568095207214355
+w: [0.06370230701458249, 0.05566922771001226, 0.030130771175547577, 0.05559203826072763, 0.07979837412171176, 0.13133372210269734, 0.058912466868955966, 0.0797555254181963, 0.40518285467127546, 0.03992271265629313]
+label victim: (791, 'shopping cart')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 45, loss: 2.4653186798095703
+w: [0.06320827939765065, 0.05510482077663143, 0.029208322562797057, 0.05492821776141633, 0.07924432748634963, 0.13199696162739863, 0.05828775098801366, 0.07926913072860568, 0.40939060069665945, 0.03936158797447742]
+label victim: (497, 'church, church building')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (772, 'safety pin')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 46, loss: 1.8282041549682617
+w: [0.06275127043348043, 0.05460674769656333, 0.028297220518184514, 0.05428442837319821, 0.07892637025951872, 0.1329346085722819, 0.057807005859392385, 0.07893477788240312, 0.41261519075991887, 0.038842379645058406]
+label victim: (791, 'shopping cart')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (695, 'padlock')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 47, loss: 2.487283229827881
+w: [0.06211960196616999, 0.053887351981743464, 0.027315812459394708, 0.0534821420023077, 0.07852321968428293, 0.13371283718447244, 0.05718566081271613, 0.07859223137072294, 0.41689195510113425, 0.038289187437055526]
+label victim: (406, 'altar')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (695, 'padlock')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 48, loss: 0.5939626693725586
+w: [0.06154333455641468, 0.05336659219137854, 0.026341783505631614, 0.05279611348921827, 0.0780769551182992, 0.13407700811824091, 0.05668857279218793, 0.07832641847753849, 0.42101573016775934, 0.037767491583331085]
+label victim: (791, 'shopping cart')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (905, 'window shade')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+
+n_iters: 10, iter_w: 49, loss: 0.3631553649902344
+w: [0.06105718710471603, 0.052802084347796305, 0.02537589243119546, 0.05207667226067834, 0.07772071895144464, 0.134640396552481, 0.05616817884538133, 0.07810372386313946, 0.42477591421453226, 0.03727923142863522]
+label victim: (791, 'shopping cart')
+label wb 0: (772, 'safety pin')
+label wb 1: (772, 'safety pin')
+label wb 2: (884, 'vault')
+label wb 3: (772, 'safety pin')
+label wb 4: (772, 'safety pin')
+label wb 5: (772, 'safety pin')
+label wb 6: (772, 'safety pin')
+label wb 7: (772, 'safety pin')
+label wb 8: (772, 'safety pin')
+label wb 9: (772, 'safety pin')
+
+

@@ -1,0 +1,1500 @@
+n_iters: 10, iter_w: 0, loss: -5.927936553955078
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 1, loss: -5.2326531410217285
+w: [0.10054202446987248, 0.10009733449374839, 0.10025112083358471, 0.09978651404548247, 0.10021921645536302, 0.09975984008801934, 0.0997330152351119, 0.0999471695638447, 0.09994308980217347, 0.09972067501279944]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 2, loss: -4.742413520812988
+w: [0.10224669217765145, 0.10008340211349356, 0.10022832920401749, 0.09912298135027263, 0.10090753927850038, 0.09953826494884611, 0.09900620100586323, 0.0996090691369427, 0.10069607901746502, 0.09856144176694748]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 3, loss: -12.215648651123047
+w: [0.1045413496170056, 0.0999943157170471, 0.09986907806608854, 0.09818954799057847, 0.1018155750996877, 0.09936577213269315, 0.09793110739822301, 0.09903397574942172, 0.10234972395631697, 0.09690955427293772]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 4, loss: -10.463311195373535
+w: [0.10694356272493526, 0.09977484225757201, 0.0991819131799155, 0.09714047355338352, 0.10281512277232142, 0.0993778944184103, 0.0966133690278406, 0.0983581889189389, 0.10487355824354487, 0.09492107490313756]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 5, loss: -13.125701904296875
+w: [0.10945765102798542, 0.0994451138948642, 0.09836421498388717, 0.09602731622854738, 0.10362974816351347, 0.09938719666901195, 0.09519664371148347, 0.09768232529812058, 0.10797440832462522, 0.09283538169796127]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 6, loss: -12.383017539978027
+w: [0.11203941824624698, 0.09893004590114737, 0.09741941830290578, 0.0947313802382042, 0.10449104594491725, 0.0994223426389948, 0.0937629922089671, 0.09688939408895396, 0.111655592477203, 0.09065836995245961]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 7, loss: -7.219475746154785
+w: [0.11488588982459547, 0.09839218840342775, 0.096396682329282, 0.09344338534259068, 0.10518449498398996, 0.09946233839269832, 0.09216863744992745, 0.0960341105863995, 0.11560322604931149, 0.08842904663777731]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 8, loss: -12.68925952911377
+w: [0.11783090816259863, 0.09787911884019208, 0.09524800666019526, 0.09214184555961069, 0.10601587514664458, 0.09938370595754138, 0.09063389291490961, 0.09530145723010586, 0.11933104651774638, 0.08623414301045552]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 9, loss: -11.803468704223633
+w: [0.12097211681993722, 0.09726034393514037, 0.09406710469942757, 0.09088530104923895, 0.10660042990156858, 0.09932066010695058, 0.0890394972758379, 0.09444475626541486, 0.12336896371451767, 0.08404082623196622]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 10, loss: -13.093605041503906
+w: [0.12419256288644623, 0.09651489603738676, 0.09289589501695199, 0.08958602770030374, 0.10724465794239652, 0.09919520532777601, 0.0875243261405582, 0.09366384191762442, 0.12733735175398633, 0.08184523527656976]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 11, loss: -11.052387237548828
+w: [0.1274454033643199, 0.09577794726765691, 0.0916005950846389, 0.08823655620328398, 0.10765302837407653, 0.09918462001555912, 0.08589007170286599, 0.09286743937850506, 0.13167802516678098, 0.07966631344231254]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 12, loss: -13.657605171203613
+w: [0.13049079084035428, 0.09498947493519432, 0.09023497061299747, 0.08698338163178729, 0.10821196028389755, 0.09918229708842352, 0.08430425799570637, 0.09201082742380008, 0.13605772005792505, 0.07753431912991401]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 13, loss: -10.547237396240234
+w: [0.13373210888158582, 0.09420183677269764, 0.08889677015569077, 0.08569724017551543, 0.10868646232887702, 0.09908358596794677, 0.0827287642335047, 0.09117335727676486, 0.14037173252906515, 0.07542814167835184]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 14, loss: -12.107258796691895
+w: [0.13686849566441328, 0.09338709649962347, 0.087563857648421, 0.08434657741759174, 0.10913836492715281, 0.0990517819777035, 0.08109371407497072, 0.09034811801794647, 0.1448295346787114, 0.07337245909346549]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 15, loss: -14.354394912719727
+w: [0.14006771568524476, 0.09251104995051979, 0.08618208129938185, 0.08299619243078739, 0.10945727870798173, 0.0989669393664567, 0.07952184601253912, 0.08941877667643247, 0.14948911933396844, 0.07138900053668767]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 16, loss: -11.795184135437012
+w: [0.14315422938201827, 0.09163717077302387, 0.08479139244957237, 0.08161055253208713, 0.10976205504095603, 0.09888694901513394, 0.07808731243009495, 0.08866935467706939, 0.15392654351550614, 0.06947444018453779]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 17, loss: -12.886312484741211
+w: [0.14616867288199736, 0.09070232911802585, 0.08337514671536005, 0.08031455881469714, 0.11007123933096065, 0.09872565258351129, 0.07668289833794369, 0.08778894480050423, 0.158523107429551, 0.06764744998744877]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 18, loss: -2.9560651779174805
+w: [0.14927612572720558, 0.0898691639733699, 0.08200529686286226, 0.0790756205219168, 0.11031580090035752, 0.09852661529877106, 0.07533155570779305, 0.08702147735772045, 0.16261098691634657, 0.0659673567336568]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 19, loss: -9.342079162597656
+w: [0.15224168842842684, 0.0890445324474245, 0.08061143440506587, 0.07782692494105456, 0.11063247526128805, 0.09817929582860695, 0.07399406353427258, 0.08632147982699126, 0.1668827004556863, 0.0642654048711832]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 20, loss: -8.032732963562012
+w: [0.15512844772408324, 0.08807177473324274, 0.07933731832158925, 0.07666861100682769, 0.11070325605396988, 0.09795643284841063, 0.07269593395740523, 0.08563946632084082, 0.17114470903387147, 0.06265404999975899]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 21, loss: -11.312747955322266
+w: [0.15791053058218363, 0.08719107157828698, 0.07801452860924152, 0.07566628004562653, 0.11086877884453271, 0.09783762495413309, 0.07137708666077566, 0.08493590221863244, 0.1751498991202229, 0.06104829738636455]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 22, loss: -11.157464981079102
+w: [0.16080946907042046, 0.08630172029781857, 0.07679426399055514, 0.07454156730022957, 0.11095744754745807, 0.09761345831983076, 0.07012195963847354, 0.0842204516418013, 0.1791137478288765, 0.05952591436453611]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 23, loss: -11.893118858337402
+w: [0.16353510262751397, 0.08534205562879019, 0.07548983126604977, 0.07350095380428132, 0.11113801984349872, 0.09727309437484992, 0.06882865706568597, 0.08364452814215696, 0.18318178263193666, 0.058065974615236375]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 24, loss: -9.323531150817871
+w: [0.16629666661052717, 0.08443063828703797, 0.0741999689637615, 0.07247133825358687, 0.11140941640240332, 0.09681704750057811, 0.06754875246959363, 0.08295701026852793, 0.18723137630722778, 0.05663778493675555]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 25, loss: -10.32388687133789
+w: [0.16890696972396205, 0.08358137727492805, 0.07288880270270193, 0.07147820604078178, 0.11157791396978378, 0.09663398906988598, 0.06634000278650184, 0.08232212678791254, 0.19103190339310305, 0.05523870825043907]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 26, loss: -9.310983657836914
+w: [0.17166570098085893, 0.0826451053047704, 0.07158308958817869, 0.07052263152309836, 0.11153633627958458, 0.09638946915222324, 0.06511954695511026, 0.08165609446446068, 0.19495795364024873, 0.05392407211146613]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 27, loss: -11.309542655944824
+w: [0.17426483053531067, 0.08173345631280361, 0.07025664347759888, 0.06955884758823858, 0.11167911643549029, 0.09625083489607668, 0.0640132006550961, 0.08107846541725068, 0.19851210993274432, 0.052652494749390405]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 28, loss: -8.388497352600098
+w: [0.17682411240413692, 0.08089805089813926, 0.06895025351732888, 0.06859813277140415, 0.11164397023934655, 0.09600004093895209, 0.06290990221472945, 0.08049713768094036, 0.20232113510120678, 0.05135726423381542]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 29, loss: -8.37930679321289
+w: [0.17942759734955824, 0.080057583681554, 0.06771718225950242, 0.06768934712229992, 0.11175941611388054, 0.09568116729613399, 0.061833292452654044, 0.07993761650396053, 0.20572466152469998, 0.05017213569575635]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 30, loss: -3.169243812561035
+w: [0.1818955531663407, 0.07916947535604124, 0.06646598051009998, 0.06678970357891957, 0.11189301488982066, 0.09539045371523991, 0.06077391823997997, 0.07937515998645316, 0.2092599174467237, 0.04898682311038111]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 31, loss: -3.495083808898926
+w: [0.18420310636954693, 0.07830364225319313, 0.06522390380541129, 0.06596469085570099, 0.11190151631522119, 0.0951138482110666, 0.05973847974364277, 0.0788736891513438, 0.21278135890798106, 0.04789576438689242]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 32, loss: -10.406055450439453
+w: [0.18655864403438394, 0.07749414497618777, 0.06409306209853063, 0.06520374310506236, 0.11188470146249677, 0.09493064395440096, 0.05871169428768209, 0.07825697066212402, 0.21600531736926493, 0.046861078049866486]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 33, loss: -11.257034301757812
+w: [0.18890626127501098, 0.0766494812162095, 0.06289175631270569, 0.06441205837802277, 0.11188010348292046, 0.09463499486182828, 0.05779838530183357, 0.07765684245519593, 0.21936161046901925, 0.04580850624725364]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 34, loss: -8.004603385925293
+w: [0.19133537569865508, 0.07582625221723698, 0.06178943327417822, 0.06362717763356672, 0.11182360387551815, 0.09443528961516796, 0.05688573147740647, 0.07702954550573353, 0.22247211607466832, 0.04477547462786864]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 35, loss: -2.109224319458008
+w: [0.1936522048261307, 0.07498025526155536, 0.06068565274863486, 0.06282297482588961, 0.1118869095608017, 0.09416102407703443, 0.056002200572577904, 0.07642111428911408, 0.22554613338310264, 0.043841530455158505]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 36, loss: -8.674966812133789
+w: [0.195867048151924, 0.07411791955880634, 0.05959039118406608, 0.062096233423729476, 0.11180358034227551, 0.09386374751569976, 0.055130861417984074, 0.0759130380345151, 0.2286793529641632, 0.042937827406836694]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 37, loss: -10.210511207580566
+w: [0.19824268664652434, 0.07320915663583785, 0.05849378167075679, 0.06131195879569796, 0.1117387246844692, 0.09349926813887002, 0.05433904784230548, 0.07544279508449986, 0.23161057975454577, 0.042112000746492545]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 38, loss: -8.448580741882324
+w: [0.20029920067895957, 0.07243503580857195, 0.057387230472602975, 0.06053992522791537, 0.1117580127397791, 0.09327702813074902, 0.05346255102157206, 0.0750053174452993, 0.23460458713639543, 0.041231111338155275]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 39, loss: -4.265448570251465
+w: [0.2025748046089178, 0.07172528611769272, 0.05632093712005574, 0.05970747646037458, 0.11164573800017415, 0.09301411354590237, 0.05261037820776671, 0.07449712709553669, 0.2374750536044305, 0.04042908523914891]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 40, loss: -6.759294509887695
+w: [0.20465610676232932, 0.07097511134742404, 0.05525645860040739, 0.05895309528479614, 0.11158368498527417, 0.092695143520747, 0.05185562703170223, 0.07391251407626662, 0.24045723503856373, 0.03965502335248923]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 41, loss: -10.19532299041748
+w: [0.20670346847808874, 0.07019914569065877, 0.05424479296530012, 0.05820936723638217, 0.11159504037200244, 0.09240676020753676, 0.05105914397845101, 0.0733664079979545, 0.24331165205740501, 0.03890422101622058]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 42, loss: -10.938066482543945
+w: [0.2087854866066787, 0.06943987028518377, 0.05321265256794164, 0.05748625010014695, 0.11166117261145751, 0.09206277056752644, 0.050336398424858396, 0.0728340521331343, 0.24602916770784428, 0.038152178995228034]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 43, loss: -9.393404960632324
+w: [0.21085455353094215, 0.06873126545288853, 0.05226829804465186, 0.05672398913785046, 0.11162166903399734, 0.09185325761977106, 0.0496164447362002, 0.07229311748599349, 0.2485940829994925, 0.03744332195821238]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 44, loss: -8.171741485595703
+w: [0.21283219419876612, 0.06794060146676005, 0.05132018172494127, 0.055893868848246396, 0.11159618729699344, 0.09156506010540744, 0.048905680613977584, 0.07177440687793533, 0.25135946357930383, 0.036812355287668554]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 45, loss: -10.360639572143555
+w: [0.21479936086988125, 0.06722232943456587, 0.05035368469770199, 0.05510238120644846, 0.11166382080761797, 0.09141494964777185, 0.048205187499378445, 0.07132538940352734, 0.25375435642233274, 0.036158540010774]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 46, loss: -11.061985969543457
+w: [0.21696360330009049, 0.0664015354215259, 0.04938352223442754, 0.05431101575514913, 0.11174416369730114, 0.09104410269893654, 0.04751945681243506, 0.07091508508270226, 0.2561659002125783, 0.03555161478485363]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 47, loss: -7.6478271484375
+w: [0.21887649783699842, 0.06567004378845248, 0.0484940842876645, 0.053539078493407666, 0.11169109408109246, 0.09076709806511266, 0.04684639773107894, 0.07040360768327131, 0.25880312274270445, 0.03490897529021716]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 48, loss: -8.073236465454102
+w: [0.22076847202917696, 0.06493198755326399, 0.04760818438547958, 0.05280509007717687, 0.11163805934263504, 0.09055116590746144, 0.04618575292586246, 0.06990883211885986, 0.261253458564378, 0.034348997095705824]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 49, loss: -8.779102325439453
+w: [0.22272816235430615, 0.06414705656887892, 0.04671814428940346, 0.052063546789344925, 0.1116365871673254, 0.09013328855883972, 0.045586907524874175, 0.06936376677754147, 0.2637934751902404, 0.03382906477924544]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 0, loss: -5.927936553955078
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 1, loss: -5.2326531410217285
+w: [0.10054202446987248, 0.10009733449374839, 0.10025112083358471, 0.09978651404548247, 0.10021921645536302, 0.09975984008801934, 0.0997330152351119, 0.0999471695638447, 0.09994308980217347, 0.09972067501279944]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 2, loss: -4.742413520812988
+w: [0.10224669217765145, 0.10008340211349356, 0.10022832920401749, 0.09912298135027263, 0.10090753927850038, 0.09953826494884611, 0.09900620100586323, 0.0996090691369427, 0.10069607901746502, 0.09856144176694748]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 3, loss: -12.215648651123047
+w: [0.1045413496170056, 0.0999943157170471, 0.09986907806608854, 0.09818954799057847, 0.1018155750996877, 0.09936577213269315, 0.09793110739822301, 0.09903397574942172, 0.10234972395631697, 0.09690955427293772]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 4, loss: -10.463311195373535
+w: [0.10694356272493526, 0.09977484225757201, 0.0991819131799155, 0.09714047355338352, 0.10281512277232142, 0.0993778944184103, 0.0966133690278406, 0.0983581889189389, 0.10487355824354487, 0.09492107490313756]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 5, loss: -13.125701904296875
+w: [0.10945765102798542, 0.0994451138948642, 0.09836421498388717, 0.09602731622854738, 0.10362974816351347, 0.09938719666901195, 0.09519664371148347, 0.09768232529812058, 0.10797440832462522, 0.09283538169796127]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 6, loss: -12.383017539978027
+w: [0.11203941824624698, 0.09893004590114737, 0.09741941830290578, 0.0947313802382042, 0.10449104594491725, 0.0994223426389948, 0.0937629922089671, 0.09688939408895396, 0.111655592477203, 0.09065836995245961]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 7, loss: -7.219475746154785
+w: [0.11488588982459547, 0.09839218840342775, 0.096396682329282, 0.09344338534259068, 0.10518449498398996, 0.09946233839269832, 0.09216863744992745, 0.0960341105863995, 0.11560322604931149, 0.08842904663777731]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 8, loss: -12.68925952911377
+w: [0.11783090816259863, 0.09787911884019208, 0.09524800666019526, 0.09214184555961069, 0.10601587514664458, 0.09938370595754138, 0.09063389291490961, 0.09530145723010586, 0.11933104651774638, 0.08623414301045552]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 9, loss: -11.803468704223633
+w: [0.12097211681993722, 0.09726034393514037, 0.09406710469942757, 0.09088530104923895, 0.10660042990156858, 0.09932066010695058, 0.0890394972758379, 0.09444475626541486, 0.12336896371451767, 0.08404082623196622]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 10, loss: -13.093605041503906
+w: [0.12419256288644623, 0.09651489603738676, 0.09289589501695199, 0.08958602770030374, 0.10724465794239652, 0.09919520532777601, 0.0875243261405582, 0.09366384191762442, 0.12733735175398633, 0.08184523527656976]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 11, loss: -11.052387237548828
+w: [0.1274454033643199, 0.09577794726765691, 0.0916005950846389, 0.08823655620328398, 0.10765302837407653, 0.09918462001555912, 0.08589007170286599, 0.09286743937850506, 0.13167802516678098, 0.07966631344231254]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 12, loss: -13.657605171203613
+w: [0.13049079084035428, 0.09498947493519432, 0.09023497061299747, 0.08698338163178729, 0.10821196028389755, 0.09918229708842352, 0.08430425799570637, 0.09201082742380008, 0.13605772005792505, 0.07753431912991401]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 13, loss: -10.547237396240234
+w: [0.13373210888158582, 0.09420183677269764, 0.08889677015569077, 0.08569724017551543, 0.10868646232887702, 0.09908358596794677, 0.0827287642335047, 0.09117335727676486, 0.14037173252906515, 0.07542814167835184]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 14, loss: -12.107258796691895
+w: [0.13686849566441328, 0.09338709649962347, 0.087563857648421, 0.08434657741759174, 0.10913836492715281, 0.0990517819777035, 0.08109371407497072, 0.09034811801794647, 0.1448295346787114, 0.07337245909346549]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 15, loss: -14.354394912719727
+w: [0.14006771568524476, 0.09251104995051979, 0.08618208129938185, 0.08299619243078739, 0.10945727870798173, 0.0989669393664567, 0.07952184601253912, 0.08941877667643247, 0.14948911933396844, 0.07138900053668767]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 16, loss: -11.795184135437012
+w: [0.14315422938201827, 0.09163717077302387, 0.08479139244957237, 0.08161055253208713, 0.10976205504095603, 0.09888694901513394, 0.07808731243009495, 0.08866935467706939, 0.15392654351550614, 0.06947444018453779]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 17, loss: -12.886312484741211
+w: [0.14616867288199736, 0.09070232911802585, 0.08337514671536005, 0.08031455881469714, 0.11007123933096065, 0.09872565258351129, 0.07668289833794369, 0.08778894480050423, 0.158523107429551, 0.06764744998744877]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 18, loss: -2.9560651779174805
+w: [0.14927612572720558, 0.0898691639733699, 0.08200529686286226, 0.0790756205219168, 0.11031580090035752, 0.09852661529877106, 0.07533155570779305, 0.08702147735772045, 0.16261098691634657, 0.0659673567336568]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 19, loss: -9.342079162597656
+w: [0.15224168842842684, 0.0890445324474245, 0.08061143440506587, 0.07782692494105456, 0.11063247526128805, 0.09817929582860695, 0.07399406353427258, 0.08632147982699126, 0.1668827004556863, 0.0642654048711832]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 20, loss: -8.032732963562012
+w: [0.15512844772408324, 0.08807177473324274, 0.07933731832158925, 0.07666861100682769, 0.11070325605396988, 0.09795643284841063, 0.07269593395740523, 0.08563946632084082, 0.17114470903387147, 0.06265404999975899]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 21, loss: -11.312747955322266
+w: [0.15791053058218363, 0.08719107157828698, 0.07801452860924152, 0.07566628004562653, 0.11086877884453271, 0.09783762495413309, 0.07137708666077566, 0.08493590221863244, 0.1751498991202229, 0.06104829738636455]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 22, loss: -11.157464981079102
+w: [0.16080946907042046, 0.08630172029781857, 0.07679426399055514, 0.07454156730022957, 0.11095744754745807, 0.09761345831983076, 0.07012195963847354, 0.0842204516418013, 0.1791137478288765, 0.05952591436453611]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 23, loss: -11.893118858337402
+w: [0.16353510262751397, 0.08534205562879019, 0.07548983126604977, 0.07350095380428132, 0.11113801984349872, 0.09727309437484992, 0.06882865706568597, 0.08364452814215696, 0.18318178263193666, 0.058065974615236375]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 24, loss: -9.323531150817871
+w: [0.16629666661052717, 0.08443063828703797, 0.0741999689637615, 0.07247133825358687, 0.11140941640240332, 0.09681704750057811, 0.06754875246959363, 0.08295701026852793, 0.18723137630722778, 0.05663778493675555]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 25, loss: -10.32388687133789
+w: [0.16890696972396205, 0.08358137727492805, 0.07288880270270193, 0.07147820604078178, 0.11157791396978378, 0.09663398906988598, 0.06634000278650184, 0.08232212678791254, 0.19103190339310305, 0.05523870825043907]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 26, loss: -9.310983657836914
+w: [0.17166570098085893, 0.0826451053047704, 0.07158308958817869, 0.07052263152309836, 0.11153633627958458, 0.09638946915222324, 0.06511954695511026, 0.08165609446446068, 0.19495795364024873, 0.05392407211146613]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 27, loss: -11.309542655944824
+w: [0.17426483053531067, 0.08173345631280361, 0.07025664347759888, 0.06955884758823858, 0.11167911643549029, 0.09625083489607668, 0.0640132006550961, 0.08107846541725068, 0.19851210993274432, 0.052652494749390405]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 28, loss: -8.388497352600098
+w: [0.17682411240413692, 0.08089805089813926, 0.06895025351732888, 0.06859813277140415, 0.11164397023934655, 0.09600004093895209, 0.06290990221472945, 0.08049713768094036, 0.20232113510120678, 0.05135726423381542]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 29, loss: -8.37930679321289
+w: [0.17942759734955824, 0.080057583681554, 0.06771718225950242, 0.06768934712229992, 0.11175941611388054, 0.09568116729613399, 0.061833292452654044, 0.07993761650396053, 0.20572466152469998, 0.05017213569575635]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 30, loss: -3.169243812561035
+w: [0.1818955531663407, 0.07916947535604124, 0.06646598051009998, 0.06678970357891957, 0.11189301488982066, 0.09539045371523991, 0.06077391823997997, 0.07937515998645316, 0.2092599174467237, 0.04898682311038111]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 31, loss: -3.495083808898926
+w: [0.18420310636954693, 0.07830364225319313, 0.06522390380541129, 0.06596469085570099, 0.11190151631522119, 0.0951138482110666, 0.05973847974364277, 0.0788736891513438, 0.21278135890798106, 0.04789576438689242]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 32, loss: -10.406055450439453
+w: [0.18655864403438394, 0.07749414497618777, 0.06409306209853063, 0.06520374310506236, 0.11188470146249677, 0.09493064395440096, 0.05871169428768209, 0.07825697066212402, 0.21600531736926493, 0.046861078049866486]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 33, loss: -11.257034301757812
+w: [0.18890626127501098, 0.0766494812162095, 0.06289175631270569, 0.06441205837802277, 0.11188010348292046, 0.09463499486182828, 0.05779838530183357, 0.07765684245519593, 0.21936161046901925, 0.04580850624725364]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 34, loss: -8.004603385925293
+w: [0.19133537569865508, 0.07582625221723698, 0.06178943327417822, 0.06362717763356672, 0.11182360387551815, 0.09443528961516796, 0.05688573147740647, 0.07702954550573353, 0.22247211607466832, 0.04477547462786864]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 35, loss: -2.109224319458008
+w: [0.1936522048261307, 0.07498025526155536, 0.06068565274863486, 0.06282297482588961, 0.1118869095608017, 0.09416102407703443, 0.056002200572577904, 0.07642111428911408, 0.22554613338310264, 0.043841530455158505]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 36, loss: -8.674966812133789
+w: [0.195867048151924, 0.07411791955880634, 0.05959039118406608, 0.062096233423729476, 0.11180358034227551, 0.09386374751569976, 0.055130861417984074, 0.0759130380345151, 0.2286793529641632, 0.042937827406836694]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 37, loss: -10.210511207580566
+w: [0.19824268664652434, 0.07320915663583785, 0.05849378167075679, 0.06131195879569796, 0.1117387246844692, 0.09349926813887002, 0.05433904784230548, 0.07544279508449986, 0.23161057975454577, 0.042112000746492545]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 38, loss: -8.448580741882324
+w: [0.20029920067895957, 0.07243503580857195, 0.057387230472602975, 0.06053992522791537, 0.1117580127397791, 0.09327702813074902, 0.05346255102157206, 0.0750053174452993, 0.23460458713639543, 0.041231111338155275]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 39, loss: -4.265448570251465
+w: [0.2025748046089178, 0.07172528611769272, 0.05632093712005574, 0.05970747646037458, 0.11164573800017415, 0.09301411354590237, 0.05261037820776671, 0.07449712709553669, 0.2374750536044305, 0.04042908523914891]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 40, loss: -6.759294509887695
+w: [0.20465610676232932, 0.07097511134742404, 0.05525645860040739, 0.05895309528479614, 0.11158368498527417, 0.092695143520747, 0.05185562703170223, 0.07391251407626662, 0.24045723503856373, 0.03965502335248923]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 41, loss: -10.19532299041748
+w: [0.20670346847808874, 0.07019914569065877, 0.05424479296530012, 0.05820936723638217, 0.11159504037200244, 0.09240676020753676, 0.05105914397845101, 0.0733664079979545, 0.24331165205740501, 0.03890422101622058]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 42, loss: -10.938066482543945
+w: [0.2087854866066787, 0.06943987028518377, 0.05321265256794164, 0.05748625010014695, 0.11166117261145751, 0.09206277056752644, 0.050336398424858396, 0.0728340521331343, 0.24602916770784428, 0.038152178995228034]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 43, loss: -9.393404960632324
+w: [0.21085455353094215, 0.06873126545288853, 0.05226829804465186, 0.05672398913785046, 0.11162166903399734, 0.09185325761977106, 0.0496164447362002, 0.07229311748599349, 0.2485940829994925, 0.03744332195821238]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 44, loss: -8.171741485595703
+w: [0.21283219419876612, 0.06794060146676005, 0.05132018172494127, 0.055893868848246396, 0.11159618729699344, 0.09156506010540744, 0.048905680613977584, 0.07177440687793533, 0.25135946357930383, 0.036812355287668554]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 45, loss: -10.360639572143555
+w: [0.21479936086988125, 0.06722232943456587, 0.05035368469770199, 0.05510238120644846, 0.11166382080761797, 0.09141494964777185, 0.048205187499378445, 0.07132538940352734, 0.25375435642233274, 0.036158540010774]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 46, loss: -11.061985969543457
+w: [0.21696360330009049, 0.0664015354215259, 0.04938352223442754, 0.05431101575514913, 0.11174416369730114, 0.09104410269893654, 0.04751945681243506, 0.07091508508270226, 0.2561659002125783, 0.03555161478485363]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 47, loss: -7.6478271484375
+w: [0.21887649783699842, 0.06567004378845248, 0.0484940842876645, 0.053539078493407666, 0.11169109408109246, 0.09076709806511266, 0.04684639773107894, 0.07040360768327131, 0.25880312274270445, 0.03490897529021716]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 48, loss: -8.073236465454102
+w: [0.22076847202917696, 0.06493198755326399, 0.04760818438547958, 0.05280509007717687, 0.11163805934263504, 0.09055116590746144, 0.04618575292586246, 0.06990883211885986, 0.261253458564378, 0.034348997095705824]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+
+n_iters: 10, iter_w: 49, loss: -8.779102325439453
+w: [0.22272816235430615, 0.06414705656887892, 0.04671814428940346, 0.052063546789344925, 0.1116365871673254, 0.09013328855883972, 0.045586907524874175, 0.06936376677754147, 0.2637934751902404, 0.03382906477924544]
+label victim: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 0: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 1: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 2: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 3: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 4: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 5: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 6: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 7: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 8: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+label wb 9: (354, 'Arabian camel, dromedary, Camelus dromedarius')
+
+

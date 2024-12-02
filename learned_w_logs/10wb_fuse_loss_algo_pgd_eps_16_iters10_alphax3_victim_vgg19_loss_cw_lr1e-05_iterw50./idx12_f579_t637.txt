@@ -1,0 +1,1500 @@
+n_iters: 10, iter_w: 0, loss: -3.681291103363037
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 1, loss: -3.9801840782165527
+w: [0.09986989856827705, 0.10010488901196136, 0.09970235081184742, 0.09976814092368273, 0.10020377456039023, 0.09975110730321811, 0.09996706658972052, 0.10019004189414912, 0.1009287391066714, 0.09951399123008199]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 2, loss: -4.328240871429443
+w: [0.09969668975337563, 0.09981427619059072, 0.09839069684804719, 0.09894875745513793, 0.10064035562290126, 0.09971998557954069, 0.09952025489907262, 0.10027193588248824, 0.10485502546367233, 0.09814202230517331]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 3, loss: -7.826550483703613
+w: [0.09952157135197773, 0.09932017891594215, 0.09690144354142084, 0.09803256513470644, 0.10116488159301128, 0.10012879195674364, 0.09894399844772953, 0.10013752988261936, 0.10943769948895295, 0.09641133968689625]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 4, loss: -8.608195304870605
+w: [0.09943861806491017, 0.09883012501177438, 0.09541452556987479, 0.09712322183054799, 0.10167654658639017, 0.1004453603476796, 0.09825591901040451, 0.09996898816377942, 0.11421686893430787, 0.09462982648033112]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 5, loss: -7.0184221267700195
+w: [0.09934356786573437, 0.0981864293727668, 0.09383597405670134, 0.09604609742650451, 0.10219604432490906, 0.10070365141503258, 0.09756336603680305, 0.09974656860681924, 0.11961526495416827, 0.09276303594056078]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 6, loss: -6.234223365783691
+w: [0.09935759035144, 0.09741168935670606, 0.09227608491275621, 0.09499376793356715, 0.10258926471343353, 0.10102627534357289, 0.09688892206216779, 0.09949555054442968, 0.12508361703541118, 0.09087723774651538]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 7, loss: -3.4226889610290527
+w: [0.09935298507759434, 0.09667288455681196, 0.09067489629592544, 0.09389568851578742, 0.10307751528602516, 0.10140967431229168, 0.09617572940938386, 0.0991756244671296, 0.13064016396831152, 0.08892483811073898]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 8, loss: -7.96304988861084
+w: [0.09935241787376049, 0.09588994130791861, 0.08912819898160543, 0.092831714274749, 0.10344495643389555, 0.10168452201206708, 0.09555929673365049, 0.09880572773433871, 0.13618616344363058, 0.08711706120438406]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 9, loss: -4.039733409881592
+w: [0.09929739547450864, 0.09504613323835352, 0.08758186681888641, 0.09172362594470691, 0.10383164741859857, 0.10216289873190812, 0.09492242635793813, 0.09850810710782636, 0.14162670204229377, 0.0852991968649796]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 10, loss: -6.605408668518066
+w: [0.09925458610331406, 0.09426818241113583, 0.08608648267600483, 0.09070540890874026, 0.1041767131023677, 0.10261530776180054, 0.09413306977598336, 0.0981736704116205, 0.1470948967220254, 0.08349168212700755]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 11, loss: -2.6868948936462402
+w: [0.09921315701650156, 0.09350958989577436, 0.08467076967742504, 0.08963909952383015, 0.1044506626190503, 0.10300742508532366, 0.09347766869193594, 0.09778920782483207, 0.1524108451634819, 0.08183157450184511]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 12, loss: -7.236086845397949
+w: [0.09922158176992818, 0.09268788253927622, 0.08317870597782964, 0.08862374117169763, 0.1046951232525739, 0.10334389124100787, 0.09285627647766649, 0.09754934643530955, 0.15772107658338325, 0.08012237455132723]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 13, loss: -3.5307350158691406
+w: [0.09911766913768497, 0.09188871715067949, 0.0817828154594596, 0.08767754312210142, 0.10499754465146915, 0.10360728594295897, 0.09221772980677471, 0.09729325779795597, 0.16292018246360684, 0.07849725446730878]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 14, loss: -5.302431583404541
+w: [0.0990636597904765, 0.09105415706016885, 0.08033331144878489, 0.0866904457445808, 0.10536604457469992, 0.10382492087428684, 0.09158880325805703, 0.09705938980493868, 0.16816426149417438, 0.07685500594983198]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 15, loss: -5.6028337478637695
+w: [0.09892354276619689, 0.09023618007613837, 0.0789566449921752, 0.08575051812078305, 0.10561820395423817, 0.10409597518733874, 0.09089978628267725, 0.09678435279950397, 0.17340695931445008, 0.07532783650649824]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 16, loss: -7.580897331237793
+w: [0.09886084934067652, 0.08941866785003709, 0.07759618993269281, 0.0848042347551078, 0.10588821576189478, 0.10427008662602455, 0.09026943778288277, 0.09635870352902211, 0.17873164599733316, 0.07380196842432846]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 17, loss: -6.826803207397461
+w: [0.09871561256742599, 0.08857924241898335, 0.0762108194051614, 0.08384592863722794, 0.10620514333349876, 0.1045842433072915, 0.08970140527545156, 0.09601319062643925, 0.1838897271774763, 0.07225468725104381]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 18, loss: -7.2862548828125
+w: [0.09853979866800175, 0.0877910187421521, 0.0749110289122189, 0.0829688323302573, 0.10646467684076175, 0.10483984608488485, 0.08895960698808361, 0.09578955975196467, 0.18893565429895126, 0.0707999773827238]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 19, loss: -4.3920488357543945
+w: [0.09835963761852325, 0.08696464658531047, 0.07360806764019347, 0.0820151599739932, 0.10669765560223937, 0.10509427560625627, 0.08834694251237891, 0.09550839398481119, 0.1940314760352488, 0.06937374444104502]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 20, loss: -9.131754875183105
+w: [0.09823876904152878, 0.08622888145924591, 0.07237214171054854, 0.08121450298062596, 0.1068385591809218, 0.10546837246638309, 0.08775043777551622, 0.09521252812953802, 0.19864782192838326, 0.06802798532730851]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 21, loss: -4.06195068359375
+w: [0.09804429300721074, 0.08540855030852332, 0.07110016197220033, 0.08029172447017645, 0.1070755156736065, 0.1059065444187729, 0.08704549594969285, 0.09495845064021481, 0.20352180213447862, 0.06664746142512336]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 22, loss: -5.946147441864014
+w: [0.09779808783067577, 0.08462331127975349, 0.06992054125158485, 0.07938541990896965, 0.10729907875568108, 0.1060874792519677, 0.08636225091158234, 0.09481115385098289, 0.20836268847884434, 0.06534998847995772]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 23, loss: -5.939668655395508
+w: [0.09757371572321853, 0.08387310097753799, 0.06871774694010745, 0.07852304805012413, 0.1076074688647865, 0.1062237246060565, 0.08581152950234024, 0.09461594498634045, 0.21289662651029606, 0.06415709383919208]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 24, loss: -9.59654712677002
+w: [0.0973456570026334, 0.08315935635575496, 0.06750419589700969, 0.07766355629688153, 0.10773445925754829, 0.10636937889054678, 0.085273841314783, 0.094452593362214, 0.21753328722271464, 0.06296367439991384]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 25, loss: -7.051320552825928
+w: [0.09707026700297523, 0.08245637046371262, 0.06631216055863982, 0.0768420705538531, 0.10785935565403511, 0.10640620882619316, 0.08475903926260002, 0.09416635145489032, 0.22232778647058546, 0.06180038975251518]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 26, loss: -5.575326919555664
+w: [0.09674134346573926, 0.08169192098068195, 0.06512878279413035, 0.07596711502900379, 0.10804870496247047, 0.1064461719736918, 0.0842560893558669, 0.09385321756126884, 0.22717946142808904, 0.06068719244905756]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 27, loss: -7.706199645996094
+w: [0.09648716428367937, 0.08095998922373411, 0.06402947353612085, 0.0751497752706149, 0.10821283024616397, 0.10652848957105282, 0.0837842988054653, 0.09374014741210565, 0.2314794698393987, 0.05962836181166425]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 28, loss: -6.507959365844727
+w: [0.09618382285665221, 0.08028968020933916, 0.06293493874918674, 0.07439151695820645, 0.10849390720836734, 0.1066664238364587, 0.08334299568335624, 0.09356019132270861, 0.23556170485411054, 0.058574818321614014]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 29, loss: -6.170258522033691
+w: [0.09586708418192628, 0.0795855051704564, 0.06182760204017946, 0.07359079429805022, 0.10862308565836849, 0.10676784324374047, 0.08284355818157459, 0.0935176754887003, 0.23979189196240647, 0.05758495977459729]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 30, loss: -7.241127014160156
+w: [0.09551504349920242, 0.07884181060694016, 0.06075622475662008, 0.07276390464455823, 0.1087439961921234, 0.10683938186600922, 0.08243333059231048, 0.09337944560674706, 0.24410141072935682, 0.05662545150613207]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 31, loss: -7.61565637588501
+w: [0.09511082981332358, 0.07815991336384458, 0.05970781443093573, 0.07205159477016172, 0.10894110688186455, 0.10697794010119414, 0.0819828481589121, 0.09326100603962788, 0.24808785769059422, 0.05571908874954171]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 32, loss: -4.981461524963379
+w: [0.09474786678884088, 0.07749471339423745, 0.058668047856208966, 0.07129225439898826, 0.10912772305431352, 0.10708584094083498, 0.08156709756327447, 0.09320232594441141, 0.25200270202225217, 0.054811428036637945]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 33, loss: -10.092484474182129
+w: [0.09437014324376122, 0.07684622933809584, 0.05766145489038039, 0.07056373574311352, 0.10933067876476321, 0.10715796653382105, 0.08109523345769494, 0.09303009391796574, 0.2559905886220785, 0.053953875488325406]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 34, loss: -8.668964385986328
+w: [0.09403305814105335, 0.0762524076694814, 0.05664468878455107, 0.06986294966079971, 0.10959139639869972, 0.1071861416171106, 0.08069603907034527, 0.09288218565972042, 0.2597646748246552, 0.05308645817358313]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 35, loss: -4.08664608001709
+w: [0.09365881697214863, 0.07561354896785562, 0.05565420558482155, 0.06918329308720803, 0.10968767786267995, 0.10731822440195675, 0.08029531532431144, 0.09271314065078964, 0.2636065602634784, 0.0522692168847501]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 36, loss: -5.264158248901367
+w: [0.09328120497668455, 0.07499546829756557, 0.05471581154819145, 0.0683961689901053, 0.10973897050789452, 0.10748255815037426, 0.07990006187643922, 0.09263542582916877, 0.2673862867920925, 0.051468043031484036]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 37, loss: -7.636842250823975
+w: [0.09290116084940972, 0.07432811332406516, 0.053806120010002886, 0.06767714827541903, 0.10986556034437896, 0.10749046558775628, 0.07953975747619403, 0.09249956425105756, 0.2711865430178323, 0.050705566863884236]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 38, loss: -7.057293891906738
+w: [0.09254318287154994, 0.07367969204365099, 0.05288830649095321, 0.06692193549784078, 0.10994615135312183, 0.10748486338305899, 0.07903843187004626, 0.09241405909187729, 0.275098135075592, 0.04998524232230876]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 39, loss: -2.1396961212158203
+w: [0.09209921816690098, 0.07298162934420246, 0.05195750306129813, 0.06616735173149348, 0.11008777125104229, 0.1074978779808764, 0.07862965020293815, 0.09225797191665042, 0.27906842031191864, 0.04925260603267896]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 40, loss: -6.226752281188965
+w: [0.09167199120993141, 0.0723729440252189, 0.05108574745092061, 0.06545118247477698, 0.11016106058721213, 0.10754588608164652, 0.07817396742582544, 0.09214490858554127, 0.2828569549417122, 0.04853535721721454]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 41, loss: -3.9229979515075684
+w: [0.09130569565694197, 0.07175983103503215, 0.05021187414587061, 0.0647014575696577, 0.11036279446747714, 0.10748541569299236, 0.07765531721350426, 0.09205464249931208, 0.28661473314504393, 0.04784823857416777]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 42, loss: -0.9871845245361328
+w: [0.09088862570618438, 0.07116250045911302, 0.04935992695863749, 0.06399034037100557, 0.11049283640933884, 0.10748352062986367, 0.07737316543899941, 0.09211571241196101, 0.2899441964341495, 0.04718917518074722]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 43, loss: -6.782234191894531
+w: [0.09050961847548944, 0.07047732622807996, 0.048549243977445554, 0.06321701707548603, 0.11055550410073095, 0.10745495780273209, 0.0770250040796293, 0.09206739395441345, 0.29358202157674024, 0.04656191272925308]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 44, loss: -5.003594875335693
+w: [0.09008249293214245, 0.06984011907836046, 0.04774419143148288, 0.06249491240602087, 0.1106121246965405, 0.10745336460496466, 0.07670786063156085, 0.09194258113440999, 0.2972040909608, 0.04591826212371727]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 45, loss: -6.830158233642578
+w: [0.0896425224325111, 0.06915379924604126, 0.0469306591285763, 0.06174182057470284, 0.11073577512185621, 0.10751018676099197, 0.07627593331102595, 0.09184305126714486, 0.30083898212851284, 0.04532727002863653]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 46, loss: -7.916975021362305
+w: [0.08921502931589334, 0.06857069669124531, 0.04609964683229405, 0.06103210158532099, 0.11092106601593492, 0.10751044068552396, 0.0759143140982575, 0.09185842831184533, 0.30416221134919186, 0.044716065114492755]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 47, loss: -4.098410606384277
+w: [0.08888194381394207, 0.06796864973697893, 0.04528988245533641, 0.06035690988384925, 0.11109694167448442, 0.1074115789253357, 0.07560486408391723, 0.09182870716858132, 0.3074269550116411, 0.04413356724593362]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 48, loss: -1.6479392051696777
+w: [0.08849493810153178, 0.06737294361936497, 0.044550142511106595, 0.05966900317056148, 0.11119388774545041, 0.10740666118275632, 0.07534511336823281, 0.09178185056025748, 0.3105970141281305, 0.043588445612607774]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 49, loss: -1.3768749237060547
+w: [0.08820932912455491, 0.06680714005795381, 0.04383743931394883, 0.058925718422985066, 0.11126954044506748, 0.10733582630300234, 0.07495751524138092, 0.09175956936800318, 0.3138377057503761, 0.04306021597272742]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 0, loss: -3.681291103363037
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 1, loss: -3.9801840782165527
+w: [0.09986989856827705, 0.10010488901196136, 0.09970235081184742, 0.09976814092368273, 0.10020377456039023, 0.09975110730321811, 0.09996706658972052, 0.10019004189414912, 0.1009287391066714, 0.09951399123008199]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 2, loss: -4.328240871429443
+w: [0.09969668975337563, 0.09981427619059072, 0.09839069684804719, 0.09894875745513793, 0.10064035562290126, 0.09971998557954069, 0.09952025489907262, 0.10027193588248824, 0.10485502546367233, 0.09814202230517331]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 3, loss: -7.826550483703613
+w: [0.09952157135197773, 0.09932017891594215, 0.09690144354142084, 0.09803256513470644, 0.10116488159301128, 0.10012879195674364, 0.09894399844772953, 0.10013752988261936, 0.10943769948895295, 0.09641133968689625]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 4, loss: -8.608195304870605
+w: [0.09943861806491017, 0.09883012501177438, 0.09541452556987479, 0.09712322183054799, 0.10167654658639017, 0.1004453603476796, 0.09825591901040451, 0.09996898816377942, 0.11421686893430787, 0.09462982648033112]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 5, loss: -7.0184221267700195
+w: [0.09934356786573437, 0.0981864293727668, 0.09383597405670134, 0.09604609742650451, 0.10219604432490906, 0.10070365141503258, 0.09756336603680305, 0.09974656860681924, 0.11961526495416827, 0.09276303594056078]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 6, loss: -6.234223365783691
+w: [0.09935759035144, 0.09741168935670606, 0.09227608491275621, 0.09499376793356715, 0.10258926471343353, 0.10102627534357289, 0.09688892206216779, 0.09949555054442968, 0.12508361703541118, 0.09087723774651538]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 7, loss: -3.4226889610290527
+w: [0.09935298507759434, 0.09667288455681196, 0.09067489629592544, 0.09389568851578742, 0.10307751528602516, 0.10140967431229168, 0.09617572940938386, 0.0991756244671296, 0.13064016396831152, 0.08892483811073898]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 8, loss: -7.96304988861084
+w: [0.09935241787376049, 0.09588994130791861, 0.08912819898160543, 0.092831714274749, 0.10344495643389555, 0.10168452201206708, 0.09555929673365049, 0.09880572773433871, 0.13618616344363058, 0.08711706120438406]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 9, loss: -4.039733409881592
+w: [0.09929739547450864, 0.09504613323835352, 0.08758186681888641, 0.09172362594470691, 0.10383164741859857, 0.10216289873190812, 0.09492242635793813, 0.09850810710782636, 0.14162670204229377, 0.0852991968649796]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 10, loss: -6.605408668518066
+w: [0.09925458610331406, 0.09426818241113583, 0.08608648267600483, 0.09070540890874026, 0.1041767131023677, 0.10261530776180054, 0.09413306977598336, 0.0981736704116205, 0.1470948967220254, 0.08349168212700755]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 11, loss: -2.6868948936462402
+w: [0.09921315701650156, 0.09350958989577436, 0.08467076967742504, 0.08963909952383015, 0.1044506626190503, 0.10300742508532366, 0.09347766869193594, 0.09778920782483207, 0.1524108451634819, 0.08183157450184511]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 12, loss: -7.236086845397949
+w: [0.09922158176992818, 0.09268788253927622, 0.08317870597782964, 0.08862374117169763, 0.1046951232525739, 0.10334389124100787, 0.09285627647766649, 0.09754934643530955, 0.15772107658338325, 0.08012237455132723]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 13, loss: -3.5307350158691406
+w: [0.09911766913768497, 0.09188871715067949, 0.0817828154594596, 0.08767754312210142, 0.10499754465146915, 0.10360728594295897, 0.09221772980677471, 0.09729325779795597, 0.16292018246360684, 0.07849725446730878]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 14, loss: -5.302431583404541
+w: [0.0990636597904765, 0.09105415706016885, 0.08033331144878489, 0.0866904457445808, 0.10536604457469992, 0.10382492087428684, 0.09158880325805703, 0.09705938980493868, 0.16816426149417438, 0.07685500594983198]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 15, loss: -5.6028337478637695
+w: [0.09892354276619689, 0.09023618007613837, 0.0789566449921752, 0.08575051812078305, 0.10561820395423817, 0.10409597518733874, 0.09089978628267725, 0.09678435279950397, 0.17340695931445008, 0.07532783650649824]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 16, loss: -7.580897331237793
+w: [0.09886084934067652, 0.08941866785003709, 0.07759618993269281, 0.0848042347551078, 0.10588821576189478, 0.10427008662602455, 0.09026943778288277, 0.09635870352902211, 0.17873164599733316, 0.07380196842432846]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 17, loss: -6.826803207397461
+w: [0.09871561256742599, 0.08857924241898335, 0.0762108194051614, 0.08384592863722794, 0.10620514333349876, 0.1045842433072915, 0.08970140527545156, 0.09601319062643925, 0.1838897271774763, 0.07225468725104381]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 18, loss: -7.2862548828125
+w: [0.09853979866800175, 0.0877910187421521, 0.0749110289122189, 0.0829688323302573, 0.10646467684076175, 0.10483984608488485, 0.08895960698808361, 0.09578955975196467, 0.18893565429895126, 0.0707999773827238]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 19, loss: -4.3920488357543945
+w: [0.09835963761852325, 0.08696464658531047, 0.07360806764019347, 0.0820151599739932, 0.10669765560223937, 0.10509427560625627, 0.08834694251237891, 0.09550839398481119, 0.1940314760352488, 0.06937374444104502]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 20, loss: -9.131754875183105
+w: [0.09823876904152878, 0.08622888145924591, 0.07237214171054854, 0.08121450298062596, 0.1068385591809218, 0.10546837246638309, 0.08775043777551622, 0.09521252812953802, 0.19864782192838326, 0.06802798532730851]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 21, loss: -4.06195068359375
+w: [0.09804429300721074, 0.08540855030852332, 0.07110016197220033, 0.08029172447017645, 0.1070755156736065, 0.1059065444187729, 0.08704549594969285, 0.09495845064021481, 0.20352180213447862, 0.06664746142512336]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 22, loss: -5.946147441864014
+w: [0.09779808783067577, 0.08462331127975349, 0.06992054125158485, 0.07938541990896965, 0.10729907875568108, 0.1060874792519677, 0.08636225091158234, 0.09481115385098289, 0.20836268847884434, 0.06534998847995772]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 23, loss: -5.939668655395508
+w: [0.09757371572321853, 0.08387310097753799, 0.06871774694010745, 0.07852304805012413, 0.1076074688647865, 0.1062237246060565, 0.08581152950234024, 0.09461594498634045, 0.21289662651029606, 0.06415709383919208]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 24, loss: -9.59654712677002
+w: [0.0973456570026334, 0.08315935635575496, 0.06750419589700969, 0.07766355629688153, 0.10773445925754829, 0.10636937889054678, 0.085273841314783, 0.094452593362214, 0.21753328722271464, 0.06296367439991384]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 25, loss: -7.051320552825928
+w: [0.09707026700297523, 0.08245637046371262, 0.06631216055863982, 0.0768420705538531, 0.10785935565403511, 0.10640620882619316, 0.08475903926260002, 0.09416635145489032, 0.22232778647058546, 0.06180038975251518]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 26, loss: -5.575326919555664
+w: [0.09674134346573926, 0.08169192098068195, 0.06512878279413035, 0.07596711502900379, 0.10804870496247047, 0.1064461719736918, 0.0842560893558669, 0.09385321756126884, 0.22717946142808904, 0.06068719244905756]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 27, loss: -7.706199645996094
+w: [0.09648716428367937, 0.08095998922373411, 0.06402947353612085, 0.0751497752706149, 0.10821283024616397, 0.10652848957105282, 0.0837842988054653, 0.09374014741210565, 0.2314794698393987, 0.05962836181166425]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 28, loss: -6.507959365844727
+w: [0.09618382285665221, 0.08028968020933916, 0.06293493874918674, 0.07439151695820645, 0.10849390720836734, 0.1066664238364587, 0.08334299568335624, 0.09356019132270861, 0.23556170485411054, 0.058574818321614014]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 29, loss: -6.222626686096191
+w: [0.09586708418192628, 0.0795855051704564, 0.06182760204017946, 0.07359079429805022, 0.10862308565836849, 0.10676784324374047, 0.08284355818157459, 0.0935176754887003, 0.23979189196240647, 0.05758495977459729]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 30, loss: -6.351484298706055
+w: [0.09551504718122131, 0.07884180722072122, 0.060756232439848484, 0.07276391179687329, 0.10874397714520814, 0.10683937379294796, 0.08243333865852115, 0.09337943261341497, 0.24410141657504783, 0.056625462576195496]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 31, loss: -8.902613639831543
+w: [0.09513935260510396, 0.07819601120741804, 0.05968499874569158, 0.07201703039648118, 0.10894717817988768, 0.10700165972695246, 0.08200474731686024, 0.09324101846137478, 0.24806699248881983, 0.05570101087141035]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 32, loss: -4.864700794219971
+w: [0.09478602545850223, 0.07750771328212429, 0.05864362115727762, 0.07124903045341284, 0.10914955196955879, 0.10704294477450105, 0.08156338463204707, 0.09308432339681558, 0.25220096663587754, 0.05477243823988314]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 33, loss: -7.771522521972656
+w: [0.09439626000011302, 0.07682462398403822, 0.05763626484615225, 0.07044605625744219, 0.10928551694062558, 0.10702298327131132, 0.08110402131536112, 0.09290125031028156, 0.2565278994996624, 0.053855123575012445]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 34, loss: -8.008565902709961
+w: [0.09400794999958165, 0.07616123591665123, 0.05661105226910709, 0.06967980948509202, 0.10950177110500468, 0.10700937000292358, 0.08066765306139775, 0.09273430370257688, 0.26065722118009227, 0.05296963327757264]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 35, loss: -6.666478633880615
+w: [0.09363229310029653, 0.07549086877373479, 0.05559966135939297, 0.06898775085988622, 0.10965196133262528, 0.10698026989930641, 0.08022844621101116, 0.09263115630644188, 0.2646226127000852, 0.05217497945721958]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 36, loss: -3.9544291496276855
+w: [0.09334345756161011, 0.07489028903797795, 0.0546790913367214, 0.06832501697294016, 0.10977970446129982, 0.10702085415456318, 0.07976115655837919, 0.09240651705465959, 0.2684242999535972, 0.051369612908251344]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 37, loss: -1.2546138763427734
+w: [0.09298652085914427, 0.07428338697614671, 0.05373313186027504, 0.06759915408492691, 0.10979530827743116, 0.1070705532320074, 0.07936979647643262, 0.09229472188450524, 0.2722535483858051, 0.0506138779633255]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 38, loss: -4.34333610534668
+w: [0.09254838001087262, 0.07361770272658595, 0.052786631738218855, 0.06695327136181761, 0.11003789245252424, 0.10696829631307267, 0.07894711345902737, 0.09215452341428722, 0.27614719248580194, 0.04983899603779131]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 39, loss: -4.5589447021484375
+w: [0.09220493962338043, 0.07303777117284979, 0.05193697387602003, 0.06617911875444653, 0.11012633610167004, 0.10691311436537786, 0.07847835398381696, 0.09208443696524843, 0.27990509418631526, 0.0491338609708746]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 40, loss: -5.814209938049316
+w: [0.09170428942691532, 0.07245480296908571, 0.05106595759941032, 0.06546453306702028, 0.11019976369568288, 0.10687966948321494, 0.07808326540328003, 0.09203372608582405, 0.28370163913087487, 0.048412353138691716]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 41, loss: -2.4191718101501465
+w: [0.0913126382306821, 0.0718144163817932, 0.05021916003665796, 0.06476311784797924, 0.1103125689289571, 0.10685153690099028, 0.07773371246922094, 0.09195508719347656, 0.2873037269630841, 0.04773403504715861]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 42, loss: -3.0135350227355957
+w: [0.0909516189275006, 0.07120437716905653, 0.049367701399081934, 0.06398381357330608, 0.11041931724243821, 0.10672964021606932, 0.07734832847371312, 0.09176112559568052, 0.29118369308283854, 0.0470503843203151]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 43, loss: -6.38090181350708
+w: [0.09049960951846116, 0.07062358187168497, 0.04854060736117228, 0.06328759708254288, 0.11051615102126243, 0.10678776184440229, 0.07696393434562857, 0.09172438855781283, 0.29462947470468076, 0.04642689369235178]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 44, loss: -4.906117916107178
+w: [0.09004917206824606, 0.0700577691792799, 0.04770514682447801, 0.06253643374778148, 0.11069507397510817, 0.10676628127718947, 0.07653409753466317, 0.09170486033291506, 0.29814825291854563, 0.045802912141793155]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 45, loss: -2.1037421226501465
+w: [0.08967996586106113, 0.06959720013202973, 0.046919725503143835, 0.06182801674905053, 0.11083076190191128, 0.10674884174946932, 0.07615937165586334, 0.0916650409148515, 0.30134082081893643, 0.045230254713682756]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 46, loss: -2.4088711738586426
+w: [0.08916357102542932, 0.069094544560165, 0.04612368074750584, 0.061222754951718285, 0.11095535885927583, 0.10676604273897007, 0.0757506192575806, 0.09159315358695155, 0.3047061849648412, 0.04462408930756221]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 47, loss: -0.904548168182373
+w: [0.08872325972494047, 0.06858612011064995, 0.04539289910870759, 0.06060696094414932, 0.11095598076005858, 0.10683320858717767, 0.0753818148917183, 0.09147668642920344, 0.30796536520482026, 0.04407770423857441]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 48, loss: -6.207049369812012
+w: [0.0882989959930591, 0.06800937751802058, 0.04467522932080922, 0.0600168914841529, 0.11103396775059221, 0.10679114556830326, 0.07513466321243036, 0.0914070379269984, 0.3110640045694847, 0.0435686866561492]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+
+n_iters: 10, iter_w: 49, loss: -2.055309772491455
+w: [0.0877306137168951, 0.067434428179364, 0.04395142988026384, 0.05937299809057543, 0.11109373050450203, 0.10682604802970717, 0.07484083984197451, 0.09140943209127633, 0.3142556509611187, 0.04308482870432298]
+label victim: (637, 'mailbox, letter box')
+label wb 0: (637, 'mailbox, letter box')
+label wb 1: (637, 'mailbox, letter box')
+label wb 2: (637, 'mailbox, letter box')
+label wb 3: (637, 'mailbox, letter box')
+label wb 4: (637, 'mailbox, letter box')
+label wb 5: (637, 'mailbox, letter box')
+label wb 6: (637, 'mailbox, letter box')
+label wb 7: (637, 'mailbox, letter box')
+label wb 8: (637, 'mailbox, letter box')
+label wb 9: (637, 'mailbox, letter box')
+
+

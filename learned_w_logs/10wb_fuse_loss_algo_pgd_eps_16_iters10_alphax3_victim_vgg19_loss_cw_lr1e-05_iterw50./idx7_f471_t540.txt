@@ -1,0 +1,1500 @@
+n_iters: 10, iter_w: 0, loss: -1.7469482421875
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 1, loss: -0.6118946075439453
+w: [0.10024542835693526, 0.10015883363823853, 0.09986460504252873, 0.09980298598507026, 0.10010379450289372, 0.10019561860253184, 0.09973384955412852, 0.09987334497054282, 0.10014895962861242, 0.09987257971851785]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 2, loss: -4.085335731506348
+w: [0.10066166515234538, 0.10051959879716088, 0.09927567692351599, 0.09922116790834021, 0.1006702995984765, 0.10062477858441579, 0.09876155919145954, 0.0994607572393765, 0.10175009831590004, 0.09905439828900921]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 3, loss: -4.631845474243164
+w: [0.10107739938412102, 0.10078992269782935, 0.09861176132477875, 0.09841681377167939, 0.10165687677206575, 0.10107252798085015, 0.09762311836447515, 0.09897637419228204, 0.10390531400931297, 0.09786989150260542]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 4, loss: -4.766815185546875
+w: [0.10147673139739435, 0.10103820089479806, 0.09784285439328592, 0.0974396942144013, 0.10280352350922291, 0.10173254757218346, 0.09627970697158018, 0.09824708763491466, 0.10657922835608057, 0.09656042505613847]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 5, loss: -7.149726867675781
+w: [0.10204132380784402, 0.10119976376775122, 0.09702552019181948, 0.09639646648338202, 0.10394393139199597, 0.1024408604856198, 0.09487941292575895, 0.09754509485410753, 0.1093839697993919, 0.09514365629232915]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 6, loss: -9.396328926086426
+w: [0.10255959334094224, 0.10134315507014276, 0.09613303305757123, 0.09530624907624302, 0.10506707897816725, 0.10333346888670224, 0.0933981091127837, 0.0968564455172391, 0.11232201706749202, 0.09368084989271638]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 7, loss: -7.479544639587402
+w: [0.10302182599434648, 0.10146924973332873, 0.09518495211438176, 0.0941350719856321, 0.10607543254049559, 0.10422693279442266, 0.09198305940198884, 0.09608506908293674, 0.11565394707171649, 0.09216445928075065]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 8, loss: -5.251025199890137
+w: [0.10356322958931934, 0.10167275241478232, 0.09424128532197697, 0.09295323986885007, 0.1072080760485628, 0.1051423300731648, 0.09052712092171748, 0.0953463531520705, 0.11871574210906602, 0.09062987050048958]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 9, loss: -5.012950897216797
+w: [0.10400414003130434, 0.10177705899144338, 0.09324101294402046, 0.09172480177543142, 0.10845643796033241, 0.10606324855639498, 0.089099296720213, 0.0945786354526679, 0.12198076796714688, 0.0890745996010453]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 10, loss: -5.655614852905273
+w: [0.10453669813219157, 0.10191985742258101, 0.0922880275612185, 0.09053161130993848, 0.10963487364001356, 0.10690203791381805, 0.08770012142058994, 0.09379325143787354, 0.12513481083023717, 0.08755871033153824]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 11, loss: -5.709420204162598
+w: [0.10496403460401973, 0.10191692202707894, 0.09130043439057395, 0.08930596289969923, 0.1109867643783719, 0.10786426398961363, 0.08633898552121651, 0.09310805224275237, 0.12821908774240234, 0.08599549220427141]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 12, loss: -6.658675193786621
+w: [0.10538599317651473, 0.1018846765989904, 0.09032805506094868, 0.08808085436536242, 0.11223092982488533, 0.10876974766371039, 0.08485327543312945, 0.09240114793176141, 0.1315723531581532, 0.08449296678654396]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 13, loss: -6.667878150939941
+w: [0.10584827288678962, 0.1018768021384379, 0.08939688394724103, 0.08694886582601256, 0.1134124823670105, 0.10942200299775746, 0.0835565356374305, 0.09163391794145949, 0.13483616728791747, 0.08306806896994347]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 14, loss: -6.469453811645508
+w: [0.10621891892113779, 0.1018318108052577, 0.08845318979683121, 0.0857532586327558, 0.11471044482694105, 0.11017230613596417, 0.08220214773163619, 0.09094537999990909, 0.13815329162184847, 0.08155925152771851]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 15, loss: -6.93790340423584
+w: [0.10670065312383124, 0.10176802769042409, 0.08747945323710773, 0.08463879928401785, 0.11597360803736981, 0.11088796934519404, 0.08085930100311062, 0.09021168708043104, 0.14134439658452239, 0.08013610461399127]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 16, loss: -2.33474063873291
+w: [0.10715343428994108, 0.10178872366191409, 0.0864887239470902, 0.08358377153878485, 0.11724571010769844, 0.11169705304007432, 0.07950296516845626, 0.08953056341180857, 0.14427357856378858, 0.07873547627044376]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 17, loss: -6.330300331115723
+w: [0.10767386301218175, 0.10173802764182725, 0.08549930133210007, 0.0824775179755277, 0.11837058027095324, 0.11258939154933688, 0.07818158743546125, 0.08889783982272632, 0.14723566591766576, 0.07733622504221965]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 18, loss: -3.759836196899414
+w: [0.10802621576630601, 0.10174926384329941, 0.0845753926374885, 0.08137828987609473, 0.11960752475177026, 0.11329972879644684, 0.07682945902006441, 0.08815833737386483, 0.15036943752499163, 0.07600635040967349]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 19, loss: -8.128297805786133
+w: [0.10837975331841143, 0.10176024193680762, 0.08363694792836658, 0.08032333883554123, 0.12079776360797732, 0.11403426253604483, 0.07550580307562584, 0.08750007788232236, 0.1533848901305386, 0.07467692074836418]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 20, loss: -6.30007266998291
+w: [0.10869053931350571, 0.10183300143476257, 0.08274928182106156, 0.07931893498058402, 0.121935340008536, 0.11461065916803416, 0.07432013551490244, 0.08679538372635866, 0.1563382845189111, 0.07340843951334369]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 21, loss: -7.716374397277832
+w: [0.10900675378139285, 0.10184730815994161, 0.0818534984173256, 0.07827961488650521, 0.12314748753822233, 0.11538594352179161, 0.07317766454259246, 0.08620407115507388, 0.15892221316152425, 0.07217544483563015]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 22, loss: -4.938817024230957
+w: [0.10935612458523454, 0.10182859831644023, 0.08098616845188208, 0.07723343061275126, 0.12426254839450716, 0.11619178626298099, 0.07191163269475771, 0.08554191653977128, 0.16171268692076143, 0.07097510722091324]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 23, loss: -5.208025932312012
+w: [0.10965690035017375, 0.10187572651403075, 0.08015021638463814, 0.07624236947796292, 0.1253564894523241, 0.1169417310455309, 0.07074520037173797, 0.08487202911640154, 0.16434866882039448, 0.06981066846680545]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 24, loss: -7.715027809143066
+w: [0.10991690964951606, 0.1018080475775694, 0.07926981692077982, 0.07527810802156217, 0.12650697810036543, 0.11776744713561227, 0.06967427160367128, 0.0842410721521263, 0.16683618996468716, 0.06870115887411025]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 25, loss: -10.561802864074707
+w: [0.11013190755893325, 0.10161774251909005, 0.0783521505778673, 0.07434940115743409, 0.12771003841363046, 0.11853941184080959, 0.06853403616324508, 0.08366585718190055, 0.16950928488185654, 0.0675901697052332]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 26, loss: -6.591132164001465
+w: [0.11028793707737328, 0.10149136431762854, 0.07752767579911349, 0.07343818419386909, 0.12886454332507863, 0.11932221801323922, 0.06751152901058428, 0.08314660585394934, 0.17187078990235308, 0.06653915250681099]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 27, loss: -4.201974868774414
+w: [0.11045566649376584, 0.10140472169827353, 0.07672219645342525, 0.0725649607855146, 0.13004230186934823, 0.1199128238296066, 0.06642920601906874, 0.08260770113371989, 0.17436780009325922, 0.06549262162401823]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 28, loss: -5.572691917419434
+w: [0.11061535092684485, 0.10124600454498867, 0.07588571233330761, 0.07173632957637674, 0.1310618729759925, 0.12056466627077224, 0.06538677731762468, 0.08203399832555192, 0.17700239479275767, 0.0644668929357831]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 29, loss: -7.087308883666992
+w: [0.11084764079966533, 0.1010747923206086, 0.07500086985176863, 0.0708392892275603, 0.1320202014422673, 0.1213670343338687, 0.06438605832062314, 0.08151661469054516, 0.17948981716521917, 0.06345768184787373]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 30, loss: -4.010008811950684
+w: [0.11096889836052015, 0.10085346369709737, 0.07412884279461952, 0.07001790034706738, 0.13305413770390714, 0.12204928503869154, 0.06342432652655569, 0.08096626863159767, 0.18202305544524106, 0.06251382145470234]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 31, loss: -6.297338485717773
+w: [0.11113223750349659, 0.10071665441099135, 0.0732718953591696, 0.06922428481717398, 0.13396380549431786, 0.12272357126750712, 0.0624968042737297, 0.08044788188179959, 0.18443741869644714, 0.06158544629536712]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 32, loss: -3.063958168029785
+w: [0.11118458796157803, 0.10052703144298064, 0.07244941246141032, 0.0684827836344142, 0.13493439665850507, 0.12331928852180708, 0.06159739057254274, 0.07995048611968811, 0.18690513378860027, 0.0606494888384737]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 33, loss: -5.321028709411621
+w: [0.11129740434481784, 0.1003539299845662, 0.07163115567249721, 0.06771534833139366, 0.13590183843737766, 0.12395065997821565, 0.06065715741465776, 0.07945601097362341, 0.18933567945023877, 0.059700815412611755]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 34, loss: -6.361620903015137
+w: [0.11144186568523629, 0.10013089397863682, 0.07094695193182811, 0.06699689772519458, 0.1366670496217708, 0.12459739478802774, 0.05968527033263687, 0.07890260126871507, 0.19180344023883297, 0.058827634429120736]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 35, loss: -6.778322219848633
+w: [0.11153476380031226, 0.09986293024701583, 0.07018082749704323, 0.0662583564882683, 0.1376940985090514, 0.1252237286704216, 0.058887559468442666, 0.07842286677357092, 0.1939234203931633, 0.058011448152710664]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 36, loss: -4.866302490234375
+w: [0.11159543058303212, 0.09968815046271107, 0.06937269311155034, 0.06550091656062669, 0.13868280660681467, 0.12588257196309632, 0.05793866171269744, 0.07789157878137468, 0.19629303312069063, 0.05715415709740592]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 37, loss: -6.857730865478516
+w: [0.11169361379822368, 0.09950417826564664, 0.06856163766010491, 0.06474108208577385, 0.13956758026952717, 0.12649310727856028, 0.05714725039601373, 0.07743679486010181, 0.19850299773932673, 0.05635175764672122]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 38, loss: -2.532329559326172
+w: [0.11178557962210599, 0.09926538330863806, 0.06778959804774902, 0.0640180701188146, 0.14035904082713765, 0.1270716610848898, 0.05636723104469946, 0.07699461798380881, 0.2007316509995163, 0.055617166962640456]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 39, loss: -4.471182823181152
+w: [0.11190887551723473, 0.09893671462630844, 0.06706349649694082, 0.06334680069608382, 0.14128681569452264, 0.1275689064011247, 0.05558909744521278, 0.07654042733445672, 0.20294818258607, 0.05481068320204545]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 40, loss: -4.830230712890625
+w: [0.11197851872750064, 0.09876178233547492, 0.06637518794503644, 0.0626731493206855, 0.14194618986154187, 0.12828522410627965, 0.054783316386107964, 0.07600683068506991, 0.20517555317277872, 0.0540142474595245]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 41, loss: -5.6042585372924805
+w: [0.11203256000695096, 0.09846454867702072, 0.06568686972127179, 0.062070453392004066, 0.14285199670177995, 0.12878186817627765, 0.05396233734509882, 0.0756174205425369, 0.2072131453800237, 0.053318800057035404]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 42, loss: -5.283541679382324
+w: [0.11215010456095022, 0.09821250344471377, 0.06503974288155784, 0.06144943159086544, 0.14354333853063866, 0.1292023854381805, 0.053182515365188414, 0.07522686494404096, 0.20936725990849744, 0.05262585333536661]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 43, loss: -5.603253364562988
+w: [0.11225185322112707, 0.09790393160355863, 0.06436390882223736, 0.06078525038246661, 0.14446117739957626, 0.1297368556888185, 0.05240972050753252, 0.07473193124237977, 0.21141511562788426, 0.05194025550441912]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 44, loss: -5.02352237701416
+w: [0.11234681730987418, 0.09765985899266777, 0.06366853232235099, 0.06015114979758727, 0.14516407230984726, 0.1302608149868153, 0.05171021217212756, 0.07425301362770674, 0.21350408372215118, 0.051281444758871655]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 45, loss: -4.996010780334473
+w: [0.11255065812533156, 0.09744717889167306, 0.06290863152897126, 0.05956796931113578, 0.14592282127340575, 0.1308073871528739, 0.0510096006991003, 0.07392089666961008, 0.2152319586910396, 0.05063289765685869]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 46, loss: -7.160592079162598
+w: [0.11266783971717129, 0.09723882393709864, 0.062209947089596186, 0.059018575596175835, 0.14644320308087466, 0.13124785620571938, 0.05032419955110598, 0.07350771087337486, 0.2173790410660007, 0.04996280288288238]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 47, loss: -3.7496347427368164
+w: [0.11275681870383052, 0.09701080295400788, 0.061493854955161076, 0.058479997984404605, 0.14703039270593354, 0.13154869186648713, 0.04971246974281942, 0.07316658130164957, 0.21946778656853821, 0.04933260321716801]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 48, loss: -6.688950538635254
+w: [0.1128426324741406, 0.09677825133152516, 0.060752354626109985, 0.057895375601156165, 0.14777311589535339, 0.13206871191015143, 0.049071231329612525, 0.07275889960347146, 0.2213435919847056, 0.04871583524377351]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 49, loss: -9.006229400634766
+w: [0.11294705355758358, 0.09653067517029613, 0.060070216078291334, 0.05730123345557877, 0.14857790042982605, 0.13253404205714137, 0.048473805224701697, 0.07234214412225916, 0.2231179576164171, 0.04810497228790473]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 0, loss: -1.7469482421875
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 1, loss: -0.6118946075439453
+w: [0.10024542835693526, 0.10015883363823853, 0.09986460504252873, 0.09980298598507026, 0.10010379450289372, 0.10019561860253184, 0.09973384955412852, 0.09987334497054282, 0.10014895962861242, 0.09987257971851785]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 2, loss: -4.085335731506348
+w: [0.10066166515234538, 0.10051959879716088, 0.09927567692351599, 0.09922116790834021, 0.1006702995984765, 0.10062477858441579, 0.09876155919145954, 0.0994607572393765, 0.10175009831590004, 0.09905439828900921]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 3, loss: -4.631845474243164
+w: [0.10107739938412102, 0.10078992269782935, 0.09861176132477875, 0.09841681377167939, 0.10165687677206575, 0.10107252798085015, 0.09762311836447515, 0.09897637419228204, 0.10390531400931297, 0.09786989150260542]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 4, loss: -4.766815185546875
+w: [0.10147673139739435, 0.10103820089479806, 0.09784285439328592, 0.0974396942144013, 0.10280352350922291, 0.10173254757218346, 0.09627970697158018, 0.09824708763491466, 0.10657922835608057, 0.09656042505613847]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 5, loss: -7.149726867675781
+w: [0.10204132380784402, 0.10119976376775122, 0.09702552019181948, 0.09639646648338202, 0.10394393139199597, 0.1024408604856198, 0.09487941292575895, 0.09754509485410753, 0.1093839697993919, 0.09514365629232915]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 6, loss: -9.396328926086426
+w: [0.10255959334094224, 0.10134315507014276, 0.09613303305757123, 0.09530624907624302, 0.10506707897816725, 0.10333346888670224, 0.0933981091127837, 0.0968564455172391, 0.11232201706749202, 0.09368084989271638]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 7, loss: -7.479544639587402
+w: [0.10302182599434648, 0.10146924973332873, 0.09518495211438176, 0.0941350719856321, 0.10607543254049559, 0.10422693279442266, 0.09198305940198884, 0.09608506908293674, 0.11565394707171649, 0.09216445928075065]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 8, loss: -5.251025199890137
+w: [0.10356322958931934, 0.10167275241478232, 0.09424128532197697, 0.09295323986885007, 0.1072080760485628, 0.1051423300731648, 0.09052712092171748, 0.0953463531520705, 0.11871574210906602, 0.09062987050048958]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 9, loss: -5.012950897216797
+w: [0.10400414003130434, 0.10177705899144338, 0.09324101294402046, 0.09172480177543142, 0.10845643796033241, 0.10606324855639498, 0.089099296720213, 0.0945786354526679, 0.12198076796714688, 0.0890745996010453]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 10, loss: -5.655614852905273
+w: [0.10453669813219157, 0.10191985742258101, 0.0922880275612185, 0.09053161130993848, 0.10963487364001356, 0.10690203791381805, 0.08770012142058994, 0.09379325143787354, 0.12513481083023717, 0.08755871033153824]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 11, loss: -5.709420204162598
+w: [0.10496403460401973, 0.10191692202707894, 0.09130043439057395, 0.08930596289969923, 0.1109867643783719, 0.10786426398961363, 0.08633898552121651, 0.09310805224275237, 0.12821908774240234, 0.08599549220427141]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 12, loss: -6.658675193786621
+w: [0.10538599317651473, 0.1018846765989904, 0.09032805506094868, 0.08808085436536242, 0.11223092982488533, 0.10876974766371039, 0.08485327543312945, 0.09240114793176141, 0.1315723531581532, 0.08449296678654396]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 13, loss: -6.667878150939941
+w: [0.10584827288678962, 0.1018768021384379, 0.08939688394724103, 0.08694886582601256, 0.1134124823670105, 0.10942200299775746, 0.0835565356374305, 0.09163391794145949, 0.13483616728791747, 0.08306806896994347]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 14, loss: -6.469453811645508
+w: [0.10621891892113779, 0.1018318108052577, 0.08845318979683121, 0.0857532586327558, 0.11471044482694105, 0.11017230613596417, 0.08220214773163619, 0.09094537999990909, 0.13815329162184847, 0.08155925152771851]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 15, loss: -6.93790340423584
+w: [0.10670065312383124, 0.10176802769042409, 0.08747945323710773, 0.08463879928401785, 0.11597360803736981, 0.11088796934519404, 0.08085930100311062, 0.09021168708043104, 0.14134439658452239, 0.08013610461399127]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 16, loss: -2.33474063873291
+w: [0.10715343428994108, 0.10178872366191409, 0.0864887239470902, 0.08358377153878485, 0.11724571010769844, 0.11169705304007432, 0.07950296516845626, 0.08953056341180857, 0.14427357856378858, 0.07873547627044376]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 17, loss: -6.330300331115723
+w: [0.10767386301218175, 0.10173802764182725, 0.08549930133210007, 0.0824775179755277, 0.11837058027095324, 0.11258939154933688, 0.07818158743546125, 0.08889783982272632, 0.14723566591766576, 0.07733622504221965]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 18, loss: -3.759836196899414
+w: [0.10802621576630601, 0.10174926384329941, 0.0845753926374885, 0.08137828987609473, 0.11960752475177026, 0.11329972879644684, 0.07682945902006441, 0.08815833737386483, 0.15036943752499163, 0.07600635040967349]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 19, loss: -8.128297805786133
+w: [0.10837975331841143, 0.10176024193680762, 0.08363694792836658, 0.08032333883554123, 0.12079776360797732, 0.11403426253604483, 0.07550580307562584, 0.08750007788232236, 0.1533848901305386, 0.07467692074836418]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 20, loss: -6.30007266998291
+w: [0.10869053931350571, 0.10183300143476257, 0.08274928182106156, 0.07931893498058402, 0.121935340008536, 0.11461065916803416, 0.07432013551490244, 0.08679538372635866, 0.1563382845189111, 0.07340843951334369]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 21, loss: -7.716374397277832
+w: [0.10900675378139285, 0.10184730815994161, 0.0818534984173256, 0.07827961488650521, 0.12314748753822233, 0.11538594352179161, 0.07317766454259246, 0.08620407115507388, 0.15892221316152425, 0.07217544483563015]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 22, loss: -4.938817024230957
+w: [0.10935612458523454, 0.10182859831644023, 0.08098616845188208, 0.07723343061275126, 0.12426254839450716, 0.11619178626298099, 0.07191163269475771, 0.08554191653977128, 0.16171268692076143, 0.07097510722091324]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 23, loss: -5.208025932312012
+w: [0.10965690035017375, 0.10187572651403075, 0.08015021638463814, 0.07624236947796292, 0.1253564894523241, 0.1169417310455309, 0.07074520037173797, 0.08487202911640154, 0.16434866882039448, 0.06981066846680545]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 24, loss: -7.715027809143066
+w: [0.10991690964951606, 0.1018080475775694, 0.07926981692077982, 0.07527810802156217, 0.12650697810036543, 0.11776744713561227, 0.06967427160367128, 0.0842410721521263, 0.16683618996468716, 0.06870115887411025]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 25, loss: -10.561802864074707
+w: [0.11013190755893325, 0.10161774251909005, 0.0783521505778673, 0.07434940115743409, 0.12771003841363046, 0.11853941184080959, 0.06853403616324508, 0.08366585718190055, 0.16950928488185654, 0.0675901697052332]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 26, loss: -6.591132164001465
+w: [0.11028793707737328, 0.10149136431762854, 0.07752767579911349, 0.07343818419386909, 0.12886454332507863, 0.11932221801323922, 0.06751152901058428, 0.08314660585394934, 0.17187078990235308, 0.06653915250681099]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 27, loss: -4.201974868774414
+w: [0.11045566649376584, 0.10140472169827353, 0.07672219645342525, 0.0725649607855146, 0.13004230186934823, 0.1199128238296066, 0.06642920601906874, 0.08260770113371989, 0.17436780009325922, 0.06549262162401823]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 28, loss: -5.572691917419434
+w: [0.11061535092684485, 0.10124600454498867, 0.07588571233330761, 0.07173632957637674, 0.1310618729759925, 0.12056466627077224, 0.06538677731762468, 0.08203399832555192, 0.17700239479275767, 0.0644668929357831]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 29, loss: -6.2322587966918945
+w: [0.11084764079966533, 0.1010747923206086, 0.07500086985176863, 0.0708392892275603, 0.1320202014422673, 0.1213670343338687, 0.06438605832062314, 0.08151661469054516, 0.17948981716521917, 0.06345768184787373]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 30, loss: -6.159905433654785
+w: [0.11097297088370099, 0.1008551655276178, 0.07412832935245396, 0.07001455140833968, 0.1330591069021658, 0.12204975127258307, 0.06342915960415467, 0.08094152721379251, 0.18203713737022584, 0.0625123004649658]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 31, loss: -5.630627632141113
+w: [0.11122456651104273, 0.10070772295891477, 0.07324432958929587, 0.06923072830345835, 0.1339776615984944, 0.12265918883724047, 0.062489438030413236, 0.08043313640823227, 0.184478385290573, 0.061554842472334746]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 32, loss: -3.8611488342285156
+w: [0.11139527973277512, 0.10051598509763664, 0.07241946162151632, 0.06849846134295495, 0.13500615179859216, 0.12329969277452435, 0.06150564683051184, 0.07991982416103101, 0.18683232123251645, 0.06060717540794132]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 33, loss: -2.687323570251465
+w: [0.1115297221720135, 0.10028392343399317, 0.07160500723275197, 0.067771445815675, 0.1360847113692878, 0.12408251427040744, 0.06055765434510603, 0.07939025085446183, 0.18903984670943033, 0.059654923796872976]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 34, loss: -4.014430999755859
+w: [0.11163350075139232, 0.10002557767567423, 0.0708209620449408, 0.06704670711751488, 0.1371334213701615, 0.12469671543179979, 0.05961264097663156, 0.07892439255954807, 0.1913719620497324, 0.0587341200226044]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 35, loss: -5.937211990356445
+w: [0.11177968278609053, 0.0998651503626166, 0.07006606192341716, 0.0663392218227995, 0.13802554886950347, 0.1252423891945206, 0.05869986322939903, 0.07843355890673699, 0.19371187169329787, 0.057836651211618205]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 36, loss: -3.854917526245117
+w: [0.11192248343701001, 0.099652300001567, 0.06931792617716455, 0.06556141953285244, 0.13905220305365024, 0.12587533596613626, 0.057826244639094915, 0.07797979385012442, 0.19584740501627224, 0.05696488832612797]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 37, loss: -5.17729377746582
+w: [0.11200229872641232, 0.09947909219779155, 0.06863989899547199, 0.06485510494673317, 0.13991643309218335, 0.12626572885109336, 0.05697169863821099, 0.0774956459292045, 0.19820996156146078, 0.05616413706143807]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 38, loss: -7.8632049560546875
+w: [0.1119666605170599, 0.09923867606742684, 0.06783171675359953, 0.06413215746076104, 0.14090814560716367, 0.12689398336494687, 0.05610497709623093, 0.07707063716821169, 0.2004656635530233, 0.05538738241157613]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 39, loss: -5.808962821960449
+w: [0.1120719762484907, 0.09904181947389518, 0.06711911571790166, 0.06343008598350383, 0.1415926643813502, 0.1275465234171877, 0.055358312336337076, 0.07664403495155049, 0.20258870526324307, 0.05460676222654013]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 40, loss: -5.386302947998047
+w: [0.11218358927800666, 0.09881373652238849, 0.06637642038806658, 0.0627404231405409, 0.1424557769155125, 0.12811573857356656, 0.05461630655370164, 0.07613405489465705, 0.20468658300008413, 0.05387737073347556]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 41, loss: -4.985611915588379
+w: [0.11235586483805482, 0.09867569987025115, 0.06565424105860083, 0.062034975069548, 0.14334726436870204, 0.1286031992777123, 0.053830180677125604, 0.07570111713872874, 0.2066636165059321, 0.0531338411953445]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 42, loss: -3.7460241317749023
+w: [0.11232489219065045, 0.09849758094063761, 0.06495728716718875, 0.06139179642476286, 0.14413148740888151, 0.1292061594602254, 0.05311609623608011, 0.07529743400820098, 0.20867668924637153, 0.05240057691700072]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 43, loss: -5.53718376159668
+w: [0.11235204870985002, 0.09826845708562494, 0.06421409115187501, 0.060734037443148, 0.14493893333050847, 0.12978909219075468, 0.05240136361097238, 0.07488684136641328, 0.21069708003289037, 0.05171805507796296]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 44, loss: -6.439394950866699
+w: [0.11245830523866833, 0.09805493390621611, 0.06351172174741236, 0.060172931981255826, 0.14570007124606163, 0.130179511119617, 0.05173616388407111, 0.0744514546147924, 0.21265650850541798, 0.05107839775648715]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 45, loss: -7.563259124755859
+w: [0.11238729741231115, 0.09791482734273341, 0.06280639374765443, 0.05960440956452907, 0.14650746297291242, 0.13059051304399874, 0.05100434899423836, 0.074064197740286, 0.21470195955229746, 0.050418589629039]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 46, loss: -3.9799795150756836
+w: [0.11236843870480805, 0.09770466593670957, 0.062087406665352195, 0.05906779358071775, 0.1473779283194035, 0.13112370678101662, 0.05032275582428731, 0.07360724548726223, 0.216582600534509, 0.049757458165933875]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 47, loss: -9.015061378479004
+w: [0.11246381560571012, 0.09744683674835454, 0.061389425417085516, 0.05852016237087621, 0.14803115929068206, 0.13159211845557597, 0.04964716159465442, 0.07324876470357781, 0.21849216521198178, 0.04916839060150165]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 48, loss: -6.64193058013916
+w: [0.11245700075005166, 0.09717731727711254, 0.06071735247755428, 0.05796289373030121, 0.14858766531869358, 0.13210578905794051, 0.048997797831112716, 0.07294826117790025, 0.22046759195788418, 0.04857833042144912]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+
+n_iters: 10, iter_w: 49, loss: -5.161216735839844
+w: [0.11244241539665237, 0.09697806652018069, 0.060053722006535894, 0.057491871952846545, 0.149497126494635, 0.13249778052385633, 0.04831777430858985, 0.07263495916980263, 0.22203543433427264, 0.04805084929262797]
+label victim: (540, 'drilling platform, offshore rig')
+label wb 0: (540, 'drilling platform, offshore rig')
+label wb 1: (540, 'drilling platform, offshore rig')
+label wb 2: (540, 'drilling platform, offshore rig')
+label wb 3: (540, 'drilling platform, offshore rig')
+label wb 4: (540, 'drilling platform, offshore rig')
+label wb 5: (540, 'drilling platform, offshore rig')
+label wb 6: (540, 'drilling platform, offshore rig')
+label wb 7: (540, 'drilling platform, offshore rig')
+label wb 8: (540, 'drilling platform, offshore rig')
+label wb 9: (540, 'drilling platform, offshore rig')
+
+

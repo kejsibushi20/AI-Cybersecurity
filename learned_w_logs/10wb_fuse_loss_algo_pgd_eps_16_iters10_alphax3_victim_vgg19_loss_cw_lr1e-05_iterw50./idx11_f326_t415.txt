@@ -1,0 +1,1500 @@
+n_iters: 10, iter_w: 0, loss: 3.0754871368408203
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+label victim: (850, 'teddy, teddy bear')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 1, loss: 4.934165000915527
+w: [0.10010397668208555, 0.09990627381760737, 0.09965433919329629, 0.09971039124100892, 0.10003408430834254, 0.10036399431553925, 0.10017978708128213, 0.09994027179347408, 0.10024701626002486, 0.09985986530733895]
+label victim: (584, 'hair slide')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 2, loss: 1.9091577529907227
+w: [0.10008126995786996, 0.09971252355552539, 0.09890374672402409, 0.09914430576420377, 0.10016449033108335, 0.10097983048235289, 0.1003741885051054, 0.09988408020596841, 0.10125348035358825, 0.09950208412027847]
+label victim: (584, 'hair slide')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 3, loss: 2.5024232864379883
+w: [0.09997302707348812, 0.09941346312436841, 0.09802331792225376, 0.09847129890102936, 0.10036894246870309, 0.1016793972794809, 0.10058743174414578, 0.09984604638277532, 0.10276457836433017, 0.09887249673942514]
+label victim: (850, 'teddy, teddy bear')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 4, loss: -1.5552978515625
+w: [0.09980239278546962, 0.09901816830199514, 0.09704822204331981, 0.09775054065338062, 0.10058410871849006, 0.10246135545585568, 0.10082227942305635, 0.09986512215765397, 0.10443645846697179, 0.09821135199380694]
+label victim: (415, 'bakery, bakeshop, bakehouse')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 5, loss: 0.38858604431152344
+w: [0.09966056397956127, 0.09859883907473348, 0.0960431995225524, 0.09700186498933708, 0.10075900477056797, 0.10335758527430734, 0.1010264454170346, 0.09973701617916383, 0.1063784531903961, 0.09743702760234606]
+label victim: (850, 'teddy, teddy bear')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 6, loss: -2.2207088470458984
+w: [0.09951302400269695, 0.09820943553219642, 0.09502318166164406, 0.09623665743781909, 0.10093272644054882, 0.10435970842048146, 0.1011862089727164, 0.09968074346113077, 0.10824871228743323, 0.0966096017833328]
+label victim: (415, 'bakery, bakeshop, bakehouse')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 7, loss: -0.20119476318359375
+w: [0.09937426047891856, 0.0977367101331946, 0.09392527181253693, 0.09551482492046576, 0.10115038010813997, 0.10541334792840526, 0.10138500073886829, 0.09949428473215054, 0.11028413921861238, 0.09572177992870756]
+label victim: (415, 'bakery, bakeshop, bakehouse')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 8, loss: -1.0927486419677734
+w: [0.09920628547078665, 0.09724301664657413, 0.09281086329162334, 0.09475806528589928, 0.10143645856261654, 0.10653188606804884, 0.10140732618031319, 0.09929014955147185, 0.11248876264559597, 0.09482718629707021]
+label victim: (415, 'bakery, bakeshop, bakehouse')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 9, loss: 1.2188472747802734
+w: [0.0990345454339412, 0.09672760706267197, 0.09170600181957134, 0.09402379720117177, 0.10174643905335984, 0.107462853791341, 0.10142074304262734, 0.09910194106476938, 0.1148436761859222, 0.09393239534462396]
+label victim: (584, 'hair slide')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 10, loss: -0.9959611892700195
+w: [0.09886592783616675, 0.09620104110535962, 0.09063313724096284, 0.09329874206655128, 0.10201372956920285, 0.10854519357952283, 0.1014132414281202, 0.09887846474423648, 0.11711997575679486, 0.09303054667308232]
+label victim: (415, 'bakery, bakeshop, bakehouse')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 11, loss: -1.6128654479980469
+w: [0.09875433784864951, 0.09565493890057429, 0.089511855071446, 0.09255731216268659, 0.10232908212164507, 0.10956609405580327, 0.10135819843938094, 0.09866344042123372, 0.11946161439834115, 0.0921431265802396]
+label victim: (415, 'bakery, bakeshop, bakehouse')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 12, loss: 1.6610698699951172
+w: [0.09864617814948479, 0.09510210388166901, 0.0883790711960602, 0.09180457260500803, 0.1026424707765338, 0.11057330639506366, 0.101397436740271, 0.09843083747313928, 0.12180228480536749, 0.09122173797740282]
+label victim: (850, 'teddy, teddy bear')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 13, loss: -4.081315040588379
+w: [0.09846005474292872, 0.09458448753998869, 0.08723958590837892, 0.09103961016542522, 0.10295265885788897, 0.11167602287078077, 0.1013915488025807, 0.09818463689258806, 0.124128931483218, 0.0903424627362219]
+label victim: (415, 'bakery, bakeshop, bakehouse')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 14, loss: 2.342679023742676
+w: [0.09831986440968485, 0.09404764699566516, 0.08613416620830128, 0.0903542939899205, 0.10328258035511334, 0.11262482107282375, 0.10138682422132826, 0.09797170045479868, 0.12637151947170464, 0.08950658282065957]
+label victim: (584, 'hair slide')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 15, loss: 1.39361572265625
+w: [0.09808587671866488, 0.09352728597500061, 0.08498472522214943, 0.08964545101634215, 0.10354014435464577, 0.11362735763423126, 0.10138178528134718, 0.09773864918134892, 0.1287848920360086, 0.08868383258026136]
+label victim: (850, 'teddy, teddy bear')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 16, loss: -1.0078697204589844
+w: [0.09797222767709811, 0.09303240034725624, 0.08383879402305808, 0.08899675491664107, 0.10373804455847117, 0.11466780097769473, 0.10147538355976657, 0.09749960509324128, 0.13092855568834, 0.0878504331584328]
+label victim: (415, 'bakery, bakeshop, bakehouse')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 17, loss: -2.328505516052246
+w: [0.09782795089908464, 0.09252558322795326, 0.08271460640404298, 0.0883106156728852, 0.10392396654187738, 0.11556575070854402, 0.10150572645226967, 0.09727210573791044, 0.1333122424243215, 0.08704145193111083]
+label victim: (415, 'bakery, bakeshop, bakehouse')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 18, loss: -1.1692943572998047
+w: [0.09764021534790208, 0.09205097569631737, 0.08160870813615292, 0.08764079057964737, 0.10414263186974565, 0.11643042280134448, 0.10162529340041943, 0.09703901687948319, 0.1356439927533658, 0.08617795253562169]
+label victim: (415, 'bakery, bakeshop, bakehouse')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 19, loss: 0.7899370193481445
+w: [0.09748353999947147, 0.091544182900284, 0.08042283032720873, 0.08695171398852752, 0.10436411042700167, 0.11741444248665413, 0.10168917568669385, 0.09669067742927966, 0.13810400771291814, 0.08533531904196077]
+label victim: (850, 'teddy, teddy bear')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 20, loss: -3.6603403091430664
+w: [0.09736013143069593, 0.091067302469768, 0.07932193372698167, 0.08627158771512075, 0.10457220268608831, 0.11840583802696299, 0.1016649903252344, 0.0964732892306156, 0.1403417032619241, 0.08452102112660814]
+label victim: (415, 'bakery, bakeshop, bakehouse')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 21, loss: -1.524571418762207
+w: [0.09717822522409895, 0.09058668974872766, 0.07823340527695274, 0.08556799005655581, 0.10479701270957857, 0.11934843750993421, 0.10170045644265581, 0.09628170752583343, 0.14258464169753104, 0.08372143380813175]
+label victim: (415, 'bakery, bakeshop, bakehouse')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 22, loss: -1.1310901641845703
+w: [0.0970794078333242, 0.09008499967472985, 0.07714309679391677, 0.0849099596555103, 0.10503668752874191, 0.12030982742496384, 0.10183786390158084, 0.09604840438662654, 0.14462587825901044, 0.0829238745415952]
+label victim: (415, 'bakery, bakeshop, bakehouse')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 23, loss: -1.892380714416504
+w: [0.09690829588261067, 0.0895899946080945, 0.07603913709295111, 0.08425094548609838, 0.10522328645481023, 0.12129581494869193, 0.10178648450980882, 0.09580819313289118, 0.14698281553117218, 0.08211503235287096]
+label victim: (415, 'bakery, bakeshop, bakehouse')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 24, loss: 1.6669902801513672
+w: [0.09681714164258548, 0.0891789270641717, 0.07500558627047911, 0.08367147254076436, 0.10537595726725842, 0.12211069199524366, 0.10172542917128877, 0.09564713530850796, 0.14907283511790598, 0.08139482362179448]
+label victim: (850, 'teddy, teddy bear')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 25, loss: -0.11138629913330078
+w: [0.09673156496397466, 0.08868296522807458, 0.07397456760732492, 0.0830542728541438, 0.10570078396186774, 0.12294266168356274, 0.10175081298126916, 0.09545460998447176, 0.15106458752186647, 0.08064317321344423]
+label victim: (415, 'bakery, bakeshop, bakehouse')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 26, loss: -0.5738449096679688
+w: [0.09663119796863083, 0.08825213033676954, 0.07293062751652502, 0.0824647375811714, 0.10586286701129397, 0.12367802121470998, 0.1017625219062568, 0.09523570491361787, 0.1532840684041352, 0.07989812314688938]
+label victim: (415, 'bakery, bakeshop, bakehouse')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 27, loss: -0.9602489471435547
+w: [0.09649342287504087, 0.08782328827158215, 0.07189270215538522, 0.08187938030885017, 0.10609735663443348, 0.12447442437997826, 0.10176762507590584, 0.0949805246381517, 0.1554109671373903, 0.07918030852328208]
+label victim: (415, 'bakery, bakeshop, bakehouse')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 28, loss: -3.0075178146362305
+w: [0.09635430687836213, 0.08742510297754379, 0.07089808771256942, 0.08128862697678432, 0.10625164045909222, 0.12524576060266082, 0.10174033503727857, 0.09481691278037305, 0.15749180790059011, 0.07848741867474564]
+label victim: (415, 'bakery, bakeshop, bakehouse')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 29, loss: 1.1920337677001953
+w: [0.09628255740842215, 0.0869755979113692, 0.06986599875243256, 0.08066759113822426, 0.1065091299571495, 0.12607918532928042, 0.10178563445929516, 0.09460599188863475, 0.15943010385180287, 0.07779820930338915]
+label victim: (850, 'teddy, teddy bear')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 30, loss: -1.8411245346069336
+w: [0.09613788035729948, 0.08656683469370491, 0.06884977877433524, 0.08007693863140637, 0.10681506066779047, 0.12680127396565874, 0.10178948662238163, 0.09441233962684045, 0.16143120456844998, 0.0771192020921328]
+label victim: (415, 'bakery, bakeshop, bakehouse')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 31, loss: -0.7468414306640625
+w: [0.09597207912727658, 0.08610982875272358, 0.06783428572814362, 0.07946620958151436, 0.10692446487844849, 0.12754639649003457, 0.10176877155411394, 0.09415071528968828, 0.16378071824219317, 0.07644653035586334]
+label victim: (415, 'bakery, bakeshop, bakehouse')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 32, loss: -2.4425535202026367
+w: [0.09586069734952994, 0.08566672836291392, 0.0668660252824015, 0.07889759959130364, 0.10711455685320373, 0.12834854013894492, 0.10171288850590811, 0.093951687979611, 0.1658125545480143, 0.07576872138816898]
+label victim: (415, 'bakery, bakeshop, bakehouse')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 33, loss: 0.2058572769165039
+w: [0.0957168897506389, 0.08522278744825211, 0.06582839669241715, 0.07834386715208728, 0.1073446402237038, 0.12916234294142998, 0.10172806431603329, 0.09376758794478358, 0.16779921443383647, 0.07508620909681744]
+label victim: (850, 'teddy, teddy bear')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 34, loss: 0.6906509399414062
+w: [0.09560829462295638, 0.08481562240639706, 0.06486391333636303, 0.07777382719885773, 0.10756564037509773, 0.12983315695741268, 0.10172648603265087, 0.09353318233586508, 0.16980253341648913, 0.07447734331791021]
+label victim: (911, 'wool, woolen, woollen')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 35, loss: -2.8987302780151367
+w: [0.09553590477138278, 0.08439520198607961, 0.06386132461805442, 0.07725207597069107, 0.10771217486020988, 0.13061629212894668, 0.10182315974652086, 0.09327707579412749, 0.1716567082974677, 0.07387008182651944]
+label victim: (415, 'bakery, bakeshop, bakehouse')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 36, loss: -0.4107322692871094
+w: [0.09544621994868205, 0.0839396750910162, 0.06289695888285593, 0.07670703216326741, 0.10793556966210541, 0.13121798640178026, 0.10178974911021504, 0.0930856919294477, 0.17371849880056137, 0.07326261801006885]
+label victim: (415, 'bakery, bakeshop, bakehouse')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 37, loss: 1.033172607421875
+w: [0.09537761030524441, 0.08352257285897866, 0.06192759853179267, 0.07617270633181193, 0.10811474320059765, 0.1319323885976013, 0.10171538894779436, 0.09291110696156339, 0.17570220298776074, 0.0726236812768548]
+label victim: (850, 'teddy, teddy bear')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 38, loss: -0.856633186340332
+w: [0.09524516817075697, 0.08304604067201272, 0.06098580493517294, 0.07565062708715478, 0.10833778131017029, 0.1326756835372826, 0.10177063174838039, 0.0926687712771678, 0.17764872259806547, 0.0719707686638361]
+label victim: (415, 'bakery, bakeshop, bakehouse')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 39, loss: -0.9528703689575195
+w: [0.09513507697046268, 0.08264640816507783, 0.06002453653567772, 0.07510634786635648, 0.10842200461406282, 0.13339028537274128, 0.1017876692555352, 0.09250845565564686, 0.17958635650882632, 0.07139285905561275]
+label victim: (415, 'bakery, bakeshop, bakehouse')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 40, loss: 2.1253676414489746
+w: [0.0950330316635486, 0.08220568566017522, 0.05911487275793085, 0.07460145269362438, 0.10865294343723061, 0.1339339941694626, 0.10178341529010405, 0.09224365502190808, 0.1816323626320637, 0.0707985866739519]
+label victim: (850, 'teddy, teddy bear')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 41, loss: -1.2650136947631836
+w: [0.09496356059958948, 0.08185322453880882, 0.05818166016540165, 0.07412034765897474, 0.10885715699326295, 0.13457997659956153, 0.10176300288199834, 0.09208970730596097, 0.18336077587276847, 0.07023058738367313]
+label victim: (415, 'bakery, bakeshop, bakehouse')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 42, loss: -1.115239143371582
+w: [0.0948948368983761, 0.08147188990474943, 0.05724041534113977, 0.07360342475291412, 0.1090972127863379, 0.1351714420714855, 0.10179134545623145, 0.091897441442758, 0.18513075817426777, 0.06970123317173993]
+label victim: (415, 'bakery, bakeshop, bakehouse')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 43, loss: -0.7827138900756836
+w: [0.09479092149529317, 0.08109515029524884, 0.05629890437490394, 0.07311591535991152, 0.10923010532818392, 0.13579910839726686, 0.10187159324479803, 0.09180732802971081, 0.18687490782487315, 0.06911606564980982]
+label victim: (415, 'bakery, bakeshop, bakehouse')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 44, loss: -0.7476177215576172
+w: [0.09469854789620145, 0.0807207105050709, 0.05536977700834359, 0.07262830493032962, 0.1093462140071999, 0.13637723963338105, 0.10179848799080547, 0.09164124907001502, 0.18887718418848293, 0.06854228477017002]
+label victim: (415, 'bakery, bakeshop, bakehouse')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 45, loss: 0.6126766204833984
+w: [0.0946171336002295, 0.08039323149439699, 0.05446559694528917, 0.07218448065248809, 0.10959171078994638, 0.13693843311131298, 0.10168273005428363, 0.09150065678313908, 0.19064226721103736, 0.06798375935787669]
+label victim: (452, 'bonnet, poke bonnet')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 46, loss: -1.6651334762573242
+w: [0.09456657274642212, 0.08002359035817912, 0.05360997182991744, 0.07171162616381699, 0.10979735202484675, 0.13751800078952073, 0.101699266277492, 0.09133947375060081, 0.1922866420983466, 0.06744750396085751]
+label victim: (415, 'bakery, bakeshop, bakehouse')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 47, loss: 1.298757553100586
+w: [0.09444225258231306, 0.07963874053785719, 0.052704013052272285, 0.07127690704138383, 0.10997613493083558, 0.13808322015292587, 0.10172410179339174, 0.09120429588398739, 0.19402162379176072, 0.06692871023327236]
+label victim: (452, 'bonnet, poke bonnet')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (584, 'hair slide')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 48, loss: 0.7548923492431641
+w: [0.09438335798782323, 0.07924161399083735, 0.05180180383917498, 0.07083430734316634, 0.11007218594534467, 0.13864383328867141, 0.10165932835815776, 0.09107778927500719, 0.19586834958292715, 0.06641743038888984]
+label victim: (850, 'teddy, teddy bear')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 49, loss: 0.9486017227172852
+w: [0.09429082496196088, 0.07880454274068337, 0.050898072233583946, 0.07040088027908582, 0.11033826600125948, 0.13921375020845356, 0.10171570330389333, 0.09094953126427312, 0.1974625825416579, 0.06592584646514864]
+label victim: (850, 'teddy, teddy bear')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 0, loss: 3.0754871368408203
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+label victim: (850, 'teddy, teddy bear')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 1, loss: 4.934165000915527
+w: [0.10010397668208555, 0.09990627381760737, 0.09965433919329629, 0.09971039124100892, 0.10003408430834254, 0.10036399431553925, 0.10017978708128213, 0.09994027179347408, 0.10024701626002486, 0.09985986530733895]
+label victim: (584, 'hair slide')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 2, loss: 1.9091577529907227
+w: [0.10008126995786996, 0.09971252355552539, 0.09890374672402409, 0.09914430576420377, 0.10016449033108335, 0.10097983048235289, 0.1003741885051054, 0.09988408020596841, 0.10125348035358825, 0.09950208412027847]
+label victim: (584, 'hair slide')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 3, loss: 2.5024232864379883
+w: [0.09997302707348812, 0.09941346312436841, 0.09802331792225376, 0.09847129890102936, 0.10036894246870309, 0.1016793972794809, 0.10058743174414578, 0.09984604638277532, 0.10276457836433017, 0.09887249673942514]
+label victim: (850, 'teddy, teddy bear')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 4, loss: -1.5552978515625
+w: [0.09980239278546962, 0.09901816830199514, 0.09704822204331981, 0.09775054065338062, 0.10058410871849006, 0.10246135545585568, 0.10082227942305635, 0.09986512215765397, 0.10443645846697179, 0.09821135199380694]
+label victim: (415, 'bakery, bakeshop, bakehouse')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 5, loss: 0.38858604431152344
+w: [0.09966056397956127, 0.09859883907473348, 0.0960431995225524, 0.09700186498933708, 0.10075900477056797, 0.10335758527430734, 0.1010264454170346, 0.09973701617916383, 0.1063784531903961, 0.09743702760234606]
+label victim: (850, 'teddy, teddy bear')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 6, loss: -2.2207088470458984
+w: [0.09951302400269695, 0.09820943553219642, 0.09502318166164406, 0.09623665743781909, 0.10093272644054882, 0.10435970842048146, 0.1011862089727164, 0.09968074346113077, 0.10824871228743323, 0.0966096017833328]
+label victim: (415, 'bakery, bakeshop, bakehouse')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 7, loss: -0.20119476318359375
+w: [0.09937426047891856, 0.0977367101331946, 0.09392527181253693, 0.09551482492046576, 0.10115038010813997, 0.10541334792840526, 0.10138500073886829, 0.09949428473215054, 0.11028413921861238, 0.09572177992870756]
+label victim: (415, 'bakery, bakeshop, bakehouse')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 8, loss: -1.0927486419677734
+w: [0.09920628547078665, 0.09724301664657413, 0.09281086329162334, 0.09475806528589928, 0.10143645856261654, 0.10653188606804884, 0.10140732618031319, 0.09929014955147185, 0.11248876264559597, 0.09482718629707021]
+label victim: (415, 'bakery, bakeshop, bakehouse')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 9, loss: 1.2188472747802734
+w: [0.0990345454339412, 0.09672760706267197, 0.09170600181957134, 0.09402379720117177, 0.10174643905335984, 0.107462853791341, 0.10142074304262734, 0.09910194106476938, 0.1148436761859222, 0.09393239534462396]
+label victim: (584, 'hair slide')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 10, loss: -0.9959611892700195
+w: [0.09886592783616675, 0.09620104110535962, 0.09063313724096284, 0.09329874206655128, 0.10201372956920285, 0.10854519357952283, 0.1014132414281202, 0.09887846474423648, 0.11711997575679486, 0.09303054667308232]
+label victim: (415, 'bakery, bakeshop, bakehouse')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 11, loss: -1.6128654479980469
+w: [0.09875433784864951, 0.09565493890057429, 0.089511855071446, 0.09255731216268659, 0.10232908212164507, 0.10956609405580327, 0.10135819843938094, 0.09866344042123372, 0.11946161439834115, 0.0921431265802396]
+label victim: (415, 'bakery, bakeshop, bakehouse')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 12, loss: 1.6610698699951172
+w: [0.09864617814948479, 0.09510210388166901, 0.0883790711960602, 0.09180457260500803, 0.1026424707765338, 0.11057330639506366, 0.101397436740271, 0.09843083747313928, 0.12180228480536749, 0.09122173797740282]
+label victim: (850, 'teddy, teddy bear')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 13, loss: -4.081315040588379
+w: [0.09846005474292872, 0.09458448753998869, 0.08723958590837892, 0.09103961016542522, 0.10295265885788897, 0.11167602287078077, 0.1013915488025807, 0.09818463689258806, 0.124128931483218, 0.0903424627362219]
+label victim: (415, 'bakery, bakeshop, bakehouse')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 14, loss: 2.342679023742676
+w: [0.09831986440968485, 0.09404764699566516, 0.08613416620830128, 0.0903542939899205, 0.10328258035511334, 0.11262482107282375, 0.10138682422132826, 0.09797170045479868, 0.12637151947170464, 0.08950658282065957]
+label victim: (584, 'hair slide')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 15, loss: 1.39361572265625
+w: [0.09808587671866488, 0.09352728597500061, 0.08498472522214943, 0.08964545101634215, 0.10354014435464577, 0.11362735763423126, 0.10138178528134718, 0.09773864918134892, 0.1287848920360086, 0.08868383258026136]
+label victim: (850, 'teddy, teddy bear')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 16, loss: -1.0078697204589844
+w: [0.09797222767709811, 0.09303240034725624, 0.08383879402305808, 0.08899675491664107, 0.10373804455847117, 0.11466780097769473, 0.10147538355976657, 0.09749960509324128, 0.13092855568834, 0.0878504331584328]
+label victim: (415, 'bakery, bakeshop, bakehouse')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 17, loss: -2.328505516052246
+w: [0.09782795089908464, 0.09252558322795326, 0.08271460640404298, 0.0883106156728852, 0.10392396654187738, 0.11556575070854402, 0.10150572645226967, 0.09727210573791044, 0.1333122424243215, 0.08704145193111083]
+label victim: (415, 'bakery, bakeshop, bakehouse')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 18, loss: -1.1692943572998047
+w: [0.09764021534790208, 0.09205097569631737, 0.08160870813615292, 0.08764079057964737, 0.10414263186974565, 0.11643042280134448, 0.10162529340041943, 0.09703901687948319, 0.1356439927533658, 0.08617795253562169]
+label victim: (415, 'bakery, bakeshop, bakehouse')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 19, loss: 0.7899370193481445
+w: [0.09748353999947147, 0.091544182900284, 0.08042283032720873, 0.08695171398852752, 0.10436411042700167, 0.11741444248665413, 0.10168917568669385, 0.09669067742927966, 0.13810400771291814, 0.08533531904196077]
+label victim: (850, 'teddy, teddy bear')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 20, loss: -3.6603403091430664
+w: [0.09736013143069593, 0.091067302469768, 0.07932193372698167, 0.08627158771512075, 0.10457220268608831, 0.11840583802696299, 0.1016649903252344, 0.0964732892306156, 0.1403417032619241, 0.08452102112660814]
+label victim: (415, 'bakery, bakeshop, bakehouse')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 21, loss: -1.524571418762207
+w: [0.09717822522409895, 0.09058668974872766, 0.07823340527695274, 0.08556799005655581, 0.10479701270957857, 0.11934843750993421, 0.10170045644265581, 0.09628170752583343, 0.14258464169753104, 0.08372143380813175]
+label victim: (415, 'bakery, bakeshop, bakehouse')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 22, loss: -1.1310901641845703
+w: [0.0970794078333242, 0.09008499967472985, 0.07714309679391677, 0.0849099596555103, 0.10503668752874191, 0.12030982742496384, 0.10183786390158084, 0.09604840438662654, 0.14462587825901044, 0.0829238745415952]
+label victim: (415, 'bakery, bakeshop, bakehouse')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 23, loss: -1.892380714416504
+w: [0.09690829588261067, 0.0895899946080945, 0.07603913709295111, 0.08425094548609838, 0.10522328645481023, 0.12129581494869193, 0.10178648450980882, 0.09580819313289118, 0.14698281553117218, 0.08211503235287096]
+label victim: (415, 'bakery, bakeshop, bakehouse')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 24, loss: 1.6669902801513672
+w: [0.09681714164258548, 0.0891789270641717, 0.07500558627047911, 0.08367147254076436, 0.10537595726725842, 0.12211069199524366, 0.10172542917128877, 0.09564713530850796, 0.14907283511790598, 0.08139482362179448]
+label victim: (850, 'teddy, teddy bear')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 25, loss: -0.11138629913330078
+w: [0.09673156496397466, 0.08868296522807458, 0.07397456760732492, 0.0830542728541438, 0.10570078396186774, 0.12294266168356274, 0.10175081298126916, 0.09545460998447176, 0.15106458752186647, 0.08064317321344423]
+label victim: (415, 'bakery, bakeshop, bakehouse')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 26, loss: -0.5738449096679688
+w: [0.09663119796863083, 0.08825213033676954, 0.07293062751652502, 0.0824647375811714, 0.10586286701129397, 0.12367802121470998, 0.1017625219062568, 0.09523570491361787, 0.1532840684041352, 0.07989812314688938]
+label victim: (415, 'bakery, bakeshop, bakehouse')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 27, loss: -0.9602489471435547
+w: [0.09649342287504087, 0.08782328827158215, 0.07189270215538522, 0.08187938030885017, 0.10609735663443348, 0.12447442437997826, 0.10176762507590584, 0.0949805246381517, 0.1554109671373903, 0.07918030852328208]
+label victim: (415, 'bakery, bakeshop, bakehouse')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 28, loss: -3.0075178146362305
+w: [0.09635430687836213, 0.08742510297754379, 0.07089808771256942, 0.08128862697678432, 0.10625164045909222, 0.12524576060266082, 0.10174033503727857, 0.09481691278037305, 0.15749180790059011, 0.07848741867474564]
+label victim: (415, 'bakery, bakeshop, bakehouse')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 29, loss: 1.1920337677001953
+w: [0.09628255740842215, 0.0869755979113692, 0.06986599875243256, 0.08066759113822426, 0.1065091299571495, 0.12607918532928042, 0.10178563445929516, 0.09460599188863475, 0.15943010385180287, 0.07779820930338915]
+label victim: (850, 'teddy, teddy bear')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 30, loss: -1.8411245346069336
+w: [0.09613788035729948, 0.08656683469370491, 0.06884977877433524, 0.08007693863140637, 0.10681506066779047, 0.12680127396565874, 0.10178948662238163, 0.09441233962684045, 0.16143120456844998, 0.0771192020921328]
+label victim: (415, 'bakery, bakeshop, bakehouse')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 31, loss: -0.7468414306640625
+w: [0.09597207912727658, 0.08610982875272358, 0.06783428572814362, 0.07946620958151436, 0.10692446487844849, 0.12754639649003457, 0.10176877155411394, 0.09415071528968828, 0.16378071824219317, 0.07644653035586334]
+label victim: (415, 'bakery, bakeshop, bakehouse')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 32, loss: -2.4425535202026367
+w: [0.09586069734952994, 0.08566672836291392, 0.0668660252824015, 0.07889759959130364, 0.10711455685320373, 0.12834854013894492, 0.10171288850590811, 0.093951687979611, 0.1658125545480143, 0.07576872138816898]
+label victim: (415, 'bakery, bakeshop, bakehouse')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 33, loss: 0.2058572769165039
+w: [0.0957168897506389, 0.08522278744825211, 0.06582839669241715, 0.07834386715208728, 0.1073446402237038, 0.12916234294142998, 0.10172806431603329, 0.09376758794478358, 0.16779921443383647, 0.07508620909681744]
+label victim: (850, 'teddy, teddy bear')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 34, loss: 0.6906509399414062
+w: [0.09560829462295638, 0.08481562240639706, 0.06486391333636303, 0.07777382719885773, 0.10756564037509773, 0.12983315695741268, 0.10172648603265087, 0.09353318233586508, 0.16980253341648913, 0.07447734331791021]
+label victim: (911, 'wool, woolen, woollen')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 35, loss: -2.8987302780151367
+w: [0.09553590477138278, 0.08439520198607961, 0.06386132461805442, 0.07725207597069107, 0.10771217486020988, 0.13061629212894668, 0.10182315974652086, 0.09327707579412749, 0.1716567082974677, 0.07387008182651944]
+label victim: (415, 'bakery, bakeshop, bakehouse')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 36, loss: -0.4107322692871094
+w: [0.09544621994868205, 0.0839396750910162, 0.06289695888285593, 0.07670703216326741, 0.10793556966210541, 0.13121798640178026, 0.10178974911021504, 0.0930856919294477, 0.17371849880056137, 0.07326261801006885]
+label victim: (415, 'bakery, bakeshop, bakehouse')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 37, loss: 1.033172607421875
+w: [0.09537761030524441, 0.08352257285897866, 0.06192759853179267, 0.07617270633181193, 0.10811474320059765, 0.1319323885976013, 0.10171538894779436, 0.09291110696156339, 0.17570220298776074, 0.0726236812768548]
+label victim: (850, 'teddy, teddy bear')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 38, loss: -0.856633186340332
+w: [0.09524516817075697, 0.08304604067201272, 0.06098580493517294, 0.07565062708715478, 0.10833778131017029, 0.1326756835372826, 0.10177063174838039, 0.0926687712771678, 0.17764872259806547, 0.0719707686638361]
+label victim: (415, 'bakery, bakeshop, bakehouse')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 39, loss: -0.9528703689575195
+w: [0.09513507697046268, 0.08264640816507783, 0.06002453653567772, 0.07510634786635648, 0.10842200461406282, 0.13339028537274128, 0.1017876692555352, 0.09250845565564686, 0.17958635650882632, 0.07139285905561275]
+label victim: (415, 'bakery, bakeshop, bakehouse')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 40, loss: 2.1253676414489746
+w: [0.0950330316635486, 0.08220568566017522, 0.05911487275793085, 0.07460145269362438, 0.10865294343723061, 0.1339339941694626, 0.10178341529010405, 0.09224365502190808, 0.1816323626320637, 0.0707985866739519]
+label victim: (850, 'teddy, teddy bear')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 41, loss: -1.2650136947631836
+w: [0.09496356059958948, 0.08185322453880882, 0.05818166016540165, 0.07412034765897474, 0.10885715699326295, 0.13457997659956153, 0.10176300288199834, 0.09208970730596097, 0.18336077587276847, 0.07023058738367313]
+label victim: (415, 'bakery, bakeshop, bakehouse')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 42, loss: -1.115239143371582
+w: [0.0948948368983761, 0.08147188990474943, 0.05724041534113977, 0.07360342475291412, 0.1090972127863379, 0.1351714420714855, 0.10179134545623145, 0.091897441442758, 0.18513075817426777, 0.06970123317173993]
+label victim: (415, 'bakery, bakeshop, bakehouse')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 43, loss: -2.7201766967773438
+w: [0.09479092149529317, 0.08109515029524884, 0.05629890437490394, 0.07311591535991152, 0.10923010532818392, 0.13579910839726686, 0.10187159324479803, 0.09180732802971081, 0.18687490782487315, 0.06911606564980982]
+label victim: (415, 'bakery, bakeshop, bakehouse')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 44, loss: -0.9993114471435547
+w: [0.0946823435778238, 0.08072020680663454, 0.055371518435647485, 0.07265121809645493, 0.10933647563837179, 0.13636631305708852, 0.1018119530185015, 0.09165605428473755, 0.18887536037168137, 0.06852855671305846]
+label victim: (415, 'bakery, bakeshop, bakehouse')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 45, loss: -3.2835750579833984
+w: [0.0945361232199462, 0.08032053172828085, 0.0544961113200826, 0.0722065277812286, 0.10948235854177478, 0.13696998051357734, 0.10177706026588779, 0.09153505760655958, 0.19065662263610497, 0.06801962638655723]
+label victim: (415, 'bakery, bakeshop, bakehouse')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 46, loss: -2.4078969955444336
+w: [0.09447452902800609, 0.07991316726215905, 0.053554323283149206, 0.07171905215592177, 0.10969601196140605, 0.13749247132539752, 0.1018032134673747, 0.09142713609340317, 0.19243036360299842, 0.06748973182018399]
+label victim: (415, 'bakery, bakeshop, bakehouse')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 47, loss: -0.7434968948364258
+w: [0.0943723506420473, 0.07951249801858674, 0.0526418034219471, 0.07120777778785, 0.109923877281338, 0.13806878522723878, 0.10189674566145922, 0.09132482565006354, 0.19405862590069953, 0.06699271040876989]
+label victim: (415, 'bakery, bakeshop, bakehouse')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 48, loss: -2.1857423782348633
+w: [0.09426423393504725, 0.07912047921109705, 0.051730127948089344, 0.0707387023565297, 0.11006042346301122, 0.13878369230221957, 0.10193225416797408, 0.0910888084242205, 0.19585189472468456, 0.0664293834671267]
+label victim: (415, 'bakery, bakeshop, bakehouse')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+
+n_iters: 10, iter_w: 49, loss: 0.3710136413574219
+w: [0.09412056438082475, 0.07879026823516762, 0.05088275092179701, 0.07028377206423513, 0.11028998803006337, 0.13938820283032713, 0.10192885536581571, 0.09090168321097714, 0.19745819444523854, 0.0659557205155536]
+label victim: (850, 'teddy, teddy bear')
+label wb 0: (415, 'bakery, bakeshop, bakehouse')
+label wb 1: (415, 'bakery, bakeshop, bakehouse')
+label wb 2: (415, 'bakery, bakeshop, bakehouse')
+label wb 3: (415, 'bakery, bakeshop, bakehouse')
+label wb 4: (415, 'bakery, bakeshop, bakehouse')
+label wb 5: (415, 'bakery, bakeshop, bakehouse')
+label wb 6: (415, 'bakery, bakeshop, bakehouse')
+label wb 7: (415, 'bakery, bakeshop, bakehouse')
+label wb 8: (415, 'bakery, bakeshop, bakehouse')
+label wb 9: (415, 'bakery, bakeshop, bakehouse')
+
+

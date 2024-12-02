@@ -1,0 +1,1500 @@
+n_iters: 10, iter_w: 0, loss: 6.932063102722168
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+label victim: (337, 'beaver')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 1, loss: 0.7103796005249023
+w: [0.10028710147719871, 0.10006276687799492, 0.10008904841315362, 0.09993454726164402, 0.10025128963353075, 0.0998398879541526, 0.09985638046617072, 0.10004232712863154, 0.09974688532933063, 0.09988976545819252]
+label victim: (305, 'dung beetle')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 2, loss: -1.9644784927368164
+w: [0.10091634252280846, 0.10010576701292478, 0.10040982643732821, 0.0992055660995111, 0.10058403137738696, 0.10001828903026393, 0.09935134301747968, 0.09983959736704826, 0.10002012447442135, 0.09954911266082728]
+label victim: (95, 'jacamar')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 3, loss: -0.7291345596313477
+w: [0.10171080941850959, 0.10010951399107601, 0.10082359172844219, 0.09818719448777352, 0.10105215814806319, 0.10013661642648275, 0.0986349761980036, 0.099355761741557, 0.1011145819000489, 0.09887479596004332]
+label victim: (95, 'jacamar')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 4, loss: -3.1865310668945312
+w: [0.102603871576294, 0.10004334310699728, 0.10128761144216526, 0.09703004648015577, 0.10163672262237335, 0.10017919717058167, 0.09781046592824616, 0.09870925844099873, 0.10271958924503687, 0.09797989398715107]
+label victim: (95, 'jacamar')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 5, loss: 2.5448780059814453
+w: [0.10344194191737557, 0.10009227501057281, 0.1016929471711759, 0.09593039010674873, 0.10235385384360879, 0.10020157151790975, 0.09695138716936537, 0.09799497810925453, 0.1042815932507108, 0.09705906190327765]
+label victim: (35, 'mud turtle')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 6, loss: 0.5424938201904297
+w: [0.10453504550676528, 0.10003809316610655, 0.10220127708121446, 0.09487705155586942, 0.10297158175936028, 0.10015540576224355, 0.09599670056510483, 0.09718020096338544, 0.10598954102133634, 0.09605510261861382]
+label victim: (316, 'cicada, cicala')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 7, loss: -1.4848098754882812
+w: [0.10550319509121689, 0.09998876882693841, 0.10266293073755607, 0.09396207358960108, 0.10370837665845205, 0.10020513518065743, 0.09499449511549084, 0.09629958896043336, 0.10768876101256318, 0.09498667482709068]
+label victim: (95, 'jacamar')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 8, loss: 3.505375862121582
+w: [0.10654344223375589, 0.09998182051401658, 0.10315023774733305, 0.09303671390691834, 0.10432830249193753, 0.10017639815815403, 0.09405583056748684, 0.09546877580459207, 0.10938691000905502, 0.09387156856675048]
+label victim: (316, 'cicada, cicala')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 9, loss: -0.8363037109375
+w: [0.10751986588259832, 0.10000263656400686, 0.10363296608549989, 0.09203396019325732, 0.10495276478911314, 0.10020742813619833, 0.09310460764780529, 0.09459097366187083, 0.11120411003110826, 0.09275068700854187]
+label victim: (95, 'jacamar')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 10, loss: 1.5165157318115234
+w: [0.10866025293332443, 0.09997726350554656, 0.10411378122904041, 0.09106902553885741, 0.10557941812107795, 0.10013850740920333, 0.09204562129126814, 0.09365564007314399, 0.113120738820059, 0.09163975107847865]
+label victim: (316, 'cicada, cicala')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 11, loss: -0.0437469482421875
+w: [0.10980707131322626, 0.09998667372537356, 0.10448831040655944, 0.09016490661589618, 0.10628400525784437, 0.1000679518374154, 0.09099856750981615, 0.0928342625222691, 0.11483910243998519, 0.0905291483716144]
+label victim: (95, 'jacamar')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 12, loss: -1.3057537078857422
+w: [0.11113953552259775, 0.1000213240932836, 0.10495960116991764, 0.08913581904178249, 0.10685647243505111, 0.09999808806621341, 0.08996760859784693, 0.09190639276580513, 0.11661194194180684, 0.08940321636569501]
+label victim: (95, 'jacamar')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 13, loss: 4.09019660949707
+w: [0.1123101753967793, 0.10010533495882679, 0.1054228507044791, 0.08819194822925976, 0.10742228121843705, 0.09994781563616814, 0.08884272525129662, 0.09104382581130574, 0.11851988263622525, 0.08819316015722241]
+label victim: (305, 'dung beetle')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 14, loss: -1.61114501953125
+w: [0.11369292169677074, 0.10016461886824299, 0.10589175812707885, 0.08727741890916958, 0.10785639060563051, 0.09977381985474336, 0.08774542084175693, 0.09022033957458256, 0.12031814036844911, 0.08705917115357513]
+label victim: (95, 'jacamar')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 15, loss: 3.215547561645508
+w: [0.11497042980803443, 0.10010967174732609, 0.10629096060020321, 0.0863168730380981, 0.10832811013683452, 0.09972432032431947, 0.08662981071272473, 0.08927078945874511, 0.12252648577416689, 0.08583254839954742]
+label victim: (316, 'cicada, cicala')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 16, loss: 0.8387184143066406
+w: [0.11626012652423043, 0.10015547680601176, 0.10664365975798311, 0.0853727692712509, 0.10883755179775455, 0.09958813272326934, 0.08560322852151053, 0.08839356650805137, 0.12448646573660238, 0.08465902235333572]
+label victim: (35, 'mud turtle')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 17, loss: 0.4433298110961914
+w: [0.11758637814183925, 0.10009431665878911, 0.10698932233862218, 0.08442121893734172, 0.10942539296559309, 0.0995537356985722, 0.08450447742130954, 0.08744718042907718, 0.12652597249438624, 0.08345200491446939]
+label victim: (84, 'peacock')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 18, loss: -0.5535812377929688
+w: [0.11885010332203548, 0.10013618935543687, 0.10748678706671871, 0.08352012232535502, 0.10992607745595442, 0.09947760903829034, 0.08347868206927697, 0.08656784612525874, 0.12824519869587359, 0.08231138454579992]
+label victim: (95, 'jacamar')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 19, loss: 2.657928466796875
+w: [0.12008519781874104, 0.10018535327243347, 0.10790595596913534, 0.08259357389747533, 0.11043205580779497, 0.09939607398205405, 0.08240538259841418, 0.08560920200962033, 0.1301969182289852, 0.08119028641534622]
+label victim: (35, 'mud turtle')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 20, loss: 1.9173345565795898
+w: [0.12142455390574176, 0.10008121958687967, 0.10841044156598285, 0.08174754295020921, 0.11090143440744864, 0.09927407131962546, 0.0813945007564816, 0.0847299535006469, 0.1319537146652871, 0.08008256734169687]
+label victim: (36, 'terrapin')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 21, loss: 1.2438325881958008
+w: [0.12258629888683954, 0.10012784041554716, 0.1088566397106449, 0.08089589583754705, 0.11132811992392365, 0.09920095360498747, 0.08035788460355715, 0.08385779373543922, 0.13380301655481447, 0.07898555672669935]
+label victim: (84, 'peacock')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 22, loss: 4.206622123718262
+w: [0.12385177789949585, 0.10003948923668966, 0.10927405745945676, 0.08010971403397112, 0.11173958916977061, 0.09902116490199289, 0.07936594883527591, 0.0829754451299574, 0.1357194966882213, 0.07790331664516838]
+label victim: (35, 'mud turtle')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 23, loss: 4.966439247131348
+w: [0.12489006202039132, 0.09997004777177014, 0.10978595481747573, 0.07923443171764329, 0.11218684096758581, 0.09900653201447004, 0.07842733451391297, 0.08213095799839096, 0.137496388624617, 0.07687144955374264]
+label victim: (36, 'terrapin')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 24, loss: 3.0585689544677734
+w: [0.12622221251087334, 0.09986618082636499, 0.1102318059615249, 0.07834985587313531, 0.11263926201984417, 0.0990041250885647, 0.07743118847407594, 0.08129341536165062, 0.139171100701664, 0.07579085318230189]
+label victim: (35, 'mud turtle')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 25, loss: 1.2957563400268555
+w: [0.12747826392475908, 0.09974382233847293, 0.11067275584104791, 0.07749712001111236, 0.11308077828323053, 0.09895172745872602, 0.07649803034291701, 0.08044241599621343, 0.1408848540336489, 0.07475023176987192]
+label victim: (316, 'cicada, cicala')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 26, loss: 0.05935955047607422
+w: [0.12857719660479144, 0.09956425281665784, 0.11109005167116337, 0.07675208579185917, 0.11354832042557725, 0.09887719905034795, 0.07562082163437873, 0.07960229594926956, 0.14262416983345588, 0.07374360622249894]
+label victim: (124, 'crayfish, crawfish, crawdad, crawdaddy')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 27, loss: 0.4587821960449219
+w: [0.12975665674898218, 0.0994277249968622, 0.11155709164163029, 0.07597056392128851, 0.11391601922329599, 0.0987995963099086, 0.07476073358733773, 0.0787374747877546, 0.14434226421868793, 0.07273187456425201]
+label victim: (316, 'cicada, cicala')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 28, loss: 4.665339469909668
+w: [0.1309253413129322, 0.09926304333573525, 0.11196978426474487, 0.07517469440400418, 0.11427628274753997, 0.09860104049690839, 0.07388678022405072, 0.0778377132228833, 0.1463223456289307, 0.07174297436227037]
+label victim: (316, 'cicada, cicala')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 29, loss: 0.16449260711669922
+w: [0.13225598228324392, 0.09910916861057928, 0.11236410495134247, 0.07438636373515031, 0.11460897905076635, 0.09840467645772667, 0.07299936217829282, 0.07701538350975905, 0.1480835308600933, 0.07077244836304586]
+label victim: (84, 'peacock')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 30, loss: 2.6309919357299805
+w: [0.13327487100531013, 0.09896763998308118, 0.11277934570958378, 0.07356222664543823, 0.11499916937908157, 0.09832744301408888, 0.0720714199993221, 0.07616269533844472, 0.15007012676029532, 0.06978506216535402]
+label victim: (35, 'mud turtle')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 31, loss: 3.7730932235717773
+w: [0.13445222608196364, 0.09886921434450677, 0.11304410869615311, 0.07273809019688864, 0.11541310252245517, 0.09820437698760154, 0.07117072598031596, 0.07533896026163181, 0.1519502184098186, 0.06881897651866475]
+label victim: (36, 'terrapin')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 32, loss: 1.2153968811035156
+w: [0.13571047638986927, 0.09868733795777385, 0.11331774179988398, 0.07188812510544725, 0.1155978753281589, 0.09806428854661801, 0.07026188211662976, 0.07457421341774764, 0.1540549761101109, 0.06784308322776043]
+label victim: (316, 'cicada, cicala')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 33, loss: -2.0545082092285156
+w: [0.137018402754883, 0.09847743684959966, 0.1136731372572718, 0.07104549472625571, 0.11584101216585335, 0.09797673505418712, 0.06937830680325031, 0.07377616963359453, 0.15591436673583303, 0.06689893801927137]
+label victim: (95, 'jacamar')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 34, loss: 0.7671833038330078
+w: [0.13824450899032048, 0.09826432079314393, 0.11404156403668042, 0.07033966422364156, 0.11608714492762244, 0.0978135756575952, 0.06853706330099803, 0.0730082398046358, 0.15771758847152478, 0.06594632979383724]
+label victim: (97, 'drake')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 35, loss: 2.1320409774780273
+w: [0.13941555400298175, 0.09802507282389616, 0.11440914601903344, 0.06949947526766516, 0.11624712823665183, 0.09766647487333753, 0.06767608932240383, 0.07222649081952373, 0.15980656352606742, 0.0650280051084393]
+label victim: (35, 'mud turtle')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 36, loss: -0.3336191177368164
+w: [0.14054633214580675, 0.09784839380895173, 0.11473354591671267, 0.06873106764739023, 0.11645758249007046, 0.09751233955235326, 0.06680542856212224, 0.07145962999730437, 0.16182814883262134, 0.06407753104666687]
+label victim: (95, 'jacamar')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 37, loss: 4.188786506652832
+w: [0.14158104669779878, 0.09764424599824921, 0.11513747316296401, 0.06801919863586237, 0.11670848169187546, 0.09741281763052212, 0.06601323254951774, 0.07066564853772905, 0.16362967493960284, 0.06318818015587843]
+label victim: (316, 'cicada, cicala')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 38, loss: 0.7080249786376953
+w: [0.14273550319087455, 0.09736411929438835, 0.11556031308846104, 0.06725713547973895, 0.11705624102669925, 0.0972150692488874, 0.06517238414258134, 0.06987256042462585, 0.16540874170925482, 0.06235793239448836]
+label victim: (84, 'peacock')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 39, loss: 1.0790834426879883
+w: [0.14378595320299908, 0.0971136838683984, 0.11600480777261463, 0.06652156415865222, 0.11721115880273766, 0.0970986559495332, 0.0643971621985733, 0.06913995883600232, 0.16720366628572259, 0.06152338892476663]
+label victim: (316, 'cicada, cicala')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 40, loss: 1.7646503448486328
+w: [0.14471070493395663, 0.09684759479448936, 0.11632239120245705, 0.06576313094782768, 0.11748759207705947, 0.09698999583487401, 0.06361749218664678, 0.06840845742095054, 0.16915064178474692, 0.06070199881699147]
+label victim: (316, 'cicada, cicala')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 41, loss: -1.7148771286010742
+w: [0.14552561959599822, 0.09664661571338559, 0.11663324729282287, 0.06509727601662334, 0.11765324027438903, 0.09691852807630093, 0.06283363183100837, 0.06772900673985113, 0.1710468569488915, 0.05991597751072901]
+label victim: (95, 'jacamar')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 42, loss: -1.6311016082763672
+w: [0.1464719374078007, 0.09642418601817472, 0.1168759570978919, 0.06439225826794477, 0.11777583954060243, 0.09673583700034832, 0.0621052497742317, 0.0671364612670828, 0.17292248751719558, 0.059159786108727186]
+label victim: (95, 'jacamar')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 43, loss: 0.10807228088378906
+w: [0.1474322758137184, 0.09623380880868958, 0.11715042977238238, 0.06371055073222635, 0.11799709981704412, 0.09648900800255357, 0.06131651642115233, 0.06644245113342902, 0.17479655431806584, 0.058431305180738385]
+label victim: (316, 'cicada, cicala')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 44, loss: -1.1831436157226562
+w: [0.1484734954912502, 0.0960091197257562, 0.11746847478832727, 0.06304854595775032, 0.1180591856462512, 0.096351042291168, 0.060539051515409975, 0.06577778769846075, 0.17660107753762133, 0.05767221934800462]
+label victim: (95, 'jacamar')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 45, loss: -2.9711198806762695
+w: [0.14944461471276468, 0.09577507000406095, 0.11763984221648847, 0.06233392884164424, 0.11822847378072601, 0.0962421504247179, 0.05978216345256111, 0.06509698421852655, 0.17851783537129917, 0.05693893697721088]
+label victim: (95, 'jacamar')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 46, loss: 1.4223136901855469
+w: [0.150275934154219, 0.09552803673981151, 0.11790787762655022, 0.06170235558566717, 0.11837218973016662, 0.09606061190241484, 0.05898467799682725, 0.06440545264849255, 0.18051675693493963, 0.05624610668091116]
+label victim: (316, 'cicada, cicala')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 47, loss: 1.039210319519043
+w: [0.15121566982453763, 0.09528968688027993, 0.11823423531525676, 0.06108441264490006, 0.11864534956584803, 0.09573577225999685, 0.05827389445489482, 0.06367633878905725, 0.1822757248159904, 0.05556891544923841]
+label victim: (84, 'peacock')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 48, loss: 2.239439010620117
+w: [0.1521743228473376, 0.09501889761544398, 0.11848219150146623, 0.0604202246510417, 0.11880063416109497, 0.09559812752817338, 0.05760124919791067, 0.06300426459182609, 0.18401183256045375, 0.05488825534525156]
+label victim: (316, 'cicada, cicala')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 49, loss: 3.0211219787597656
+w: [0.15303274767134617, 0.0947760610374681, 0.11872252563824551, 0.05978137434259566, 0.1190648471477129, 0.09544476045601018, 0.0569192681884823, 0.06243280067153987, 0.18557674514921998, 0.05424886969737932]
+label victim: (316, 'cicada, cicala')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 0, loss: 6.932063102722168
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+label victim: (337, 'beaver')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 1, loss: 0.7103796005249023
+w: [0.10028710147719871, 0.10006276687799492, 0.10008904841315362, 0.09993454726164402, 0.10025128963353075, 0.0998398879541526, 0.09985638046617072, 0.10004232712863154, 0.09974688532933063, 0.09988976545819252]
+label victim: (305, 'dung beetle')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 2, loss: -1.9644784927368164
+w: [0.10091634252280846, 0.10010576701292478, 0.10040982643732821, 0.0992055660995111, 0.10058403137738696, 0.10001828903026393, 0.09935134301747968, 0.09983959736704826, 0.10002012447442135, 0.09954911266082728]
+label victim: (95, 'jacamar')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 3, loss: -0.7291345596313477
+w: [0.10171080941850959, 0.10010951399107601, 0.10082359172844219, 0.09818719448777352, 0.10105215814806319, 0.10013661642648275, 0.0986349761980036, 0.099355761741557, 0.1011145819000489, 0.09887479596004332]
+label victim: (95, 'jacamar')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 4, loss: -3.1865310668945312
+w: [0.102603871576294, 0.10004334310699728, 0.10128761144216526, 0.09703004648015577, 0.10163672262237335, 0.10017919717058167, 0.09781046592824616, 0.09870925844099873, 0.10271958924503687, 0.09797989398715107]
+label victim: (95, 'jacamar')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 5, loss: 2.5448780059814453
+w: [0.10344194191737557, 0.10009227501057281, 0.1016929471711759, 0.09593039010674873, 0.10235385384360879, 0.10020157151790975, 0.09695138716936537, 0.09799497810925453, 0.1042815932507108, 0.09705906190327765]
+label victim: (35, 'mud turtle')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 6, loss: 0.5424938201904297
+w: [0.10453504550676528, 0.10003809316610655, 0.10220127708121446, 0.09487705155586942, 0.10297158175936028, 0.10015540576224355, 0.09599670056510483, 0.09718020096338544, 0.10598954102133634, 0.09605510261861382]
+label victim: (316, 'cicada, cicala')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 7, loss: -1.4848098754882812
+w: [0.10550319509121689, 0.09998876882693841, 0.10266293073755607, 0.09396207358960108, 0.10370837665845205, 0.10020513518065743, 0.09499449511549084, 0.09629958896043336, 0.10768876101256318, 0.09498667482709068]
+label victim: (95, 'jacamar')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 8, loss: 3.505375862121582
+w: [0.10654344223375589, 0.09998182051401658, 0.10315023774733305, 0.09303671390691834, 0.10432830249193753, 0.10017639815815403, 0.09405583056748684, 0.09546877580459207, 0.10938691000905502, 0.09387156856675048]
+label victim: (316, 'cicada, cicala')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 9, loss: -0.8363037109375
+w: [0.10751986588259832, 0.10000263656400686, 0.10363296608549989, 0.09203396019325732, 0.10495276478911314, 0.10020742813619833, 0.09310460764780529, 0.09459097366187083, 0.11120411003110826, 0.09275068700854187]
+label victim: (95, 'jacamar')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 10, loss: 1.5165157318115234
+w: [0.10866025293332443, 0.09997726350554656, 0.10411378122904041, 0.09106902553885741, 0.10557941812107795, 0.10013850740920333, 0.09204562129126814, 0.09365564007314399, 0.113120738820059, 0.09163975107847865]
+label victim: (316, 'cicada, cicala')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 11, loss: -0.0437469482421875
+w: [0.10980707131322626, 0.09998667372537356, 0.10448831040655944, 0.09016490661589618, 0.10628400525784437, 0.1000679518374154, 0.09099856750981615, 0.0928342625222691, 0.11483910243998519, 0.0905291483716144]
+label victim: (95, 'jacamar')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 12, loss: -1.3057537078857422
+w: [0.11113953552259775, 0.1000213240932836, 0.10495960116991764, 0.08913581904178249, 0.10685647243505111, 0.09999808806621341, 0.08996760859784693, 0.09190639276580513, 0.11661194194180684, 0.08940321636569501]
+label victim: (95, 'jacamar')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 13, loss: 4.09019660949707
+w: [0.1123101753967793, 0.10010533495882679, 0.1054228507044791, 0.08819194822925976, 0.10742228121843705, 0.09994781563616814, 0.08884272525129662, 0.09104382581130574, 0.11851988263622525, 0.08819316015722241]
+label victim: (305, 'dung beetle')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 14, loss: -1.61114501953125
+w: [0.11369292169677074, 0.10016461886824299, 0.10589175812707885, 0.08727741890916958, 0.10785639060563051, 0.09977381985474336, 0.08774542084175693, 0.09022033957458256, 0.12031814036844911, 0.08705917115357513]
+label victim: (95, 'jacamar')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 15, loss: 3.215547561645508
+w: [0.11497042980803443, 0.10010967174732609, 0.10629096060020321, 0.0863168730380981, 0.10832811013683452, 0.09972432032431947, 0.08662981071272473, 0.08927078945874511, 0.12252648577416689, 0.08583254839954742]
+label victim: (316, 'cicada, cicala')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 16, loss: 0.8387184143066406
+w: [0.11626012652423043, 0.10015547680601176, 0.10664365975798311, 0.0853727692712509, 0.10883755179775455, 0.09958813272326934, 0.08560322852151053, 0.08839356650805137, 0.12448646573660238, 0.08465902235333572]
+label victim: (35, 'mud turtle')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 17, loss: 0.4433298110961914
+w: [0.11758637814183925, 0.10009431665878911, 0.10698932233862218, 0.08442121893734172, 0.10942539296559309, 0.0995537356985722, 0.08450447742130954, 0.08744718042907718, 0.12652597249438624, 0.08345200491446939]
+label victim: (84, 'peacock')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 18, loss: -0.5535812377929688
+w: [0.11885010332203548, 0.10013618935543687, 0.10748678706671871, 0.08352012232535502, 0.10992607745595442, 0.09947760903829034, 0.08347868206927697, 0.08656784612525874, 0.12824519869587359, 0.08231138454579992]
+label victim: (95, 'jacamar')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 19, loss: 2.657928466796875
+w: [0.12008519781874104, 0.10018535327243347, 0.10790595596913534, 0.08259357389747533, 0.11043205580779497, 0.09939607398205405, 0.08240538259841418, 0.08560920200962033, 0.1301969182289852, 0.08119028641534622]
+label victim: (35, 'mud turtle')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 20, loss: 1.9173345565795898
+w: [0.12142455390574176, 0.10008121958687967, 0.10841044156598285, 0.08174754295020921, 0.11090143440744864, 0.09927407131962546, 0.0813945007564816, 0.0847299535006469, 0.1319537146652871, 0.08008256734169687]
+label victim: (36, 'terrapin')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 21, loss: 1.2438325881958008
+w: [0.12258629888683954, 0.10012784041554716, 0.1088566397106449, 0.08089589583754705, 0.11132811992392365, 0.09920095360498747, 0.08035788460355715, 0.08385779373543922, 0.13380301655481447, 0.07898555672669935]
+label victim: (84, 'peacock')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 22, loss: 4.206622123718262
+w: [0.12385177789949585, 0.10003948923668966, 0.10927405745945676, 0.08010971403397112, 0.11173958916977061, 0.09902116490199289, 0.07936594883527591, 0.0829754451299574, 0.1357194966882213, 0.07790331664516838]
+label victim: (35, 'mud turtle')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 23, loss: 4.966439247131348
+w: [0.12489006202039132, 0.09997004777177014, 0.10978595481747573, 0.07923443171764329, 0.11218684096758581, 0.09900653201447004, 0.07842733451391297, 0.08213095799839096, 0.137496388624617, 0.07687144955374264]
+label victim: (36, 'terrapin')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 24, loss: 3.0585689544677734
+w: [0.12622221251087334, 0.09986618082636499, 0.1102318059615249, 0.07834985587313531, 0.11263926201984417, 0.0990041250885647, 0.07743118847407594, 0.08129341536165062, 0.139171100701664, 0.07579085318230189]
+label victim: (35, 'mud turtle')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 25, loss: 1.2957563400268555
+w: [0.12747826392475908, 0.09974382233847293, 0.11067275584104791, 0.07749712001111236, 0.11308077828323053, 0.09895172745872602, 0.07649803034291701, 0.08044241599621343, 0.1408848540336489, 0.07475023176987192]
+label victim: (316, 'cicada, cicala')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 26, loss: 0.05935955047607422
+w: [0.12857719660479144, 0.09956425281665784, 0.11109005167116337, 0.07675208579185917, 0.11354832042557725, 0.09887719905034795, 0.07562082163437873, 0.07960229594926956, 0.14262416983345588, 0.07374360622249894]
+label victim: (124, 'crayfish, crawfish, crawdad, crawdaddy')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 27, loss: 0.4587821960449219
+w: [0.12975665674898218, 0.0994277249968622, 0.11155709164163029, 0.07597056392128851, 0.11391601922329599, 0.0987995963099086, 0.07476073358733773, 0.0787374747877546, 0.14434226421868793, 0.07273187456425201]
+label victim: (316, 'cicada, cicala')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 28, loss: 4.665339469909668
+w: [0.1309253413129322, 0.09926304333573525, 0.11196978426474487, 0.07517469440400418, 0.11427628274753997, 0.09860104049690839, 0.07388678022405072, 0.0778377132228833, 0.1463223456289307, 0.07174297436227037]
+label victim: (316, 'cicada, cicala')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 29, loss: 0.16449260711669922
+w: [0.13225598228324392, 0.09910916861057928, 0.11236410495134247, 0.07438636373515031, 0.11460897905076635, 0.09840467645772667, 0.07299936217829282, 0.07701538350975905, 0.1480835308600933, 0.07077244836304586]
+label victim: (84, 'peacock')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 30, loss: 2.6309919357299805
+w: [0.13327487100531013, 0.09896763998308118, 0.11277934570958378, 0.07356222664543823, 0.11499916937908157, 0.09832744301408888, 0.0720714199993221, 0.07616269533844472, 0.15007012676029532, 0.06978506216535402]
+label victim: (35, 'mud turtle')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 31, loss: 3.7730932235717773
+w: [0.13445222608196364, 0.09886921434450677, 0.11304410869615311, 0.07273809019688864, 0.11541310252245517, 0.09820437698760154, 0.07117072598031596, 0.07533896026163181, 0.1519502184098186, 0.06881897651866475]
+label victim: (36, 'terrapin')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 32, loss: 1.2153968811035156
+w: [0.13571047638986927, 0.09868733795777385, 0.11331774179988398, 0.07188812510544725, 0.1155978753281589, 0.09806428854661801, 0.07026188211662976, 0.07457421341774764, 0.1540549761101109, 0.06784308322776043]
+label victim: (316, 'cicada, cicala')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 33, loss: -2.0545082092285156
+w: [0.137018402754883, 0.09847743684959966, 0.1136731372572718, 0.07104549472625571, 0.11584101216585335, 0.09797673505418712, 0.06937830680325031, 0.07377616963359453, 0.15591436673583303, 0.06689893801927137]
+label victim: (95, 'jacamar')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 34, loss: 0.7671833038330078
+w: [0.13824450899032048, 0.09826432079314393, 0.11404156403668042, 0.07033966422364156, 0.11608714492762244, 0.0978135756575952, 0.06853706330099803, 0.0730082398046358, 0.15771758847152478, 0.06594632979383724]
+label victim: (97, 'drake')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 35, loss: 2.1320409774780273
+w: [0.13941555400298175, 0.09802507282389616, 0.11440914601903344, 0.06949947526766516, 0.11624712823665183, 0.09766647487333753, 0.06767608932240383, 0.07222649081952373, 0.15980656352606742, 0.0650280051084393]
+label victim: (35, 'mud turtle')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 36, loss: -0.3336191177368164
+w: [0.14054633214580675, 0.09784839380895173, 0.11473354591671267, 0.06873106764739023, 0.11645758249007046, 0.09751233955235326, 0.06680542856212224, 0.07145962999730437, 0.16182814883262134, 0.06407753104666687]
+label victim: (95, 'jacamar')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 37, loss: 4.188786506652832
+w: [0.14158104669779878, 0.09764424599824921, 0.11513747316296401, 0.06801919863586237, 0.11670848169187546, 0.09741281763052212, 0.06601323254951774, 0.07066564853772905, 0.16362967493960284, 0.06318818015587843]
+label victim: (316, 'cicada, cicala')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 38, loss: 0.7080249786376953
+w: [0.14273550319087455, 0.09736411929438835, 0.11556031308846104, 0.06725713547973895, 0.11705624102669925, 0.0972150692488874, 0.06517238414258134, 0.06987256042462585, 0.16540874170925482, 0.06235793239448836]
+label victim: (84, 'peacock')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 39, loss: 1.0790834426879883
+w: [0.14378595320299908, 0.0971136838683984, 0.11600480777261463, 0.06652156415865222, 0.11721115880273766, 0.0970986559495332, 0.0643971621985733, 0.06913995883600232, 0.16720366628572259, 0.06152338892476663]
+label victim: (316, 'cicada, cicala')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 40, loss: 1.7646503448486328
+w: [0.14471070493395663, 0.09684759479448936, 0.11632239120245705, 0.06576313094782768, 0.11748759207705947, 0.09698999583487401, 0.06361749218664678, 0.06840845742095054, 0.16915064178474692, 0.06070199881699147]
+label victim: (316, 'cicada, cicala')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 41, loss: -1.7148771286010742
+w: [0.14552561959599822, 0.09664661571338559, 0.11663324729282287, 0.06509727601662334, 0.11765324027438903, 0.09691852807630093, 0.06283363183100837, 0.06772900673985113, 0.1710468569488915, 0.05991597751072901]
+label victim: (95, 'jacamar')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 42, loss: -1.6311016082763672
+w: [0.1464719374078007, 0.09642418601817472, 0.1168759570978919, 0.06439225826794477, 0.11777583954060243, 0.09673583700034832, 0.0621052497742317, 0.0671364612670828, 0.17292248751719558, 0.059159786108727186]
+label victim: (95, 'jacamar')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 43, loss: 0.10807228088378906
+w: [0.1474322758137184, 0.09623380880868958, 0.11715042977238238, 0.06371055073222635, 0.11799709981704412, 0.09648900800255357, 0.06131651642115233, 0.06644245113342902, 0.17479655431806584, 0.058431305180738385]
+label victim: (316, 'cicada, cicala')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 44, loss: -1.1831436157226562
+w: [0.1484734954912502, 0.0960091197257562, 0.11746847478832727, 0.06304854595775032, 0.1180591856462512, 0.096351042291168, 0.060539051515409975, 0.06577778769846075, 0.17660107753762133, 0.05767221934800462]
+label victim: (95, 'jacamar')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 45, loss: -2.9711198806762695
+w: [0.14944461471276468, 0.09577507000406095, 0.11763984221648847, 0.06233392884164424, 0.11822847378072601, 0.0962421504247179, 0.05978216345256111, 0.06509698421852655, 0.17851783537129917, 0.05693893697721088]
+label victim: (95, 'jacamar')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 46, loss: 1.4223136901855469
+w: [0.150275934154219, 0.09552803673981151, 0.11790787762655022, 0.06170235558566717, 0.11837218973016662, 0.09606061190241484, 0.05898467799682725, 0.06440545264849255, 0.18051675693493963, 0.05624610668091116]
+label victim: (316, 'cicada, cicala')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 47, loss: 1.039210319519043
+w: [0.15121566982453763, 0.09528968688027993, 0.11823423531525676, 0.06108441264490006, 0.11864534956584803, 0.09573577225999685, 0.05827389445489482, 0.06367633878905725, 0.1822757248159904, 0.05556891544923841]
+label victim: (84, 'peacock')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 48, loss: 2.239439010620117
+w: [0.1521743228473376, 0.09501889761544398, 0.11848219150146623, 0.0604202246510417, 0.11880063416109497, 0.09559812752817338, 0.05760124919791067, 0.06300426459182609, 0.18401183256045375, 0.05488825534525156]
+label victim: (316, 'cicada, cicala')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+
+n_iters: 10, iter_w: 49, loss: 3.0211219787597656
+w: [0.15303274767134617, 0.0947760610374681, 0.11872252563824551, 0.05978137434259566, 0.1190648471477129, 0.09544476045601018, 0.0569192681884823, 0.06243280067153987, 0.18557674514921998, 0.05424886969737932]
+label victim: (316, 'cicada, cicala')
+label wb 0: (95, 'jacamar')
+label wb 1: (95, 'jacamar')
+label wb 2: (95, 'jacamar')
+label wb 3: (95, 'jacamar')
+label wb 4: (95, 'jacamar')
+label wb 5: (95, 'jacamar')
+label wb 6: (95, 'jacamar')
+label wb 7: (95, 'jacamar')
+label wb 8: (95, 'jacamar')
+label wb 9: (95, 'jacamar')
+
+

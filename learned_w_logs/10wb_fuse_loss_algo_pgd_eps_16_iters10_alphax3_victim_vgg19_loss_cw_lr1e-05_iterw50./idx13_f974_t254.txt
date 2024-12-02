@@ -1,0 +1,1500 @@
+n_iters: 10, iter_w: 0, loss: 2.7525815963745117
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+label victim: (48, 'Komodo dragon, Komodo lizard, dragon lizard, giant lizard, Varanus komodoensis')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (978, 'seashore, coast, seacoast, sea-coast')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (174, 'Norwegian elkhound, elkhound')
+label wb 6: (249, 'malamute, malemute, Alaskan malamute')
+label wb 7: (249, 'malamute, malemute, Alaskan malamute')
+label wb 8: (203, 'West Highland white terrier')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 1, loss: 2.469423294067383
+w: [0.10004466137449576, 0.10003007651558218, 0.10006929333574298, 0.09999127812974046, 0.09993346829298912, 0.10011782119272018, 0.0999792361230294, 0.09988506337498558, 0.09993141136327804, 0.10001769029743632]
+label victim: (741, 'prayer rug, prayer mat')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 2, loss: 1.824378490447998
+w: [0.10038365330957091, 0.10016496814177706, 0.09987585657280511, 0.09984814541697731, 0.09998916511728766, 0.10000232428800722, 0.09981825411571627, 0.09988588888432011, 0.09983527708174246, 0.10019646707179593]
+label victim: (741, 'prayer rug, prayer mat')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 3, loss: 2.8120694160461426
+w: [0.10063609300834439, 0.10022090412847937, 0.09921184835987948, 0.09945513058315789, 0.10009494118185717, 0.10030351450197161, 0.09967594021875718, 0.09994961033248596, 0.10044580979718663, 0.10000620788788032]
+label victim: (39, 'common iguana, iguana, Iguana iguana')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 4, loss: 1.4387693405151367
+w: [0.10108959281575064, 0.1003092431662104, 0.09859717508582341, 0.09897012097707944, 0.10013198828379039, 0.10076164422006988, 0.09939441294569236, 0.09996352100967203, 0.10126391005823404, 0.09951839143767739]
+label victim: (39, 'common iguana, iguana, Iguana iguana')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 5, loss: 0.2260751724243164
+w: [0.10189826722875787, 0.10037068865795389, 0.09794605498809952, 0.09834578140725692, 0.10024622590984364, 0.10122185435109583, 0.09903481473547318, 0.09975081878797885, 0.10232972509536929, 0.098855768838171]
+label victim: (48, 'Komodo dragon, Komodo lizard, dragon lizard, giant lizard, Varanus komodoensis')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 6, loss: 0.2706785202026367
+w: [0.10283115115811699, 0.10039658510360024, 0.09725923023582732, 0.09773156128498191, 0.100390912552235, 0.10168915031400386, 0.09854552977762869, 0.09968793049828356, 0.10334294388746787, 0.0981250051878545]
+label victim: (48, 'Komodo dragon, Komodo lizard, dragon lizard, giant lizard, Varanus komodoensis')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 7, loss: 0.8529877662658691
+w: [0.10405184219810441, 0.10030358456716633, 0.09655016271545812, 0.09707045818353548, 0.10051600150059364, 0.10198855378817102, 0.09791887295766839, 0.09952474849393639, 0.10471884642277997, 0.09735692917258625]
+label victim: (48, 'Komodo dragon, Komodo lizard, dragon lizard, giant lizard, Varanus komodoensis')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 8, loss: 1.962285041809082
+w: [0.10515725053940128, 0.10020147478901842, 0.09583933933756153, 0.09641617108625226, 0.10061757941507861, 0.1023724062749513, 0.09727315453353992, 0.09932155334693613, 0.10626050623072475, 0.09654056444653573]
+label victim: (741, 'prayer rug, prayer mat')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 9, loss: 1.3909482955932617
+w: [0.1063588202420563, 0.10011032669582268, 0.09503637937970495, 0.09578084834566644, 0.10065931901198687, 0.10277896717825444, 0.09653235607070894, 0.0991643401827577, 0.10796690960324884, 0.09561173328979289]
+label victim: (39, 'common iguana, iguana, Iguana iguana')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 10, loss: 4.587953090667725
+w: [0.10759218243420429, 0.09992588438043662, 0.09431633091802392, 0.09520649642150887, 0.10074232372222731, 0.10310021144198152, 0.09573355697676868, 0.09903060055893484, 0.10971153808887131, 0.09464087505704251]
+label victim: (39, 'common iguana, iguana, Iguana iguana')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 11, loss: 3.5872979164123535
+w: [0.10872912844330818, 0.09980742292171711, 0.09349522088690605, 0.09477835672939934, 0.10066550374601042, 0.10353197742806904, 0.09492045803476767, 0.09876457179572037, 0.1115682544396892, 0.0937391055744127]
+label victim: (39, 'common iguana, iguana, Iguana iguana')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 12, loss: 0.6953639984130859
+w: [0.10989625694233068, 0.09961637302321222, 0.0927220621782207, 0.09426775479871904, 0.10066889566796473, 0.10391294999792833, 0.09417296049511278, 0.09845214111755789, 0.11353385158669412, 0.09275675419225948]
+label victim: (39, 'common iguana, iguana, Iguana iguana')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 13, loss: -1.203223705291748
+w: [0.11112946633868415, 0.09938822074465153, 0.0918368685751448, 0.0938004171367029, 0.10082564239688618, 0.10428435910293553, 0.09332788467652053, 0.09812475293189453, 0.11556421049055135, 0.09171817760602861]
+label victim: (254, 'pug, pug-dog')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 14, loss: 5.445131301879883
+w: [0.11215615180355203, 0.09917612551542662, 0.09106556233554781, 0.09335382366002383, 0.1009323500016882, 0.10481370254531605, 0.09251423027714983, 0.09780441392501227, 0.11750876204519012, 0.09067487789109321]
+label victim: (48, 'Komodo dragon, Komodo lizard, dragon lizard, giant lizard, Varanus komodoensis')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 15, loss: -0.8910198211669922
+w: [0.11325778032601026, 0.0989037360133814, 0.09027629632706276, 0.09296105532248906, 0.10112654839387736, 0.10517346391885274, 0.09171998206101153, 0.09742737311783009, 0.11952164220292823, 0.08963212231655651]
+label victim: (254, 'pug, pug-dog')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 16, loss: -0.10775041580200195
+w: [0.11426474676744308, 0.09867913520223319, 0.08946602075803699, 0.09248442840029511, 0.10131322944629974, 0.10565420311494797, 0.09099748751741575, 0.09707692035733625, 0.12143879265129295, 0.08862503578469907]
+label victim: (254, 'pug, pug-dog')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 17, loss: 1.733705997467041
+w: [0.11512084971938377, 0.09849125300793578, 0.0887279555940549, 0.09212229647044799, 0.10148237670019152, 0.10601218175834656, 0.09030890049335809, 0.09684968047904499, 0.12323335314449546, 0.08765115263274088]
+label victim: (344, 'hippopotamus, hippo, river horse, Hippopotamus amphibius')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 18, loss: 2.6279244422912598
+w: [0.1160787837479833, 0.09835850267869355, 0.08795684865204512, 0.09174417215044021, 0.10167938340645241, 0.10646668165232458, 0.08950637759528703, 0.09626259232652283, 0.12531632426911432, 0.08663033352113661]
+label victim: (39, 'common iguana, iguana, Iguana iguana')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 19, loss: 1.1517467498779297
+w: [0.11714972749999875, 0.0980985008710494, 0.08715269359510115, 0.09119513997111119, 0.10188979725906226, 0.10692338856055685, 0.08868828235768868, 0.09587462005588791, 0.12743005888792927, 0.08559779094161449]
+label victim: (39, 'common iguana, iguana, Iguana iguana')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 20, loss: 1.9974231719970703
+w: [0.11808888541312222, 0.0979544206698861, 0.08632527260994007, 0.09075817722882543, 0.10215510908782509, 0.10735605206248068, 0.08792830946457958, 0.09544338716653548, 0.12939806919572752, 0.08459231710107777]
+label victim: (39, 'common iguana, iguana, Iguana iguana')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 21, loss: -1.7585182189941406
+w: [0.1192003788469222, 0.09782786333303944, 0.08556530319699611, 0.09027729212463394, 0.10230553568542501, 0.10760080762466108, 0.08715630151492645, 0.0951250638735987, 0.13132909034943654, 0.08361236345036044]
+label victim: (254, 'pug, pug-dog')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 22, loss: 1.7252449989318848
+w: [0.12007961542998305, 0.09764753304218206, 0.08489844472008307, 0.08989855224199611, 0.10248854986693291, 0.10791885204649643, 0.08635790001979443, 0.09473030416225967, 0.13331480730021877, 0.08266544117005349]
+label victim: (39, 'common iguana, iguana, Iguana iguana')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 23, loss: 1.8617677688598633
+w: [0.12101955751446038, 0.0974631094544116, 0.08423650758126507, 0.0894391183959802, 0.1026300208069604, 0.10820492407076288, 0.08553850386416058, 0.0943495214980653, 0.13543396419779957, 0.08168477261613381]
+label victim: (750, 'quilt, comforter, comfort, puff')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 24, loss: -1.0240979194641113
+w: [0.12195410412692226, 0.0972901706799583, 0.0834701880730095, 0.08904870670901245, 0.10282102643323128, 0.10845740912425694, 0.08481661788946473, 0.09395591778111528, 0.13748711420290333, 0.08069874498012582]
+label victim: (254, 'pug, pug-dog')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 25, loss: 3.6177291870117188
+w: [0.1227421239878949, 0.09711162206807439, 0.08278244752043404, 0.08854247971307061, 0.10300428971752618, 0.10893684037945332, 0.08414210288155964, 0.09357283373866178, 0.1393977611710613, 0.07976749882226396]
+label victim: (750, 'quilt, comforter, comfort, puff')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 26, loss: 1.0156869888305664
+w: [0.12341312771305112, 0.09691533923133626, 0.08211269095070842, 0.0880588221564158, 0.10311270774574459, 0.1092672230507356, 0.08344236474093213, 0.09328850195907576, 0.14159298415702867, 0.07879623829497177]
+label victim: (39, 'common iguana, iguana, Iguana iguana')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 27, loss: -4.723773956298828
+w: [0.12428141305120911, 0.09678865218879673, 0.081503608849877, 0.08765695906454458, 0.10327026906854865, 0.10956249184063255, 0.08272205265260306, 0.09294850994414873, 0.14333484485199344, 0.0779311984876462]
+label victim: (254, 'pug, pug-dog')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 28, loss: 0.39566516876220703
+w: [0.1249959937022007, 0.09656053256259299, 0.08086974327708181, 0.0871627633737148, 0.10346805168716552, 0.10998565361181663, 0.08195852064317817, 0.09252704794202087, 0.14547892751414895, 0.07699276568607952]
+label victim: (39, 'common iguana, iguana, Iguana iguana')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 29, loss: 1.1700029373168945
+w: [0.1257932777728259, 0.09635963112934252, 0.08022794314839919, 0.08669156836758898, 0.10358845197100952, 0.11024666915755876, 0.08118764753156484, 0.09218947748123058, 0.14763346568129662, 0.0760818677591832]
+label victim: (39, 'common iguana, iguana, Iguana iguana')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 30, loss: 0.6293182373046875
+w: [0.12640394228871515, 0.09612539580618401, 0.07957479715293121, 0.08620014210814882, 0.10374027013011979, 0.11046785234130053, 0.08051646552268078, 0.09190920210623009, 0.14983930591025071, 0.07522262663343897]
+label victim: (750, 'quilt, comforter, comfort, puff')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 31, loss: -3.444620132446289
+w: [0.12713560537194507, 0.09590616335200537, 0.07896551185657369, 0.08575086737739225, 0.10397963680837123, 0.11069371944147113, 0.07983358845073474, 0.09168198959550328, 0.15165001558634775, 0.07440290215965553]
+label victim: (254, 'pug, pug-dog')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 32, loss: -1.8797602653503418
+w: [0.127692977083696, 0.09564740830035072, 0.07838162640909556, 0.08529508186881936, 0.10417819327259681, 0.1108196168736163, 0.07916754467173487, 0.09142348819937862, 0.15378353402171638, 0.0736105292989953]
+label victim: (254, 'pug, pug-dog')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 33, loss: 0.45856571197509766
+w: [0.1283497621039718, 0.09542736735088292, 0.07780739520051996, 0.08489427912026416, 0.10436760021139199, 0.11097094371079512, 0.07838935490378056, 0.09105138598694762, 0.1559329916613475, 0.07280891975009834]
+label victim: (750, 'quilt, comforter, comfort, puff')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 34, loss: 0.7881603240966797
+w: [0.12911563624665778, 0.09513461754589775, 0.07716195461990942, 0.08456358042259136, 0.10436400198916344, 0.11128065656459625, 0.07771257780654027, 0.09073037723431522, 0.15792374845070545, 0.07201284911962312]
+label victim: (39, 'common iguana, iguana, Iguana iguana')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 35, loss: -1.9367566108703613
+w: [0.12980177579380167, 0.09487359225949168, 0.07649317918484125, 0.08423581347612275, 0.10446963721369085, 0.11147860967700528, 0.07701774249643636, 0.09037973347869507, 0.16007559001854307, 0.07117432640137192]
+label victim: (254, 'pug, pug-dog')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 36, loss: 0.3368062973022461
+w: [0.13034412892944927, 0.09459033831105906, 0.07593648037936877, 0.08388042441795943, 0.10461556368234604, 0.11179000893943428, 0.07641496805861109, 0.0901024999899495, 0.16192364728055253, 0.07040194001127009]
+label victim: (281, 'tabby, tabby cat')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 37, loss: -0.8470573425292969
+w: [0.13066632848531753, 0.09441348859991744, 0.07538341821729032, 0.083435303451128, 0.10477233238583743, 0.1121321993580181, 0.07575350810882917, 0.08982129520024762, 0.1639476758752905, 0.06967445031812375]
+label victim: (254, 'pug, pug-dog')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 38, loss: 4.638949871063232
+w: [0.13113040980495683, 0.09420187942132557, 0.07489582599606485, 0.08306248427573502, 0.104999610293381, 0.11244154035531967, 0.07507450186650726, 0.08955294025145859, 0.16568827972267872, 0.06895252801257234]
+label victim: (39, 'common iguana, iguana, Iguana iguana')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 39, loss: -0.6947507858276367
+w: [0.13162137497538234, 0.09406490851145229, 0.07432661194369718, 0.0827071174661546, 0.10520824348634353, 0.11268603970175974, 0.07446918563977908, 0.08924305915044073, 0.16745300597885776, 0.06822045314613275]
+label victim: (254, 'pug, pug-dog')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 40, loss: 0.21201324462890625
+w: [0.13206251771798, 0.09387806336362042, 0.07377594702834221, 0.08231363540247832, 0.10531972895937541, 0.11308811002616515, 0.07382735744447214, 0.08902007285583341, 0.16920732631164906, 0.06750724089008389]
+label victim: (39, 'common iguana, iguana, Iguana iguana')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 41, loss: 0.30074310302734375
+w: [0.13251551373285753, 0.09367065940171458, 0.073207387526094, 0.08192215172214133, 0.1054335268850544, 0.11319492077340744, 0.07322490012992985, 0.08869343310037234, 0.17133035356200482, 0.06680715316642367]
+label victim: (39, 'common iguana, iguana, Iguana iguana')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 42, loss: -0.28341102600097656
+w: [0.13303604341985195, 0.0934582804119562, 0.07262399724621625, 0.08164737201145246, 0.10544968576990027, 0.113393008932733, 0.072525279021912, 0.08842018161672917, 0.17331085065075513, 0.06613530091849364]
+label victim: (254, 'pug, pug-dog')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 43, loss: 1.2489285469055176
+w: [0.1333878556198044, 0.09314714157810754, 0.07207482717905185, 0.08132954654774568, 0.10544947679269213, 0.11366845082319647, 0.0718722681010937, 0.08817990607284289, 0.17540639942874128, 0.06548412785672408]
+label victim: (39, 'common iguana, iguana, Iguana iguana')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 44, loss: 0.6475696563720703
+w: [0.13373430141768342, 0.092888638890981, 0.0714863904382142, 0.0809479734819647, 0.10552628751083129, 0.11392071076377122, 0.07123669399262149, 0.08784032593815828, 0.1776112117833596, 0.06480746578241474]
+label victim: (48, 'Komodo dragon, Komodo lizard, dragon lizard, giant lizard, Varanus komodoensis')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 45, loss: -1.6607980728149414
+w: [0.13411616791416517, 0.09269263047452411, 0.07085601785190901, 0.08060519833490237, 0.10568151089616282, 0.11411691827257846, 0.0706870712282328, 0.0876690657163077, 0.17938334022260824, 0.06419207908860916]
+label victim: (254, 'pug, pug-dog')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 46, loss: 0.8356504440307617
+w: [0.13452416447053098, 0.0924480326462976, 0.07029160674569536, 0.08022539471962742, 0.10584031485162941, 0.11440038465583553, 0.07003577796169873, 0.08743009425415062, 0.18123423362261387, 0.06356999607192047]
+label victim: (39, 'common iguana, iguana, Iguana iguana')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 47, loss: -0.9112138748168945
+w: [0.13493186146153202, 0.09218417431377643, 0.06979365412837059, 0.07991566753523997, 0.10584844595401828, 0.11462567701397884, 0.06949223879033288, 0.08713032200837774, 0.18308598201019224, 0.062991976784181]
+label victim: (254, 'pug, pug-dog')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 48, loss: -0.8842296600341797
+w: [0.135327571552536, 0.09191766284125304, 0.06918556223104912, 0.07954995095576477, 0.1058932696054063, 0.11483778247377419, 0.06891602025771117, 0.08693644472688174, 0.18502410532850455, 0.062411630027119115]
+label victim: (254, 'pug, pug-dog')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 49, loss: -0.1478433609008789
+w: [0.13569802141425163, 0.09166892959414999, 0.06865218960773074, 0.07922450721980814, 0.10597603228804545, 0.11502414362280697, 0.06838279799415001, 0.08662060584094472, 0.1869596436741096, 0.06179312874400287]
+label victim: (254, 'pug, pug-dog')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 0, loss: 2.7525815963745117
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+label victim: (48, 'Komodo dragon, Komodo lizard, dragon lizard, giant lizard, Varanus komodoensis')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (978, 'seashore, coast, seacoast, sea-coast')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (174, 'Norwegian elkhound, elkhound')
+label wb 6: (249, 'malamute, malemute, Alaskan malamute')
+label wb 7: (249, 'malamute, malemute, Alaskan malamute')
+label wb 8: (203, 'West Highland white terrier')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 1, loss: 2.469423294067383
+w: [0.10004466137449576, 0.10003007651558218, 0.10006929333574298, 0.09999127812974046, 0.09993346829298912, 0.10011782119272018, 0.0999792361230294, 0.09988506337498558, 0.09993141136327804, 0.10001769029743632]
+label victim: (741, 'prayer rug, prayer mat')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 2, loss: 1.824378490447998
+w: [0.10038365330957091, 0.10016496814177706, 0.09987585657280511, 0.09984814541697731, 0.09998916511728766, 0.10000232428800722, 0.09981825411571627, 0.09988588888432011, 0.09983527708174246, 0.10019646707179593]
+label victim: (741, 'prayer rug, prayer mat')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 3, loss: 3.4564080238342285
+w: [0.10063609300834439, 0.10022090412847937, 0.09921184835987948, 0.09945513058315789, 0.10009494118185717, 0.10030351450197161, 0.09967594021875718, 0.09994961033248596, 0.10044580979718663, 0.10000620788788032]
+label victim: (741, 'prayer rug, prayer mat')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 4, loss: 1.3729934692382812
+w: [0.10109415941459252, 0.10030651326784268, 0.09859684209350877, 0.0989650873568617, 0.10013308207425654, 0.1007968547161523, 0.09940323974076808, 0.09988044750310611, 0.10128473147008527, 0.0995390423628261]
+label victim: (741, 'prayer rug, prayer mat')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 5, loss: 1.2594871520996094
+w: [0.1019272510285844, 0.1003130503879011, 0.09791534976026749, 0.09828268844051456, 0.10030983105298583, 0.10108538031444315, 0.09905725756310112, 0.09982880994043834, 0.10240509949277964, 0.09887528201898428]
+label victim: (48, 'Komodo dragon, Komodo lizard, dragon lizard, giant lizard, Varanus komodoensis')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 6, loss: 3.6865010261535645
+w: [0.10296131123209605, 0.10029789149680556, 0.09727224895827466, 0.09760671469750798, 0.1004001520951245, 0.10150755581595987, 0.09854063176889703, 0.09966072790191229, 0.10358161708690204, 0.09817114894652001]
+label victim: (39, 'common iguana, iguana, Iguana iguana')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 7, loss: -1.448256492614746
+w: [0.1040361533920351, 0.1001917591276122, 0.09657218677880168, 0.09695829225234923, 0.10049475861993057, 0.10185385955686702, 0.09801280478696157, 0.09955591927341591, 0.10491107184313074, 0.09741319436889596]
+label victim: (254, 'pug, pug-dog')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 8, loss: 2.1821093559265137
+w: [0.10498315898870685, 0.10006912583058629, 0.09576022659311553, 0.09630749695908032, 0.10062292532235467, 0.10237574728865717, 0.09742209858479305, 0.09939340801638949, 0.10649466381401489, 0.09657114860230187]
+label victim: (741, 'prayer rug, prayer mat')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 9, loss: 4.131028652191162
+w: [0.10604086701978138, 0.0999878528583469, 0.09495209877462774, 0.0957542727732706, 0.10066819524334676, 0.10287627633244774, 0.09670065464625756, 0.09920224382496876, 0.10808242987399465, 0.09573510865295791]
+label victim: (48, 'Komodo dragon, Komodo lizard, dragon lizard, giant lizard, Varanus komodoensis')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 10, loss: -2.113396644592285
+w: [0.10712030836599146, 0.09981705525751754, 0.09409460272462854, 0.09517609309283963, 0.10084499722795595, 0.10342191351998874, 0.09600535044948996, 0.09898491709841864, 0.10969727003656142, 0.09483749222660828]
+label victim: (254, 'pug, pug-dog')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 11, loss: 2.3110427856445312
+w: [0.10838093813291383, 0.09967075512038011, 0.09331882038583743, 0.09473836031847031, 0.10088166907995075, 0.10381476013669047, 0.09528424577430629, 0.09873054442955234, 0.11122095087484728, 0.09395895574705126]
+label victim: (48, 'Komodo dragon, Komodo lizard, dragon lizard, giant lizard, Varanus komodoensis')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 12, loss: 1.108654499053955
+w: [0.10948709611990749, 0.09953440612015739, 0.09249277271707637, 0.09417930218670863, 0.10102223285482421, 0.10448581411886698, 0.09454478560981759, 0.09847385167676749, 0.11283902151074515, 0.09294071708512858]
+label victim: (281, 'tabby, tabby cat')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 13, loss: 4.279792785644531
+w: [0.11064002726484094, 0.09938237943303707, 0.09168811668827058, 0.09373844778254646, 0.10122761927080333, 0.10498848912279046, 0.09378204257532559, 0.09812828051808854, 0.11446644324434585, 0.09195815409995138]
+label victim: (750, 'quilt, comforter, comfort, puff')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 14, loss: 2.373802661895752
+w: [0.11177161241931614, 0.09924667487415166, 0.09088200874980475, 0.09324653589130312, 0.10135202023893936, 0.10541563401642631, 0.09306284298903882, 0.09784488739248819, 0.11618453653414539, 0.0909932468943863]
+label victim: (750, 'quilt, comforter, comfort, puff')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 15, loss: 3.4181370735168457
+w: [0.1126987721265111, 0.09908149748809676, 0.09005169270503617, 0.09283552114589252, 0.10138934857157761, 0.10595234991165679, 0.09227113115353285, 0.09750606166046343, 0.11819437738823209, 0.09001924784900071]
+label victim: (48, 'Komodo dragon, Komodo lizard, dragon lizard, giant lizard, Varanus komodoensis')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 16, loss: 1.977090835571289
+w: [0.11388619027998674, 0.09897121245731641, 0.08932429282935948, 0.09245195873800119, 0.10149821165328728, 0.10626738560122291, 0.09147862346240761, 0.09717009873268422, 0.11986765165643355, 0.08908437458930064]
+label victim: (39, 'common iguana, iguana, Iguana iguana')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 17, loss: 0.3303036689758301
+w: [0.11495335309431812, 0.09886143542857631, 0.08860450105885513, 0.09214375490549997, 0.10159632311002526, 0.10670233655392616, 0.090660315395226, 0.0968257256859236, 0.12153552034782954, 0.08811673441981994]
+label victim: (750, 'quilt, comforter, comfort, puff')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 18, loss: 2.057790756225586
+w: [0.11612288814515737, 0.09876360216892194, 0.08784777171072529, 0.09172921779279411, 0.10166123323260885, 0.10717171091377617, 0.08981312850334935, 0.0964184802660855, 0.12339536168691527, 0.0870766055796663]
+label victim: (48, 'Komodo dragon, Komodo lizard, dragon lizard, giant lizard, Varanus komodoensis')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 19, loss: 2.2707877159118652
+w: [0.11733529266925705, 0.09867110798543298, 0.08712007063660783, 0.09142048174963373, 0.10172100023153242, 0.10759780821380097, 0.08902603757606879, 0.09609564510177115, 0.12491804907535493, 0.08609450676054008]
+label victim: (750, 'quilt, comforter, comfort, puff')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 20, loss: 0.7281503677368164
+w: [0.11866986629970276, 0.0984784396864563, 0.08633411536637049, 0.09114701354485472, 0.10180516739924869, 0.1079121928360465, 0.08829354003583487, 0.09569077496985215, 0.12655548804720926, 0.08511340181442417]
+label victim: (281, 'tabby, tabby cat')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 21, loss: -0.2918205261230469
+w: [0.11976104283665648, 0.09824283937614688, 0.08562717803892948, 0.09076708263538814, 0.1020161822889291, 0.10827626374501606, 0.08746483524631428, 0.09535131189499625, 0.12836944725681862, 0.08412381668080475]
+label victim: (254, 'pug, pug-dog')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 22, loss: 0.23594284057617188
+w: [0.1208337750528429, 0.098071462119706, 0.08490696843396593, 0.09036175541908813, 0.10225282957597541, 0.10870104368058213, 0.08676851756093264, 0.0949205303782073, 0.12999282037748738, 0.08319029740121221]
+label victim: (281, 'tabby, tabby cat')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 23, loss: 0.3698453903198242
+w: [0.12198701028491052, 0.09801366861936475, 0.08422521939151485, 0.08999000866540688, 0.10245049012728649, 0.10897158305687839, 0.08598669051729003, 0.09460207004454875, 0.1314907926025082, 0.08228246669029109]
+label victim: (48, 'Komodo dragon, Komodo lizard, dragon lizard, giant lizard, Varanus komodoensis')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 24, loss: -0.7503557205200195
+w: [0.12308234808522844, 0.09793985641374128, 0.08357202161831492, 0.08961824966319991, 0.10260779897176242, 0.10929044269777353, 0.08526968573394324, 0.09419133185675917, 0.13307122190432918, 0.08135704305494787]
+label victim: (254, 'pug, pug-dog')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 25, loss: 1.882993221282959
+w: [0.1241348524069925, 0.09780163957821021, 0.0828885076669144, 0.08919068259862943, 0.1028187936055677, 0.10955349907492928, 0.08449140940188626, 0.09372548395466646, 0.13496010188186353, 0.08043502983034014]
+label victim: (750, 'quilt, comforter, comfort, puff')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 26, loss: -2.6106224060058594
+w: [0.12515395038263447, 0.09764135249323296, 0.08228595395028597, 0.08871174205735081, 0.10310666833998802, 0.10974854030652367, 0.08367076834190385, 0.09337730362372779, 0.13681313811763018, 0.07949058238672231]
+label victim: (254, 'pug, pug-dog')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 27, loss: -1.5652570724487305
+w: [0.12621169790849035, 0.09741272667607691, 0.08165918425995743, 0.08828122631394898, 0.10338598871708606, 0.10990048669716751, 0.08285447880860028, 0.09304349232417675, 0.13866366117415893, 0.07858705712033703]
+label victim: (254, 'pug, pug-dog')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 28, loss: 0.043582916259765625
+w: [0.12726419711395048, 0.09716094156803826, 0.0810706199529985, 0.08789329432135168, 0.10363052839836881, 0.1101473573708057, 0.08209913941805802, 0.09273481271964983, 0.14033030954316228, 0.07766879959361658]
+label victim: (750, 'quilt, comforter, comfort, puff')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 29, loss: 0.6965513229370117
+w: [0.12817449645970738, 0.09696159003370186, 0.08035653328145763, 0.08750743682169737, 0.10376667214600685, 0.11035547961015738, 0.08137531072412174, 0.09237401346691919, 0.14235821558117467, 0.07677025187505587]
+label victim: (39, 'common iguana, iguana, Iguana iguana')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 30, loss: 0.2003040313720703
+w: [0.12906443351129296, 0.09672698015430525, 0.0797361228711314, 0.08702640471149291, 0.10398123342641219, 0.11058149991817529, 0.08070002743040848, 0.09203084555779811, 0.14432148098856867, 0.0758309714304147]
+label victim: (750, 'quilt, comforter, comfort, puff')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 31, loss: 1.3555703163146973
+w: [0.12995477137039776, 0.09654228263536643, 0.07906745029423733, 0.08664093792662513, 0.1042120821007328, 0.11074347435462363, 0.08003583507118783, 0.09176189976286504, 0.14606520774612078, 0.07497605873784309]
+label victim: (750, 'quilt, comforter, comfort, puff')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 32, loss: 0.6721625328063965
+w: [0.13095356176909778, 0.09635440992907524, 0.07837033282509348, 0.08618682707442038, 0.10435989826333698, 0.11108592960966449, 0.07936816794801911, 0.09154725140402396, 0.14767125333537506, 0.0741023678418934]
+label victim: (39, 'common iguana, iguana, Iguana iguana')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 33, loss: -0.8176212310791016
+w: [0.1318668773417884, 0.09617633088989588, 0.07776923561132579, 0.08573943196499738, 0.10450757831951016, 0.11130043688066601, 0.07870044119810539, 0.09128446225427224, 0.14938702144538318, 0.07326818409405562]
+label victim: (254, 'pug, pug-dog')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 34, loss: -2.5302114486694336
+w: [0.13245963659164295, 0.09607480508705298, 0.0771959292112753, 0.08528931253321065, 0.10480027596206601, 0.11147708053318939, 0.07799978647108305, 0.09096695826148597, 0.15132769655805653, 0.07240851879093728]
+label victim: (254, 'pug, pug-dog')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 35, loss: -2.316462516784668
+w: [0.13314982426948857, 0.09596870847532163, 0.07654152166065355, 0.08494933645637219, 0.10506963490959045, 0.11165919486808334, 0.07731276200460196, 0.09075210550432285, 0.1530228975956537, 0.07157401425591181]
+label victim: (254, 'pug, pug-dog')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 36, loss: 1.867910385131836
+w: [0.13379327945784308, 0.09581657039434349, 0.07588635161735029, 0.08460163234048639, 0.10525467404574662, 0.11186680546638035, 0.07673197514853389, 0.09045653242692474, 0.15482783844077533, 0.0707643406616158]
+label victim: (48, 'Komodo dragon, Komodo lizard, dragon lizard, giant lizard, Varanus komodoensis')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 37, loss: 0.9420499801635742
+w: [0.13449145275347144, 0.09560989583239733, 0.07520235549825163, 0.08419983279726669, 0.10536037683457278, 0.11203941972618565, 0.07610346648382459, 0.09022627098975779, 0.15683765483507156, 0.06992927424920056]
+label victim: (344, 'hippopotamus, hippo, river horse, Hippopotamus amphibius')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 38, loss: 3.044436454772949
+w: [0.1351264500536039, 0.09545459327636391, 0.07461140918272552, 0.08381850384447806, 0.10550528285733739, 0.11217802485986014, 0.07548601366021747, 0.0899097080737292, 0.15876363368978585, 0.06914638050189874]
+label victim: (48, 'Komodo dragon, Komodo lizard, dragon lizard, giant lizard, Varanus komodoensis')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 39, loss: -0.9507856369018555
+w: [0.1356771389157337, 0.09535849199697347, 0.07400102175669848, 0.0834010111553045, 0.10560170426456277, 0.11232070943244048, 0.07496384573749439, 0.08964649640538501, 0.16062758617995726, 0.06840199415544994]
+label victim: (254, 'pug, pug-dog')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 40, loss: -0.3360557556152344
+w: [0.13624470709073333, 0.0951588185934997, 0.07333829698639947, 0.08300981422231374, 0.1057099822339519, 0.11247761669492921, 0.07443771422701621, 0.08946395806114342, 0.16247520604106894, 0.06768388584894414]
+label victim: (254, 'pug, pug-dog')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 41, loss: 1.2191734313964844
+w: [0.136882890318137, 0.09497264251231656, 0.07275564571616949, 0.08267945301296457, 0.10591181204285118, 0.11252142172356037, 0.0738449867360213, 0.08911954986402691, 0.16436000446384635, 0.06695159361010647]
+label victim: (281, 'tabby, tabby cat')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 42, loss: -2.785371780395508
+w: [0.13743177774323898, 0.09471347928220249, 0.07214240995953372, 0.08228433924402144, 0.10614426841218308, 0.1126309066721902, 0.07326328947310712, 0.08879394531760632, 0.1663817248816847, 0.06621385901423196]
+label victim: (254, 'pug, pug-dog')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 43, loss: -0.9012250900268555
+w: [0.1379276009454955, 0.09440936449560425, 0.07158743390776258, 0.08190021698367732, 0.1063629067798268, 0.11272029953255604, 0.07271676631346699, 0.08856764788967549, 0.16834895946752143, 0.0654588036844136]
+label victim: (254, 'pug, pug-dog')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 44, loss: -3.3996219635009766
+w: [0.1383901940747894, 0.09426438110701807, 0.07100836060358845, 0.08152196583047445, 0.10660821855857387, 0.1128652168551817, 0.07222444691644554, 0.08824299024365403, 0.1701168177837784, 0.06475740802649604]
+label victim: (254, 'pug, pug-dog')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 45, loss: -0.09065914154052734
+w: [0.13875474190390016, 0.09405456492250988, 0.07043363256651171, 0.081147240187948, 0.10682699470030854, 0.11307698778736494, 0.07166747882860944, 0.08799576155775711, 0.17194718638224774, 0.06409541116284244]
+label victim: (254, 'pug, pug-dog')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 46, loss: 0.2335376739501953
+w: [0.1392639648537728, 0.0939492126534426, 0.06985564835303612, 0.08079317162133903, 0.10688647574432951, 0.11314653734177428, 0.07107739262520116, 0.08769819041938892, 0.17387613797407714, 0.06345326841363852]
+label victim: (750, 'quilt, comforter, comfort, puff')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 47, loss: -1.3529400825500488
+w: [0.13962121633357338, 0.09376135220923924, 0.06928329629346047, 0.08045770600398858, 0.1070950543916321, 0.11338812520057434, 0.07050158331888974, 0.0873996106529905, 0.17571835576131334, 0.06277369983433818]
+label victim: (254, 'pug, pug-dog')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 48, loss: -1.947859764099121
+w: [0.1401437092291361, 0.09349755402844245, 0.06865806220509012, 0.0801104688948818, 0.10720850174727127, 0.11347618403502881, 0.06996013124008585, 0.08723410302331527, 0.1775511209212231, 0.062160164675525056]
+label victim: (254, 'pug, pug-dog')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+
+n_iters: 10, iter_w: 49, loss: 3.997220039367676
+w: [0.14056250718606353, 0.09323614532258517, 0.06806520132759618, 0.07977402687020702, 0.10720505397659108, 0.11370504444959106, 0.06936969055783523, 0.08690527771390917, 0.17966244541663637, 0.06151460717898527]
+label victim: (48, 'Komodo dragon, Komodo lizard, dragon lizard, giant lizard, Varanus komodoensis')
+label wb 0: (254, 'pug, pug-dog')
+label wb 1: (254, 'pug, pug-dog')
+label wb 2: (254, 'pug, pug-dog')
+label wb 3: (254, 'pug, pug-dog')
+label wb 4: (254, 'pug, pug-dog')
+label wb 5: (254, 'pug, pug-dog')
+label wb 6: (254, 'pug, pug-dog')
+label wb 7: (254, 'pug, pug-dog')
+label wb 8: (254, 'pug, pug-dog')
+label wb 9: (254, 'pug, pug-dog')
+
+

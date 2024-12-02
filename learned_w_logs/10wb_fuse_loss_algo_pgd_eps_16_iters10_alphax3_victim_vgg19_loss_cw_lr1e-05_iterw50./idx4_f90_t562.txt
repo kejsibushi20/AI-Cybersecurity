@@ -1,0 +1,1500 @@
+n_iters: 10, iter_w: 0, loss: 4.3888092041015625
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+label victim: (90, 'lorikeet')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 1, loss: -2.0725555419921875
+w: [0.10037455317970698, 0.10015750279420345, 0.0996856320607673, 0.09991154028601937, 0.10022085047875309, 0.09990061104005088, 0.09989131472434577, 0.10000420945003652, 0.10017024400636203, 0.09968354197975446]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 2, loss: -6.227839469909668
+w: [0.10123332693888963, 0.10016975564431588, 0.09898476532402378, 0.09967955892591786, 0.10048783227665854, 0.10038874599894838, 0.09923756731287518, 0.09952461681662361, 0.10198274275659934, 0.09831108800514783]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 3, loss: 1.3746976852416992
+w: [0.10198507731414812, 0.10011413753020017, 0.0980002845584327, 0.09928568399963228, 0.1009062432326374, 0.10122637788000309, 0.09813673743888547, 0.09876897668301693, 0.1050934202258205, 0.09648306113722353]
+label victim: (90, 'lorikeet')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 4, loss: -11.907881736755371
+w: [0.10261057535349129, 0.09989587103691903, 0.09693365780396929, 0.09878509479227554, 0.10131034278358039, 0.1022188089082361, 0.09683636373822066, 0.09794366883840898, 0.10904231739333473, 0.09442329935156403]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 5, loss: -6.361026763916016
+w: [0.10321553139717485, 0.09968027088269492, 0.09575932438866382, 0.09831459174229731, 0.10183405870005051, 0.10325909673706932, 0.09564071179626506, 0.09693326558057373, 0.11307695499919872, 0.09228619377601173]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 6, loss: -5.131138801574707
+w: [0.10397278114546454, 0.09941207352395028, 0.09437562548498825, 0.09782800180413952, 0.10229891634047508, 0.10437675552086369, 0.09414679325398363, 0.0958284254756309, 0.1176768734850312, 0.0900837539654729]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 7, loss: -4.322044372558594
+w: [0.10448547739766276, 0.09911454669532775, 0.09300164618920317, 0.09721114867648256, 0.10294926453890908, 0.1057093864511297, 0.09262635746083528, 0.09468412039033551, 0.12234948691688263, 0.08786856528323163]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 8, loss: -1.02825927734375
+w: [0.1051486390544122, 0.09869808208879383, 0.09159481285176131, 0.0966561181634952, 0.10357537700911862, 0.10704642018213013, 0.09108432385753298, 0.09356100808221457, 0.12689912884017113, 0.08573608987037021]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 9, loss: -5.527482986450195
+w: [0.10573528420197396, 0.09834674442446269, 0.09032818184335337, 0.09610609559514466, 0.10437135175831541, 0.10820852563334069, 0.0896932872779388, 0.09250976740224871, 0.13105580572295797, 0.08364495614026393]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 10, loss: -7.990024566650391
+w: [0.10616238749749353, 0.09801116800687996, 0.0889777991649068, 0.09563517960986205, 0.10526860640418802, 0.10945460455376266, 0.08822836379431878, 0.09136881903029223, 0.1352691865729774, 0.08162388536531859]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 11, loss: -1.245427131652832
+w: [0.10655348690610937, 0.09774819655736974, 0.08747216489168565, 0.09508897204741021, 0.10591254563788395, 0.11088702040349716, 0.0868082251540815, 0.09018645937569086, 0.13978721450851148, 0.07955571451776007]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 12, loss: -12.30146598815918
+w: [0.107044926058219, 0.09739290218020412, 0.08609713279520802, 0.09444033586932817, 0.10667846887066453, 0.11202787158909748, 0.08558285870962011, 0.0890773189317695, 0.14405258197678988, 0.07760560301909931]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 13, loss: -8.586211204528809
+w: [0.10748102801593336, 0.09701015670751245, 0.08481111066073908, 0.09378846905794805, 0.10738211265689857, 0.1132435110940039, 0.0843195912445773, 0.08799975029337302, 0.1482109458320286, 0.07575332443698578]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 14, loss: -9.44164752960205
+w: [0.10803673205358118, 0.09659734757139518, 0.08349167133649663, 0.09323476391286288, 0.10808956277461687, 0.114576963091259, 0.08292734324123414, 0.08690954010626263, 0.15222821565956465, 0.07390786025272672]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 15, loss: -8.605181694030762
+w: [0.10836904341106601, 0.09617635342890153, 0.0820846501843667, 0.09266313807026273, 0.10878934412446398, 0.11575440058355742, 0.08161995441473974, 0.0858055843036575, 0.1566682402418416, 0.07206929123714281]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 16, loss: -12.050358772277832
+w: [0.10874053665243472, 0.0958364996694374, 0.08080277019329443, 0.09214642050376592, 0.10954404491905498, 0.11692191768014266, 0.08040015513263482, 0.08477219554042743, 0.1605806493735204, 0.07025481033528719]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 17, loss: -5.0435285568237305
+w: [0.10910054082569884, 0.0954917759400255, 0.07950879152059927, 0.09163900055742807, 0.1102234972719112, 0.11804142384193268, 0.07917268072241844, 0.08367368254168214, 0.16456715808256367, 0.06858144869574005]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 18, loss: -4.705544471740723
+w: [0.10931378394339883, 0.0951281647294676, 0.07816043373246076, 0.09110053431856778, 0.11086994777684091, 0.11917312997918195, 0.07788765943829161, 0.0826281886515407, 0.16879827841715914, 0.06693987901309073]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 19, loss: -5.429745674133301
+w: [0.10955082501581455, 0.09473407109232614, 0.0768765185676246, 0.09059562647023119, 0.11146523091113933, 0.12033210501290119, 0.07677193079632041, 0.08160325726380782, 0.1727400619040538, 0.06533037296578084]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 20, loss: -10.378129959106445
+w: [0.10986011832653989, 0.0943547293549535, 0.07555834619322749, 0.09007410569814174, 0.11205079946122218, 0.12131703862269984, 0.07571413180241644, 0.08059226282731136, 0.17672268563394505, 0.06375578207954256]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 21, loss: -2.1441707611083984
+w: [0.10996890969360562, 0.09393913541746438, 0.07433320577256483, 0.08957877479641897, 0.11268253268789222, 0.12248582679680088, 0.07452762966856277, 0.07959488712727104, 0.18061497046689234, 0.062274127572526955]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 22, loss: -11.560227394104004
+w: [0.110217856805704, 0.09356758726205748, 0.07306032163767084, 0.08907521247251256, 0.11318242903769682, 0.12350134146847815, 0.07337859024769831, 0.0786252298921868, 0.1846029040742416, 0.060788527101753385]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 23, loss: -8.57471752166748
+w: [0.11054792641318446, 0.09315983806395642, 0.07189574069927854, 0.0886309189797889, 0.11376971743325924, 0.12433032087871812, 0.0723595124587975, 0.07778457098240259, 0.18810322297335544, 0.059418231117258725]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 24, loss: -3.6065502166748047
+w: [0.11065499500260553, 0.09269304678229219, 0.07065353853702917, 0.08812972670855466, 0.11447849047104633, 0.12524882337331475, 0.07128590437614311, 0.07691036841505883, 0.19189730345331693, 0.05804780288063858]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 25, loss: -5.568811416625977
+w: [0.11081566522985462, 0.09234023246787258, 0.06946148473212149, 0.08758698389251818, 0.11518843977508338, 0.12607218390507274, 0.0703767346342385, 0.07608055609787578, 0.19531283952719733, 0.05676487973816545]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 26, loss: -7.056211471557617
+w: [0.1109458952172355, 0.09197599867849178, 0.06827683297012903, 0.08711209732630577, 0.11578084047343747, 0.12704550390608974, 0.06932320371412042, 0.07519536557218377, 0.1988467095657631, 0.05549755257624346]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 27, loss: -4.854132652282715
+w: [0.11111390577533091, 0.09151248018763314, 0.06714745728904328, 0.0865810374887819, 0.11640501010202262, 0.1278201834101612, 0.068417777804168, 0.07441054546167462, 0.20228007395067849, 0.054311528530505956]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 28, loss: -2.949110984802246
+w: [0.11119097040192727, 0.09107109573756143, 0.06606235020487099, 0.08609801337590965, 0.11698861822782261, 0.12861896586280888, 0.06756344808686661, 0.07365637914397934, 0.20565557553514255, 0.053094583423110735]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 29, loss: -5.399785995483398
+w: [0.11144822110532818, 0.09057431325507662, 0.0649798677865756, 0.08563206130342915, 0.1175806733640215, 0.12951722096294874, 0.06658300093084304, 0.0729222791839169, 0.2087805359295865, 0.05198182617827382]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 30, loss: -5.170574188232422
+w: [0.11164821638041506, 0.09013331553656678, 0.0638012231864705, 0.08514182204090325, 0.11808784272236504, 0.1303300960993458, 0.06562161649085466, 0.07222559720307144, 0.21217893395432647, 0.05083133638568108]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 31, loss: -7.306621551513672
+w: [0.11182351702700755, 0.08973310248548629, 0.06275688367595486, 0.08463817364866771, 0.11846633951860464, 0.13112840967589573, 0.06481647820018509, 0.07154254565171533, 0.21531135712266788, 0.049783192993815006]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 32, loss: -5.222290992736816
+w: [0.1119556094947804, 0.08935988251049523, 0.06175007367183484, 0.08416999806254852, 0.11895629837018493, 0.1317261246764047, 0.06411162665729161, 0.07098449762746217, 0.21823488079462147, 0.04875100813437613]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 33, loss: -6.255637168884277
+w: [0.11205562014102531, 0.08889153112691327, 0.060683306276401325, 0.08370325944037618, 0.11948873520120033, 0.13254985602749844, 0.06330594310848242, 0.07032498489333133, 0.22126666636131445, 0.04773009742345709]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 34, loss: -10.153717041015625
+w: [0.11216827914982398, 0.08848821474419694, 0.05970276058150317, 0.08323158029969384, 0.11982902692396905, 0.1333399116401641, 0.06253127480455607, 0.06967388204976838, 0.22429005233269808, 0.04674501747362643]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 35, loss: -6.40703010559082
+w: [0.11213408947517242, 0.08814903825803126, 0.058621836191652475, 0.08278900600586382, 0.12030798892178818, 0.13417648304543886, 0.061683509415122593, 0.06903444043204483, 0.22734844076109106, 0.04575516749379449]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 36, loss: -11.129315376281738
+w: [0.11211778044053532, 0.0877229657989161, 0.05761487764131441, 0.08231343631786248, 0.12058563794498389, 0.1350778800589651, 0.06103654259752422, 0.06842386192704819, 0.2302498214269557, 0.044857195845894565]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 37, loss: -4.547285556793213
+w: [0.11225446369815442, 0.08735701222170907, 0.056649445414422246, 0.08191435205979972, 0.12101499975485203, 0.1358165283517849, 0.06028346120996378, 0.067876480255423, 0.23289578066052125, 0.04393747637336955]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 38, loss: -6.015994071960449
+w: [0.11224187346718266, 0.08689470902454433, 0.055688740424210834, 0.08144250026338443, 0.1214754945251507, 0.13647485519233635, 0.05970725130875774, 0.06736324278344824, 0.23566397138709133, 0.043047361623893415]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 39, loss: -6.643505096435547
+w: [0.11216313760977072, 0.08644426964814733, 0.05476387780630467, 0.08099461711414226, 0.1218215111435438, 0.13715453420157164, 0.059069651011600624, 0.06683658835108386, 0.23849791890436708, 0.042253894209468026]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 40, loss: -0.27430248260498047
+w: [0.11222355071667367, 0.08613849048356191, 0.05383795438068498, 0.08061174314462338, 0.12209335343728647, 0.13768681630993512, 0.05860465853035187, 0.06629140048598287, 0.24109010453923457, 0.041421927971665294]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 41, loss: -7.007628440856934
+w: [0.11229395407232617, 0.08579074881553485, 0.052905585217318196, 0.08018572128826187, 0.12239318402311013, 0.13840662616000618, 0.05791595492598149, 0.0657147729431236, 0.24371008804209046, 0.04068336451224687]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 42, loss: -6.593034744262695
+w: [0.1123531339153562, 0.08542118801169775, 0.05201083417653168, 0.07981245090308502, 0.12287741930939826, 0.13921368916880636, 0.05726682242130604, 0.0651280621013989, 0.24599650835590403, 0.03991989163651568]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 43, loss: -9.72159194946289
+w: [0.11229529299311487, 0.08502170352021111, 0.05102055760226475, 0.0794689619622775, 0.12313781107337202, 0.1398874000909413, 0.056625370140928784, 0.06458336839660529, 0.24878651937991858, 0.039173014840365686]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 44, loss: -7.911222457885742
+w: [0.11223331860600846, 0.08462064297757302, 0.050079842553132546, 0.07913381351492363, 0.12336932248403823, 0.14062176979977362, 0.05599748292096906, 0.06402161638177682, 0.2514785643874245, 0.03844362637438018]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 45, loss: -4.339974403381348
+w: [0.11221279890061434, 0.0842127833119844, 0.04907667335257366, 0.07876816738795042, 0.1236655807827722, 0.14131606686105314, 0.055353846602950875, 0.06353647330870928, 0.2541235442284771, 0.03773406526291463]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 46, loss: -5.708250999450684
+w: [0.11220980901308178, 0.08387181186882632, 0.048181175977097604, 0.07837876779995999, 0.12378245888896412, 0.1420005825682347, 0.054832966997990444, 0.06305164179474666, 0.256624332483693, 0.03706645260740542]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 47, loss: -4.913990020751953
+w: [0.11218936170203853, 0.08347908195736077, 0.0471953649998755, 0.07789382625864541, 0.12409748095777584, 0.14251362977720852, 0.05426780797240779, 0.06259344838390075, 0.2594162711958659, 0.03635372679492093]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 48, loss: -4.810605049133301
+w: [0.11218464156572491, 0.08311256621512605, 0.04626259224864441, 0.07755939877511908, 0.12454875957990488, 0.143081213098181, 0.05380926720885867, 0.06218238640587312, 0.2616014496635868, 0.03565772523898126]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 49, loss: -4.626570701599121
+w: [0.11220633008878986, 0.08279322346225126, 0.04534291162115428, 0.07710703401973175, 0.12479500621145372, 0.14368291447491863, 0.05334275935783756, 0.06175778358551152, 0.26404969573765275, 0.0349223414406986]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 0, loss: 4.386746406555176
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+label victim: (90, 'lorikeet')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 1, loss: -2.0316238403320312
+w: [0.10037455317970698, 0.10015750279420345, 0.0996856320607673, 0.09991154028601937, 0.10022085047875309, 0.09990061104005088, 0.09989131472434577, 0.10000420945003652, 0.10017024400636203, 0.09968354197975446]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 2, loss: -9.959779739379883
+w: [0.10128055339908588, 0.10015004122777277, 0.098968238330564, 0.09960872515127707, 0.10044153984316857, 0.10049447316995042, 0.09912175948445527, 0.09952361117069226, 0.1021622372504255, 0.09824882097260837]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 3, loss: -6.185576438903809
+w: [0.10205639055281802, 0.10013534544301606, 0.09787749611314238, 0.09923819734027457, 0.10070757903240982, 0.10132002580823161, 0.09796643542913763, 0.09868196654249607, 0.10569781591625498, 0.09631874782221897]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 4, loss: -2.392498016357422
+w: [0.1028222089451662, 0.10011969746340908, 0.09676742783417847, 0.09888080517118475, 0.10101457713110759, 0.10242298626800701, 0.09655693479148453, 0.09773915500813644, 0.10942304303689954, 0.09425316435042634]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 5, loss: -7.887269020080566
+w: [0.10365359548465342, 0.09990490768453278, 0.0955952064860024, 0.0984652730169184, 0.10124656658058734, 0.10367345658948333, 0.09519674334945888, 0.09668650015091997, 0.11337172610937388, 0.0922060245480697]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 6, loss: -7.498072624206543
+w: [0.10439007076450577, 0.09968212425370467, 0.09437688029776227, 0.09798445198970858, 0.10154722335615653, 0.10499091924866785, 0.09366388697425145, 0.0955713842866272, 0.1176417635894334, 0.09015129523918214]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 7, loss: -11.87959098815918
+w: [0.10521291129582488, 0.09933148836973882, 0.09313325118936804, 0.09752654296931833, 0.10183404121539186, 0.10619996302284365, 0.09231022158410306, 0.09433491748166752, 0.1220302624337072, 0.08808640043803684]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 8, loss: -9.10654067993164
+w: [0.10586508592820754, 0.09915571007319705, 0.09188454644852669, 0.09704672488990995, 0.10222788200207127, 0.107476449546275, 0.09080109642459312, 0.09320358219443331, 0.12629199240633432, 0.08604693008645169]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 9, loss: -8.928730010986328
+w: [0.1066253961461997, 0.09880792792363952, 0.09063812764907143, 0.09648861985231065, 0.10279047691799298, 0.10881420152548947, 0.08932755357349383, 0.09209804473392132, 0.1303939128968674, 0.08401573878101379]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 10, loss: -10.961077690124512
+w: [0.10726123749852454, 0.09854785497092033, 0.0894069441575725, 0.09596932568586507, 0.10321084284868236, 0.11002096738199828, 0.08799633616654016, 0.09090180989160232, 0.13462303823610616, 0.08206164316218822]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 11, loss: -10.461331367492676
+w: [0.10783607326578247, 0.09831097753132885, 0.08810842158190721, 0.09549278669916587, 0.10364585869431558, 0.11122453897996207, 0.08662442194256482, 0.08964881188706672, 0.13903744959822667, 0.08007065981967955]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 12, loss: -3.009060859680176
+w: [0.10848421098108667, 0.09801498611081497, 0.08674741309549112, 0.09487047284884373, 0.10430220483285026, 0.11267137819692233, 0.08508260531518874, 0.08849854294756906, 0.1431916007769171, 0.07813658489431598]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 13, loss: -5.114410400390625
+w: [0.1087937984222359, 0.09775597659163061, 0.08554004960568498, 0.09433968540306238, 0.10479077663737417, 0.11385468648810053, 0.08385220134422033, 0.08742661182382289, 0.14733708291904454, 0.07630913076482376]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 14, loss: -11.526937484741211
+w: [0.10923361488137194, 0.09741821266451088, 0.08426623518435723, 0.09380424941394655, 0.10535415844561301, 0.11518898034786094, 0.08254053695467146, 0.08639344729498329, 0.15137441698107862, 0.07442614783160616]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 15, loss: -3.4982824325561523
+w: [0.10961421304497283, 0.0970164656940661, 0.08306551913227524, 0.09333557201013852, 0.10594627265493137, 0.11636072321628592, 0.08132405574309488, 0.08530234722024137, 0.15534205234321175, 0.07269277894078188]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 16, loss: -9.573030471801758
+w: [0.10986261661324884, 0.09669132099012676, 0.08182618843681394, 0.09273781019295568, 0.10661753215667877, 0.11754952977076583, 0.0802061256496693, 0.08421412039297632, 0.15932365796731432, 0.07097109782945042]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 17, loss: -8.616586685180664
+w: [0.11026898481642208, 0.09626221694004619, 0.08058212978138268, 0.09213685127922565, 0.10721757532344696, 0.11874103319385658, 0.07901423839842274, 0.08319902718133239, 0.16333985056365297, 0.06923809252221176]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 18, loss: 2.2249231338500977
+w: [0.110695957653082, 0.09587280052211644, 0.07935022545194224, 0.0916326552994987, 0.1078547164253238, 0.12002300286602935, 0.07775294248649038, 0.0822229239730334, 0.16698096606654822, 0.0676138092559355]
+label victim: (88, 'macaw')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 19, loss: -3.8780384063720703
+w: [0.11104418806050048, 0.09549852635966859, 0.07813029034824209, 0.09106233753643735, 0.10845884860073775, 0.12123673482939963, 0.07664609620536142, 0.08127246058589425, 0.170610358970909, 0.06604015850284942]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 20, loss: -7.919135093688965
+w: [0.11134629055074569, 0.09509532217408166, 0.07685369614649482, 0.090512615342946, 0.10906781370550146, 0.12252790868363649, 0.0755129605659328, 0.08031081783141322, 0.17433763159685323, 0.06443494340239457]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 21, loss: -11.473005294799805
+w: [0.11165322698772491, 0.09479278966242108, 0.07564520551724506, 0.08993229484809083, 0.10966287264179006, 0.12356076904333553, 0.07452236654855045, 0.07936106157395931, 0.1779158751762826, 0.06295353800060036]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 22, loss: -7.458012580871582
+w: [0.11192082764435025, 0.09454086116439833, 0.07441650827237124, 0.08940090918262061, 0.11033318488214644, 0.12471578238155784, 0.07339435014895844, 0.07842621879128331, 0.1813717929817698, 0.0614795645505435]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 23, loss: -6.576713562011719
+w: [0.11212621897161577, 0.09422012349874877, 0.07319161867338096, 0.08887417685102764, 0.11112530385402122, 0.1257989786934112, 0.0724047307298824, 0.07755339277239147, 0.18469159663988402, 0.06001385931563645]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 24, loss: -5.82420539855957
+w: [0.11238510036828617, 0.0939370503644565, 0.07200567929295949, 0.08837156943789726, 0.11176608120421742, 0.12672811009800156, 0.07133644890757518, 0.07657261843878299, 0.18828338007967915, 0.05861396180814415]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 25, loss: -4.669735908508301
+w: [0.11265230985044276, 0.0936118165919226, 0.07089527449862527, 0.0878954748465448, 0.11242124424918444, 0.12759521255537512, 0.07036687584437176, 0.07571103143270838, 0.191501811710635, 0.057348948420189894]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 26, loss: -3.9899911880493164
+w: [0.11280718603895802, 0.09315157460948992, 0.06969448796889344, 0.08737943537900092, 0.11314769171151054, 0.12855194068706055, 0.06947777548192843, 0.07483736076625747, 0.19493460774520124, 0.05601793961169935]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 27, loss: 0.3209877014160156
+w: [0.112951662067152, 0.09271284963224698, 0.06852668581125866, 0.08687472412467474, 0.11378969806530995, 0.12942493291400442, 0.06864051918652783, 0.0739989384349005, 0.1983104214620353, 0.0547695683018897]
+label victim: (88, 'macaw')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 28, loss: -5.98258113861084
+w: [0.11314431577703311, 0.0923216030412574, 0.06739488734424545, 0.08648958995328296, 0.11448199683353878, 0.1302785025046357, 0.06776200443337302, 0.07318718047971062, 0.20143682227446547, 0.05350309735845746]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 29, loss: -8.442935943603516
+w: [0.11327669404576973, 0.0919300317668507, 0.0662572100162715, 0.08600918944290795, 0.11516736981710866, 0.13096568257847524, 0.06692786077022297, 0.07244690121858748, 0.20468414500308973, 0.05233491534071606]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 30, loss: -5.270168304443359
+w: [0.11350737660631846, 0.09153384726529366, 0.0650922864050295, 0.08550972180394545, 0.11584828772854427, 0.13167459338329057, 0.06603750560074599, 0.07171120673646354, 0.20796455398073663, 0.05112062048963187]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 31, loss: -6.614523887634277
+w: [0.11360475129611941, 0.09116835277749114, 0.06392286257955763, 0.08490959201561463, 0.11642026441194858, 0.13260428832867555, 0.06520578990030339, 0.07093186726121836, 0.21125738323843893, 0.049974848190632366]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 32, loss: -3.4671096801757812
+w: [0.11367069711738335, 0.09079795867460916, 0.06283801462034785, 0.08434191262003053, 0.11704648118601246, 0.1333868226120332, 0.06436331685827051, 0.07021581783557991, 0.2144007308548015, 0.04893824762093164]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 33, loss: -3.8352251052856445
+w: [0.1137170775979855, 0.0903851268946685, 0.06177676576088249, 0.08382690332470649, 0.11780776094351314, 0.13410166464993392, 0.06356002629473893, 0.06950687691410248, 0.21740651811393336, 0.04791127950553507]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 34, loss: -4.873679161071777
+w: [0.11377162021383652, 0.09004676611659189, 0.06065296551268425, 0.08338367823429708, 0.11854526164724531, 0.13479453420218845, 0.06274676659462865, 0.0688272763454448, 0.2203383739391612, 0.046892757193921865]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 35, loss: -8.64678955078125
+w: [0.1136953428523078, 0.08980821414837696, 0.05944434064672095, 0.082872046269048, 0.1191967169172906, 0.13557081810175733, 0.06189797581247304, 0.06815824232619269, 0.22348597429850064, 0.045870328627331945]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 36, loss: -7.914755821228027
+w: [0.1136856476717201, 0.08947856328308494, 0.05834511418434539, 0.08233237945307449, 0.1199188823371382, 0.13632692948331843, 0.061155041358484374, 0.06753440489519938, 0.2263151487613947, 0.04490788857223998]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 37, loss: -9.642396926879883
+w: [0.11363293047698751, 0.08913432017944975, 0.05726755292804649, 0.08187646241624495, 0.12050370512253167, 0.13711075435236442, 0.060379776129293426, 0.06685252484922607, 0.22926483736343187, 0.043977136182423826]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 38, loss: -7.192049980163574
+w: [0.11361792925519329, 0.0888438830351586, 0.05620182466716717, 0.08133018508810401, 0.12106157596097028, 0.13778357006161066, 0.05961016181493859, 0.06619972911312634, 0.23229824199101864, 0.043052899012712455]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 39, loss: -4.963289260864258
+w: [0.11358477464721244, 0.0885084709045265, 0.05509695088987209, 0.08091889310571286, 0.12167743256502446, 0.1385605128921484, 0.05887456185648566, 0.06565864963078152, 0.23496789669356388, 0.04215185681467214]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 40, loss: -7.773059844970703
+w: [0.11350566394117753, 0.08814589236849815, 0.05403224741234975, 0.08048782776239376, 0.12215206882247526, 0.13912474581541967, 0.05820926392344579, 0.06512269496639594, 0.23793071892579207, 0.04128887606205215]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 41, loss: -7.309659004211426
+w: [0.11346601262179058, 0.08785957800324198, 0.052996515506353425, 0.08005991107223065, 0.12266882635348976, 0.1397979735640434, 0.05756500224065558, 0.06456962311112638, 0.24053331798622607, 0.04048323954084232]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 42, loss: -7.691899299621582
+w: [0.11327567734062952, 0.08764227026451034, 0.05194809038024101, 0.0795935260754834, 0.12338429298447377, 0.14053759573728644, 0.056793098785092484, 0.06396094126637233, 0.24321747952444014, 0.03964702764147061]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 43, loss: -6.328930854797363
+w: [0.11317747702802461, 0.08739600851123404, 0.05098368237791795, 0.07913234473906, 0.12397669790493128, 0.14116503377819065, 0.05615398812122619, 0.06337972104435144, 0.24575674566502018, 0.038878300830043795]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 44, loss: -4.793733596801758
+w: [0.11311451014948233, 0.08709297906268526, 0.05000171432730131, 0.07870748044168008, 0.12446303056383673, 0.14179032079331838, 0.05561409204517322, 0.06286705119281796, 0.24817793126019355, 0.038170890163511204]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 45, loss: -5.0998334884643555
+w: [0.11291310832699959, 0.08674234318706024, 0.049010496123144544, 0.07830590661979882, 0.12494457010517702, 0.14253298635757408, 0.055016188683338026, 0.06235728829356301, 0.2507277006646691, 0.037449411638675593]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 46, loss: -6.345918655395508
+w: [0.11284684064058857, 0.08636807734705618, 0.04801370967387398, 0.07790429543960227, 0.1255592269589289, 0.14313101858847124, 0.05441092116979367, 0.06182822855380492, 0.25322605237594775, 0.03671162925193263]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 47, loss: -6.047220230102539
+w: [0.11276522836080465, 0.08610860870143687, 0.04704136338042823, 0.07757359382443478, 0.12599582888114758, 0.1438352057207035, 0.0537498373806968, 0.06132987707511747, 0.2555825102973413, 0.03601794637788881]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 48, loss: -4.798389434814453
+w: [0.1125550258233712, 0.08579014977380676, 0.046064304107265634, 0.0772385375280011, 0.1266014342571566, 0.14440888950672603, 0.053203930192739356, 0.06084226256745232, 0.25793179784391207, 0.035363668399569004]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+
+n_iters: 10, iter_w: 49, loss: -3.884232521057129
+w: [0.11241185531789681, 0.08551256047578182, 0.045146532904782266, 0.07688668129821558, 0.1271520462320347, 0.14491949899816023, 0.05262414367682428, 0.06037785221367325, 0.26027241219609243, 0.03469641668653849]
+label victim: (562, 'fountain')
+label wb 0: (562, 'fountain')
+label wb 1: (562, 'fountain')
+label wb 2: (562, 'fountain')
+label wb 3: (562, 'fountain')
+label wb 4: (562, 'fountain')
+label wb 5: (562, 'fountain')
+label wb 6: (562, 'fountain')
+label wb 7: (562, 'fountain')
+label wb 8: (562, 'fountain')
+label wb 9: (562, 'fountain')
+
+

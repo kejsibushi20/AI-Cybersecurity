@@ -1,0 +1,1500 @@
+n_iters: 10, iter_w: 0, loss: 0.47093772888183594
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 1, loss: 1.9509148597717285
+w: [0.0998804530948945, 0.10019986308783949, 0.09956487532890285, 0.09962791195173538, 0.1000613759772493, 0.1000401788660084, 0.10014700043682023, 0.10002471605821354, 0.1010356379549266, 0.09941798724340985]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 2, loss: 2.888072967529297
+w: [0.09972767322922328, 0.10006440524798724, 0.0982737840214369, 0.09880100551345533, 0.09993161495483122, 0.10094325032470312, 0.0997832397687751, 0.09958519549751584, 0.10508435495479759, 0.09780547648727428]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 3, loss: 4.992968559265137
+w: [0.09951019635183841, 0.09978789575029454, 0.09668877223996396, 0.09793716358122867, 0.099694215638994, 0.1021077596844994, 0.09912905205596138, 0.09873441889133537, 0.11066435869448131, 0.09574616711140303]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 4, loss: 1.8153495788574219
+w: [0.09926279060327024, 0.09954196060451198, 0.09505165879397846, 0.09715381366791286, 0.09948944782563865, 0.10322685401644092, 0.09842049083290641, 0.09787627194341812, 0.11640710471355703, 0.09356960699836536]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 5, loss: 0.2282581329345703
+w: [0.09882515027159647, 0.09914955547909413, 0.09326028489146711, 0.09639487557712592, 0.09925760546388812, 0.10457600187551458, 0.09770247982933943, 0.09680246368635301, 0.12276921165526955, 0.09126237127035176]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 6, loss: -1.9760594367980957
+w: [0.09836337390871115, 0.09865024390595356, 0.09144447200996707, 0.09554134131561103, 0.09903741753286985, 0.10606136261835201, 0.09701477509283592, 0.09569090771356324, 0.12926915130891892, 0.08892695459321738]
+label victim: (828, 'strainer')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 7, loss: -1.6795654296875
+w: [0.09793244781628596, 0.09828397872425593, 0.08960269133574474, 0.09486736322420498, 0.09880706202669066, 0.10740336244789324, 0.0962497117900286, 0.09455589776312268, 0.13568029932268844, 0.08661718554908474]
+label victim: (828, 'strainer')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 8, loss: 1.9172477722167969
+w: [0.09738763104568926, 0.09781546833394025, 0.08773419354032226, 0.09418092296557525, 0.09843900653111513, 0.10892836221491088, 0.09563838131242869, 0.09339006172500962, 0.14214922790059567, 0.08433674443041302]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 9, loss: 4.624107360839844
+w: [0.09677935853160592, 0.09726155796678385, 0.08582776896797421, 0.09343045731562521, 0.09812343820836039, 0.11050483395440379, 0.09501793847645235, 0.09218049825357887, 0.14881966618204542, 0.08205448214316992]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 10, loss: -0.56805419921875
+w: [0.09612386430527123, 0.09677378827933102, 0.08395167232351405, 0.09260603076481966, 0.0978554110575613, 0.11217927008150122, 0.09443645877889408, 0.09108629052949781, 0.15511925128810894, 0.07986796259150068]
+label victim: (828, 'strainer')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 11, loss: 3.494420051574707
+w: [0.09547883352511807, 0.09615893622757478, 0.08202738720928096, 0.09169587944321288, 0.09756510500104623, 0.1136670483110898, 0.09379672886984769, 0.08997463075396953, 0.16189066044576503, 0.07774479021309492]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 12, loss: 0.8802003860473633
+w: [0.09472448520420668, 0.09560992042564533, 0.08013136858842641, 0.09072090827488921, 0.09721721150457042, 0.11509052011960928, 0.09318831576853145, 0.08890899752821359, 0.16873197151007197, 0.07567630107583566]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 13, loss: 0.8681545257568359
+w: [0.09399268085760881, 0.09500326520640559, 0.07826393060220435, 0.08987974384890227, 0.09691395304690985, 0.11661504913854692, 0.09247183635619231, 0.08778494177703523, 0.17545344306713337, 0.07362115609906135]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 14, loss: 0.5992517471313477
+w: [0.09325849770593003, 0.09433607920421959, 0.07644494337124241, 0.08898602231456433, 0.0966430348341975, 0.11809164478531005, 0.09180574376119523, 0.08669291197857128, 0.1820944341475251, 0.07164668789724449]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 15, loss: 2.4939470291137695
+w: [0.09258506818447403, 0.09367436728082541, 0.07463617708034812, 0.08814326666637753, 0.09626253761830394, 0.11965682842276379, 0.091042066480424, 0.08563968910334481, 0.18861303000816781, 0.06974696915497057]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 16, loss: 5.684054851531982
+w: [0.09189137234234745, 0.09299651431014494, 0.07282099063293142, 0.08734467812339347, 0.09587631173440175, 0.12118394658182935, 0.09033664524111086, 0.08459802337241094, 0.19507229709901203, 0.06787922056241784]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 17, loss: 0.1909351348876953
+w: [0.09107300716904244, 0.092278067787741, 0.07110294817743336, 0.08645100823345793, 0.09555184053366954, 0.12266860228480146, 0.08964732295433601, 0.08363418041242436, 0.201462371782702, 0.06613065066439194]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 18, loss: 3.3646039962768555
+w: [0.09034610337290822, 0.09154013441778563, 0.06937617992336223, 0.08558208391234703, 0.09513778978605025, 0.12431877997340514, 0.08903508973409245, 0.08267211633478859, 0.2075328472616907, 0.06445887528356979]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 19, loss: 1.4720830917358398
+w: [0.0895739960132975, 0.09072138388112841, 0.06771166826965215, 0.08469483432193935, 0.09482038358407799, 0.12561350817488204, 0.0883924253820043, 0.08177430870036981, 0.2138120254801728, 0.06288546619247579]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 20, loss: 2.1990156173706055
+w: [0.08880768129791881, 0.08989748231823919, 0.06601010569916224, 0.08379439673790733, 0.09438356539577566, 0.12720702226910025, 0.08765393574351023, 0.08085964693478133, 0.22009343531506737, 0.06129272828853757]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 21, loss: 4.4257965087890625
+w: [0.08798772918597374, 0.08915121337224582, 0.06441699131118299, 0.08280264773004788, 0.09403007035492766, 0.1285255262926113, 0.08703928424166313, 0.08001327675659614, 0.2262450788719185, 0.0597881818828329]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 22, loss: 4.6263556480407715
+w: [0.08714346021249901, 0.08832211589448903, 0.06285959061196927, 0.08186773980968964, 0.09365973650763958, 0.12997413131506252, 0.08634822350991253, 0.07922189083312144, 0.23227597038457073, 0.05832714092104624]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 23, loss: 7.34332275390625
+w: [0.08634705075145141, 0.08742730086435446, 0.06126289722132286, 0.0808563758000223, 0.09328133692069136, 0.13140301821033393, 0.08577346638817855, 0.07843569728566196, 0.23828960216843956, 0.05692325438954353]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 24, loss: 2.494988441467285
+w: [0.08563601916776248, 0.08656708413613817, 0.059677155874044034, 0.07992914471488619, 0.09289929957286654, 0.13274350012736985, 0.08521402804739354, 0.07765783513973508, 0.2440792390759742, 0.05559669414382982]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 25, loss: 4.49588680267334
+w: [0.08480579872086036, 0.08585394921606687, 0.05806922594997692, 0.07903137241640351, 0.09248571731887084, 0.13411447678061392, 0.08454548984168037, 0.0769556719229444, 0.24981489355313502, 0.054323404279447894]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 26, loss: 3.116532802581787
+w: [0.08403007687489528, 0.08511627300002861, 0.056561109618548905, 0.07811621266815791, 0.09213080381197697, 0.13552264620301901, 0.08386793334387448, 0.07627423088672343, 0.25524346818401517, 0.053137245408760164]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 27, loss: 4.461226940155029
+w: [0.08320491237591957, 0.08431031576840635, 0.05506852841070377, 0.07718976040688892, 0.09176372337641855, 0.13686722322084197, 0.0832916906195713, 0.07555741519978876, 0.26085228187239423, 0.05189414874906659]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 28, loss: 4.220249176025391
+w: [0.08239856499017834, 0.08348975239494177, 0.05357314516167367, 0.07619118126564647, 0.09130753354987865, 0.1380635199109031, 0.08265486800366222, 0.07487193738919692, 0.2667363813581345, 0.05071311597578436]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 29, loss: 4.394855976104736
+w: [0.08164904192055775, 0.08267302834145514, 0.0520924596218081, 0.07522186660728405, 0.09087018726232349, 0.13914017558617833, 0.08211593217725369, 0.07420439790008124, 0.2724489391786009, 0.04958397140445743]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 30, loss: 2.8792552947998047
+w: [0.08080327990410137, 0.08190394837394628, 0.050603181194237984, 0.07424892607926872, 0.090383251182384, 0.14026029528644196, 0.08153586221253392, 0.07359489158956196, 0.2781496055765339, 0.048516758600990036]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 31, loss: 4.476127624511719
+w: [0.08001626750412708, 0.08104169640383346, 0.04916953045357363, 0.07313354430437127, 0.08995981156026822, 0.14131946359145, 0.08094128022240911, 0.07300170391575089, 0.2839246221158259, 0.04749207992839051]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 32, loss: 7.050583362579346
+w: [0.07925421815574142, 0.08019241062095578, 0.047779324640780337, 0.0720580632712722, 0.08952371972505505, 0.14234998411462482, 0.08047612318170513, 0.07235200651762977, 0.2895425090088003, 0.04647164076343513]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 33, loss: 3.257612705230713
+w: [0.07857176133208686, 0.07935075296864905, 0.04639823754353043, 0.0710149413222771, 0.08906139165840725, 0.14322863975119937, 0.07996975204548994, 0.07179474225204073, 0.2950735556632959, 0.04553622546302347]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 34, loss: 3.860206127166748
+w: [0.07782046577134058, 0.07852097453848189, 0.04506443862631883, 0.06994580052978176, 0.08855732612687948, 0.14417531816497892, 0.07938893536808037, 0.07126408282156425, 0.300657130302771, 0.04460552774980275]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 35, loss: 6.249597549438477
+w: [0.0770895997789298, 0.07770895977827887, 0.04377654182052116, 0.0689294987179882, 0.08796745272173337, 0.14518526438821217, 0.0787664460622781, 0.07070940510214, 0.30615256830891185, 0.04371426332100652]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 36, loss: 2.7506699562072754
+w: [0.07635049685318507, 0.07691240026069938, 0.04246332400685679, 0.06789750488989328, 0.08745510534976092, 0.1462165539813825, 0.07818584627465182, 0.07020304602745894, 0.31146524291854566, 0.04285047943756566]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 37, loss: 5.143570899963379
+w: [0.07563584715986134, 0.07611761904720091, 0.041177303170098774, 0.06683960893031089, 0.08685716394759094, 0.14721064877950377, 0.0775859324081752, 0.06973217250260326, 0.31681642120102327, 0.04202728285363156]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 38, loss: 3.966036319732666
+w: [0.07491475393736792, 0.07538303404431, 0.0399642292308905, 0.0658202453735549, 0.08619801351589614, 0.14789524965740572, 0.07694597408604044, 0.06927507676422386, 0.3223387229585269, 0.04126470043178376]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (787, 'shield, buckler')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 39, loss: 5.162656784057617
+w: [0.0741828245496426, 0.07459087887096887, 0.03873278020733605, 0.06488986832746339, 0.08559228973477183, 0.14862558934079437, 0.07643157268116846, 0.06883766086796755, 0.327647648494751, 0.04046888692513583]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (791, 'shopping cart')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 40, loss: 3.592928886413574
+w: [0.07344669739688416, 0.07376995258344066, 0.03755932340470679, 0.06390815536201154, 0.08502954024579915, 0.1495288193373206, 0.07595135932952209, 0.06841922540474027, 0.33264629316839606, 0.039740633767178686]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (850, 'teddy, teddy bear')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 41, loss: 5.604195594787598
+w: [0.07263667959564411, 0.07295822665956342, 0.03637473175282264, 0.06289399906466595, 0.08439019387457337, 0.15030328143579197, 0.07549318093598309, 0.06793878735978304, 0.3379928714844865, 0.039018047836685915]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (806, 'sock')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 42, loss: 4.025773048400879
+w: [0.07189324761947746, 0.07217258510657742, 0.0352441521276598, 0.06196536756337959, 0.08383820331249003, 0.15121757007001724, 0.0749584489774016, 0.06749188950026919, 0.34291848329803093, 0.03830005242469673]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (787, 'shield, buckler')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 43, loss: 4.211928844451904
+w: [0.07111239637307247, 0.07137949187178476, 0.03413336373998088, 0.061030949622699664, 0.08317080263789794, 0.15193979607730002, 0.07452237797618255, 0.06699953702903368, 0.3480718699849671, 0.03763941468708079]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (401, 'accordion, piano accordion, squeeze box')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 44, loss: 4.127750873565674
+w: [0.07032382269591471, 0.07058605164750127, 0.03301842944623275, 0.06012884979410609, 0.0825444438041115, 0.15256769323273, 0.07400539642995843, 0.06652921156248112, 0.35330228826143784, 0.03699381312552639]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (787, 'shield, buckler')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 45, loss: 4.895752906799316
+w: [0.06951404357245348, 0.06979369667572086, 0.031949693141449236, 0.059215968702689546, 0.08193987791741135, 0.1534288952979635, 0.07345564703087654, 0.06607010884443322, 0.3583262247343796, 0.03630584408262263]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (806, 'sock')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 46, loss: 1.8904075622558594
+w: [0.06874309690324948, 0.06910932730743917, 0.03090517190723232, 0.05833154634925177, 0.08134714367284869, 0.15398886477376397, 0.07289087915437913, 0.0656547423950667, 0.3633307404673432, 0.03569848706942542]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (587, 'hammer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 47, loss: 4.501755714416504
+w: [0.06807246684750005, 0.06838144208484487, 0.029869810701869788, 0.05738719392427397, 0.08076287104337405, 0.15457606484346045, 0.07241039407471934, 0.06521317957110917, 0.36823822446686977, 0.035088352441978735]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (401, 'accordion, piano accordion, squeeze box')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 48, loss: 5.089854717254639
+w: [0.06738558900130247, 0.06762377249782604, 0.028888810276234918, 0.05646562638047637, 0.08019761625128428, 0.1551091960467802, 0.0719515805749468, 0.06486645658414174, 0.37300425877853, 0.03450709360847726]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (787, 'shield, buckler')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 49, loss: 4.750710964202881
+w: [0.06664728103758835, 0.06686378936959145, 0.027903961133413424, 0.05555369770443546, 0.07954859803368067, 0.15571062472121125, 0.07141030549799575, 0.06442937575204785, 0.37803734887673235, 0.03389501787330349]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (787, 'shield, buckler')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 0, loss: 0.47093772888183594
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 1, loss: 1.9509148597717285
+w: [0.0998804530948945, 0.10019986308783949, 0.09956487532890285, 0.09962791195173538, 0.1000613759772493, 0.1000401788660084, 0.10014700043682023, 0.10002471605821354, 0.1010356379549266, 0.09941798724340985]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 2, loss: 2.888072967529297
+w: [0.09972767322922328, 0.10006440524798724, 0.0982737840214369, 0.09880100551345533, 0.09993161495483122, 0.10094325032470312, 0.0997832397687751, 0.09958519549751584, 0.10508435495479759, 0.09780547648727428]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 3, loss: 4.992968559265137
+w: [0.09951019635183841, 0.09978789575029454, 0.09668877223996396, 0.09793716358122867, 0.099694215638994, 0.1021077596844994, 0.09912905205596138, 0.09873441889133537, 0.11066435869448131, 0.09574616711140303]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 4, loss: 1.8153495788574219
+w: [0.09926279060327024, 0.09954196060451198, 0.09505165879397846, 0.09715381366791286, 0.09948944782563865, 0.10322685401644092, 0.09842049083290641, 0.09787627194341812, 0.11640710471355703, 0.09356960699836536]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 5, loss: 0.2282581329345703
+w: [0.09882515027159647, 0.09914955547909413, 0.09326028489146711, 0.09639487557712592, 0.09925760546388812, 0.10457600187551458, 0.09770247982933943, 0.09680246368635301, 0.12276921165526955, 0.09126237127035176]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 6, loss: -1.9760594367980957
+w: [0.09836337390871115, 0.09865024390595356, 0.09144447200996707, 0.09554134131561103, 0.09903741753286985, 0.10606136261835201, 0.09701477509283592, 0.09569090771356324, 0.12926915130891892, 0.08892695459321738]
+label victim: (828, 'strainer')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 7, loss: -0.48952293395996094
+w: [0.09793244781628596, 0.09828397872425593, 0.08960269133574474, 0.09486736322420498, 0.09880706202669066, 0.10740336244789324, 0.0962497117900286, 0.09455589776312268, 0.13568029932268844, 0.08661718554908474]
+label victim: (828, 'strainer')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 8, loss: 3.7276034355163574
+w: [0.09741813824040958, 0.09778769941144592, 0.0877815108176761, 0.09413389333218292, 0.09840429499312134, 0.10888451778748941, 0.09565608855801426, 0.0934207149056536, 0.14214151786008838, 0.08437162409391843]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 9, loss: 2.2321786880493164
+w: [0.09669224615679296, 0.09722259214669227, 0.0858610577253181, 0.09330140269975115, 0.09793342991061676, 0.11050807267930297, 0.09497278826381333, 0.09227377211347677, 0.14914082301868004, 0.08209381528555582]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 10, loss: 1.3244075775146484
+w: [0.09607515483824318, 0.09659980837284317, 0.0840400961884222, 0.09231496165632656, 0.09757550518109837, 0.11190462088574052, 0.09433269652812937, 0.09115965708298536, 0.15608655967806734, 0.07991093958814396]
+label victim: (518, 'crash helmet')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 11, loss: 6.305115699768066
+w: [0.09541783618444702, 0.09592613081350766, 0.08216124201186371, 0.09144596468049676, 0.09721286660324158, 0.11335006736437268, 0.09373416580013577, 0.09002425443680362, 0.16297729689602292, 0.07775017520910828]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 12, loss: 1.402684211730957
+w: [0.09471502727613863, 0.09526991376200414, 0.08036642752847083, 0.09052780748131592, 0.09688844404764418, 0.11499268222352593, 0.09306102216075177, 0.08903121147790577, 0.1694732928632568, 0.07567417117898616]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 13, loss: 5.179606914520264
+w: [0.09396212208203508, 0.09453307055071312, 0.07844893852141475, 0.0896496930780842, 0.09644235547399788, 0.11652128178124614, 0.09245332978568047, 0.08794909911733867, 0.1764002537330392, 0.07363985587645065]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 14, loss: 1.7088642120361328
+w: [0.09317819233478569, 0.09376185266247558, 0.07659818285783607, 0.0887345487619176, 0.09617720413715754, 0.11811563343716604, 0.09182580595649369, 0.0868787837978611, 0.18305051558280608, 0.07167928047150059]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 15, loss: 5.408705234527588
+w: [0.09238182862600917, 0.09302317503365985, 0.07478156501911631, 0.08787862693147078, 0.09589655907177899, 0.11959553589777266, 0.09128944422705793, 0.08585692639718083, 0.1894910395732603, 0.06980529922269317]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 16, loss: 4.745113372802734
+w: [0.09160093624150101, 0.09229365662005641, 0.07303643613832851, 0.0869527511112296, 0.09559512240692145, 0.12109598252295563, 0.09063761918371094, 0.08489002234323836, 0.19592262830568472, 0.06797484512637328]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 17, loss: 1.6374244689941406
+w: [0.09089083821137298, 0.09151180569640609, 0.07133344329945658, 0.08608639797038496, 0.09534947637505889, 0.122326004664629, 0.08997363737338095, 0.08397461265406887, 0.20233067457613038, 0.06622310917911121]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 18, loss: 4.978999614715576
+w: [0.0900386621590771, 0.09078540475577108, 0.0696425512173154, 0.08519783457686167, 0.09506127443245768, 0.12349578763740257, 0.08943497533875991, 0.0830219202355289, 0.20875493123931171, 0.06456665840751387]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 19, loss: 4.866049766540527
+w: [0.08922647503828476, 0.09005767825726989, 0.06795676954866356, 0.08436428889211262, 0.09475131018343452, 0.1248877064836971, 0.08878399818983425, 0.0820632708176213, 0.21494997370817645, 0.06295852888090568]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 20, loss: 5.479811668395996
+w: [0.08845958258767746, 0.08925605964929528, 0.06632998095377966, 0.0835821500099887, 0.09446281599516657, 0.12598480038325113, 0.08823196478962823, 0.08121565945910042, 0.22104054281231583, 0.06143644335979679]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 21, loss: 5.160399913787842
+w: [0.08770083556353857, 0.08842860018064498, 0.06467721323540822, 0.0826421018866963, 0.09414244429797898, 0.1270806631289727, 0.08775499130543486, 0.08038406752832433, 0.22724644339665806, 0.05994263947634292]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 22, loss: 4.300625324249268
+w: [0.08689396337966847, 0.0876059696992947, 0.06301303191464096, 0.08175705107404205, 0.09375503994872343, 0.1282027249975906, 0.08721593699865214, 0.07955601408280248, 0.23347982647240903, 0.058520441432176114]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 23, loss: 4.923839092254639
+w: [0.08604776785013443, 0.08669914548578639, 0.06136455953422336, 0.08085693173409382, 0.09346836686160741, 0.12940956687501118, 0.08663302421337084, 0.07874886061951081, 0.23966254159930858, 0.057109235226953166]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 24, loss: 3.164055347442627
+w: [0.08524443360920156, 0.08583804531623744, 0.059753477502065624, 0.07987964610211996, 0.09317399390060514, 0.13046809195929837, 0.08600855753481332, 0.07795799936329742, 0.24598424507806635, 0.0556915096342947]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 25, loss: 3.635988712310791
+w: [0.08450949549646998, 0.08505130780969769, 0.05816054265570018, 0.07905229028303869, 0.09286721992117844, 0.13151366568026965, 0.08543239009894073, 0.07712919100440424, 0.2519081313147447, 0.05437576573555555]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 26, loss: 3.8461179733276367
+w: [0.08370680289462792, 0.08424282159036145, 0.05661981463056516, 0.07818944742672011, 0.09258663886030429, 0.13252696916699575, 0.08491121155353103, 0.07633459224553683, 0.2577457805978583, 0.053135921033499255]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 27, loss: 4.298326015472412
+w: [0.08295123305780513, 0.08337158183915853, 0.05516409609682226, 0.0772692394641631, 0.09233024791748469, 0.1334937338011878, 0.08442714075593051, 0.07560713646203433, 0.2634619494755769, 0.051923641129836585]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 28, loss: 5.666264533996582
+w: [0.08215786930886697, 0.08258531877664656, 0.05376501730514743, 0.07631721945689822, 0.09200176911782294, 0.1344388777179482, 0.08391155489118192, 0.07482663137966218, 0.2692555956992607, 0.05074014634656485]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 29, loss: 4.897815227508545
+w: [0.08135873875750316, 0.08168139134094496, 0.05231451067628033, 0.07539362358305647, 0.09160661495721882, 0.13540621392264626, 0.08326515401915714, 0.07411431361596409, 0.2752634306996851, 0.049596008427543685]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 30, loss: 2.093440055847168
+w: [0.08055918382010262, 0.08084250339449268, 0.050888122072519276, 0.07445318149239163, 0.09126950672004623, 0.13659001000309606, 0.08272907611423756, 0.07340065062442223, 0.28073670675959705, 0.04853105899909466]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 31, loss: 7.307703971862793
+w: [0.07981055992836913, 0.08004408456262918, 0.04947115784498364, 0.0734810635113, 0.09097231122150842, 0.13742341744313855, 0.08218455468858538, 0.07268784101282409, 0.28641176419741804, 0.04751324558924355]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 32, loss: 4.4177703857421875
+w: [0.0790458412360258, 0.07923400428152824, 0.04806682003836226, 0.07241604362309163, 0.09052913101426291, 0.1382890953064773, 0.08164626719424077, 0.0720347357032338, 0.2922363861932771, 0.04650167540950025]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 33, loss: 4.17179012298584
+w: [0.07834179075052072, 0.07840057867808078, 0.04668957637337167, 0.07131036853637007, 0.0900914018306017, 0.13925614670791828, 0.08108711892923572, 0.0714142251145571, 0.2978834858008419, 0.0455253072785021]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 34, loss: 7.100291728973389
+w: [0.07760768502160016, 0.07759491793232094, 0.04534416024482712, 0.07016539532370437, 0.08972853519530138, 0.1402862970452402, 0.08051133777548715, 0.07083032760940597, 0.3033196649045784, 0.044611678947534365]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 35, loss: 7.168431282043457
+w: [0.07695988467170378, 0.07689329476794035, 0.0440653962753255, 0.06904064745605278, 0.08939927589528004, 0.14103538698963722, 0.08003660745285628, 0.07031066125117175, 0.30851789228975285, 0.043740952950279376]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 36, loss: 4.542137145996094
+w: [0.07621188183867708, 0.07615732660982046, 0.042760044101675, 0.0679133447175053, 0.0890186868591646, 0.14193048115491844, 0.07955451983170789, 0.06976775715445303, 0.3138402473726656, 0.042845710359412585]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 37, loss: 6.073509693145752
+w: [0.075457731338173, 0.07536963993396048, 0.04152942877446672, 0.06680423579004886, 0.08866784093772308, 0.14278136356390977, 0.07912879622951151, 0.06926852093965352, 0.31902054808176933, 0.041971894410783736]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 38, loss: 5.710186004638672
+w: [0.07474292670639786, 0.07453382191552832, 0.04032488394315786, 0.06556164560048806, 0.08830815842451353, 0.14356896498848615, 0.07856071376882091, 0.06874164574699759, 0.32448889296692934, 0.041168345938680476]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 39, loss: 5.866471767425537
+w: [0.0740665157575233, 0.0737607666856162, 0.03913704092438943, 0.06446108062918933, 0.08780651941356735, 0.14444888432056635, 0.07807391905295828, 0.06823056912417368, 0.32961732525378884, 0.04039737883822725]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 40, loss: 6.761022090911865
+w: [0.07338615906577395, 0.0729913583222659, 0.03800687510105322, 0.06333111589324, 0.08739355073514607, 0.14543656302347985, 0.07755437968196503, 0.0677766328077135, 0.33450172984883014, 0.03962163552053235]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (787, 'shield, buckler')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 41, loss: 4.134108543395996
+w: [0.07273652661046688, 0.0722468014561703, 0.03687327890025784, 0.06227880338131119, 0.08691591926391902, 0.14627403292429209, 0.0769950645115668, 0.06731758181186244, 0.33945769331187753, 0.03890429782827602]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (587, 'hammer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 42, loss: 3.7301321029663086
+w: [0.07207074402208671, 0.07148861776155417, 0.0357395914438635, 0.06112918726219116, 0.08641364669137626, 0.14713882499264294, 0.07647762682716813, 0.06686413763021759, 0.3444870308177651, 0.03819059255113435]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (828, 'strainer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 43, loss: 5.508450508117676
+w: [0.07146285532430277, 0.07070765540071156, 0.03463141090176293, 0.060048053182170685, 0.08589290632708194, 0.14787994180696126, 0.07604388036387373, 0.06639782523075394, 0.34942864367735876, 0.03750682778502254]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (401, 'accordion, piano accordion, squeeze box')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 44, loss: 5.7831315994262695
+w: [0.07088842323822286, 0.0699411479287688, 0.03355198454289562, 0.05898234415899537, 0.08536657869940968, 0.14859478017858743, 0.07554251732296648, 0.06596272524427144, 0.3543546908975949, 0.03681480778828756]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (587, 'hammer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 45, loss: 6.928950309753418
+w: [0.07028353797488338, 0.06916869224564562, 0.032484567974095054, 0.05787286200130667, 0.08484116065510434, 0.14924380656358688, 0.0750529844873366, 0.06553535857089406, 0.35932618369669805, 0.03619084583044931]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (806, 'sock')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 46, loss: 6.214023590087891
+w: [0.06958648093795916, 0.06838636786781747, 0.03140668050554049, 0.056841846045522594, 0.08424568332220693, 0.1497648627719525, 0.07450286413712912, 0.06512092137748406, 0.3645977248136307, 0.0355465682207571]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (587, 'hammer')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 47, loss: 4.666928768157959
+w: [0.0689874115742, 0.06768313807918182, 0.030318245066247963, 0.05585589276404406, 0.08379588027855128, 0.15022987653447423, 0.07406070708402243, 0.06473135679213884, 0.36936450237700447, 0.03497298945013497]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (787, 'shield, buckler')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 48, loss: 7.358522891998291
+w: [0.06829438591176965, 0.06696865238696835, 0.029284270082108797, 0.054867322963013714, 0.08335432600481056, 0.1510452793557259, 0.07360052155786984, 0.06435495895233181, 0.3737974920651909, 0.03443279072021061]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (401, 'accordion, piano accordion, squeeze box')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
+n_iters: 10, iter_w: 49, loss: 6.299251079559326
+w: [0.067705697333865, 0.06622704614739408, 0.028311886003700947, 0.05389976550425449, 0.08290126874302571, 0.15157464688922437, 0.07311795073562705, 0.06399580320938206, 0.37839500156240385, 0.033870933871122416]
+label victim: (787, 'shield, buckler')
+label wb 0: (828, 'strainer')
+label wb 1: (828, 'strainer')
+label wb 2: (787, 'shield, buckler')
+label wb 3: (828, 'strainer')
+label wb 4: (828, 'strainer')
+label wb 5: (828, 'strainer')
+label wb 6: (828, 'strainer')
+label wb 7: (828, 'strainer')
+label wb 8: (828, 'strainer')
+label wb 9: (828, 'strainer')
+
+
