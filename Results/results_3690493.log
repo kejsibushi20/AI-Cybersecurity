@@ -1,0 +1,1468 @@
+2024-12-01 13:11:51.419331 WARN  puppetlabs.facter - locale environment variables were bad; continuing with LANG=C LC_ALL=C
+/var/lib/slurmd/job3690493/slurm_script: line 20: source: /home/users/kbushi/AI-Cybersecurity/secondvenv: is a directory
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: torch==1.11.0 in /mnt/aiongpfs/users/kbushi/.local/lib/python3.8/site-packages (from -r requirements.txt (line 1)) (1.11.0)
+Requirement already satisfied: torchvision==0.12.0 in /mnt/aiongpfs/users/kbushi/.local/lib/python3.8/site-packages (from -r requirements.txt (line 2)) (0.12.0)
+Requirement already satisfied: mmcv-full==1.5.1 in /mnt/aiongpfs/users/kbushi/.local/lib/python3.8/site-packages (from -r requirements.txt (line 3)) (1.5.1)
+Requirement already satisfied: numpy==1.21.2 in /mnt/aiongpfs/users/kbushi/.local/lib/python3.8/site-packages (from -r requirements.txt (line 4)) (1.21.2)
+Requirement already satisfied: matplotlib==3.5.1 in /mnt/aiongpfs/users/kbushi/.local/lib/python3.8/site-packages (from -r requirements.txt (line 5)) (3.5.1)
+Requirement already satisfied: tqdm==4.62.3 in /mnt/aiongpfs/users/kbushi/.local/lib/python3.8/site-packages (from -r requirements.txt (line 6)) (4.62.3)
+Requirement already satisfied: typing-extensions in /mnt/aiongpfs/users/kbushi/.local/lib/python3.8/site-packages (from torch==1.11.0->-r requirements.txt (line 1)) (4.12.2)
+Requirement already satisfied: requests in /mnt/aiongpfs/apps/resif/iris-rhel8/2020b/gpu/software/Python/3.8.6-GCCcore-10.2.0/lib/python3.8/site-packages (from torchvision==0.12.0->-r requirements.txt (line 2)) (2.24.0)
+Requirement already satisfied: pillow!=8.3.*,>=5.3.0 in /mnt/aiongpfs/users/kbushi/.local/lib/python3.8/site-packages (from torchvision==0.12.0->-r requirements.txt (line 2)) (10.4.0)
+Requirement already satisfied: addict in /mnt/aiongpfs/users/kbushi/.local/lib/python3.8/site-packages (from mmcv-full==1.5.1->-r requirements.txt (line 3)) (2.4.0)
+Requirement already satisfied: packaging in /mnt/aiongpfs/apps/resif/iris-rhel8/2020b/gpu/software/Python/3.8.6-GCCcore-10.2.0/lib/python3.8/site-packages (from mmcv-full==1.5.1->-r requirements.txt (line 3)) (20.4)
+Requirement already satisfied: pyyaml in /mnt/aiongpfs/users/kbushi/.local/lib/python3.8/site-packages (from mmcv-full==1.5.1->-r requirements.txt (line 3)) (6.0.2)
+Requirement already satisfied: yapf in /mnt/aiongpfs/users/kbushi/.local/lib/python3.8/site-packages (from mmcv-full==1.5.1->-r requirements.txt (line 3)) (0.43.0)
+Requirement already satisfied: opencv-python>=3 in /mnt/aiongpfs/users/kbushi/.local/lib/python3.8/site-packages (from mmcv-full==1.5.1->-r requirements.txt (line 3)) (4.10.0.84)
+Requirement already satisfied: cycler>=0.10 in /mnt/aiongpfs/users/kbushi/.local/lib/python3.8/site-packages (from matplotlib==3.5.1->-r requirements.txt (line 5)) (0.12.1)
+Requirement already satisfied: fonttools>=4.22.0 in /mnt/aiongpfs/users/kbushi/.local/lib/python3.8/site-packages (from matplotlib==3.5.1->-r requirements.txt (line 5)) (4.55.0)
+Requirement already satisfied: kiwisolver>=1.0.1 in /mnt/aiongpfs/users/kbushi/.local/lib/python3.8/site-packages (from matplotlib==3.5.1->-r requirements.txt (line 5)) (1.4.7)
+Requirement already satisfied: pyparsing>=2.2.1 in /mnt/aiongpfs/apps/resif/iris-rhel8/2020b/gpu/software/Python/3.8.6-GCCcore-10.2.0/lib/python3.8/site-packages (from matplotlib==3.5.1->-r requirements.txt (line 5)) (2.4.7)
+Requirement already satisfied: python-dateutil>=2.7 in /mnt/aiongpfs/apps/resif/iris-rhel8/2020b/gpu/software/Python/3.8.6-GCCcore-10.2.0/lib/python3.8/site-packages (from matplotlib==3.5.1->-r requirements.txt (line 5)) (2.8.1)
+Requirement already satisfied: six in /mnt/aiongpfs/apps/resif/iris-rhel8/2020b/gpu/software/Python/3.8.6-GCCcore-10.2.0/lib/python3.8/site-packages (from packaging->mmcv-full==1.5.1->-r requirements.txt (line 3)) (1.15.0)
+Requirement already satisfied: chardet<4,>=3.0.2 in /mnt/aiongpfs/apps/resif/iris-rhel8/2020b/gpu/software/Python/3.8.6-GCCcore-10.2.0/lib/python3.8/site-packages (from requests->torchvision==0.12.0->-r requirements.txt (line 2)) (3.0.4)
+Requirement already satisfied: idna<3,>=2.5 in /mnt/aiongpfs/apps/resif/iris-rhel8/2020b/gpu/software/Python/3.8.6-GCCcore-10.2.0/lib/python3.8/site-packages (from requests->torchvision==0.12.0->-r requirements.txt (line 2)) (2.10)
+Requirement already satisfied: urllib3!=1.25.0,!=1.25.1,<1.26,>=1.21.1 in /mnt/aiongpfs/apps/resif/iris-rhel8/2020b/gpu/software/Python/3.8.6-GCCcore-10.2.0/lib/python3.8/site-packages (from requests->torchvision==0.12.0->-r requirements.txt (line 2)) (1.25.10)
+Requirement already satisfied: certifi>=2017.4.17 in /mnt/aiongpfs/apps/resif/iris-rhel8/2020b/gpu/software/Python/3.8.6-GCCcore-10.2.0/lib/python3.8/site-packages (from requests->torchvision==0.12.0->-r requirements.txt (line 2)) (2020.6.20)
+Requirement already satisfied: platformdirs>=3.5.1 in /mnt/aiongpfs/users/kbushi/.local/lib/python3.8/site-packages (from yapf->mmcv-full==1.5.1->-r requirements.txt (line 3)) (4.3.6)
+Requirement already satisfied: tomli>=2.0.1 in /mnt/aiongpfs/users/kbushi/.local/lib/python3.8/site-packages (from yapf->mmcv-full==1.5.1->-r requirements.txt (line 3)) (2.2.1)
+load: vgg16_bn
+load: resnet18
+load: squeezenet1_1
+load: googlenet
+load: mnasnet1_0
+load: densenet161
+load: efficientnet_b0
+load: regnet_y_400mf
+load: resnext101_32x8d
+load: convnext_small
+victim_vgg19_10wb_linf_32_iters10_x3_loss_cw_lr0.005_iterw50_fuse_loss_v2
+  0%|          | 0/100 [00:00<?, ?it/s]/home/users/kbushi/.local/lib/python3.8/site-packages/torch/nn/functional.py:780: UserWarning: Note that order of the arguments: ceil_mode and return_indices will changeto match the args list in nn.MaxPool2d in a future release.
+  warnings.warn("Note that order of the arguments: ceil_mode and return_indices will change"
+  1%|          | 1/100 [00:06<09:55,  6.02s/it]  2%|▏         | 2/100 [00:32<29:57, 18.34s/it]  3%|▎         | 3/100 [00:41<22:24, 13.86s/it]  4%|▍         | 4/100 [00:47<17:05, 10.69s/it]  5%|▌         | 5/100 [00:50<12:43,  8.04s/it]  6%|▌         | 6/100 [00:54<10:07,  6.46s/it]  7%|▋         | 7/100 [00:57<08:24,  5.43s/it]  8%|▊         | 8/100 [01:00<07:19,  4.78s/it]  9%|▉         | 9/100 [01:30<19:02, 12.55s/it] 10%|█         | 10/100 [01:36<15:42, 10.47s/it] 11%|█         | 11/100 [01:39<12:18,  8.30s/it] 12%|█▏        | 12/100 [01:50<13:28,  9.19s/it] 13%|█▎        | 13/100 [01:54<10:46,  7.43s/it] 14%|█▍        | 14/100 [02:00<09:58,  6.96s/it] 15%|█▌        | 15/100 [02:03<08:21,  5.90s/it] 16%|█▌        | 16/100 [02:06<07:10,  5.12s/it] 17%|█▋        | 17/100 [02:10<06:22,  4.61s/it] 18%|█▊        | 18/100 [02:13<05:46,  4.23s/it] 19%|█▉        | 19/100 [02:22<07:25,  5.50s/it] 20%|██        | 20/100 [02:25<06:28,  4.86s/it] 21%|██        | 21/100 [02:28<05:47,  4.40s/it] 22%|██▏       | 22/100 [02:32<05:19,  4.10s/it] 23%|██▎       | 23/100 [02:35<04:57,  3.87s/it] 24%|██▍       | 24/100 [02:41<05:40,  4.48s/it] 25%|██▌       | 25/100 [02:47<06:05,  4.88s/it] 26%|██▌       | 26/100 [03:01<09:21,  7.59s/it] 27%|██▋       | 27/100 [03:12<10:33,  8.68s/it] 28%|██▊       | 28/100 [03:15<08:29,  7.08s/it] 29%|██▉       | 29/100 [03:40<14:31, 12.27s/it] 30%|███       | 30/100 [03:43<11:11,  9.59s/it] 31%|███       | 31/100 [03:49<09:44,  8.48s/it] 32%|███▏      | 32/100 [03:57<09:35,  8.47s/it] 33%|███▎      | 33/100 [04:03<08:35,  7.69s/it] 34%|███▍      | 34/100 [04:06<07:01,  6.38s/it] 35%|███▌      | 35/100 [04:15<07:35,  7.01s/it] 36%|███▌      | 36/100 [04:45<14:42, 13.80s/it] 37%|███▋      | 37/100 [04:48<11:11, 10.66s/it] 38%|███▊      | 38/100 [04:51<08:45,  8.48s/it] 39%|███▉      | 39/100 [04:57<07:48,  7.67s/it] 40%|████      | 40/100 [05:03<07:08,  7.15s/it] 41%|████      | 41/100 [05:11<07:24,  7.53s/it] 42%|████▏     | 42/100 [05:17<06:48,  7.05s/it] 43%|████▎     | 43/100 [05:21<05:37,  5.92s/it] 44%|████▍     | 44/100 [05:24<04:49,  5.16s/it] 45%|████▌     | 45/100 [05:35<06:23,  6.98s/it] 46%|████▌     | 46/100 [05:39<05:19,  5.91s/it] 47%|████▋     | 47/100 [05:42<04:32,  5.14s/it] 48%|████▊     | 48/100 [07:57<38:09, 44.03s/it] 49%|████▉     | 49/100 [08:05<28:22, 33.38s/it] 50%|█████     | 50/100 [08:19<22:56, 27.53s/it] 51%|█████     | 51/100 [10:34<48:39, 59.59s/it] 52%|█████▏    | 52/100 [10:39<34:46, 43.47s/it] 53%|█████▎    | 53/100 [10:43<24:36, 31.42s/it] 54%|█████▍    | 54/100 [10:46<17:37, 22.99s/it] 55%|█████▌    | 55/100 [10:49<12:49, 17.11s/it] 56%|█████▌    | 56/100 [10:55<10:03, 13.72s/it] 57%|█████▋    | 57/100 [11:04<08:43, 12.17s/it] 58%|█████▊    | 58/100 [11:31<11:37, 16.61s/it] 59%|█████▉    | 59/100 [11:42<10:14, 15.00s/it] 60%|██████    | 60/100 [11:48<08:10, 12.26s/it] 61%|██████    | 61/100 [11:51<06:13,  9.57s/it] 62%|██████▏   | 62/100 [11:55<04:52,  7.71s/it] 63%|██████▎   | 63/100 [11:58<03:56,  6.40s/it] 64%|██████▍   | 64/100 [12:06<04:12,  7.01s/it] 65%|██████▌   | 65/100 [12:12<03:52,  6.65s/it] 66%|██████▌   | 66/100 [12:18<03:37,  6.41s/it] 67%|██████▋   | 67/100 [12:21<03:00,  5.48s/it] 68%|██████▊   | 68/100 [12:51<06:46, 12.72s/it] 69%|██████▉   | 69/100 [15:05<25:27, 49.27s/it] 70%|███████   | 70/100 [15:09<17:44, 35.48s/it] 71%|███████   | 71/100 [15:12<12:29, 25.83s/it] 72%|███████▏  | 72/100 [15:15<08:54, 19.10s/it] 73%|███████▎  | 73/100 [15:21<06:47, 15.10s/it] 74%|███████▍  | 74/100 [15:25<05:01, 11.59s/it] 75%|███████▌  | 75/100 [17:39<20:12, 48.51s/it] 76%|███████▌  | 76/100 [17:43<13:59, 34.98s/it] 77%|███████▋  | 77/100 [19:57<24:51, 64.85s/it] 78%|███████▊  | 78/100 [20:03<17:17, 47.15s/it] 79%|███████▉  | 79/100 [20:20<13:16, 37.95s/it] 80%|████████  | 80/100 [20:23<09:11, 27.58s/it] 81%|████████  | 81/100 [20:29<06:40, 21.06s/it] 82%|████████▏ | 82/100 [20:32<04:43, 15.76s/it] 83%|████████▎ | 83/100 [20:36<03:24, 12.04s/it] 84%|████████▍ | 84/100 [20:39<02:31,  9.45s/it] 85%|████████▌ | 85/100 [20:45<02:05,  8.36s/it] 86%|████████▌ | 86/100 [20:48<01:35,  6.85s/it] 87%|████████▋ | 87/100 [20:54<01:25,  6.57s/it] 88%|████████▊ | 88/100 [20:57<01:07,  5.60s/it] 89%|████████▉ | 89/100 [21:01<00:54,  4.93s/it] 90%|█████████ | 90/100 [21:12<01:08,  6.81s/it] 91%|█████████ | 91/100 [21:15<00:52,  5.78s/it] 92%|█████████▏| 92/100 [21:19<00:40,  5.04s/it] 93%|█████████▎| 93/100 [21:24<00:37,  5.29s/it] 94%|█████████▍| 94/100 [21:52<01:10, 11.82s/it] 95%|█████████▌| 95/100 [22:29<01:37, 19.53s/it] 96%|█████████▌| 96/100 [22:40<01:08, 17.04s/it] 97%|█████████▋| 97/100 [22:44<00:38, 12.93s/it] 98%|█████████▊| 98/100 [22:49<00:21, 10.79s/it] 99%|█████████▉| 99/100 [22:53<00:08,  8.57s/it]100%|██████████| 100/100 [24:49<00:00, 40.88s/it]100%|██████████| 100/100 [24:49<00:00, 14.90s/it]
+(327, 'starfish, sea star'), loss: 5.91859245300293
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+iter: 2, 0 +, (962, 'meat loaf, meatloaf'), loss: -2.283660888671875
+success
+im_idx: 0
+targeted. total_success: 1; success_rate: 1.0, avg queries: 2.0
+untargeted. total_success: 1; success_rate: 1.0, avg queries: 1.0
+query_list: [2]
+avg queries: 2.0
+(471, 'cannon'), loss: 4.337629318237305
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+iter: 2, 0 +, (489, 'chainlink fence'), loss: 4.189458847045898
+iter: 3, 0 -, (839, 'suspension bridge'), loss: 6.067906379699707
+0 +
+iter: 4, 1 +, (471, 'cannon'), loss: 3.4601564407348633
+iter: 5, 1 -, (835, 'sundial'), loss: 2.7091774940490723
+1 -
+iter: 6, 2 +, (525, 'dam, dike, dyke'), loss: 1.9854040145874023
+iter: 7, 2 -, (489, 'chainlink fence'), loss: 4.507429599761963
+2 +
+iter: 8, 3 +, (471, 'cannon'), loss: 1.9217934608459473
+iter: 9, 3 -, (839, 'suspension bridge'), loss: 4.6434245109558105
+3 +
+iter: 10, 4 +, (908, 'wing'), loss: -0.0535430908203125
+success
+im_idx: 1
+targeted. total_success: 2; success_rate: 1.0, avg queries: 6.0
+untargeted. total_success: 2; success_rate: 1.0, avg queries: 1.0
+query_list: [2, 10]
+avg queries: 6.0
+(397, 'puffer, pufferfish, blowfish, globefish'), loss: 1.733790397644043
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+iter: 2, 0 +, (397, 'puffer, pufferfish, blowfish, globefish'), loss: 0.20412826538085938
+iter: 3, 0 -, (219, 'cocker spaniel, English cocker spaniel, cocker'), loss: -4.786867618560791
+success
+im_idx: 2
+targeted. total_success: 3; success_rate: 1.0, avg queries: 5.0
+untargeted. total_success: 3; success_rate: 1.0, avg queries: 1.0
+query_list: [2, 10, 3]
+avg queries: 5.0
+(84, 'peacock'), loss: 2.1415557861328125
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+iter: 2, 0 +, (95, 'jacamar'), loss: -3.9104394912719727
+success
+im_idx: 3
+targeted. total_success: 4; success_rate: 1.0, avg queries: 4.25
+untargeted. total_success: 4; success_rate: 1.0, avg queries: 1.0
+query_list: [2, 10, 3, 2]
+avg queries: 4.25
+(562, 'fountain'), loss: -6.0196075439453125
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+success
+im_idx: 4
+targeted. total_success: 5; success_rate: 1.0, avg queries: 3.6
+untargeted. total_success: 5; success_rate: 1.0, avg queries: 1.0
+query_list: [2, 10, 3, 2, 1]
+avg queries: 3.6
+(354, 'Arabian camel, dromedary, Camelus dromedarius'), loss: -7.4060564041137695
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+success
+im_idx: 5
+targeted. total_success: 6; success_rate: 1.0, avg queries: 3.1666666666666665
+untargeted. total_success: 6; success_rate: 1.0, avg queries: 1.0
+query_list: [2, 10, 3, 2, 1, 1]
+avg queries: 3.1666666666666665
+(884, 'vault'), loss: -2.7831382751464844
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+success
+im_idx: 6
+targeted. total_success: 7; success_rate: 1.0, avg queries: 2.857142857142857
+untargeted. total_success: 7; success_rate: 1.0, avg queries: 1.0
+query_list: [2, 10, 3, 2, 1, 1, 1]
+avg queries: 2.857142857142857
+(540, 'drilling platform, offshore rig'), loss: -2.02120304107666
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+success
+im_idx: 7
+targeted. total_success: 8; success_rate: 1.0, avg queries: 2.625
+untargeted. total_success: 8; success_rate: 1.0, avg queries: 1.0
+query_list: [2, 10, 3, 2, 1, 1, 1, 1]
+avg queries: 2.625
+(320, 'damselfly'), loss: 5.508004188537598
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+iter: 2, 0 +, (526, 'desk'), loss: 0.5076074600219727
+iter: 3, 0 -, (783, 'screw'), loss: 2.633150339126587
+0 +
+iter: 4, 1 +, (786, 'sewing machine'), loss: 2.887378692626953
+iter: 5, 1 -, (423, 'barber chair'), loss: 1.1176509857177734
+1 -
+iter: 6, 2 +, (786, 'sewing machine'), loss: 2.1686620712280273
+iter: 7, 2 -, (778, 'scale, weighing machine'), loss: 0.507288932800293
+2 -
+iter: 8, 3 +, (423, 'barber chair'), loss: 0.2658090591430664
+iter: 9, 3 -, (423, 'barber chair'), loss: 1.495265007019043
+3 +
+iter: 10, 4 +, (423, 'barber chair'), loss: 0.6630163192749023
+iter: 11, 4 -, (550, 'espresso maker'), loss: -0.7261857986450195
+success
+im_idx: 8
+targeted. total_success: 9; success_rate: 1.0, avg queries: 3.5555555555555554
+untargeted. total_success: 9; success_rate: 1.0, avg queries: 1.0
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11]
+avg queries: 3.5555555555555554
+(451, 'bolo tie, bolo, bola tie, bola'), loss: 1.4273929595947266
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+iter: 2, 0 +, (677, 'nail'), loss: -1.300562858581543
+success
+im_idx: 9
+targeted. total_success: 10; success_rate: 1.0, avg queries: 3.4
+untargeted. total_success: 10; success_rate: 1.0, avg queries: 1.0
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2]
+avg queries: 3.4
+(828, 'strainer'), loss: -2.3341798782348633
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+success
+im_idx: 10
+targeted. total_success: 11; success_rate: 1.0, avg queries: 3.1818181818181817
+untargeted. total_success: 11; success_rate: 1.0, avg queries: 1.0
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1]
+avg queries: 3.1818181818181817
+(584, 'hair slide'), loss: 1.3872370719909668
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+iter: 2, 0 +, (584, 'hair slide'), loss: 1.3318352699279785
+iter: 3, 0 -, (584, 'hair slide'), loss: 2.8106274604797363
+0 +
+iter: 4, 1 +, (415, 'bakery, bakeshop, bakehouse'), loss: -0.7553586959838867
+success
+im_idx: 11
+targeted. total_success: 12; success_rate: 1.0, avg queries: 3.25
+untargeted. total_success: 12; success_rate: 1.0, avg queries: 1.0
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4]
+avg queries: 3.25
+(637, 'mailbox, letter box'), loss: -5.479154586791992
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+success
+im_idx: 12
+targeted. total_success: 13; success_rate: 1.0, avg queries: 3.076923076923077
+untargeted. total_success: 13; success_rate: 1.0, avg queries: 1.0
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1]
+avg queries: 3.076923076923077
+(646, 'maze, labyrinth'), loss: 2.912895441055298
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+iter: 2, 0 +, (254, 'pug, pug-dog'), loss: -0.25603771209716797
+success
+im_idx: 13
+targeted. total_success: 14; success_rate: 1.0, avg queries: 3.0
+untargeted. total_success: 14; success_rate: 1.0, avg queries: 1.0
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2]
+avg queries: 3.0
+(772, 'safety pin'), loss: -6.777834892272949
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+success
+im_idx: 14
+targeted. total_success: 15; success_rate: 1.0, avg queries: 2.8666666666666667
+untargeted. total_success: 15; success_rate: 1.0, avg queries: 1.0
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1]
+avg queries: 2.8666666666666667
+(102, 'echidna, spiny anteater, anteater'), loss: -3.4641246795654297
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+success
+im_idx: 15
+targeted. total_success: 16; success_rate: 1.0, avg queries: 2.75
+untargeted. total_success: 16; success_rate: 1.0, avg queries: 1.0
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1]
+avg queries: 2.75
+(489, 'chainlink fence'), loss: -5.839859962463379
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+success
+im_idx: 16
+targeted. total_success: 17; success_rate: 1.0, avg queries: 2.6470588235294117
+untargeted. total_success: 17; success_rate: 1.0, avg queries: 1.0
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1]
+avg queries: 2.6470588235294117
+(696, 'paintbrush'), loss: -0.4069690704345703
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+success
+im_idx: 17
+targeted. total_success: 18; success_rate: 1.0, avg queries: 2.5555555555555554
+untargeted. total_success: 18; success_rate: 1.0, avg queries: 1.0
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1]
+avg queries: 2.5555555555555554
+(425, 'barn'), loss: 4.507082939147949
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+iter: 2, 0 +, (853, 'thatch, thatched roof'), loss: 0.6203103065490723
+iter: 3, 0 -, (648, 'medicine chest, medicine cabinet'), loss: -2.5962448120117188
+success
+im_idx: 18
+targeted. total_success: 19; success_rate: 1.0, avg queries: 2.5789473684210527
+untargeted. total_success: 19; success_rate: 1.0, avg queries: 1.0526315789473684
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3]
+avg queries: 2.5789473684210527
+(679, 'necklace'), loss: -0.8465757369995117
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+success
+im_idx: 19
+targeted. total_success: 20; success_rate: 1.0, avg queries: 2.5
+untargeted. total_success: 20; success_rate: 1.0, avg queries: 1.05
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1]
+avg queries: 2.5
+(450, 'bobsled, bobsleigh, bob'), loss: -0.9055213928222656
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+success
+im_idx: 20
+targeted. total_success: 21; success_rate: 1.0, avg queries: 2.4285714285714284
+untargeted. total_success: 21; success_rate: 1.0, avg queries: 1.0476190476190477
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1]
+avg queries: 2.4285714285714284
+(117, 'chambered nautilus, pearly nautilus, nautilus'), loss: -3.929795265197754
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+success
+im_idx: 21
+targeted. total_success: 22; success_rate: 1.0, avg queries: 2.3636363636363638
+untargeted. total_success: 22; success_rate: 1.0, avg queries: 1.0454545454545454
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1]
+avg queries: 2.3636363636363638
+(317, 'leafhopper'), loss: -2.9148731231689453
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+success
+im_idx: 22
+targeted. total_success: 23; success_rate: 1.0, avg queries: 2.3043478260869565
+untargeted. total_success: 23; success_rate: 1.0, avg queries: 1.0434782608695652
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1]
+avg queries: 2.3043478260869565
+(786, 'sewing machine'), loss: 0.9430761337280273
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+iter: 2, 0 +, (753, 'radiator'), loss: -2.8860058784484863
+success
+im_idx: 23
+targeted. total_success: 24; success_rate: 1.0, avg queries: 2.2916666666666665
+untargeted. total_success: 24; success_rate: 1.0, avg queries: 1.0416666666666667
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2]
+avg queries: 2.2916666666666665
+(151, 'Chihuahua'), loss: 3.1003570556640625
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+iter: 2, 0 +, (629, 'lipstick, lip rouge'), loss: -0.1543741226196289
+success
+im_idx: 24
+targeted. total_success: 25; success_rate: 1.0, avg queries: 2.28
+untargeted. total_success: 25; success_rate: 1.0, avg queries: 1.04
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2]
+avg queries: 2.28
+(611, 'jigsaw puzzle'), loss: 2.430811882019043
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+iter: 2, 0 +, (611, 'jigsaw puzzle'), loss: 2.7845945358276367
+iter: 3, 0 -, (611, 'jigsaw puzzle'), loss: 0.9381370544433594
+0 -
+iter: 4, 1 +, (611, 'jigsaw puzzle'), loss: 4.024038314819336
+iter: 5, 1 -, (549, 'envelope'), loss: -1.3683671951293945
+success
+im_idx: 25
+targeted. total_success: 26; success_rate: 1.0, avg queries: 2.3846153846153846
+untargeted. total_success: 26; success_rate: 1.0, avg queries: 1.0384615384615385
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5]
+avg queries: 2.3846153846153846
+(611, 'jigsaw puzzle'), loss: 4.836804389953613
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+iter: 2, 0 +, (1, 'goldfish, Carassius auratus'), loss: 3.7092409133911133
+iter: 3, 0 -, (611, 'jigsaw puzzle'), loss: 0.7228660583496094
+0 -
+iter: 4, 1 +, (909, 'wok'), loss: -1.4610748291015625
+success
+im_idx: 26
+targeted. total_success: 27; success_rate: 1.0, avg queries: 2.4444444444444446
+untargeted. total_success: 27; success_rate: 1.0, avg queries: 1.037037037037037
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4]
+avg queries: 2.4444444444444446
+(395, 'gar, garfish, garpike, billfish, Lepisosteus osseus'), loss: -6.228021621704102
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+success
+im_idx: 27
+targeted. total_success: 28; success_rate: 1.0, avg queries: 2.392857142857143
+untargeted. total_success: 28; success_rate: 1.0, avg queries: 1.0357142857142858
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1]
+avg queries: 2.392857142857143
+(735, 'poncho'), loss: 5.774480819702148
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+iter: 2, 0 +, (84, 'peacock'), loss: 0.892369270324707
+iter: 3, 0 -, (434, 'bath towel'), loss: 4.707001686096191
+0 +
+iter: 4, 1 +, (88, 'macaw'), loss: 1.6491403579711914
+iter: 5, 1 -, (107, 'jellyfish'), loss: 1.5979833602905273
+1 -
+iter: 6, 2 +, (735, 'poncho'), loss: 5.187993049621582
+iter: 7, 2 -, (84, 'peacock'), loss: 1.8076152801513672
+2 -
+iter: 8, 3 +, (84, 'peacock'), loss: 2.8866515159606934
+iter: 9, 3 -, (134, 'crane'), loss: -0.6479835510253906
+success
+im_idx: 28
+targeted. total_success: 29; success_rate: 1.0, avg queries: 2.6206896551724137
+untargeted. total_success: 29; success_rate: 1.0, avg queries: 1.0344827586206897
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9]
+avg queries: 2.6206896551724137
+(772, 'safety pin'), loss: -6.91166877746582
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+success
+im_idx: 29
+targeted. total_success: 30; success_rate: 1.0, avg queries: 2.566666666666667
+untargeted. total_success: 30; success_rate: 1.0, avg queries: 1.0333333333333334
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1]
+avg queries: 2.566666666666667
+(341, 'hog, pig, grunter, squealer, Sus scrofa'), loss: 1.2687888145446777
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+iter: 2, 0 +, (231, 'collie'), loss: -0.666290283203125
+success
+im_idx: 30
+targeted. total_success: 31; success_rate: 1.0, avg queries: 2.5483870967741935
+untargeted. total_success: 31; success_rate: 1.0, avg queries: 1.032258064516129
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2]
+avg queries: 2.5483870967741935
+(808, 'sombrero'), loss: 0.9464116096496582
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+iter: 2, 0 +, (611, 'jigsaw puzzle'), loss: 0.24370908737182617
+iter: 3, 0 -, (739, "potter's wheel"), loss: -4.546457290649414
+success
+im_idx: 31
+targeted. total_success: 32; success_rate: 1.0, avg queries: 2.5625
+untargeted. total_success: 32; success_rate: 1.0, avg queries: 1.03125
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2, 3]
+avg queries: 2.5625
+(545, 'electric fan, blower'), loss: 1.421797752380371
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+iter: 2, 0 +, (817, 'sports car, sport car'), loss: -0.5925569534301758
+success
+im_idx: 32
+targeted. total_success: 33; success_rate: 1.0, avg queries: 2.5454545454545454
+untargeted. total_success: 33; success_rate: 1.0, avg queries: 1.0303030303030303
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2, 3, 2]
+avg queries: 2.5454545454545454
+(796, 'ski mask'), loss: -1.1300106048583984
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+success
+im_idx: 33
+targeted. total_success: 34; success_rate: 1.0, avg queries: 2.5
+untargeted. total_success: 34; success_rate: 1.0, avg queries: 1.0294117647058822
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2, 3, 2, 1]
+avg queries: 2.5
+(791, 'shopping cart'), loss: 2.4220924377441406
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+iter: 2, 0 +, (595, 'harvester, reaper'), loss: 1.3744401931762695
+iter: 3, 0 -, (665, 'moped'), loss: -1.716409683227539
+success
+im_idx: 34
+targeted. total_success: 35; success_rate: 1.0, avg queries: 2.5142857142857142
+untargeted. total_success: 35; success_rate: 1.0, avg queries: 1.0285714285714285
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2, 3, 2, 1, 3]
+avg queries: 2.5142857142857142
+(839, 'suspension bridge'), loss: 1.8962593078613281
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+iter: 2, 0 +, (832, 'stupa, tope'), loss: 0.780491828918457
+iter: 3, 0 -, (839, 'suspension bridge'), loss: 2.475804328918457
+0 +
+iter: 4, 1 +, (839, 'suspension bridge'), loss: 2.0158958435058594
+iter: 5, 1 -, (812, 'space shuttle'), loss: 3.543269634246826
+1 +
+iter: 6, 2 +, (839, 'suspension bridge'), loss: 4.974080562591553
+iter: 7, 2 -, (839, 'suspension bridge'), loss: 3.0870704650878906
+2 -
+iter: 8, 3 +, (832, 'stupa, tope'), loss: 1.858734130859375
+iter: 9, 3 -, (839, 'suspension bridge'), loss: 3.8913302421569824
+3 +
+iter: 10, 4 +, (562, 'fountain'), loss: 1.0916061401367188
+iter: 11, 4 -, (112, 'conch'), loss: -1.132075309753418
+success
+im_idx: 35
+targeted. total_success: 36; success_rate: 1.0, avg queries: 2.75
+untargeted. total_success: 36; success_rate: 1.0, avg queries: 1.0277777777777777
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2, 3, 2, 1, 3, 11]
+avg queries: 2.75
+(314, 'cockroach, roach'), loss: -2.6197099685668945
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+success
+im_idx: 36
+targeted. total_success: 37; success_rate: 1.0, avg queries: 2.7027027027027026
+untargeted. total_success: 37; success_rate: 1.0, avg queries: 1.027027027027027
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2, 3, 2, 1, 3, 11, 1]
+avg queries: 2.7027027027027026
+(807, 'solar dish, solar collector, solar furnace'), loss: -1.6499195098876953
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+success
+im_idx: 37
+targeted. total_success: 38; success_rate: 1.0, avg queries: 2.6578947368421053
+untargeted. total_success: 38; success_rate: 1.0, avg queries: 1.0263157894736843
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2, 3, 2, 1, 3, 11, 1, 1]
+avg queries: 2.6578947368421053
+(611, 'jigsaw puzzle'), loss: 0.4956626892089844
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+iter: 2, 0 +, (562, 'fountain'), loss: -2.5962724685668945
+success
+im_idx: 38
+targeted. total_success: 39; success_rate: 1.0, avg queries: 2.641025641025641
+untargeted. total_success: 39; success_rate: 1.0, avg queries: 1.0256410256410255
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2, 3, 2, 1, 3, 11, 1, 1, 2]
+avg queries: 2.641025641025641
+(611, 'jigsaw puzzle'), loss: 5.203699111938477
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+iter: 2, 0 +, (429, 'baseball'), loss: -0.9611730575561523
+success
+im_idx: 39
+targeted. total_success: 40; success_rate: 1.0, avg queries: 2.625
+untargeted. total_success: 40; success_rate: 1.0, avg queries: 1.025
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2, 3, 2, 1, 3, 11, 1, 1, 2, 2]
+avg queries: 2.625
+(915, 'yurt'), loss: 4.406161308288574
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+iter: 2, 0 +, (51, 'triceratops'), loss: 0.7187438011169434
+iter: 3, 0 -, (995, 'earthstar'), loss: -2.5573368072509766
+success
+im_idx: 40
+targeted. total_success: 41; success_rate: 1.0, avg queries: 2.6341463414634148
+untargeted. total_success: 41; success_rate: 1.0, avg queries: 1.024390243902439
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2, 3, 2, 1, 3, 11, 1, 1, 2, 2, 3]
+avg queries: 2.6341463414634148
+(420, 'banjo'), loss: 1.6864233016967773
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+iter: 2, 0 +, (778, 'scale, weighing machine'), loss: -1.4159207344055176
+success
+im_idx: 41
+targeted. total_success: 42; success_rate: 1.0, avg queries: 2.619047619047619
+untargeted. total_success: 42; success_rate: 1.0, avg queries: 1.0238095238095237
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2, 3, 2, 1, 3, 11, 1, 1, 2, 2, 3, 2]
+avg queries: 2.619047619047619
+(711, 'perfume, essence'), loss: -5.814709663391113
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+success
+im_idx: 42
+targeted. total_success: 43; success_rate: 1.0, avg queries: 2.5813953488372094
+untargeted. total_success: 43; success_rate: 1.0, avg queries: 1.0232558139534884
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2, 3, 2, 1, 3, 11, 1, 1, 2, 2, 3, 2, 1]
+avg queries: 2.5813953488372094
+(180, 'American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier'), loss: -2.2548694610595703
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+success
+im_idx: 43
+targeted. total_success: 44; success_rate: 1.0, avg queries: 2.5454545454545454
+untargeted. total_success: 44; success_rate: 1.0, avg queries: 1.0227272727272727
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2, 3, 2, 1, 3, 11, 1, 1, 2, 2, 3, 2, 1, 1]
+avg queries: 2.5454545454545454
+(414, 'backpack, back pack, knapsack, packsack, rucksack, haversack'), loss: 0.8822689056396484
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+iter: 2, 0 +, (597, 'holster'), loss: 1.5211429595947266
+iter: 3, 0 -, (597, 'holster'), loss: 0.6841773986816406
+0 -
+iter: 4, 1 +, (785, 'seat belt, seatbelt'), loss: -1.7043132781982422
+success
+im_idx: 44
+targeted. total_success: 45; success_rate: 1.0, avg queries: 2.577777777777778
+untargeted. total_success: 45; success_rate: 1.0, avg queries: 1.0222222222222221
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2, 3, 2, 1, 3, 11, 1, 1, 2, 2, 3, 2, 1, 1, 4]
+avg queries: 2.577777777777778
+(335, 'fox squirrel, eastern fox squirrel, Sciurus niger'), loss: -3.643604278564453
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+success
+im_idx: 45
+targeted. total_success: 46; success_rate: 1.0, avg queries: 2.5434782608695654
+untargeted. total_success: 46; success_rate: 1.0, avg queries: 1.0217391304347827
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2, 3, 2, 1, 3, 11, 1, 1, 2, 2, 3, 2, 1, 1, 4, 1]
+avg queries: 2.5434782608695654
+(721, 'pillow'), loss: -3.712113380432129
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+success
+im_idx: 46
+targeted. total_success: 47; success_rate: 1.0, avg queries: 2.5106382978723403
+untargeted. total_success: 47; success_rate: 1.0, avg queries: 1.0212765957446808
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2, 3, 2, 1, 3, 11, 1, 1, 2, 2, 3, 2, 1, 1, 4, 1, 1]
+avg queries: 2.5106382978723403
+(611, 'jigsaw puzzle'), loss: 4.186767101287842
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+iter: 2, 0 +, (539, 'doormat, welcome mat'), loss: 2.002197265625
+iter: 3, 0 -, (193, 'Australian terrier'), loss: 4.497797012329102
+0 +
+iter: 4, 1 +, (748, 'purse'), loss: 1.043893814086914
+iter: 5, 1 -, (748, 'purse'), loss: 0.5800623893737793
+1 -
+iter: 6, 2 +, (738, 'pot, flowerpot'), loss: 0.604151725769043
+iter: 7, 2 -, (748, 'purse'), loss: 0.599395751953125
+2 -
+iter: 8, 3 +, (748, 'purse'), loss: 0.37374305725097656
+iter: 9, 3 -, (774, 'sandal'), loss: 0.3650345802307129
+3 -
+iter: 10, 4 +, (738, 'pot, flowerpot'), loss: 1.200791835784912
+iter: 11, 4 -, (738, 'pot, flowerpot'), loss: 0.7292780876159668
+4 -
+iter: 12, 5 +, (774, 'sandal'), loss: 0.5132112503051758
+iter: 13, 5 -, (539, 'doormat, welcome mat'), loss: 1.0660796165466309
+5 +
+iter: 14, 6 +, (539, 'doormat, welcome mat'), loss: 1.3966422080993652
+iter: 15, 6 -, (738, 'pot, flowerpot'), loss: 1.56547212600708
+6 +
+iter: 16, 7 +, (738, 'pot, flowerpot'), loss: 2.7950658798217773
+iter: 17, 7 -, (738, 'pot, flowerpot'), loss: 1.794630527496338
+7 -
+iter: 18, 8 +, (738, 'pot, flowerpot'), loss: 3.7655181884765625
+iter: 19, 8 -, (539, 'doormat, welcome mat'), loss: 3.9742655754089355
+8 +
+iter: 20, 9 +, (738, 'pot, flowerpot'), loss: 2.132535934448242
+iter: 21, 9 -, (738, 'pot, flowerpot'), loss: 1.9223709106445312
+9 -
+iter: 22, 0 +, (539, 'doormat, welcome mat'), loss: 4.579038619995117
+iter: 23, 0 -, (738, 'pot, flowerpot'), loss: 3.8644371032714844
+0 -
+iter: 24, 1 +, (774, 'sandal'), loss: 1.8264164924621582
+iter: 25, 1 -, (738, 'pot, flowerpot'), loss: 4.423933029174805
+1 +
+iter: 26, 2 +, (539, 'doormat, welcome mat'), loss: 2.90023136138916
+iter: 27, 2 -, (738, 'pot, flowerpot'), loss: 2.4752607345581055
+2 -
+iter: 28, 3 +, (738, 'pot, flowerpot'), loss: 1.5009431838989258
+iter: 29, 3 -, (539, 'doormat, welcome mat'), loss: 2.0264534950256348
+3 +
+iter: 30, 4 +, (774, 'sandal'), loss: 0.8686084747314453
+iter: 31, 4 -, (805, 'soccer ball'), loss: 1.2139735221862793
+4 +
+iter: 32, 5 +, (738, 'pot, flowerpot'), loss: 0.6268997192382812
+iter: 33, 5 -, (774, 'sandal'), loss: 1.9441423416137695
+5 +
+iter: 34, 6 +, (738, 'pot, flowerpot'), loss: 2.1761884689331055
+iter: 35, 6 -, (539, 'doormat, welcome mat'), loss: 1.801623821258545
+6 -
+iter: 36, 7 +, (539, 'doormat, welcome mat'), loss: 3.215388774871826
+iter: 37, 7 -, (539, 'doormat, welcome mat'), loss: 3.1907520294189453
+7 -
+iter: 38, 8 +, (539, 'doormat, welcome mat'), loss: 1.4496145248413086
+iter: 39, 8 -, (774, 'sandal'), loss: 2.522456169128418
+8 +
+iter: 40, 9 +, (640, 'manhole cover'), loss: 3.85195255279541
+iter: 41, 9 -, (738, 'pot, flowerpot'), loss: 1.054168701171875
+9 -
+iter: 42, 0 +, (738, 'pot, flowerpot'), loss: 3.2988100051879883
+iter: 43, 0 -, (539, 'doormat, welcome mat'), loss: 3.0581650733947754
+0 -
+iter: 44, 1 +, (539, 'doormat, welcome mat'), loss: 1.6523733139038086
+iter: 45, 1 -, (539, 'doormat, welcome mat'), loss: 2.4465951919555664
+1 +
+iter: 46, 2 +, (539, 'doormat, welcome mat'), loss: 3.2745580673217773
+iter: 47, 2 -, (539, 'doormat, welcome mat'), loss: 4.035597324371338
+2 +
+iter: 48, 3 +, (738, 'pot, flowerpot'), loss: 2.622222900390625
+iter: 49, 3 -, (738, 'pot, flowerpot'), loss: 1.2527060508728027
+3 -
+iter: 50, 4 +, (539, 'doormat, welcome mat'), loss: 1.725128173828125
+iter: 51, 4 -, (539, 'doormat, welcome mat'), loss: 1.8921208381652832
+4 +
+im_idx: 47
+targeted. total_success: 47; success_rate: 0.9791666666666666, avg queries: 2.5106382978723403
+untargeted. total_success: 48; success_rate: 1.0, avg queries: 1.0208333333333333
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2, 3, 2, 1, 3, 11, 1, 1, 2, 2, 3, 2, 1, 1, 4, 1, 1]
+avg queries: 2.5106382978723403
+(6, 'stingray'), loss: 1.648313045501709
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+iter: 2, 0 +, (6, 'stingray'), loss: 3.340466022491455
+iter: 3, 0 -, (94, 'hummingbird'), loss: -2.7439045906066895
+success
+im_idx: 48
+targeted. total_success: 48; success_rate: 0.9795918367346939, avg queries: 2.5208333333333335
+untargeted. total_success: 49; success_rate: 1.0, avg queries: 1.0204081632653061
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2, 3, 2, 1, 3, 11, 1, 1, 2, 2, 3, 2, 1, 1, 4, 1, 1, 3]
+avg queries: 2.5208333333333335
+(362, 'badger'), loss: 1.5268120765686035
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+iter: 2, 0 +, (6, 'stingray'), loss: 1.5798568725585938
+iter: 3, 0 -, (6, 'stingray'), loss: 2.7587833404541016
+0 +
+iter: 4, 1 +, (6, 'stingray'), loss: 2.3417062759399414
+iter: 5, 1 -, (3, 'tiger shark, Galeocerdo cuvieri'), loss: -0.09887218475341797
+success
+im_idx: 49
+targeted. total_success: 49; success_rate: 0.98, avg queries: 2.5714285714285716
+untargeted. total_success: 50; success_rate: 1.0, avg queries: 1.02
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2, 3, 2, 1, 3, 11, 1, 1, 2, 2, 3, 2, 1, 1, 4, 1, 1, 3, 5]
+avg queries: 2.5714285714285716
+(109, 'brain coral'), loss: 6.920695781707764
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+iter: 2, 0 +, (806, 'sock'), loss: 7.836056232452393
+iter: 3, 0 -, (885, 'velvet'), loss: 5.195965766906738
+0 -
+iter: 4, 1 +, (611, 'jigsaw puzzle'), loss: 7.627594947814941
+iter: 5, 1 -, (124, 'crayfish, crawfish, crawdad, crawdaddy'), loss: 7.452491283416748
+1 -
+iter: 6, 2 +, (611, 'jigsaw puzzle'), loss: 7.9863739013671875
+iter: 7, 2 -, (611, 'jigsaw puzzle'), loss: 5.5075364112854
+2 -
+iter: 8, 3 +, (124, 'crayfish, crawfish, crawdad, crawdaddy'), loss: 5.76519775390625
+iter: 9, 3 -, (611, 'jigsaw puzzle'), loss: 5.433826446533203
+3 -
+iter: 10, 4 +, (357, 'mink'), loss: 5.01826286315918
+iter: 11, 4 -, (357, 'mink'), loss: 5.744617938995361
+4 +
+iter: 12, 5 +, (124, 'crayfish, crawfish, crawdad, crawdaddy'), loss: 5.766579627990723
+iter: 13, 5 -, (47, 'African chameleon, Chamaeleo chamaeleon'), loss: 6.370703220367432
+5 +
+iter: 14, 6 +, (611, 'jigsaw puzzle'), loss: 6.58758020401001
+iter: 15, 6 -, (124, 'crayfish, crawfish, crawdad, crawdaddy'), loss: 6.843618869781494
+6 +
+iter: 16, 7 +, (868, 'tray'), loss: 4.415586948394775
+iter: 17, 7 -, (108, 'sea anemone, anemone'), loss: 5.050122261047363
+7 +
+iter: 18, 8 +, (298, 'mongoose'), loss: 4.56313419342041
+iter: 19, 8 -, (48, 'Komodo dragon, Komodo lizard, dragon lizard, giant lizard, Varanus komodoensis'), loss: 3.630527973175049
+8 -
+iter: 20, 9 +, (611, 'jigsaw puzzle'), loss: 3.534348726272583
+iter: 21, 9 -, (48, 'Komodo dragon, Komodo lizard, dragon lizard, giant lizard, Varanus komodoensis'), loss: 5.068185806274414
+9 +
+iter: 22, 0 +, (268, 'Mexican hairless'), loss: 5.604937553405762
+iter: 23, 0 -, (39, 'common iguana, iguana, Iguana iguana'), loss: 6.344449043273926
+0 +
+iter: 24, 1 +, (611, 'jigsaw puzzle'), loss: 6.096439838409424
+iter: 25, 1 -, (611, 'jigsaw puzzle'), loss: 6.436672210693359
+1 +
+iter: 26, 2 +, (390, 'eel'), loss: 4.8966779708862305
+iter: 27, 2 -, (611, 'jigsaw puzzle'), loss: 9.293560981750488
+2 +
+iter: 28, 3 +, (29, 'axolotl, mud puppy, Ambystoma mexicanum'), loss: 5.499619483947754
+iter: 29, 3 -, (611, 'jigsaw puzzle'), loss: 6.813239097595215
+3 +
+iter: 30, 4 +, (611, 'jigsaw puzzle'), loss: 5.35522985458374
+iter: 31, 4 -, (29, 'axolotl, mud puppy, Ambystoma mexicanum'), loss: 4.5462446212768555
+4 -
+iter: 32, 5 +, (611, 'jigsaw puzzle'), loss: 5.304572105407715
+iter: 33, 5 -, (47, 'African chameleon, Chamaeleo chamaeleon'), loss: 7.564548015594482
+5 +
+iter: 34, 6 +, (29, 'axolotl, mud puppy, Ambystoma mexicanum'), loss: 4.89908504486084
+iter: 35, 6 -, (124, 'crayfish, crawfish, crawdad, crawdaddy'), loss: 5.68795108795166
+6 +
+iter: 36, 7 +, (611, 'jigsaw puzzle'), loss: 6.8514251708984375
+iter: 37, 7 -, (333, 'hamster'), loss: 4.444328308105469
+7 -
+iter: 38, 8 +, (29, 'axolotl, mud puppy, Ambystoma mexicanum'), loss: 5.655673027038574
+iter: 39, 8 -, (611, 'jigsaw puzzle'), loss: 7.430827617645264
+8 +
+iter: 40, 9 +, (29, 'axolotl, mud puppy, Ambystoma mexicanum'), loss: 1.8660166263580322
+iter: 41, 9 -, (611, 'jigsaw puzzle'), loss: 7.490860462188721
+9 +
+iter: 42, 0 +, (124, 'crayfish, crawfish, crawdad, crawdaddy'), loss: 2.419543504714966
+iter: 43, 0 -, (124, 'crayfish, crawfish, crawdad, crawdaddy'), loss: 2.8904988765716553
+0 +
+iter: 44, 1 +, (39, 'common iguana, iguana, Iguana iguana'), loss: 2.7863292694091797
+iter: 45, 1 -, (611, 'jigsaw puzzle'), loss: 5.243418216705322
+1 +
+iter: 46, 2 +, (124, 'crayfish, crawfish, crawdad, crawdaddy'), loss: 2.609447479248047
+iter: 47, 2 -, (611, 'jigsaw puzzle'), loss: 4.242112159729004
+2 +
+iter: 48, 3 +, (611, 'jigsaw puzzle'), loss: 4.492351531982422
+iter: 49, 3 -, (103, 'platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus'), loss: 5.411500930786133
+3 +
+iter: 50, 4 +, (611, 'jigsaw puzzle'), loss: 6.639438152313232
+iter: 51, 4 -, (29, 'axolotl, mud puppy, Ambystoma mexicanum'), loss: 3.069181442260742
+4 -
+im_idx: 50
+targeted. total_success: 49; success_rate: 0.9607843137254902, avg queries: 2.5714285714285716
+untargeted. total_success: 51; success_rate: 1.0, avg queries: 1.0196078431372548
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2, 3, 2, 1, 3, 11, 1, 1, 2, 2, 3, 2, 1, 1, 4, 1, 1, 3, 5]
+avg queries: 2.5714285714285716
+(637, 'mailbox, letter box'), loss: 2.888974905014038
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+iter: 2, 0 +, (347, 'bison'), loss: -2.8494863510131836
+success
+im_idx: 51
+targeted. total_success: 50; success_rate: 0.9615384615384616, avg queries: 2.56
+untargeted. total_success: 52; success_rate: 1.0, avg queries: 1.0192307692307692
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2, 3, 2, 1, 3, 11, 1, 1, 2, 2, 3, 2, 1, 1, 4, 1, 1, 3, 5, 2]
+avg queries: 2.56
+(51, 'triceratops'), loss: -5.785479545593262
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+success
+im_idx: 52
+targeted. total_success: 51; success_rate: 0.9622641509433962, avg queries: 2.5294117647058822
+untargeted. total_success: 53; success_rate: 1.0, avg queries: 1.0188679245283019
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2, 3, 2, 1, 3, 11, 1, 1, 2, 2, 3, 2, 1, 1, 4, 1, 1, 3, 5, 2, 1]
+avg queries: 2.5294117647058822
+(334, 'porcupine, hedgehog'), loss: -8.995344161987305
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+success
+im_idx: 53
+targeted. total_success: 52; success_rate: 0.9629629629629629, avg queries: 2.5
+untargeted. total_success: 54; success_rate: 1.0, avg queries: 1.0185185185185186
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2, 3, 2, 1, 3, 11, 1, 1, 2, 2, 3, 2, 1, 1, 4, 1, 1, 3, 5, 2, 1, 1]
+avg queries: 2.5
+(794, 'shower curtain'), loss: -0.44171905517578125
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+success
+im_idx: 54
+targeted. total_success: 53; success_rate: 0.9636363636363636, avg queries: 2.4716981132075473
+untargeted. total_success: 55; success_rate: 1.0, avg queries: 1.018181818181818
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2, 3, 2, 1, 3, 11, 1, 1, 2, 2, 3, 2, 1, 1, 4, 1, 1, 3, 5, 2, 1, 1, 1]
+avg queries: 2.4716981132075473
+(611, 'jigsaw puzzle'), loss: 1.6745824813842773
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+iter: 2, 0 +, (680, 'nipple'), loss: -0.48230981826782227
+success
+im_idx: 55
+targeted. total_success: 54; success_rate: 0.9642857142857143, avg queries: 2.462962962962963
+untargeted. total_success: 56; success_rate: 1.0, avg queries: 1.0178571428571428
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2, 3, 2, 1, 3, 11, 1, 1, 2, 2, 3, 2, 1, 1, 4, 1, 1, 3, 5, 2, 1, 1, 1, 2]
+avg queries: 2.462962962962963
+(983, 'scuba diver'), loss: 0.6165618896484375
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+iter: 2, 0 +, (855, 'thimble'), loss: 3.2766151428222656
+iter: 3, 0 -, (117, 'chambered nautilus, pearly nautilus, nautilus'), loss: -1.0492277145385742
+success
+im_idx: 56
+targeted. total_success: 55; success_rate: 0.9649122807017544, avg queries: 2.4727272727272727
+untargeted. total_success: 57; success_rate: 1.0, avg queries: 1.0175438596491229
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2, 3, 2, 1, 3, 11, 1, 1, 2, 2, 3, 2, 1, 1, 4, 1, 1, 3, 5, 2, 1, 1, 1, 2, 3]
+avg queries: 2.4727272727272727
+(344, 'hippopotamus, hippo, river horse, Hippopotamus amphibius'), loss: 4.778533458709717
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+iter: 2, 0 +, (344, 'hippopotamus, hippo, river horse, Hippopotamus amphibius'), loss: 4.177268028259277
+iter: 3, 0 -, (344, 'hippopotamus, hippo, river horse, Hippopotamus amphibius'), loss: 3.4303016662597656
+0 -
+iter: 4, 1 +, (344, 'hippopotamus, hippo, river horse, Hippopotamus amphibius'), loss: 4.388594627380371
+iter: 5, 1 -, (344, 'hippopotamus, hippo, river horse, Hippopotamus amphibius'), loss: 4.264898300170898
+1 -
+iter: 6, 2 +, (344, 'hippopotamus, hippo, river horse, Hippopotamus amphibius'), loss: 3.9573593139648438
+iter: 7, 2 -, (344, 'hippopotamus, hippo, river horse, Hippopotamus amphibius'), loss: 5.0256733894348145
+2 +
+iter: 8, 3 +, (286, 'cougar, puma, catamount, mountain lion, painter, panther, Felis concolor'), loss: 2.5528945922851562
+iter: 9, 3 -, (341, 'hog, pig, grunter, squealer, Sus scrofa'), loss: 3.282440185546875
+3 +
+iter: 10, 4 +, (209, 'Chesapeake Bay retriever'), loss: -0.28749561309814453
+success
+im_idx: 57
+targeted. total_success: 56; success_rate: 0.9655172413793104, avg queries: 2.607142857142857
+untargeted. total_success: 58; success_rate: 1.0, avg queries: 1.0172413793103448
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2, 3, 2, 1, 3, 11, 1, 1, 2, 2, 3, 2, 1, 1, 4, 1, 1, 3, 5, 2, 1, 1, 1, 2, 3, 10]
+avg queries: 2.607142857142857
+(879, 'umbrella'), loss: 0.9329442977905273
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+iter: 2, 0 +, (389, 'barracouta, snoek'), loss: 0.852963924407959
+iter: 3, 0 -, (389, 'barracouta, snoek'), loss: 1.9655098915100098
+0 +
+iter: 4, 1 +, (133, 'bittern'), loss: -0.9838666915893555
+success
+im_idx: 58
+targeted. total_success: 57; success_rate: 0.9661016949152542, avg queries: 2.6315789473684212
+untargeted. total_success: 59; success_rate: 1.0, avg queries: 1.0169491525423728
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2, 3, 2, 1, 3, 11, 1, 1, 2, 2, 3, 2, 1, 1, 4, 1, 1, 3, 5, 2, 1, 1, 1, 2, 3, 10, 4]
+avg queries: 2.6315789473684212
+(318, 'lacewing, lacewing fly'), loss: 3.6282196044921875
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+iter: 2, 0 +, (107, 'jellyfish'), loss: -0.9325418472290039
+success
+im_idx: 59
+targeted. total_success: 58; success_rate: 0.9666666666666667, avg queries: 2.6206896551724137
+untargeted. total_success: 60; success_rate: 1.0, avg queries: 1.0166666666666666
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2, 3, 2, 1, 3, 11, 1, 1, 2, 2, 3, 2, 1, 1, 4, 1, 1, 3, 5, 2, 1, 1, 1, 2, 3, 10, 4, 2]
+avg queries: 2.6206896551724137
+(502, 'clog, geta, patten, sabot'), loss: -0.6492161750793457
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+success
+im_idx: 60
+targeted. total_success: 59; success_rate: 0.9672131147540983, avg queries: 2.593220338983051
+untargeted. total_success: 61; success_rate: 1.0, avg queries: 1.0163934426229508
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2, 3, 2, 1, 3, 11, 1, 1, 2, 2, 3, 2, 1, 1, 4, 1, 1, 3, 5, 2, 1, 1, 1, 2, 3, 10, 4, 2, 1]
+avg queries: 2.593220338983051
+(566, 'French horn, horn'), loss: -2.0709590911865234
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+success
+im_idx: 61
+targeted. total_success: 60; success_rate: 0.967741935483871, avg queries: 2.566666666666667
+untargeted. total_success: 62; success_rate: 1.0, avg queries: 1.0161290322580645
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2, 3, 2, 1, 3, 11, 1, 1, 2, 2, 3, 2, 1, 1, 4, 1, 1, 3, 5, 2, 1, 1, 1, 2, 3, 10, 4, 2, 1, 1]
+avg queries: 2.566666666666667
+(765, 'rocking chair, rocker'), loss: -6.018248081207275
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+success
+im_idx: 62
+targeted. total_success: 61; success_rate: 0.9682539682539683, avg queries: 2.540983606557377
+untargeted. total_success: 63; success_rate: 1.0, avg queries: 1.0158730158730158
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2, 3, 2, 1, 3, 11, 1, 1, 2, 2, 3, 2, 1, 1, 4, 1, 1, 3, 5, 2, 1, 1, 1, 2, 3, 10, 4, 2, 1, 1, 1]
+avg queries: 2.540983606557377
+(741, 'prayer rug, prayer mat'), loss: 4.273595809936523
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+iter: 2, 0 +, (741, 'prayer rug, prayer mat'), loss: 0.28013086318969727
+iter: 3, 0 -, (385, 'Indian elephant, Elephas maximus'), loss: -1.070235252380371
+success
+im_idx: 63
+targeted. total_success: 62; success_rate: 0.96875, avg queries: 2.5483870967741935
+untargeted. total_success: 64; success_rate: 1.0, avg queries: 1.015625
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2, 3, 2, 1, 3, 11, 1, 1, 2, 2, 3, 2, 1, 1, 4, 1, 1, 3, 5, 2, 1, 1, 1, 2, 3, 10, 4, 2, 1, 1, 1, 3]
+avg queries: 2.5483870967741935
+(907, 'wine bottle'), loss: 3.5138769149780273
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+iter: 2, 0 +, (485, 'CD player'), loss: -1.5793437957763672
+success
+im_idx: 64
+targeted. total_success: 63; success_rate: 0.9692307692307692, avg queries: 2.5396825396825395
+untargeted. total_success: 65; success_rate: 1.0, avg queries: 1.0153846153846153
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2, 3, 2, 1, 3, 11, 1, 1, 2, 2, 3, 2, 1, 1, 4, 1, 1, 3, 5, 2, 1, 1, 1, 2, 3, 10, 4, 2, 1, 1, 1, 3, 2]
+avg queries: 2.5396825396825395
+(816, 'spindle'), loss: 1.5915346145629883
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+iter: 2, 0 +, (784, 'screwdriver'), loss: -2.256509780883789
+success
+im_idx: 65
+targeted. total_success: 64; success_rate: 0.9696969696969697, avg queries: 2.53125
+untargeted. total_success: 66; success_rate: 1.0, avg queries: 1.0151515151515151
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2, 3, 2, 1, 3, 11, 1, 1, 2, 2, 3, 2, 1, 1, 4, 1, 1, 3, 5, 2, 1, 1, 1, 2, 3, 10, 4, 2, 1, 1, 1, 3, 2, 2]
+avg queries: 2.53125
+(832, 'stupa, tope'), loss: -0.6630587577819824
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+success
+im_idx: 66
+targeted. total_success: 65; success_rate: 0.9701492537313433, avg queries: 2.5076923076923077
+untargeted. total_success: 67; success_rate: 1.0, avg queries: 1.0149253731343284
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2, 3, 2, 1, 3, 11, 1, 1, 2, 2, 3, 2, 1, 1, 4, 1, 1, 3, 5, 2, 1, 1, 1, 2, 3, 10, 4, 2, 1, 1, 1, 3, 2, 2, 1]
+avg queries: 2.5076923076923077
+(820, 'steam locomotive'), loss: 1.9536924362182617
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+iter: 2, 0 +, (611, 'jigsaw puzzle'), loss: 0.2449474334716797
+iter: 3, 0 -, (611, 'jigsaw puzzle'), loss: 3.0818710327148438
+0 +
+iter: 4, 1 +, (611, 'jigsaw puzzle'), loss: 3.0197086334228516
+iter: 5, 1 -, (611, 'jigsaw puzzle'), loss: 6.640841484069824
+1 +
+iter: 6, 2 +, (611, 'jigsaw puzzle'), loss: 4.645052909851074
+iter: 7, 2 -, (611, 'jigsaw puzzle'), loss: 1.9625654220581055
+2 -
+iter: 8, 3 +, (611, 'jigsaw puzzle'), loss: 5.560491561889648
+iter: 9, 3 -, (611, 'jigsaw puzzle'), loss: 3.0220298767089844
+3 -
+iter: 10, 4 +, (562, 'fountain'), loss: 0.720332145690918
+iter: 11, 4 -, (554, 'fireboat'), loss: -1.160074234008789
+success
+im_idx: 67
+targeted. total_success: 66; success_rate: 0.9705882352941176, avg queries: 2.6363636363636362
+untargeted. total_success: 68; success_rate: 1.0, avg queries: 1.0147058823529411
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2, 3, 2, 1, 3, 11, 1, 1, 2, 2, 3, 2, 1, 1, 4, 1, 1, 3, 5, 2, 1, 1, 1, 2, 3, 10, 4, 2, 1, 1, 1, 3, 2, 2, 1, 11]
+avg queries: 2.6363636363636362
+(706, 'patio, terrace'), loss: 4.782371520996094
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+iter: 2, 0 +, (562, 'fountain'), loss: 5.148385047912598
+iter: 3, 0 -, (580, 'greenhouse, nursery, glasshouse'), loss: 4.272800445556641
+0 -
+iter: 4, 1 +, (580, 'greenhouse, nursery, glasshouse'), loss: 5.145845413208008
+iter: 5, 1 -, (580, 'greenhouse, nursery, glasshouse'), loss: 5.707425117492676
+1 +
+iter: 6, 2 +, (562, 'fountain'), loss: 3.7702674865722656
+iter: 7, 2 -, (580, 'greenhouse, nursery, glasshouse'), loss: 5.479964256286621
+2 +
+iter: 8, 3 +, (580, 'greenhouse, nursery, glasshouse'), loss: 4.645084381103516
+iter: 9, 3 -, (580, 'greenhouse, nursery, glasshouse'), loss: 6.403873443603516
+3 +
+iter: 10, 4 +, (955, 'jackfruit, jak, jack'), loss: 3.731605052947998
+iter: 11, 4 -, (955, 'jackfruit, jak, jack'), loss: 4.525288105010986
+4 +
+iter: 12, 5 +, (580, 'greenhouse, nursery, glasshouse'), loss: 5.110013008117676
+iter: 13, 5 -, (580, 'greenhouse, nursery, glasshouse'), loss: 7.613119125366211
+5 +
+iter: 14, 6 +, (562, 'fountain'), loss: 5.311235427856445
+iter: 15, 6 -, (580, 'greenhouse, nursery, glasshouse'), loss: 7.2748823165893555
+6 +
+iter: 16, 7 +, (562, 'fountain'), loss: 6.682175636291504
+iter: 17, 7 -, (580, 'greenhouse, nursery, glasshouse'), loss: 4.903288841247559
+7 -
+iter: 18, 8 +, (562, 'fountain'), loss: 4.147226333618164
+iter: 19, 8 -, (580, 'greenhouse, nursery, glasshouse'), loss: 1.6196651458740234
+8 -
+iter: 20, 9 +, (562, 'fountain'), loss: 4.047384738922119
+iter: 21, 9 -, (562, 'fountain'), loss: 6.10384464263916
+9 +
+iter: 22, 0 +, (580, 'greenhouse, nursery, glasshouse'), loss: 6.311898708343506
+iter: 23, 0 -, (582, 'grocery store, grocery, food market, market'), loss: 2.474858283996582
+0 -
+iter: 24, 1 +, (580, 'greenhouse, nursery, glasshouse'), loss: 7.88677978515625
+iter: 25, 1 -, (580, 'greenhouse, nursery, glasshouse'), loss: 6.119546890258789
+1 -
+iter: 26, 2 +, (580, 'greenhouse, nursery, glasshouse'), loss: 6.117933750152588
+iter: 27, 2 -, (580, 'greenhouse, nursery, glasshouse'), loss: 7.6106061935424805
+2 +
+iter: 28, 3 +, (562, 'fountain'), loss: 6.144237518310547
+iter: 29, 3 -, (580, 'greenhouse, nursery, glasshouse'), loss: 10.880852699279785
+3 +
+iter: 30, 4 +, (580, 'greenhouse, nursery, glasshouse'), loss: 5.835084438323975
+iter: 31, 4 -, (580, 'greenhouse, nursery, glasshouse'), loss: 6.497654914855957
+4 +
+iter: 32, 5 +, (580, 'greenhouse, nursery, glasshouse'), loss: 3.8736472129821777
+iter: 33, 5 -, (580, 'greenhouse, nursery, glasshouse'), loss: 7.613176345825195
+5 +
+iter: 34, 6 +, (580, 'greenhouse, nursery, glasshouse'), loss: 7.548373699188232
+iter: 35, 6 -, (580, 'greenhouse, nursery, glasshouse'), loss: 8.59996223449707
+6 +
+iter: 36, 7 +, (580, 'greenhouse, nursery, glasshouse'), loss: 6.099186897277832
+iter: 37, 7 -, (580, 'greenhouse, nursery, glasshouse'), loss: 7.951504707336426
+7 +
+iter: 38, 8 +, (580, 'greenhouse, nursery, glasshouse'), loss: 6.267660140991211
+iter: 39, 8 -, (562, 'fountain'), loss: 5.552243232727051
+8 -
+iter: 40, 9 +, (562, 'fountain'), loss: 6.562918663024902
+iter: 41, 9 -, (562, 'fountain'), loss: 5.993210315704346
+9 -
+iter: 42, 0 +, (562, 'fountain'), loss: 6.334157943725586
+iter: 43, 0 -, (580, 'greenhouse, nursery, glasshouse'), loss: 6.513643741607666
+0 +
+iter: 44, 1 +, (562, 'fountain'), loss: 5.3431501388549805
+iter: 45, 1 -, (955, 'jackfruit, jak, jack'), loss: 8.461896896362305
+1 +
+iter: 46, 2 +, (580, 'greenhouse, nursery, glasshouse'), loss: 6.194127559661865
+iter: 47, 2 -, (580, 'greenhouse, nursery, glasshouse'), loss: 6.004368305206299
+2 -
+iter: 48, 3 +, (955, 'jackfruit, jak, jack'), loss: 4.222451210021973
+iter: 49, 3 -, (580, 'greenhouse, nursery, glasshouse'), loss: 8.949995040893555
+3 +
+iter: 50, 4 +, (562, 'fountain'), loss: 5.785843372344971
+iter: 51, 4 -, (562, 'fountain'), loss: 4.814831733703613
+4 -
+im_idx: 68
+targeted. total_success: 66; success_rate: 0.9565217391304348, avg queries: 2.6363636363636362
+untargeted. total_success: 69; success_rate: 1.0, avg queries: 1.0144927536231885
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2, 3, 2, 1, 3, 11, 1, 1, 2, 2, 3, 2, 1, 1, 4, 1, 1, 3, 5, 2, 1, 1, 1, 2, 3, 10, 4, 2, 1, 1, 1, 3, 2, 2, 1, 11]
+avg queries: 2.6363636363636362
+(555, 'fire engine, fire truck'), loss: -0.4940958023071289
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+success
+im_idx: 69
+targeted. total_success: 67; success_rate: 0.9571428571428572, avg queries: 2.611940298507463
+untargeted. total_success: 70; success_rate: 1.0, avg queries: 1.0142857142857142
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2, 3, 2, 1, 3, 11, 1, 1, 2, 2, 3, 2, 1, 1, 4, 1, 1, 3, 5, 2, 1, 1, 1, 2, 3, 10, 4, 2, 1, 1, 1, 3, 2, 2, 1, 11, 1]
+avg queries: 2.611940298507463
+(71, 'scorpion'), loss: -3.4349279403686523
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+success
+im_idx: 70
+targeted. total_success: 68; success_rate: 0.9577464788732394, avg queries: 2.588235294117647
+untargeted. total_success: 71; success_rate: 1.0, avg queries: 1.0140845070422535
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2, 3, 2, 1, 3, 11, 1, 1, 2, 2, 3, 2, 1, 1, 4, 1, 1, 3, 5, 2, 1, 1, 1, 2, 3, 10, 4, 2, 1, 1, 1, 3, 2, 2, 1, 11, 1, 1]
+avg queries: 2.588235294117647
+(506, 'coil, spiral, volute, whorl, helix'), loss: -1.5165281295776367
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+success
+im_idx: 71
+targeted. total_success: 69; success_rate: 0.9583333333333334, avg queries: 2.5652173913043477
+untargeted. total_success: 72; success_rate: 1.0, avg queries: 1.0138888888888888
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2, 3, 2, 1, 3, 11, 1, 1, 2, 2, 3, 2, 1, 1, 4, 1, 1, 3, 5, 2, 1, 1, 1, 2, 3, 10, 4, 2, 1, 1, 1, 3, 2, 2, 1, 11, 1, 1, 1]
+avg queries: 2.5652173913043477
+(577, 'gong, tam-tam'), loss: 0.49646759033203125
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+iter: 2, 0 +, (422, 'barbell'), loss: -1.2157220840454102
+success
+im_idx: 72
+targeted. total_success: 70; success_rate: 0.958904109589041, avg queries: 2.557142857142857
+untargeted. total_success: 73; success_rate: 1.0, avg queries: 1.0136986301369864
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2, 3, 2, 1, 3, 11, 1, 1, 2, 2, 3, 2, 1, 1, 4, 1, 1, 3, 5, 2, 1, 1, 1, 2, 3, 10, 4, 2, 1, 1, 1, 3, 2, 2, 1, 11, 1, 1, 1, 2]
+avg queries: 2.557142857142857
+(724, 'pirate, pirate ship'), loss: -3.6928725242614746
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+success
+im_idx: 73
+targeted. total_success: 71; success_rate: 0.9594594594594594, avg queries: 2.535211267605634
+untargeted. total_success: 74; success_rate: 1.0, avg queries: 1.0135135135135136
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2, 3, 2, 1, 3, 11, 1, 1, 2, 2, 3, 2, 1, 1, 4, 1, 1, 3, 5, 2, 1, 1, 1, 2, 3, 10, 4, 2, 1, 1, 1, 3, 2, 2, 1, 11, 1, 1, 1, 2, 1]
+avg queries: 2.535211267605634
+(735, 'poncho'), loss: 10.230545043945312
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+iter: 2, 0 +, (775, 'sarong'), loss: 9.749356269836426
+iter: 3, 0 -, (775, 'sarong'), loss: 8.18335247039795
+0 -
+iter: 4, 1 +, (738, 'pot, flowerpot'), loss: 6.158377170562744
+iter: 5, 1 -, (611, 'jigsaw puzzle'), loss: 7.688534259796143
+1 +
+iter: 6, 2 +, (738, 'pot, flowerpot'), loss: 4.807792663574219
+iter: 7, 2 -, (883, 'vase'), loss: 4.0882463455200195
+2 -
+iter: 8, 3 +, (30, 'bullfrog, Rana catesbeiana'), loss: 5.8194475173950195
+iter: 9, 3 -, (30, 'bullfrog, Rana catesbeiana'), loss: 3.6230220794677734
+3 -
+iter: 10, 4 +, (30, 'bullfrog, Rana catesbeiana'), loss: 6.88304328918457
+iter: 11, 4 -, (30, 'bullfrog, Rana catesbeiana'), loss: 5.787423133850098
+4 -
+iter: 12, 5 +, (30, 'bullfrog, Rana catesbeiana'), loss: 6.057723045349121
+iter: 13, 5 -, (611, 'jigsaw puzzle'), loss: 4.873589515686035
+5 -
+iter: 14, 6 +, (611, 'jigsaw puzzle'), loss: 8.922826766967773
+iter: 15, 6 -, (611, 'jigsaw puzzle'), loss: 9.824862480163574
+6 +
+iter: 16, 7 +, (286, 'cougar, puma, catamount, mountain lion, painter, panther, Felis concolor'), loss: 9.39460277557373
+iter: 17, 7 -, (30, 'bullfrog, Rana catesbeiana'), loss: 3.698823928833008
+7 -
+iter: 18, 8 +, (611, 'jigsaw puzzle'), loss: 6.05322790145874
+iter: 19, 8 -, (30, 'bullfrog, Rana catesbeiana'), loss: 5.509835720062256
+8 -
+iter: 20, 9 +, (887, 'vestment'), loss: 7.662382125854492
+iter: 21, 9 -, (611, 'jigsaw puzzle'), loss: 9.882205963134766
+9 +
+iter: 22, 0 +, (883, 'vase'), loss: 4.0526323318481445
+iter: 23, 0 -, (738, 'pot, flowerpot'), loss: 5.939324378967285
+0 +
+iter: 24, 1 +, (883, 'vase'), loss: 4.957819938659668
+iter: 25, 1 -, (883, 'vase'), loss: 3.4582738876342773
+1 -
+iter: 26, 2 +, (30, 'bullfrog, Rana catesbeiana'), loss: 4.376542091369629
+iter: 27, 2 -, (883, 'vase'), loss: 3.2329092025756836
+2 -
+iter: 28, 3 +, (883, 'vase'), loss: 4.471072196960449
+iter: 29, 3 -, (611, 'jigsaw puzzle'), loss: 9.302115440368652
+3 +
+iter: 30, 4 +, (397, 'puffer, pufferfish, blowfish, globefish'), loss: 6.3136491775512695
+iter: 31, 4 -, (611, 'jigsaw puzzle'), loss: 8.679304122924805
+4 +
+iter: 32, 5 +, (883, 'vase'), loss: 3.2577857971191406
+iter: 33, 5 -, (30, 'bullfrog, Rana catesbeiana'), loss: 5.552911758422852
+5 +
+iter: 34, 6 +, (883, 'vase'), loss: 4.6296186447143555
+iter: 35, 6 -, (116, 'chiton, coat-of-mail shell, sea cradle, polyplacophore'), loss: 5.961597919464111
+6 +
+iter: 36, 7 +, (883, 'vase'), loss: 4.242365837097168
+iter: 37, 7 -, (883, 'vase'), loss: 3.967921733856201
+7 -
+iter: 38, 8 +, (725, 'pitcher, ewer'), loss: 1.9407482147216797
+iter: 39, 8 -, (30, 'bullfrog, Rana catesbeiana'), loss: 1.837453842163086
+8 -
+iter: 40, 9 +, (611, 'jigsaw puzzle'), loss: 6.262646198272705
+iter: 41, 9 -, (883, 'vase'), loss: 3.266167640686035
+9 -
+iter: 42, 0 +, (883, 'vase'), loss: 5.155325889587402
+iter: 43, 0 -, (611, 'jigsaw puzzle'), loss: 4.468207359313965
+0 -
+iter: 44, 1 +, (883, 'vase'), loss: 4.20095157623291
+iter: 45, 1 -, (883, 'vase'), loss: 3.331554412841797
+1 -
+iter: 46, 2 +, (463, 'bucket, pail'), loss: 2.575730800628662
+iter: 47, 2 -, (448, 'birdhouse'), loss: 6.294850826263428
+2 +
+iter: 48, 3 +, (883, 'vase'), loss: 2.1237010955810547
+iter: 49, 3 -, (883, 'vase'), loss: 1.5191645622253418
+3 -
+iter: 50, 4 +, (883, 'vase'), loss: 3.575942039489746
+iter: 51, 4 -, (883, 'vase'), loss: 7.468871116638184
+4 +
+im_idx: 74
+targeted. total_success: 71; success_rate: 0.9466666666666667, avg queries: 2.535211267605634
+untargeted. total_success: 75; success_rate: 1.0, avg queries: 1.0133333333333334
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2, 3, 2, 1, 3, 11, 1, 1, 2, 2, 3, 2, 1, 1, 4, 1, 1, 3, 5, 2, 1, 1, 1, 2, 3, 10, 4, 2, 1, 1, 1, 3, 2, 2, 1, 11, 1, 1, 1, 2, 1]
+avg queries: 2.535211267605634
+(903, 'wig'), loss: -0.799048900604248
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+success
+im_idx: 75
+targeted. total_success: 72; success_rate: 0.9473684210526315, avg queries: 2.513888888888889
+untargeted. total_success: 76; success_rate: 1.0, avg queries: 1.013157894736842
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2, 3, 2, 1, 3, 11, 1, 1, 2, 2, 3, 2, 1, 1, 4, 1, 1, 3, 5, 2, 1, 1, 1, 2, 3, 10, 4, 2, 1, 1, 1, 3, 2, 2, 1, 11, 1, 1, 1, 2, 1, 1]
+avg queries: 2.513888888888889
+(741, 'prayer rug, prayer mat'), loss: 6.970522880554199
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+iter: 2, 0 +, (741, 'prayer rug, prayer mat'), loss: 6.163989543914795
+iter: 3, 0 -, (741, 'prayer rug, prayer mat'), loss: 5.6282219886779785
+0 -
+iter: 4, 1 +, (741, 'prayer rug, prayer mat'), loss: 6.921502590179443
+iter: 5, 1 -, (741, 'prayer rug, prayer mat'), loss: 5.503846168518066
+1 -
+iter: 6, 2 +, (741, 'prayer rug, prayer mat'), loss: 5.353950023651123
+iter: 7, 2 -, (741, 'prayer rug, prayer mat'), loss: 6.377474784851074
+2 +
+iter: 8, 3 +, (741, 'prayer rug, prayer mat'), loss: 12.13819408416748
+iter: 9, 3 -, (741, 'prayer rug, prayer mat'), loss: 7.897672176361084
+3 -
+iter: 10, 4 +, (741, 'prayer rug, prayer mat'), loss: 12.768791198730469
+iter: 11, 4 -, (741, 'prayer rug, prayer mat'), loss: 9.498549461364746
+4 -
+iter: 12, 5 +, (741, 'prayer rug, prayer mat'), loss: 7.76927375793457
+iter: 13, 5 -, (741, 'prayer rug, prayer mat'), loss: 10.736416816711426
+5 +
+iter: 14, 6 +, (741, 'prayer rug, prayer mat'), loss: 11.715631484985352
+iter: 15, 6 -, (741, 'prayer rug, prayer mat'), loss: 7.956334114074707
+6 -
+iter: 16, 7 +, (741, 'prayer rug, prayer mat'), loss: 5.265554904937744
+iter: 17, 7 -, (741, 'prayer rug, prayer mat'), loss: 8.509085655212402
+7 +
+iter: 18, 8 +, (741, 'prayer rug, prayer mat'), loss: 8.193684577941895
+iter: 19, 8 -, (741, 'prayer rug, prayer mat'), loss: 9.356400489807129
+8 +
+iter: 20, 9 +, (741, 'prayer rug, prayer mat'), loss: 8.57950210571289
+iter: 21, 9 -, (741, 'prayer rug, prayer mat'), loss: 7.422181129455566
+9 -
+iter: 22, 0 +, (741, 'prayer rug, prayer mat'), loss: 9.926041603088379
+iter: 23, 0 -, (741, 'prayer rug, prayer mat'), loss: 7.964777946472168
+0 -
+iter: 24, 1 +, (741, 'prayer rug, prayer mat'), loss: 7.8515095710754395
+iter: 25, 1 -, (741, 'prayer rug, prayer mat'), loss: 7.476698875427246
+1 -
+iter: 26, 2 +, (921, 'book jacket, dust cover, dust jacket, dust wrapper'), loss: 4.470325469970703
+iter: 27, 2 -, (741, 'prayer rug, prayer mat'), loss: 8.34469223022461
+2 +
+iter: 28, 3 +, (741, 'prayer rug, prayer mat'), loss: 10.152486801147461
+iter: 29, 3 -, (741, 'prayer rug, prayer mat'), loss: 8.508387565612793
+3 -
+iter: 30, 4 +, (741, 'prayer rug, prayer mat'), loss: 5.201226711273193
+iter: 31, 4 -, (741, 'prayer rug, prayer mat'), loss: 5.154323101043701
+4 -
+iter: 32, 5 +, (741, 'prayer rug, prayer mat'), loss: 8.050292015075684
+iter: 33, 5 -, (741, 'prayer rug, prayer mat'), loss: 7.426844596862793
+5 -
+iter: 34, 6 +, (741, 'prayer rug, prayer mat'), loss: 8.579501152038574
+iter: 35, 6 -, (741, 'prayer rug, prayer mat'), loss: 9.663586616516113
+6 +
+iter: 36, 7 +, (741, 'prayer rug, prayer mat'), loss: 5.4347004890441895
+iter: 37, 7 -, (741, 'prayer rug, prayer mat'), loss: 7.819441795349121
+7 +
+iter: 38, 8 +, (741, 'prayer rug, prayer mat'), loss: 8.538684844970703
+iter: 39, 8 -, (741, 'prayer rug, prayer mat'), loss: 11.35433578491211
+8 +
+iter: 40, 9 +, (741, 'prayer rug, prayer mat'), loss: 6.839585781097412
+iter: 41, 9 -, (741, 'prayer rug, prayer mat'), loss: 9.073883056640625
+9 +
+iter: 42, 0 +, (741, 'prayer rug, prayer mat'), loss: 4.329950332641602
+iter: 43, 0 -, (741, 'prayer rug, prayer mat'), loss: 8.254850387573242
+0 +
+iter: 44, 1 +, (741, 'prayer rug, prayer mat'), loss: 8.967833518981934
+iter: 45, 1 -, (741, 'prayer rug, prayer mat'), loss: 8.522477149963379
+1 -
+iter: 46, 2 +, (741, 'prayer rug, prayer mat'), loss: 7.674805641174316
+iter: 47, 2 -, (741, 'prayer rug, prayer mat'), loss: 8.518213272094727
+2 +
+iter: 48, 3 +, (741, 'prayer rug, prayer mat'), loss: 4.9737725257873535
+iter: 49, 3 -, (741, 'prayer rug, prayer mat'), loss: 10.730594635009766
+3 +
+iter: 50, 4 +, (741, 'prayer rug, prayer mat'), loss: 7.022669792175293
+iter: 51, 4 -, (741, 'prayer rug, prayer mat'), loss: 11.097152709960938
+4 +
+im_idx: 76
+targeted. total_success: 72; success_rate: 0.935064935064935, avg queries: 2.513888888888889
+untargeted. total_success: 77; success_rate: 1.0, avg queries: 1.0129870129870129
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2, 3, 2, 1, 3, 11, 1, 1, 2, 2, 3, 2, 1, 1, 4, 1, 1, 3, 5, 2, 1, 1, 1, 2, 3, 10, 4, 2, 1, 1, 1, 3, 2, 2, 1, 11, 1, 1, 1, 2, 1, 1]
+avg queries: 2.513888888888889
+(471, 'cannon'), loss: 0.46033191680908203
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+iter: 2, 0 +, (764, 'rifle'), loss: -1.483978271484375
+success
+im_idx: 77
+targeted. total_success: 73; success_rate: 0.9358974358974359, avg queries: 2.506849315068493
+untargeted. total_success: 78; success_rate: 1.0, avg queries: 1.0128205128205128
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2, 3, 2, 1, 3, 11, 1, 1, 2, 2, 3, 2, 1, 1, 4, 1, 1, 3, 5, 2, 1, 1, 1, 2, 3, 10, 4, 2, 1, 1, 1, 3, 2, 2, 1, 11, 1, 1, 1, 2, 1, 1, 2]
+avg queries: 2.506849315068493
+(849, 'teapot'), loss: 0.42881107330322266
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+iter: 2, 0 +, (377, 'marmoset'), loss: 3.48751163482666
+iter: 3, 0 -, (43, 'frilled lizard, Chlamydosaurus kingi'), loss: 1.8647782802581787
+0 -
+iter: 4, 1 +, (221, 'Irish water spaniel'), loss: 1.1335086822509766
+iter: 5, 1 -, (221, 'Irish water spaniel'), loss: 0.12468719482421875
+1 -
+iter: 6, 2 +, (504, 'coffee mug'), loss: -0.7887687683105469
+success
+im_idx: 78
+targeted. total_success: 74; success_rate: 0.9367088607594937, avg queries: 2.554054054054054
+untargeted. total_success: 79; success_rate: 1.0, avg queries: 1.0126582278481013
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2, 3, 2, 1, 3, 11, 1, 1, 2, 2, 3, 2, 1, 1, 4, 1, 1, 3, 5, 2, 1, 1, 1, 2, 3, 10, 4, 2, 1, 1, 1, 3, 2, 2, 1, 11, 1, 1, 1, 2, 1, 1, 2, 6]
+avg queries: 2.554054054054054
+(360, 'otter'), loss: -3.084573745727539
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+success
+im_idx: 79
+targeted. total_success: 75; success_rate: 0.9375, avg queries: 2.533333333333333
+untargeted. total_success: 80; success_rate: 1.0, avg queries: 1.0125
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2, 3, 2, 1, 3, 11, 1, 1, 2, 2, 3, 2, 1, 1, 4, 1, 1, 3, 5, 2, 1, 1, 1, 2, 3, 10, 4, 2, 1, 1, 1, 3, 2, 2, 1, 11, 1, 1, 1, 2, 1, 1, 2, 6, 1]
+avg queries: 2.533333333333333
+(354, 'Arabian camel, dromedary, Camelus dromedarius'), loss: 1.1132168769836426
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+iter: 2, 0 +, (167, 'English foxhound'), loss: -0.8117942810058594
+success
+im_idx: 80
+targeted. total_success: 76; success_rate: 0.9382716049382716, avg queries: 2.526315789473684
+untargeted. total_success: 81; success_rate: 1.0, avg queries: 1.0123456790123457
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2, 3, 2, 1, 3, 11, 1, 1, 2, 2, 3, 2, 1, 1, 4, 1, 1, 3, 5, 2, 1, 1, 1, 2, 3, 10, 4, 2, 1, 1, 1, 3, 2, 2, 1, 11, 1, 1, 1, 2, 1, 1, 2, 6, 1, 2]
+avg queries: 2.526315789473684
+(385, 'Indian elephant, Elephas maximus'), loss: -1.722524642944336
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+success
+im_idx: 81
+targeted. total_success: 77; success_rate: 0.9390243902439024, avg queries: 2.5064935064935066
+untargeted. total_success: 82; success_rate: 1.0, avg queries: 1.0121951219512195
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2, 3, 2, 1, 3, 11, 1, 1, 2, 2, 3, 2, 1, 1, 4, 1, 1, 3, 5, 2, 1, 1, 1, 2, 3, 10, 4, 2, 1, 1, 1, 3, 2, 2, 1, 11, 1, 1, 1, 2, 1, 1, 2, 6, 1, 2, 1]
+avg queries: 2.5064935064935066
+(491, 'chain saw, chainsaw'), loss: -7.556614875793457
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+success
+im_idx: 82
+targeted. total_success: 78; success_rate: 0.9397590361445783, avg queries: 2.4871794871794872
+untargeted. total_success: 83; success_rate: 1.0, avg queries: 1.0120481927710843
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2, 3, 2, 1, 3, 11, 1, 1, 2, 2, 3, 2, 1, 1, 4, 1, 1, 3, 5, 2, 1, 1, 1, 2, 3, 10, 4, 2, 1, 1, 1, 3, 2, 2, 1, 11, 1, 1, 1, 2, 1, 1, 2, 6, 1, 2, 1, 1]
+avg queries: 2.4871794871794872
+(891, 'waffle iron'), loss: -4.312482833862305
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+success
+im_idx: 83
+targeted. total_success: 79; success_rate: 0.9404761904761905, avg queries: 2.4683544303797467
+untargeted. total_success: 84; success_rate: 1.0, avg queries: 1.0119047619047619
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2, 3, 2, 1, 3, 11, 1, 1, 2, 2, 3, 2, 1, 1, 4, 1, 1, 3, 5, 2, 1, 1, 1, 2, 3, 10, 4, 2, 1, 1, 1, 3, 2, 2, 1, 11, 1, 1, 1, 2, 1, 1, 2, 6, 1, 2, 1, 1, 1]
+avg queries: 2.4683544303797467
+(125, 'hermit crab'), loss: 1.1741695404052734
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+iter: 2, 0 +, (570, 'gasmask, respirator, gas helmet'), loss: -0.1945028305053711
+success
+im_idx: 84
+targeted. total_success: 80; success_rate: 0.9411764705882353, avg queries: 2.4625
+untargeted. total_success: 85; success_rate: 1.0, avg queries: 1.011764705882353
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2, 3, 2, 1, 3, 11, 1, 1, 2, 2, 3, 2, 1, 1, 4, 1, 1, 3, 5, 2, 1, 1, 1, 2, 3, 10, 4, 2, 1, 1, 1, 3, 2, 2, 1, 11, 1, 1, 1, 2, 1, 1, 2, 6, 1, 2, 1, 1, 1, 2]
+avg queries: 2.4625
+(801, 'snorkel'), loss: -3.386305332183838
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+success
+im_idx: 85
+targeted. total_success: 81; success_rate: 0.9418604651162791, avg queries: 2.4444444444444446
+untargeted. total_success: 86; success_rate: 1.0, avg queries: 1.0116279069767442
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2, 3, 2, 1, 3, 11, 1, 1, 2, 2, 3, 2, 1, 1, 4, 1, 1, 3, 5, 2, 1, 1, 1, 2, 3, 10, 4, 2, 1, 1, 1, 3, 2, 2, 1, 11, 1, 1, 1, 2, 1, 1, 2, 6, 1, 2, 1, 1, 1, 2, 1]
+avg queries: 2.4444444444444446
+(706, 'patio, terrace'), loss: 3.719745635986328
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+iter: 2, 0 +, (574, 'golf ball'), loss: -1.933110237121582
+success
+im_idx: 86
+targeted. total_success: 82; success_rate: 0.9425287356321839, avg queries: 2.4390243902439024
+untargeted. total_success: 87; success_rate: 1.0, avg queries: 1.0114942528735633
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2, 3, 2, 1, 3, 11, 1, 1, 2, 2, 3, 2, 1, 1, 4, 1, 1, 3, 5, 2, 1, 1, 1, 2, 3, 10, 4, 2, 1, 1, 1, 3, 2, 2, 1, 11, 1, 1, 1, 2, 1, 1, 2, 6, 1, 2, 1, 1, 1, 2, 1, 2]
+avg queries: 2.4390243902439024
+(716, 'picket fence, paling'), loss: -0.9968934059143066
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+success
+im_idx: 87
+targeted. total_success: 83; success_rate: 0.9431818181818182, avg queries: 2.4216867469879517
+untargeted. total_success: 88; success_rate: 1.0, avg queries: 1.0113636363636365
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2, 3, 2, 1, 3, 11, 1, 1, 2, 2, 3, 2, 1, 1, 4, 1, 1, 3, 5, 2, 1, 1, 1, 2, 3, 10, 4, 2, 1, 1, 1, 3, 2, 2, 1, 11, 1, 1, 1, 2, 1, 1, 2, 6, 1, 2, 1, 1, 1, 2, 1, 2, 1]
+avg queries: 2.4216867469879517
+(76, 'tarantula'), loss: -0.20923089981079102
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+success
+im_idx: 88
+targeted. total_success: 84; success_rate: 0.9438202247191011, avg queries: 2.4047619047619047
+untargeted. total_success: 89; success_rate: 1.0, avg queries: 1.0112359550561798
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2, 3, 2, 1, 3, 11, 1, 1, 2, 2, 3, 2, 1, 1, 4, 1, 1, 3, 5, 2, 1, 1, 1, 2, 3, 10, 4, 2, 1, 1, 1, 3, 2, 2, 1, 11, 1, 1, 1, 2, 1, 1, 2, 6, 1, 2, 1, 1, 1, 2, 1, 2, 1, 1]
+avg queries: 2.4047619047619047
+(905, 'window shade'), loss: 2.5506882667541504
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+iter: 2, 0 +, (910, 'wooden spoon'), loss: 0.06714916229248047
+iter: 3, 0 -, (584, 'hair slide'), loss: 0.857421875
+0 +
+iter: 4, 1 +, (641, 'maraca'), loss: -1.5251054763793945
+success
+im_idx: 89
+targeted. total_success: 85; success_rate: 0.9444444444444444, avg queries: 2.4235294117647057
+untargeted. total_success: 90; success_rate: 1.0, avg queries: 1.011111111111111
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2, 3, 2, 1, 3, 11, 1, 1, 2, 2, 3, 2, 1, 1, 4, 1, 1, 3, 5, 2, 1, 1, 1, 2, 3, 10, 4, 2, 1, 1, 1, 3, 2, 2, 1, 11, 1, 1, 1, 2, 1, 1, 2, 6, 1, 2, 1, 1, 1, 2, 1, 2, 1, 1, 4]
+avg queries: 2.4235294117647057
+(434, 'bath towel'), loss: -2.6385879516601562
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+success
+im_idx: 90
+targeted. total_success: 86; success_rate: 0.945054945054945, avg queries: 2.4069767441860463
+untargeted. total_success: 91; success_rate: 1.0, avg queries: 1.010989010989011
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2, 3, 2, 1, 3, 11, 1, 1, 2, 2, 3, 2, 1, 1, 4, 1, 1, 3, 5, 2, 1, 1, 1, 2, 3, 10, 4, 2, 1, 1, 1, 3, 2, 2, 1, 11, 1, 1, 1, 2, 1, 1, 2, 6, 1, 2, 1, 1, 1, 2, 1, 2, 1, 1, 4, 1]
+avg queries: 2.4069767441860463
+(377, 'marmoset'), loss: -0.7704758644104004
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+success
+im_idx: 91
+targeted. total_success: 87; success_rate: 0.9456521739130435, avg queries: 2.3908045977011496
+untargeted. total_success: 92; success_rate: 1.0, avg queries: 1.0108695652173914
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2, 3, 2, 1, 3, 11, 1, 1, 2, 2, 3, 2, 1, 1, 4, 1, 1, 3, 5, 2, 1, 1, 1, 2, 3, 10, 4, 2, 1, 1, 1, 3, 2, 2, 1, 11, 1, 1, 1, 2, 1, 1, 2, 6, 1, 2, 1, 1, 1, 2, 1, 2, 1, 1, 4, 1, 1]
+avg queries: 2.3908045977011496
+(786, 'sewing machine'), loss: 0.3794269561767578
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+iter: 2, 0 +, (758, 'reel'), loss: -1.159132480621338
+success
+im_idx: 92
+targeted. total_success: 88; success_rate: 0.946236559139785, avg queries: 2.3863636363636362
+untargeted. total_success: 93; success_rate: 1.0, avg queries: 1.010752688172043
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2, 3, 2, 1, 3, 11, 1, 1, 2, 2, 3, 2, 1, 1, 4, 1, 1, 3, 5, 2, 1, 1, 1, 2, 3, 10, 4, 2, 1, 1, 1, 3, 2, 2, 1, 11, 1, 1, 1, 2, 1, 1, 2, 6, 1, 2, 1, 1, 1, 2, 1, 2, 1, 1, 4, 1, 1, 2]
+avg queries: 2.3863636363636362
+(448, 'birdhouse'), loss: 4.4026031494140625
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+iter: 2, 0 +, (669, 'mosquito net'), loss: 4.083917617797852
+iter: 3, 0 -, (669, 'mosquito net'), loss: 4.123724937438965
+0 +
+iter: 4, 1 +, (319, "dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk"), loss: 1.2376971244812012
+iter: 5, 1 -, (303, 'long-horned beetle, longicorn, longicorn beetle'), loss: 1.7514886856079102
+1 +
+iter: 6, 2 +, (669, 'mosquito net'), loss: 5.6200666427612305
+iter: 7, 2 -, (318, 'lacewing, lacewing fly'), loss: 2.2395777702331543
+2 -
+iter: 8, 3 +, (319, "dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk"), loss: 1.7284364700317383
+iter: 9, 3 -, (314, 'cockroach, roach'), loss: 3.2250311374664307
+3 +
+iter: 10, 4 +, (72, 'black and gold garden spider, Argiope aurantia'), loss: -0.16768884658813477
+success
+im_idx: 93
+targeted. total_success: 89; success_rate: 0.9468085106382979, avg queries: 2.4719101123595504
+untargeted. total_success: 94; success_rate: 1.0, avg queries: 1.0106382978723405
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2, 3, 2, 1, 3, 11, 1, 1, 2, 2, 3, 2, 1, 1, 4, 1, 1, 3, 5, 2, 1, 1, 1, 2, 3, 10, 4, 2, 1, 1, 1, 3, 2, 2, 1, 11, 1, 1, 1, 2, 1, 1, 2, 6, 1, 2, 1, 1, 1, 2, 1, 2, 1, 1, 4, 1, 1, 2, 10]
+avg queries: 2.4719101123595504
+(921, 'book jacket, dust cover, dust jacket, dust wrapper'), loss: 8.219949722290039
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+iter: 2, 0 +, (569, 'garbage truck, dustcart'), loss: 1.149867057800293
+iter: 3, 0 -, (921, 'book jacket, dust cover, dust jacket, dust wrapper'), loss: 6.7454833984375
+0 +
+iter: 4, 1 +, (921, 'book jacket, dust cover, dust jacket, dust wrapper'), loss: 5.770312786102295
+iter: 5, 1 -, (921, 'book jacket, dust cover, dust jacket, dust wrapper'), loss: 2.387360095977783
+1 -
+iter: 6, 2 +, (565, 'freight car'), loss: 0.7190823554992676
+iter: 7, 2 -, (917, 'comic book'), loss: 1.519132137298584
+2 +
+iter: 8, 3 +, (921, 'book jacket, dust cover, dust jacket, dust wrapper'), loss: 1.4692611694335938
+iter: 9, 3 -, (921, 'book jacket, dust cover, dust jacket, dust wrapper'), loss: 2.25331449508667
+3 +
+iter: 10, 4 +, (565, 'freight car'), loss: 1.7198209762573242
+iter: 11, 4 -, (917, 'comic book'), loss: 2.5969910621643066
+4 +
+iter: 12, 5 +, (917, 'comic book'), loss: 3.3898067474365234
+iter: 13, 5 -, (917, 'comic book'), loss: 3.312244415283203
+5 -
+iter: 14, 6 +, (675, 'moving van'), loss: -0.5124588012695312
+success
+im_idx: 94
+targeted. total_success: 90; success_rate: 0.9473684210526315, avg queries: 2.6
+untargeted. total_success: 95; success_rate: 1.0, avg queries: 1.0105263157894737
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2, 3, 2, 1, 3, 11, 1, 1, 2, 2, 3, 2, 1, 1, 4, 1, 1, 3, 5, 2, 1, 1, 1, 2, 3, 10, 4, 2, 1, 1, 1, 3, 2, 2, 1, 11, 1, 1, 1, 2, 1, 1, 2, 6, 1, 2, 1, 1, 1, 2, 1, 2, 1, 1, 4, 1, 1, 2, 10, 14]
+avg queries: 2.6
+(414, 'backpack, back pack, knapsack, packsack, rucksack, haversack'), loss: 2.6359498500823975
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+iter: 2, 0 +, (517, 'crane'), loss: 0.2874774932861328
+iter: 3, 0 -, (517, 'crane'), loss: 0.7838220596313477
+0 +
+iter: 4, 1 +, (829, 'streetcar, tram, tramcar, trolley, trolley car'), loss: -2.7161331176757812
+success
+im_idx: 95
+targeted. total_success: 91; success_rate: 0.9479166666666666, avg queries: 2.6153846153846154
+untargeted. total_success: 96; success_rate: 1.0, avg queries: 1.0104166666666667
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2, 3, 2, 1, 3, 11, 1, 1, 2, 2, 3, 2, 1, 1, 4, 1, 1, 3, 5, 2, 1, 1, 1, 2, 3, 10, 4, 2, 1, 1, 1, 3, 2, 2, 1, 11, 1, 1, 1, 2, 1, 1, 2, 6, 1, 2, 1, 1, 1, 2, 1, 2, 1, 1, 4, 1, 1, 2, 10, 14, 4]
+avg queries: 2.6153846153846154
+(464, 'buckle'), loss: -4.305394172668457
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+success
+im_idx: 96
+targeted. total_success: 92; success_rate: 0.9484536082474226, avg queries: 2.597826086956522
+untargeted. total_success: 97; success_rate: 1.0, avg queries: 1.0103092783505154
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2, 3, 2, 1, 3, 11, 1, 1, 2, 2, 3, 2, 1, 1, 4, 1, 1, 3, 5, 2, 1, 1, 1, 2, 3, 10, 4, 2, 1, 1, 1, 3, 2, 2, 1, 11, 1, 1, 1, 2, 1, 1, 2, 6, 1, 2, 1, 1, 1, 2, 1, 2, 1, 1, 4, 1, 1, 2, 10, 14, 4, 1]
+avg queries: 2.597826086956522
+(491, 'chain saw, chainsaw'), loss: 0.7640714645385742
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+iter: 2, 0 +, (26, 'common newt, Triturus vulgaris'), loss: -0.7437982559204102
+success
+im_idx: 97
+targeted. total_success: 93; success_rate: 0.9489795918367347, avg queries: 2.5913978494623655
+untargeted. total_success: 98; success_rate: 1.0, avg queries: 1.010204081632653
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2, 3, 2, 1, 3, 11, 1, 1, 2, 2, 3, 2, 1, 1, 4, 1, 1, 3, 5, 2, 1, 1, 1, 2, 3, 10, 4, 2, 1, 1, 1, 3, 2, 2, 1, 11, 1, 1, 1, 2, 1, 1, 2, 6, 1, 2, 1, 1, 1, 2, 1, 2, 1, 1, 4, 1, 1, 2, 10, 14, 4, 1, 2]
+avg queries: 2.5913978494623655
+(990, 'buckeye, horse chestnut, conker'), loss: -2.9828977584838867
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+success
+im_idx: 98
+targeted. total_success: 94; success_rate: 0.9494949494949495, avg queries: 2.574468085106383
+untargeted. total_success: 99; success_rate: 1.0, avg queries: 1.0101010101010102
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2, 3, 2, 1, 3, 11, 1, 1, 2, 2, 3, 2, 1, 1, 4, 1, 1, 3, 5, 2, 1, 1, 1, 2, 3, 10, 4, 2, 1, 1, 1, 3, 2, 2, 1, 11, 1, 1, 1, 2, 1, 1, 2, 6, 1, 2, 1, 1, 1, 2, 1, 2, 1, 1, 4, 1, 1, 2, 10, 14, 4, 1, 2, 1]
+avg queries: 2.574468085106383
+(691, 'oxygen mask'), loss: 2.2804431915283203
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+iter: 2, 0 +, (611, 'jigsaw puzzle'), loss: 3.7632110118865967
+iter: 3, 0 -, (611, 'jigsaw puzzle'), loss: 8.308379173278809
+0 +
+iter: 4, 1 +, (396, 'lionfish'), loss: 6.716806888580322
+iter: 5, 1 -, (611, 'jigsaw puzzle'), loss: 6.796341896057129
+1 +
+iter: 6, 2 +, (611, 'jigsaw puzzle'), loss: 7.734987735748291
+iter: 7, 2 -, (611, 'jigsaw puzzle'), loss: 7.214161396026611
+2 -
+iter: 8, 3 +, (611, 'jigsaw puzzle'), loss: 5.852885723114014
+iter: 9, 3 -, (71, 'scorpion'), loss: 7.813071250915527
+3 +
+iter: 10, 4 +, (611, 'jigsaw puzzle'), loss: 5.429426193237305
+iter: 11, 4 -, (611, 'jigsaw puzzle'), loss: 4.490316867828369
+4 -
+iter: 12, 5 +, (611, 'jigsaw puzzle'), loss: 7.741874694824219
+iter: 13, 5 -, (611, 'jigsaw puzzle'), loss: 2.6659765243530273
+5 -
+iter: 14, 6 +, (611, 'jigsaw puzzle'), loss: 3.5994391441345215
+iter: 15, 6 -, (611, 'jigsaw puzzle'), loss: 8.496092796325684
+6 +
+iter: 16, 7 +, (611, 'jigsaw puzzle'), loss: 7.512315273284912
+iter: 17, 7 -, (837, 'sunglasses, dark glasses, shades'), loss: 0.8612351417541504
+7 -
+iter: 18, 8 +, (611, 'jigsaw puzzle'), loss: 5.288829803466797
+iter: 19, 8 -, (397, 'puffer, pufferfish, blowfish, globefish'), loss: 4.2338547706604
+8 -
+iter: 20, 9 +, (837, 'sunglasses, dark glasses, shades'), loss: 0.9386849403381348
+iter: 21, 9 -, (611, 'jigsaw puzzle'), loss: 7.417548656463623
+9 +
+iter: 22, 0 +, (611, 'jigsaw puzzle'), loss: 2.8521170616149902
+iter: 23, 0 -, (611, 'jigsaw puzzle'), loss: 3.940126419067383
+0 +
+iter: 24, 1 +, (599, 'honeycomb'), loss: 1.9035382270812988
+iter: 25, 1 -, (611, 'jigsaw puzzle'), loss: 4.35164737701416
+1 +
+iter: 26, 2 +, (611, 'jigsaw puzzle'), loss: 5.786011695861816
+iter: 27, 2 -, (611, 'jigsaw puzzle'), loss: 3.579890251159668
+2 -
+iter: 28, 3 +, (396, 'lionfish'), loss: 6.699038505554199
+iter: 29, 3 -, (611, 'jigsaw puzzle'), loss: 4.385936260223389
+3 -
+iter: 30, 4 +, (917, 'comic book'), loss: 0.9892830848693848
+iter: 31, 4 -, (396, 'lionfish'), loss: 8.833587646484375
+4 +
+iter: 32, 5 +, (611, 'jigsaw puzzle'), loss: 1.7688970565795898
+iter: 33, 5 -, (611, 'jigsaw puzzle'), loss: 6.366824150085449
+5 +
+iter: 34, 6 +, (392, 'rock beauty, Holocanthus tricolor'), loss: 0.35530567169189453
+iter: 35, 6 -, (917, 'comic book'), loss: 1.1082568168640137
+6 +
+iter: 36, 7 +, (611, 'jigsaw puzzle'), loss: 7.265613555908203
+iter: 37, 7 -, (611, 'jigsaw puzzle'), loss: 6.3912577629089355
+7 -
+iter: 38, 8 +, (611, 'jigsaw puzzle'), loss: 0.8634185791015625
+iter: 39, 8 -, (611, 'jigsaw puzzle'), loss: 6.9644036293029785
+8 +
+iter: 40, 9 +, (611, 'jigsaw puzzle'), loss: 2.9159369468688965
+iter: 41, 9 -, (611, 'jigsaw puzzle'), loss: 4.966263771057129
+9 +
+iter: 42, 0 +, (837, 'sunglasses, dark glasses, shades'), loss: 0.2249126434326172
+iter: 43, 0 -, (611, 'jigsaw puzzle'), loss: 1.3490700721740723
+0 +
+iter: 44, 1 +, (836, 'sunglass'), loss: -0.14473295211791992
+success
+im_idx: 99
+targeted. total_success: 95; success_rate: 0.95, avg queries: 3.0105263157894737
+untargeted. total_success: 100; success_rate: 1.0, avg queries: 1.01
+query_list: [2, 10, 3, 2, 1, 1, 1, 1, 11, 2, 1, 4, 1, 2, 1, 1, 1, 1, 3, 1, 1, 1, 1, 2, 2, 5, 4, 1, 9, 1, 2, 3, 2, 1, 3, 11, 1, 1, 2, 2, 3, 2, 1, 1, 4, 1, 1, 3, 5, 2, 1, 1, 1, 2, 3, 10, 4, 2, 1, 1, 1, 3, 2, 2, 1, 11, 1, 1, 1, 2, 1, 1, 2, 6, 1, 2, 1, 1, 1, 2, 1, 2, 1, 1, 4, 1, 1, 2, 10, 14, 4, 1, 2, 1, 44]
+avg queries: 3.0105263157894737
