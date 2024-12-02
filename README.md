@@ -1,6 +1,6 @@
 # BASES: Blackbox Attacks via Surrogate Ensemble Search
 
-### [Paper](https://arxiv.org/abs/2208.03610) | [Code](https://github.com/CSIPlab/BASES) | [Slides](https://github.com/CSIPlab/BASES/blob/main/doc/BASES-slides.pdf)
+### [Paper](https://arxiv.org/abs/2208.03610) | [Code](https://github.com/kejsibushi20/AI-Cybersecurity/) | [Slides](https://github.com/kejsibushi20/AI-Cybersecurity/tree/master/Presentation)
 Pytorch implementation of *Blackbox Attacks via Surrogate Ensemble Search* in NeurIPS 2022.
 
 [Blackbox Attacks via Surrogate Ensemble Search](https://arxiv.org/abs/2208.03610)  
@@ -23,7 +23,19 @@ surrogate models), the search requires a small number of queries.
 
 
 ## RESULTS 
-The scripts we have developed are located in the scripts folder, with their corresponding logs stored in the results folder. Please note that we have included only a subset of the generated adversarial images due to their large file sizes.
+The scripts we have developed are located in the scripts folder, with their corresponding logs stored in the results folder. Please note that we have included only a subset of the generated adversarial images due to their large file sizes. 
+
+As part of our extended experiments, we analyzed the impact of two key parameters on the performance of our black-box attacks using BASES:
+
+Number of Models in the Ensemble: We investigated how the number of surrogate models in the ensemble affects the attack's success rate and query efficiency. This parameter is crucial as it influences both the diversity of the surrogate models and the computational cost of generating adversarial examples.
+
+Perturbation Bound (ϵ): We also studied how different perturbation bounds, which define the maximum allowable distortion to the input, impact the attack's effectiveness. The perturbation bound plays a key role in ensuring that adversarial examples remain imperceptible while maximizing the success rate of the attack.
+
+Also we fixed some small errors in files like : learn_w_wb.py and get_direct_transfer_rate. 
+
+To see how white box attack works we also did some experiments where we changed the parameter eps in order to see the differences.
+
+
 
 
 ## Perform attacks
