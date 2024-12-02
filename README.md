@@ -22,7 +22,7 @@ surrogate models), the search requires a small number of queries.
 </center>
 
 
-## RESULTS 
+## RESULTS - AI& CYBERSECURITY
 The scripts we have developed are located in the scripts folder, with their corresponding logs stored in the results folder. Please note that we have included only a subset of the generated adversarial images due to their large file sizes. 
 
 As part of our extended experiments, we analyzed the impact of two key parameters on the performance of our black-box attacks using BASES:
