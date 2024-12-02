@@ -37,7 +37,7 @@ def main():
     parser.add_argument("--lr", nargs="?", default=1e-5, help="learning rate of w")
     parser.add_argument("--iterw", nargs="?", default=50, help="iterations of updating w")
     parser.add_argument("--l2", nargs="?", default=0, help="l2 bound")
-    parser.add_argument("--n_im", nargs="?", default=1000, help="number of images")
+    parser.add_argument("--n_im", nargs="?", default=100, help="number of images")
     args = parser.parse_args()
     
 
@@ -90,7 +90,7 @@ def main():
 
     if algo == 'fgm':
         alpha = 1000
-    elif algo in ['fgsm', 'mi-fgsm']:
+    elif algo in ['fgsm', 'mi-fgsm','pgd']:
         alpha = eps / n_iters
         if x_alpha > 1:
             alpha = alpha * x_alpha
@@ -122,7 +122,7 @@ def main():
             w.requires_grad=True
 
             # lower-level, generate perturbation
-            adv, loss_wb = get_adv(im, adv, target, w, ensemble=wb, eps=eps, n_iters=n_iters, alpha=alpha, algo=algo, fuse=fuse, untargeted=args.untargeted, loss_name=loss_name)
+            adv, loss_wb = get_adv(im, adv, target, w, pert_machine=wb,  bound='linf' if l2_bound == 0 else 'l2', eps=eps, n_iters=n_iters, alpha=alpha, algo=algo, fuse=fuse, untargeted=args.untargeted, loss_name=loss_name)
 
             # upper-level, update w
             output = victim_model(normalize(adv/255))
@@ -189,7 +189,7 @@ def main():
         ax[4].legend(surrogate_names, shadow=True, bbox_to_anchor=(1, 1))
         ax[4].set_title('w of surrogate models')
         ax[4].set_xlabel('iters')
-        # plt.show()
+        plt.show()
         plt.tight_layout()
         plt.savefig(exp_root / f"{exp_name}.png")
         plt.close()
