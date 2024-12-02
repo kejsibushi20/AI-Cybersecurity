@@ -1,0 +1,750 @@
+n_iters: 10, iter_w: 0, loss: 4.337632179260254
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+label victim: (471, 'cannon')
+label wb 0: (908, 'wing')
+label wb 1: (908, 'wing')
+label wb 2: (908, 'wing')
+label wb 3: (908, 'wing')
+label wb 4: (908, 'wing')
+label wb 5: (908, 'wing')
+label wb 6: (908, 'wing')
+label wb 7: (908, 'wing')
+label wb 8: (908, 'wing')
+label wb 9: (908, 'wing')
+
+
+n_iters: 10, iter_w: 1, loss: 2.1362223625183105
+w: [0.09977569586001866, 0.09992155821021527, 0.09991907520777904, 0.0998989494379655, 0.10006378944470401, 0.10004876029109004, 0.09996757306090376, 0.1000676251385836, 0.10030249170052313, 0.10003448164821689]
+label victim: (755, 'radio telescope, radio reflector')
+label wb 0: (908, 'wing')
+label wb 1: (908, 'wing')
+label wb 2: (908, 'wing')
+label wb 3: (908, 'wing')
+label wb 4: (908, 'wing')
+label wb 5: (908, 'wing')
+label wb 6: (908, 'wing')
+label wb 7: (908, 'wing')
+label wb 8: (908, 'wing')
+label wb 9: (908, 'wing')
+
+
+n_iters: 10, iter_w: 2, loss: 2.0042543411254883
+w: [0.09996788353064026, 0.09972853209637525, 0.09945977597955555, 0.09931332007065667, 0.10007014147130662, 0.10031293400786918, 0.09981496779234882, 0.09996352406264071, 0.10134278865752792, 0.10002613233107897]
+label victim: (833, 'submarine, pigboat, sub, U-boat')
+label wb 0: (908, 'wing')
+label wb 1: (908, 'wing')
+label wb 2: (908, 'wing')
+label wb 3: (908, 'wing')
+label wb 4: (908, 'wing')
+label wb 5: (908, 'wing')
+label wb 6: (908, 'wing')
+label wb 7: (908, 'wing')
+label wb 8: (908, 'wing')
+label wb 9: (908, 'wing')
+
+
+n_iters: 10, iter_w: 3, loss: 5.474695205688477
+w: [0.1003893081158267, 0.09933972849431703, 0.09896109515996084, 0.09885527072299355, 0.09985823539094874, 0.10062340284745672, 0.09945744929145155, 0.09985099525807926, 0.10301459935893284, 0.0996499153600327]
+label victim: (839, 'suspension bridge')
+label wb 0: (908, 'wing')
+label wb 1: (908, 'wing')
+label wb 2: (908, 'wing')
+label wb 3: (908, 'wing')
+label wb 4: (908, 'wing')
+label wb 5: (908, 'wing')
+label wb 6: (908, 'wing')
+label wb 7: (908, 'wing')
+label wb 8: (908, 'wing')
+label wb 9: (908, 'wing')
+
+
+n_iters: 10, iter_w: 4, loss: 4.5867600440979
+w: [0.1010889139812344, 0.09888932794880538, 0.09832723101797357, 0.0983048519171198, 0.099631814431946, 0.10103378196055326, 0.09902129903921493, 0.09971399753591657, 0.10481479512555938, 0.09917398704167688]
+label victim: (489, 'chainlink fence')
+label wb 0: (908, 'wing')
+label wb 1: (908, 'wing')
+label wb 2: (908, 'wing')
+label wb 3: (908, 'wing')
+label wb 4: (908, 'wing')
+label wb 5: (908, 'wing')
+label wb 6: (908, 'wing')
+label wb 7: (908, 'wing')
+label wb 8: (908, 'wing')
+label wb 9: (908, 'wing')
+
+
+n_iters: 10, iter_w: 5, loss: 1.8533215522766113
+w: [0.10165593444202024, 0.09848757541192858, 0.09767654156911959, 0.0977397823072456, 0.09940704704659885, 0.10148574663438274, 0.09850057264823697, 0.09954260223912322, 0.10682141656914423, 0.09868278113219982]
+label victim: (489, 'chainlink fence')
+label wb 0: (908, 'wing')
+label wb 1: (908, 'wing')
+label wb 2: (908, 'wing')
+label wb 3: (908, 'wing')
+label wb 4: (908, 'wing')
+label wb 5: (908, 'wing')
+label wb 6: (908, 'wing')
+label wb 7: (908, 'wing')
+label wb 8: (908, 'wing')
+label wb 9: (908, 'wing')
+
+
+n_iters: 10, iter_w: 6, loss: 0.1674823760986328
+w: [0.10243804163031668, 0.09802593315715857, 0.09697544502459866, 0.09716528040450803, 0.09907881826727649, 0.10188119162062942, 0.09789591269622261, 0.09939636556600939, 0.10900295452781722, 0.09814005710546289]
+label victim: (403, 'aircraft carrier, carrier, flattop, attack aircraft carrier')
+label wb 0: (908, 'wing')
+label wb 1: (908, 'wing')
+label wb 2: (908, 'wing')
+label wb 3: (908, 'wing')
+label wb 4: (908, 'wing')
+label wb 5: (908, 'wing')
+label wb 6: (908, 'wing')
+label wb 7: (908, 'wing')
+label wb 8: (908, 'wing')
+label wb 9: (908, 'wing')
+
+
+n_iters: 10, iter_w: 7, loss: 2.257821559906006
+w: [0.10305529240646973, 0.09750150749395989, 0.09631904822248123, 0.09658074593091909, 0.09884271366008529, 0.10228112298527729, 0.09736843317667554, 0.09932459212255165, 0.1111831302415765, 0.0975434137600037]
+label victim: (489, 'chainlink fence')
+label wb 0: (908, 'wing')
+label wb 1: (908, 'wing')
+label wb 2: (908, 'wing')
+label wb 3: (908, 'wing')
+label wb 4: (908, 'wing')
+label wb 5: (908, 'wing')
+label wb 6: (908, 'wing')
+label wb 7: (908, 'wing')
+label wb 8: (908, 'wing')
+label wb 9: (908, 'wing')
+
+
+n_iters: 10, iter_w: 8, loss: 0.474029541015625
+w: [0.10366883598212662, 0.09702642484191358, 0.09563131899194034, 0.09605958420199916, 0.0985133735472948, 0.10264597440782494, 0.09676679230731262, 0.09916978484876891, 0.113637028655633, 0.09688088221518612]
+label victim: (489, 'chainlink fence')
+label wb 0: (908, 'wing')
+label wb 1: (908, 'wing')
+label wb 2: (908, 'wing')
+label wb 3: (908, 'wing')
+label wb 4: (908, 'wing')
+label wb 5: (908, 'wing')
+label wb 6: (908, 'wing')
+label wb 7: (908, 'wing')
+label wb 8: (908, 'wing')
+label wb 9: (908, 'wing')
+
+
+n_iters: 10, iter_w: 9, loss: 2.8008060455322266
+w: [0.10420103706893531, 0.09651847448698765, 0.0949519137420412, 0.09550488810908377, 0.09819358875655777, 0.10301647222726426, 0.09613474876577092, 0.09916495771999972, 0.11612620426361969, 0.09618771485973969]
+label victim: (489, 'chainlink fence')
+label wb 0: (908, 'wing')
+label wb 1: (908, 'wing')
+label wb 2: (908, 'wing')
+label wb 3: (908, 'wing')
+label wb 4: (908, 'wing')
+label wb 5: (908, 'wing')
+label wb 6: (908, 'wing')
+label wb 7: (908, 'wing')
+label wb 8: (908, 'wing')
+label wb 9: (908, 'wing')
+
+
+n_iters: 10, iter_w: 10, loss: -1.9139814376831055
+w: [0.10495648395128057, 0.09604344379189556, 0.09424135164102426, 0.0949318231540493, 0.09800218743845403, 0.10335197555885549, 0.09547331923069288, 0.09903461118430999, 0.11845246493592944, 0.09551233911350868]
+label victim: (908, 'wing')
+label wb 0: (908, 'wing')
+label wb 1: (908, 'wing')
+label wb 2: (908, 'wing')
+label wb 3: (908, 'wing')
+label wb 4: (908, 'wing')
+label wb 5: (908, 'wing')
+label wb 6: (908, 'wing')
+label wb 7: (908, 'wing')
+label wb 8: (908, 'wing')
+label wb 9: (908, 'wing')
+
+
+n_iters: 10, iter_w: 11, loss: 2.2035226821899414
+w: [0.10572653825929693, 0.09553824037699518, 0.09346022012436676, 0.09433369811469354, 0.09772134387966602, 0.10373767270057384, 0.09490276691989756, 0.09888345108398695, 0.12096808199339726, 0.09472798654712598]
+label victim: (471, 'cannon')
+label wb 0: (908, 'wing')
+label wb 1: (908, 'wing')
+label wb 2: (908, 'wing')
+label wb 3: (908, 'wing')
+label wb 4: (908, 'wing')
+label wb 5: (908, 'wing')
+label wb 6: (908, 'wing')
+label wb 7: (908, 'wing')
+label wb 8: (908, 'wing')
+label wb 9: (908, 'wing')
+
+
+n_iters: 10, iter_w: 12, loss: 0.7863101959228516
+w: [0.106494375195037, 0.09508725682784477, 0.09261850620256151, 0.09374475562784333, 0.09742907043400333, 0.10414498774306506, 0.09424599460504375, 0.09883164163182266, 0.12343764808913901, 0.09396576364363947]
+label victim: (403, 'aircraft carrier, carrier, flattop, attack aircraft carrier')
+label wb 0: (908, 'wing')
+label wb 1: (908, 'wing')
+label wb 2: (908, 'wing')
+label wb 3: (908, 'wing')
+label wb 4: (908, 'wing')
+label wb 5: (908, 'wing')
+label wb 6: (908, 'wing')
+label wb 7: (908, 'wing')
+label wb 8: (908, 'wing')
+label wb 9: (908, 'wing')
+
+
+n_iters: 10, iter_w: 13, loss: 3.189284324645996
+w: [0.10715536552990136, 0.09459546266832825, 0.09197627508882923, 0.09324710024301296, 0.0969713867145019, 0.10448241074367418, 0.0935472969666247, 0.09873698748460362, 0.1260684720048477, 0.093219242555676]
+label victim: (489, 'chainlink fence')
+label wb 0: (908, 'wing')
+label wb 1: (908, 'wing')
+label wb 2: (908, 'wing')
+label wb 3: (908, 'wing')
+label wb 4: (908, 'wing')
+label wb 5: (908, 'wing')
+label wb 6: (908, 'wing')
+label wb 7: (908, 'wing')
+label wb 8: (908, 'wing')
+label wb 9: (908, 'wing')
+
+
+n_iters: 10, iter_w: 14, loss: -0.11450576782226562
+w: [0.10792456879021686, 0.0941614522924037, 0.09134064250687722, 0.09274426145703109, 0.09666560126396759, 0.10477104085218758, 0.09282882806979531, 0.09857015831950501, 0.12853144266462885, 0.09246200378338677]
+label victim: (908, 'wing')
+label wb 0: (908, 'wing')
+label wb 1: (908, 'wing')
+label wb 2: (908, 'wing')
+label wb 3: (908, 'wing')
+label wb 4: (908, 'wing')
+label wb 5: (908, 'wing')
+label wb 6: (908, 'wing')
+label wb 7: (908, 'wing')
+label wb 8: (908, 'wing')
+label wb 9: (908, 'wing')
+
+
+n_iters: 10, iter_w: 15, loss: 1.760972023010254
+w: [0.10867448004145815, 0.09363485309313513, 0.09058514584275447, 0.09227019335965173, 0.09630610302745712, 0.10498507529883076, 0.09210672094193388, 0.09851803916957584, 0.13124862456126074, 0.09167076466394207]
+label victim: (807, 'solar dish, solar collector, solar furnace')
+label wb 0: (908, 'wing')
+label wb 1: (908, 'wing')
+label wb 2: (908, 'wing')
+label wb 3: (908, 'wing')
+label wb 4: (908, 'wing')
+label wb 5: (908, 'wing')
+label wb 6: (908, 'wing')
+label wb 7: (908, 'wing')
+label wb 8: (908, 'wing')
+label wb 9: (908, 'wing')
+
+
+n_iters: 10, iter_w: 16, loss: 0.9972963333129883
+w: [0.10922373464284404, 0.09314763024119492, 0.08979295841587841, 0.09176594711108813, 0.09603621505939418, 0.10536772309973726, 0.09127677077844093, 0.09854312796113061, 0.1339998425584684, 0.09084605013182316]
+label victim: (807, 'solar dish, solar collector, solar furnace')
+label wb 0: (908, 'wing')
+label wb 1: (908, 'wing')
+label wb 2: (908, 'wing')
+label wb 3: (908, 'wing')
+label wb 4: (908, 'wing')
+label wb 5: (908, 'wing')
+label wb 6: (908, 'wing')
+label wb 7: (908, 'wing')
+label wb 8: (908, 'wing')
+label wb 9: (908, 'wing')
+
+
+n_iters: 10, iter_w: 17, loss: 0.565739631652832
+w: [0.10975533362534921, 0.09271529615844461, 0.089034282930261, 0.09134256605018709, 0.09575044598192109, 0.10569741923399267, 0.09067872413933362, 0.09854012786961339, 0.13628265096648284, 0.09020315304441437]
+label victim: (471, 'cannon')
+label wb 0: (908, 'wing')
+label wb 1: (908, 'wing')
+label wb 2: (908, 'wing')
+label wb 3: (908, 'wing')
+label wb 4: (908, 'wing')
+label wb 5: (908, 'wing')
+label wb 6: (908, 'wing')
+label wb 7: (908, 'wing')
+label wb 8: (908, 'wing')
+label wb 9: (908, 'wing')
+
+
+n_iters: 10, iter_w: 18, loss: 1.06856107711792
+w: [0.11029070300319536, 0.09225655173840633, 0.08821786728191666, 0.09093639965525513, 0.09553032065637047, 0.10592494056878103, 0.09002290021920017, 0.09854544703814663, 0.13880639172236828, 0.08946847811635988]
+label victim: (471, 'cannon')
+label wb 0: (908, 'wing')
+label wb 1: (908, 'wing')
+label wb 2: (908, 'wing')
+label wb 3: (908, 'wing')
+label wb 4: (908, 'wing')
+label wb 5: (908, 'wing')
+label wb 6: (908, 'wing')
+label wb 7: (908, 'wing')
+label wb 8: (908, 'wing')
+label wb 9: (908, 'wing')
+
+
+n_iters: 10, iter_w: 19, loss: 1.293020248413086
+w: [0.11089657153909663, 0.0917679037155668, 0.08741273665356614, 0.09044628248413714, 0.09531068608932829, 0.1062677460380703, 0.08935349223878733, 0.09853961838858871, 0.14125443004924199, 0.08875053280361672]
+label victim: (525, 'dam, dike, dyke')
+label wb 0: (908, 'wing')
+label wb 1: (908, 'wing')
+label wb 2: (908, 'wing')
+label wb 3: (908, 'wing')
+label wb 4: (908, 'wing')
+label wb 5: (908, 'wing')
+label wb 6: (908, 'wing')
+label wb 7: (908, 'wing')
+label wb 8: (908, 'wing')
+label wb 9: (908, 'wing')
+
+
+n_iters: 10, iter_w: 20, loss: 0.21146678924560547
+w: [0.11170001083037463, 0.09128286996882778, 0.08663395785077946, 0.08992151092099011, 0.09515053589308621, 0.10661491543493487, 0.08865220940633299, 0.09833189327121704, 0.14370722178521866, 0.08800487463823807]
+label victim: (489, 'chainlink fence')
+label wb 0: (908, 'wing')
+label wb 1: (908, 'wing')
+label wb 2: (908, 'wing')
+label wb 3: (908, 'wing')
+label wb 4: (908, 'wing')
+label wb 5: (908, 'wing')
+label wb 6: (908, 'wing')
+label wb 7: (908, 'wing')
+label wb 8: (908, 'wing')
+label wb 9: (908, 'wing')
+
+
+n_iters: 10, iter_w: 21, loss: -0.15578269958496094
+w: [0.112400717163312, 0.09080832838919588, 0.08587711679509467, 0.08940220411135817, 0.09485719724654443, 0.1068700247772083, 0.0880399780303375, 0.0982790106902693, 0.14620629218405484, 0.0872591306126249]
+label victim: (908, 'wing')
+label wb 0: (908, 'wing')
+label wb 1: (908, 'wing')
+label wb 2: (908, 'wing')
+label wb 3: (908, 'wing')
+label wb 4: (908, 'wing')
+label wb 5: (908, 'wing')
+label wb 6: (908, 'wing')
+label wb 7: (908, 'wing')
+label wb 8: (908, 'wing')
+label wb 9: (908, 'wing')
+
+
+n_iters: 10, iter_w: 22, loss: 2.001969337463379
+w: [0.11293899100546083, 0.0902402056425446, 0.08509308753523041, 0.08899285157854425, 0.0947729047617255, 0.10721423936007436, 0.08734858740282365, 0.09814919788677402, 0.1487684668146117, 0.08648146801221059]
+label victim: (489, 'chainlink fence')
+label wb 0: (908, 'wing')
+label wb 1: (908, 'wing')
+label wb 2: (908, 'wing')
+label wb 3: (908, 'wing')
+label wb 4: (908, 'wing')
+label wb 5: (908, 'wing')
+label wb 6: (908, 'wing')
+label wb 7: (908, 'wing')
+label wb 8: (908, 'wing')
+label wb 9: (908, 'wing')
+
+
+n_iters: 10, iter_w: 23, loss: 0.8452386856079102
+w: [0.11373146220428842, 0.08968660520387309, 0.08429366307007458, 0.08859310964861507, 0.09453000525900833, 0.10742993526602904, 0.08671560478869712, 0.0980593674310341, 0.15113091368311082, 0.0858293334452695]
+label victim: (807, 'solar dish, solar collector, solar furnace')
+label wb 0: (908, 'wing')
+label wb 1: (908, 'wing')
+label wb 2: (908, 'wing')
+label wb 3: (908, 'wing')
+label wb 4: (908, 'wing')
+label wb 5: (908, 'wing')
+label wb 6: (908, 'wing')
+label wb 7: (908, 'wing')
+label wb 8: (908, 'wing')
+label wb 9: (908, 'wing')
+
+
+n_iters: 10, iter_w: 24, loss: 1.6109967231750488
+w: [0.11454317242265426, 0.08910570749613085, 0.0835193489062743, 0.08812590493993125, 0.09432278654259829, 0.10768724109402382, 0.08605101769471667, 0.09802693249622504, 0.15353802043069692, 0.08507986797674863]
+label victim: (471, 'cannon')
+label wb 0: (908, 'wing')
+label wb 1: (908, 'wing')
+label wb 2: (908, 'wing')
+label wb 3: (908, 'wing')
+label wb 4: (908, 'wing')
+label wb 5: (908, 'wing')
+label wb 6: (908, 'wing')
+label wb 7: (908, 'wing')
+label wb 8: (908, 'wing')
+label wb 9: (908, 'wing')
+
+
+n_iters: 10, iter_w: 25, loss: 2.415843963623047
+w: [0.11522969436351697, 0.08856797987861659, 0.08274366141241314, 0.08773923963188504, 0.0941309114582834, 0.10803878190837654, 0.08542051540460767, 0.09797538764447843, 0.15577813812835825, 0.08437569016946386]
+label victim: (879, 'umbrella')
+label wb 0: (908, 'wing')
+label wb 1: (908, 'wing')
+label wb 2: (908, 'wing')
+label wb 3: (908, 'wing')
+label wb 4: (908, 'wing')
+label wb 5: (908, 'wing')
+label wb 6: (908, 'wing')
+label wb 7: (908, 'wing')
+label wb 8: (908, 'wing')
+label wb 9: (908, 'wing')
+
+
+n_iters: 10, iter_w: 26, loss: 1.536339282989502
+w: [0.11594720220331801, 0.0880513332916368, 0.08202705512283462, 0.0872928996423467, 0.09381730505337853, 0.10831337642434632, 0.08479049253011753, 0.09804910070568645, 0.15797520304707366, 0.08373603197926148]
+label victim: (879, 'umbrella')
+label wb 0: (908, 'wing')
+label wb 1: (908, 'wing')
+label wb 2: (908, 'wing')
+label wb 3: (908, 'wing')
+label wb 4: (908, 'wing')
+label wb 5: (908, 'wing')
+label wb 6: (908, 'wing')
+label wb 7: (908, 'wing')
+label wb 8: (908, 'wing')
+label wb 9: (908, 'wing')
+
+
+n_iters: 10, iter_w: 27, loss: 3.3121604919433594
+w: [0.11661620796473697, 0.0875177989366823, 0.08135502291166137, 0.086831891874219, 0.09365058084300881, 0.10846910211287002, 0.0841336896998709, 0.09799188597475446, 0.16041816965655203, 0.08301565002564423]
+label victim: (879, 'umbrella')
+label wb 0: (908, 'wing')
+label wb 1: (908, 'wing')
+label wb 2: (908, 'wing')
+label wb 3: (908, 'wing')
+label wb 4: (908, 'wing')
+label wb 5: (908, 'wing')
+label wb 6: (908, 'wing')
+label wb 7: (908, 'wing')
+label wb 8: (908, 'wing')
+label wb 9: (908, 'wing')
+
+
+n_iters: 10, iter_w: 28, loss: 6.206661224365234
+w: [0.11722972912556962, 0.08693452329613412, 0.0806392303617185, 0.08640274656642315, 0.0934635657026109, 0.1087910530673432, 0.08346578838579741, 0.09786739556198036, 0.1629883194696335, 0.0822176484627893]
+label victim: (879, 'umbrella')
+label wb 0: (908, 'wing')
+label wb 1: (908, 'wing')
+label wb 2: (908, 'wing')
+label wb 3: (908, 'wing')
+label wb 4: (908, 'wing')
+label wb 5: (908, 'wing')
+label wb 6: (908, 'wing')
+label wb 7: (908, 'wing')
+label wb 8: (908, 'wing')
+label wb 9: (908, 'wing')
+
+
+n_iters: 10, iter_w: 29, loss: 0.9964818954467773
+w: [0.11779675820294003, 0.08646829280068859, 0.07990714842037183, 0.08605373114555026, 0.09327877086726508, 0.1090625920756865, 0.08284469983478523, 0.09777537174710167, 0.16529528693492976, 0.08151734797068097]
+label victim: (489, 'chainlink fence')
+label wb 0: (908, 'wing')
+label wb 1: (908, 'wing')
+label wb 2: (908, 'wing')
+label wb 3: (908, 'wing')
+label wb 4: (908, 'wing')
+label wb 5: (908, 'wing')
+label wb 6: (908, 'wing')
+label wb 7: (908, 'wing')
+label wb 8: (908, 'wing')
+label wb 9: (908, 'wing')
+
+
+n_iters: 10, iter_w: 30, loss: 0.6929478645324707
+w: [0.11838766536071615, 0.08595586010807293, 0.07922542959528667, 0.0855734841991036, 0.09310474589323246, 0.1093226148213334, 0.08217269049874369, 0.09751061864016569, 0.1678777688503723, 0.0808691220329732]
+label victim: (471, 'cannon')
+label wb 0: (908, 'wing')
+label wb 1: (908, 'wing')
+label wb 2: (908, 'wing')
+label wb 3: (908, 'wing')
+label wb 4: (908, 'wing')
+label wb 5: (908, 'wing')
+label wb 6: (908, 'wing')
+label wb 7: (908, 'wing')
+label wb 8: (908, 'wing')
+label wb 9: (908, 'wing')
+
+
+n_iters: 10, iter_w: 31, loss: 1.9029483795166016
+w: [0.11898233077539656, 0.08536863439287676, 0.07850692330402166, 0.08511085244641596, 0.09287938327092017, 0.10952724647514019, 0.08148115154746198, 0.09746773469825681, 0.1704940067807007, 0.0801817363088092]
+label victim: (471, 'cannon')
+label wb 0: (908, 'wing')
+label wb 1: (908, 'wing')
+label wb 2: (908, 'wing')
+label wb 3: (908, 'wing')
+label wb 4: (908, 'wing')
+label wb 5: (908, 'wing')
+label wb 6: (908, 'wing')
+label wb 7: (908, 'wing')
+label wb 8: (908, 'wing')
+label wb 9: (908, 'wing')
+
+
+n_iters: 10, iter_w: 32, loss: 2.895395278930664
+w: [0.11953176249134463, 0.08483025912619015, 0.0778542837095781, 0.08472774661361264, 0.09265855903661911, 0.10959769935209943, 0.08091201141716353, 0.09749344819808456, 0.1728545838273843, 0.07953964622792352]
+label victim: (879, 'umbrella')
+label wb 0: (908, 'wing')
+label wb 1: (908, 'wing')
+label wb 2: (908, 'wing')
+label wb 3: (908, 'wing')
+label wb 4: (908, 'wing')
+label wb 5: (908, 'wing')
+label wb 6: (908, 'wing')
+label wb 7: (908, 'wing')
+label wb 8: (908, 'wing')
+label wb 9: (908, 'wing')
+
+
+n_iters: 10, iter_w: 33, loss: 1.1305537223815918
+w: [0.12007857669949647, 0.084315144930669, 0.07726578409234985, 0.08432621900503741, 0.09245119116294973, 0.10977207367715343, 0.08036960275842721, 0.09730806174065615, 0.17520220868243028, 0.07891113725083045]
+label victim: (489, 'chainlink fence')
+label wb 0: (908, 'wing')
+label wb 1: (908, 'wing')
+label wb 2: (908, 'wing')
+label wb 3: (908, 'wing')
+label wb 4: (908, 'wing')
+label wb 5: (908, 'wing')
+label wb 6: (908, 'wing')
+label wb 7: (908, 'wing')
+label wb 8: (908, 'wing')
+label wb 9: (908, 'wing')
+
+
+n_iters: 10, iter_w: 34, loss: -0.5690732002258301
+w: [0.12056452214654413, 0.08386187505484452, 0.07658517803427613, 0.08391651462489898, 0.09215803011926924, 0.10997901272737892, 0.07970459447125264, 0.09722197644317593, 0.17774738419479807, 0.07826091218356145]
+label victim: (908, 'wing')
+label wb 0: (908, 'wing')
+label wb 1: (908, 'wing')
+label wb 2: (908, 'wing')
+label wb 3: (908, 'wing')
+label wb 4: (908, 'wing')
+label wb 5: (908, 'wing')
+label wb 6: (908, 'wing')
+label wb 7: (908, 'wing')
+label wb 8: (908, 'wing')
+label wb 9: (908, 'wing')
+
+
+n_iters: 10, iter_w: 35, loss: 5.313411712646484
+w: [0.1211251997330536, 0.08332676408652981, 0.07592358460015272, 0.08352818389581167, 0.0920295263665559, 0.11027646831087688, 0.07911648082063388, 0.09719486091891637, 0.17988536666032584, 0.07759356460714334]
+label victim: (879, 'umbrella')
+label wb 0: (908, 'wing')
+label wb 1: (908, 'wing')
+label wb 2: (908, 'wing')
+label wb 3: (908, 'wing')
+label wb 4: (908, 'wing')
+label wb 5: (908, 'wing')
+label wb 6: (908, 'wing')
+label wb 7: (908, 'wing')
+label wb 8: (908, 'wing')
+label wb 9: (908, 'wing')
+
+
+n_iters: 10, iter_w: 36, loss: 1.544316291809082
+w: [0.12167202186061218, 0.08277649141667652, 0.07523389223719634, 0.08322965645078784, 0.09178520594865705, 0.1104235731861586, 0.07856126185463518, 0.09722150597645451, 0.1820802953419375, 0.07701609572688425]
+label victim: (471, 'cannon')
+label wb 0: (908, 'wing')
+label wb 1: (908, 'wing')
+label wb 2: (908, 'wing')
+label wb 3: (908, 'wing')
+label wb 4: (908, 'wing')
+label wb 5: (908, 'wing')
+label wb 6: (908, 'wing')
+label wb 7: (908, 'wing')
+label wb 8: (908, 'wing')
+label wb 9: (908, 'wing')
+
+
+n_iters: 10, iter_w: 37, loss: 2.730177879333496
+w: [0.12213339636835151, 0.0822596462120796, 0.0745166842777425, 0.08288993529791687, 0.0915527886872732, 0.11064090550347756, 0.0780392184038808, 0.09736241506393246, 0.18418297587113433, 0.07642203431421125]
+label victim: (497, 'church, church building')
+label wb 0: (908, 'wing')
+label wb 1: (908, 'wing')
+label wb 2: (908, 'wing')
+label wb 3: (908, 'wing')
+label wb 4: (908, 'wing')
+label wb 5: (908, 'wing')
+label wb 6: (908, 'wing')
+label wb 7: (908, 'wing')
+label wb 8: (908, 'wing')
+label wb 9: (908, 'wing')
+
+
+n_iters: 10, iter_w: 38, loss: 2.5081377029418945
+w: [0.12268206845466396, 0.08176708851320529, 0.07385250325170084, 0.08261789322758573, 0.0912577403881139, 0.11086970911899237, 0.07750134036351955, 0.09720460847414503, 0.1864416267143712, 0.07580542149370216]
+label victim: (879, 'umbrella')
+label wb 0: (908, 'wing')
+label wb 1: (908, 'wing')
+label wb 2: (908, 'wing')
+label wb 3: (908, 'wing')
+label wb 4: (908, 'wing')
+label wb 5: (908, 'wing')
+label wb 6: (908, 'wing')
+label wb 7: (908, 'wing')
+label wb 8: (908, 'wing')
+label wb 9: (908, 'wing')
+
+
+n_iters: 10, iter_w: 39, loss: 1.377307415008545
+w: [0.12329596003971133, 0.08122933799572604, 0.07319366584181662, 0.08226387582123526, 0.0910232058793133, 0.11105987474151491, 0.07703446836196672, 0.09724097248314009, 0.18843007720190647, 0.07522856163366924]
+label victim: (525, 'dam, dike, dyke')
+label wb 0: (908, 'wing')
+label wb 1: (908, 'wing')
+label wb 2: (908, 'wing')
+label wb 3: (908, 'wing')
+label wb 4: (908, 'wing')
+label wb 5: (908, 'wing')
+label wb 6: (908, 'wing')
+label wb 7: (908, 'wing')
+label wb 8: (908, 'wing')
+label wb 9: (908, 'wing')
+
+
+n_iters: 10, iter_w: 40, loss: -0.14751625061035156
+w: [0.12379108645464776, 0.08074208972244257, 0.07253225559561484, 0.08192017494536502, 0.0907528659684654, 0.11124007662420962, 0.07661735196612236, 0.09705745583448534, 0.1906274067356862, 0.07471923615296105]
+label victim: (908, 'wing')
+label wb 0: (908, 'wing')
+label wb 1: (908, 'wing')
+label wb 2: (908, 'wing')
+label wb 3: (908, 'wing')
+label wb 4: (908, 'wing')
+label wb 5: (908, 'wing')
+label wb 6: (908, 'wing')
+label wb 7: (908, 'wing')
+label wb 8: (908, 'wing')
+label wb 9: (908, 'wing')
+
+
+n_iters: 10, iter_w: 41, loss: 3.9857096672058105
+w: [0.1243305466695363, 0.08022156478516898, 0.0718393816578092, 0.08162593693920704, 0.09035213646343015, 0.1115112255080077, 0.07608489456219104, 0.09687223319591046, 0.19293526815417222, 0.07422681206456697]
+label victim: (580, 'greenhouse, nursery, glasshouse')
+label wb 0: (908, 'wing')
+label wb 1: (908, 'wing')
+label wb 2: (908, 'wing')
+label wb 3: (908, 'wing')
+label wb 4: (908, 'wing')
+label wb 5: (908, 'wing')
+label wb 6: (908, 'wing')
+label wb 7: (908, 'wing')
+label wb 8: (908, 'wing')
+label wb 9: (908, 'wing')
+
+
+n_iters: 10, iter_w: 42, loss: 3.0163965225219727
+w: [0.12477183904802869, 0.07967341337782433, 0.07118150460533745, 0.08137604257625625, 0.09007416837302452, 0.11178274639140141, 0.07561320356402997, 0.0966665796084178, 0.19515595439853967, 0.07370454805714002]
+label victim: (497, 'church, church building')
+label wb 0: (908, 'wing')
+label wb 1: (908, 'wing')
+label wb 2: (908, 'wing')
+label wb 3: (908, 'wing')
+label wb 4: (908, 'wing')
+label wb 5: (908, 'wing')
+label wb 6: (908, 'wing')
+label wb 7: (908, 'wing')
+label wb 8: (908, 'wing')
+label wb 9: (908, 'wing')
+
+
+n_iters: 10, iter_w: 43, loss: 0.29255104064941406
+w: [0.12528389278787774, 0.0791023993518308, 0.07048630874916702, 0.08106347879151546, 0.0897883134216576, 0.11184417377065904, 0.07519879730072206, 0.09671082659644858, 0.19734745742508655, 0.07317435180503519]
+label victim: (879, 'umbrella')
+label wb 0: (908, 'wing')
+label wb 1: (908, 'wing')
+label wb 2: (908, 'wing')
+label wb 3: (908, 'wing')
+label wb 4: (908, 'wing')
+label wb 5: (908, 'wing')
+label wb 6: (908, 'wing')
+label wb 7: (908, 'wing')
+label wb 8: (908, 'wing')
+label wb 9: (908, 'wing')
+
+
+n_iters: 10, iter_w: 44, loss: 2.392094612121582
+w: [0.12574784894473637, 0.07856628976641616, 0.06977516007425554, 0.08078290654165009, 0.08959128239934655, 0.11202003741892134, 0.07472614866886339, 0.09664037350821982, 0.19944337683733868, 0.07270657584025211]
+label victim: (525, 'dam, dike, dyke')
+label wb 0: (908, 'wing')
+label wb 1: (908, 'wing')
+label wb 2: (908, 'wing')
+label wb 3: (908, 'wing')
+label wb 4: (908, 'wing')
+label wb 5: (908, 'wing')
+label wb 6: (908, 'wing')
+label wb 7: (908, 'wing')
+label wb 8: (908, 'wing')
+label wb 9: (908, 'wing')
+
+
+n_iters: 10, iter_w: 45, loss: 3.1580352783203125
+w: [0.1263500993231253, 0.07805587401358295, 0.06910384725948425, 0.08045318648382146, 0.089190549327119, 0.11221170610059253, 0.07427243347366273, 0.09664870690118825, 0.2015525871780717, 0.07216100993935201]
+label victim: (879, 'umbrella')
+label wb 0: (908, 'wing')
+label wb 1: (908, 'wing')
+label wb 2: (908, 'wing')
+label wb 3: (908, 'wing')
+label wb 4: (908, 'wing')
+label wb 5: (908, 'wing')
+label wb 6: (908, 'wing')
+label wb 7: (908, 'wing')
+label wb 8: (908, 'wing')
+label wb 9: (908, 'wing')
+
+
+n_iters: 10, iter_w: 46, loss: -0.5365543365478516
+w: [0.1268440921328769, 0.0775171990816104, 0.06845759644369478, 0.08003949118218799, 0.0889173861033127, 0.11229102474826896, 0.0738301551219213, 0.09673765053991558, 0.20364879301766556, 0.07171661162854578]
+label victim: (908, 'wing')
+label wb 0: (908, 'wing')
+label wb 1: (908, 'wing')
+label wb 2: (908, 'wing')
+label wb 3: (908, 'wing')
+label wb 4: (908, 'wing')
+label wb 5: (908, 'wing')
+label wb 6: (908, 'wing')
+label wb 7: (908, 'wing')
+label wb 8: (908, 'wing')
+label wb 9: (908, 'wing')
+
+
+n_iters: 10, iter_w: 47, loss: 0.29050731658935547
+w: [0.12738690338606573, 0.07707447183008974, 0.06776575883577496, 0.07972726221308014, 0.08867564464263683, 0.11242308639588948, 0.07338674703823632, 0.09678881809015326, 0.20556881453733655, 0.07120249303073699]
+label victim: (489, 'chainlink fence')
+label wb 0: (908, 'wing')
+label wb 1: (908, 'wing')
+label wb 2: (908, 'wing')
+label wb 3: (908, 'wing')
+label wb 4: (908, 'wing')
+label wb 5: (908, 'wing')
+label wb 6: (908, 'wing')
+label wb 7: (908, 'wing')
+label wb 8: (908, 'wing')
+label wb 9: (908, 'wing')
+
+
+n_iters: 10, iter_w: 48, loss: 2.398838996887207
+w: [0.1278860527889609, 0.07658717159733974, 0.06714355726890554, 0.07941926228634032, 0.08845073746973053, 0.11264107699178902, 0.07298684157614199, 0.09683285664750918, 0.20727535993275345, 0.07077708344052935]
+label victim: (879, 'umbrella')
+label wb 0: (908, 'wing')
+label wb 1: (908, 'wing')
+label wb 2: (908, 'wing')
+label wb 3: (908, 'wing')
+label wb 4: (908, 'wing')
+label wb 5: (908, 'wing')
+label wb 6: (908, 'wing')
+label wb 7: (908, 'wing')
+label wb 8: (908, 'wing')
+label wb 9: (908, 'wing')
+
+
+n_iters: 10, iter_w: 49, loss: 1.5136394500732422
+w: [0.12832224839594067, 0.07607036758849071, 0.0665366857049278, 0.07902178820919384, 0.0882504977420872, 0.11281054226216536, 0.07257784373924243, 0.09682183269073513, 0.20925750303449206, 0.07033069063272497]
+label victim: (471, 'cannon')
+label wb 0: (908, 'wing')
+label wb 1: (908, 'wing')
+label wb 2: (908, 'wing')
+label wb 3: (908, 'wing')
+label wb 4: (908, 'wing')
+label wb 5: (908, 'wing')
+label wb 6: (908, 'wing')
+label wb 7: (908, 'wing')
+label wb 8: (908, 'wing')
+label wb 9: (908, 'wing')
+
+

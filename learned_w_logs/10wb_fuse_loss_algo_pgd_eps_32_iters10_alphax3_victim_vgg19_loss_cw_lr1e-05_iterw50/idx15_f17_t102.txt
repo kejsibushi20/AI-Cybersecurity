@@ -1,0 +1,750 @@
+n_iters: 10, iter_w: 0, loss: -3.464132308959961
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+label victim: (102, 'echidna, spiny anteater, anteater')
+label wb 0: (102, 'echidna, spiny anteater, anteater')
+label wb 1: (102, 'echidna, spiny anteater, anteater')
+label wb 2: (102, 'echidna, spiny anteater, anteater')
+label wb 3: (102, 'echidna, spiny anteater, anteater')
+label wb 4: (102, 'echidna, spiny anteater, anteater')
+label wb 5: (102, 'echidna, spiny anteater, anteater')
+label wb 6: (102, 'echidna, spiny anteater, anteater')
+label wb 7: (102, 'echidna, spiny anteater, anteater')
+label wb 8: (102, 'echidna, spiny anteater, anteater')
+label wb 9: (102, 'echidna, spiny anteater, anteater')
+
+
+n_iters: 10, iter_w: 1, loss: -6.009771347045898
+w: [0.10015497532747168, 0.09995748898113108, 0.09981342008798122, 0.0999571715054841, 0.09983282484097106, 0.10017896122081178, 0.09980902858948829, 0.10013487247042997, 0.10012811205448095, 0.1000331449217499]
+label victim: (102, 'echidna, spiny anteater, anteater')
+label wb 0: (102, 'echidna, spiny anteater, anteater')
+label wb 1: (102, 'echidna, spiny anteater, anteater')
+label wb 2: (102, 'echidna, spiny anteater, anteater')
+label wb 3: (102, 'echidna, spiny anteater, anteater')
+label wb 4: (102, 'echidna, spiny anteater, anteater')
+label wb 5: (102, 'echidna, spiny anteater, anteater')
+label wb 6: (102, 'echidna, spiny anteater, anteater')
+label wb 7: (102, 'echidna, spiny anteater, anteater')
+label wb 8: (102, 'echidna, spiny anteater, anteater')
+label wb 9: (102, 'echidna, spiny anteater, anteater')
+
+
+n_iters: 10, iter_w: 2, loss: -5.204852104187012
+w: [0.10074530469949575, 0.09985492521226266, 0.09924122762836754, 0.09989606749318655, 0.1001524487823852, 0.10049404166738127, 0.09914731384716159, 0.09996050144157598, 0.10113312346536753, 0.09937504576281589]
+label victim: (102, 'echidna, spiny anteater, anteater')
+label wb 0: (102, 'echidna, spiny anteater, anteater')
+label wb 1: (102, 'echidna, spiny anteater, anteater')
+label wb 2: (102, 'echidna, spiny anteater, anteater')
+label wb 3: (102, 'echidna, spiny anteater, anteater')
+label wb 4: (102, 'echidna, spiny anteater, anteater')
+label wb 5: (102, 'echidna, spiny anteater, anteater')
+label wb 6: (102, 'echidna, spiny anteater, anteater')
+label wb 7: (102, 'echidna, spiny anteater, anteater')
+label wb 8: (102, 'echidna, spiny anteater, anteater')
+label wb 9: (102, 'echidna, spiny anteater, anteater')
+
+
+n_iters: 10, iter_w: 3, loss: -6.344551086425781
+w: [0.10136248975386242, 0.09982597904007831, 0.09877741544046419, 0.09969397108504555, 0.10079789418988958, 0.10086428523605578, 0.098183867997029, 0.09960932590061021, 0.1025504372019522, 0.09833433415501283]
+label victim: (102, 'echidna, spiny anteater, anteater')
+label wb 0: (102, 'echidna, spiny anteater, anteater')
+label wb 1: (102, 'echidna, spiny anteater, anteater')
+label wb 2: (102, 'echidna, spiny anteater, anteater')
+label wb 3: (102, 'echidna, spiny anteater, anteater')
+label wb 4: (102, 'echidna, spiny anteater, anteater')
+label wb 5: (102, 'echidna, spiny anteater, anteater')
+label wb 6: (102, 'echidna, spiny anteater, anteater')
+label wb 7: (102, 'echidna, spiny anteater, anteater')
+label wb 8: (102, 'echidna, spiny anteater, anteater')
+label wb 9: (102, 'echidna, spiny anteater, anteater')
+
+
+n_iters: 10, iter_w: 4, loss: -7.261924743652344
+w: [0.1020355491225687, 0.09973161017087122, 0.09853580976988396, 0.09941283665089574, 0.1014310035806847, 0.10122634422930776, 0.09697645369927635, 0.09911624346174223, 0.10435909947317319, 0.09717504984159606]
+label victim: (102, 'echidna, spiny anteater, anteater')
+label wb 0: (102, 'echidna, spiny anteater, anteater')
+label wb 1: (102, 'echidna, spiny anteater, anteater')
+label wb 2: (102, 'echidna, spiny anteater, anteater')
+label wb 3: (102, 'echidna, spiny anteater, anteater')
+label wb 4: (102, 'echidna, spiny anteater, anteater')
+label wb 5: (102, 'echidna, spiny anteater, anteater')
+label wb 6: (102, 'echidna, spiny anteater, anteater')
+label wb 7: (102, 'echidna, spiny anteater, anteater')
+label wb 8: (102, 'echidna, spiny anteater, anteater')
+label wb 9: (102, 'echidna, spiny anteater, anteater')
+
+
+n_iters: 10, iter_w: 5, loss: -5.585718154907227
+w: [0.1027065920160972, 0.09965990236680719, 0.09819183909452346, 0.09910407949284819, 0.10217808474238418, 0.10165460228479956, 0.09577501461660144, 0.09863879878963037, 0.10620721514510753, 0.09588387145120088]
+label victim: (102, 'echidna, spiny anteater, anteater')
+label wb 0: (102, 'echidna, spiny anteater, anteater')
+label wb 1: (102, 'echidna, spiny anteater, anteater')
+label wb 2: (102, 'echidna, spiny anteater, anteater')
+label wb 3: (102, 'echidna, spiny anteater, anteater')
+label wb 4: (102, 'echidna, spiny anteater, anteater')
+label wb 5: (102, 'echidna, spiny anteater, anteater')
+label wb 6: (102, 'echidna, spiny anteater, anteater')
+label wb 7: (102, 'echidna, spiny anteater, anteater')
+label wb 8: (102, 'echidna, spiny anteater, anteater')
+label wb 9: (102, 'echidna, spiny anteater, anteater')
+
+
+n_iters: 10, iter_w: 6, loss: -5.722282409667969
+w: [0.10340035944291162, 0.09953990110510569, 0.09813868872872229, 0.0987074543795142, 0.10282969449385866, 0.1018737948641677, 0.09453782353855, 0.09805819914251068, 0.10836804191915544, 0.09454604238550358]
+label victim: (102, 'echidna, spiny anteater, anteater')
+label wb 0: (102, 'echidna, spiny anteater, anteater')
+label wb 1: (102, 'echidna, spiny anteater, anteater')
+label wb 2: (102, 'echidna, spiny anteater, anteater')
+label wb 3: (102, 'echidna, spiny anteater, anteater')
+label wb 4: (102, 'echidna, spiny anteater, anteater')
+label wb 5: (102, 'echidna, spiny anteater, anteater')
+label wb 6: (102, 'echidna, spiny anteater, anteater')
+label wb 7: (102, 'echidna, spiny anteater, anteater')
+label wb 8: (102, 'echidna, spiny anteater, anteater')
+label wb 9: (102, 'echidna, spiny anteater, anteater')
+
+
+n_iters: 10, iter_w: 7, loss: -7.282047271728516
+w: [0.10426682029971773, 0.09940871758797123, 0.09797494590761213, 0.09832524817415686, 0.10357753490881404, 0.10210979427235896, 0.09333007167774299, 0.09754354976555288, 0.11021734230469558, 0.09324597510137762]
+label victim: (102, 'echidna, spiny anteater, anteater')
+label wb 0: (102, 'echidna, spiny anteater, anteater')
+label wb 1: (102, 'echidna, spiny anteater, anteater')
+label wb 2: (102, 'echidna, spiny anteater, anteater')
+label wb 3: (102, 'echidna, spiny anteater, anteater')
+label wb 4: (102, 'echidna, spiny anteater, anteater')
+label wb 5: (102, 'echidna, spiny anteater, anteater')
+label wb 6: (102, 'echidna, spiny anteater, anteater')
+label wb 7: (102, 'echidna, spiny anteater, anteater')
+label wb 8: (102, 'echidna, spiny anteater, anteater')
+label wb 9: (102, 'echidna, spiny anteater, anteater')
+
+
+n_iters: 10, iter_w: 8, loss: -6.302663803100586
+w: [0.10497788653235915, 0.09939636780333454, 0.0978622626403338, 0.09788790485405104, 0.10455039005022625, 0.10228515004373917, 0.09197134253569882, 0.09698472565174558, 0.11218192852906704, 0.09190204135944458]
+label victim: (102, 'echidna, spiny anteater, anteater')
+label wb 0: (102, 'echidna, spiny anteater, anteater')
+label wb 1: (102, 'echidna, spiny anteater, anteater')
+label wb 2: (102, 'echidna, spiny anteater, anteater')
+label wb 3: (102, 'echidna, spiny anteater, anteater')
+label wb 4: (102, 'echidna, spiny anteater, anteater')
+label wb 5: (102, 'echidna, spiny anteater, anteater')
+label wb 6: (102, 'echidna, spiny anteater, anteater')
+label wb 7: (102, 'echidna, spiny anteater, anteater')
+label wb 8: (102, 'echidna, spiny anteater, anteater')
+label wb 9: (102, 'echidna, spiny anteater, anteater')
+
+
+n_iters: 10, iter_w: 9, loss: -7.660531997680664
+w: [0.10568633387216063, 0.09918895181906215, 0.09764770843238313, 0.09747296234782403, 0.10537955745060741, 0.10266405791223188, 0.09075047927883134, 0.09645875866812535, 0.11413523260905843, 0.09061595760971572]
+label victim: (102, 'echidna, spiny anteater, anteater')
+label wb 0: (102, 'echidna, spiny anteater, anteater')
+label wb 1: (102, 'echidna, spiny anteater, anteater')
+label wb 2: (102, 'echidna, spiny anteater, anteater')
+label wb 3: (102, 'echidna, spiny anteater, anteater')
+label wb 4: (102, 'echidna, spiny anteater, anteater')
+label wb 5: (102, 'echidna, spiny anteater, anteater')
+label wb 6: (102, 'echidna, spiny anteater, anteater')
+label wb 7: (102, 'echidna, spiny anteater, anteater')
+label wb 8: (102, 'echidna, spiny anteater, anteater')
+label wb 9: (102, 'echidna, spiny anteater, anteater')
+
+
+n_iters: 10, iter_w: 10, loss: -6.2658843994140625
+w: [0.10640501537909217, 0.09909913939396274, 0.09747260718892932, 0.09708470142823153, 0.10600653322254244, 0.10303168227315607, 0.08956244294307247, 0.09593318091335282, 0.11603511232547549, 0.08936958493218486]
+label victim: (102, 'echidna, spiny anteater, anteater')
+label wb 0: (102, 'echidna, spiny anteater, anteater')
+label wb 1: (102, 'echidna, spiny anteater, anteater')
+label wb 2: (102, 'echidna, spiny anteater, anteater')
+label wb 3: (102, 'echidna, spiny anteater, anteater')
+label wb 4: (102, 'echidna, spiny anteater, anteater')
+label wb 5: (102, 'echidna, spiny anteater, anteater')
+label wb 6: (102, 'echidna, spiny anteater, anteater')
+label wb 7: (102, 'echidna, spiny anteater, anteater')
+label wb 8: (102, 'echidna, spiny anteater, anteater')
+label wb 9: (102, 'echidna, spiny anteater, anteater')
+
+
+n_iters: 10, iter_w: 11, loss: -6.347675323486328
+w: [0.10705974686173653, 0.09895258782375313, 0.09746089519671934, 0.09651926585570686, 0.10692319651699271, 0.10340348132907372, 0.08832985398461257, 0.09537523612797247, 0.11795216079200521, 0.08802357551142741]
+label victim: (102, 'echidna, spiny anteater, anteater')
+label wb 0: (102, 'echidna, spiny anteater, anteater')
+label wb 1: (102, 'echidna, spiny anteater, anteater')
+label wb 2: (102, 'echidna, spiny anteater, anteater')
+label wb 3: (102, 'echidna, spiny anteater, anteater')
+label wb 4: (102, 'echidna, spiny anteater, anteater')
+label wb 5: (102, 'echidna, spiny anteater, anteater')
+label wb 6: (558, 'flute, transverse flute')
+label wb 7: (102, 'echidna, spiny anteater, anteater')
+label wb 8: (102, 'echidna, spiny anteater, anteater')
+label wb 9: (102, 'echidna, spiny anteater, anteater')
+
+
+n_iters: 10, iter_w: 12, loss: -8.193984031677246
+w: [0.10763192317820733, 0.09888137278631645, 0.09721266389636839, 0.0960949769530772, 0.10781445483362825, 0.10363959549643242, 0.0871197542242651, 0.09488355867257309, 0.11993245921608506, 0.08678924074304674]
+label victim: (102, 'echidna, spiny anteater, anteater')
+label wb 0: (102, 'echidna, spiny anteater, anteater')
+label wb 1: (102, 'echidna, spiny anteater, anteater')
+label wb 2: (102, 'echidna, spiny anteater, anteater')
+label wb 3: (102, 'echidna, spiny anteater, anteater')
+label wb 4: (102, 'echidna, spiny anteater, anteater')
+label wb 5: (102, 'echidna, spiny anteater, anteater')
+label wb 6: (102, 'echidna, spiny anteater, anteater')
+label wb 7: (102, 'echidna, spiny anteater, anteater')
+label wb 8: (102, 'echidna, spiny anteater, anteater')
+label wb 9: (102, 'echidna, spiny anteater, anteater')
+
+
+n_iters: 10, iter_w: 13, loss: -5.428929328918457
+w: [0.10817947287478065, 0.09869759993154939, 0.09708410818116785, 0.0956465334683049, 0.10882108170910815, 0.10393065266230266, 0.08573717034936473, 0.09438910441929944, 0.12193533477035025, 0.08557894163377205]
+label victim: (102, 'echidna, spiny anteater, anteater')
+label wb 0: (102, 'echidna, spiny anteater, anteater')
+label wb 1: (102, 'echidna, spiny anteater, anteater')
+label wb 2: (102, 'echidna, spiny anteater, anteater')
+label wb 3: (102, 'echidna, spiny anteater, anteater')
+label wb 4: (102, 'echidna, spiny anteater, anteater')
+label wb 5: (102, 'echidna, spiny anteater, anteater')
+label wb 6: (102, 'echidna, spiny anteater, anteater')
+label wb 7: (102, 'echidna, spiny anteater, anteater')
+label wb 8: (102, 'echidna, spiny anteater, anteater')
+label wb 9: (102, 'echidna, spiny anteater, anteater')
+
+
+n_iters: 10, iter_w: 14, loss: -6.89292049407959
+w: [0.10878172678256774, 0.09847219461754673, 0.09691510295443738, 0.09515962647570454, 0.10975756291283305, 0.10423669881211496, 0.08456849981434826, 0.09374177591094006, 0.12400400818058711, 0.08436280353892]
+label victim: (102, 'echidna, spiny anteater, anteater')
+label wb 0: (102, 'echidna, spiny anteater, anteater')
+label wb 1: (102, 'echidna, spiny anteater, anteater')
+label wb 2: (102, 'echidna, spiny anteater, anteater')
+label wb 3: (102, 'echidna, spiny anteater, anteater')
+label wb 4: (102, 'echidna, spiny anteater, anteater')
+label wb 5: (102, 'echidna, spiny anteater, anteater')
+label wb 6: (102, 'echidna, spiny anteater, anteater')
+label wb 7: (102, 'echidna, spiny anteater, anteater')
+label wb 8: (102, 'echidna, spiny anteater, anteater')
+label wb 9: (102, 'echidna, spiny anteater, anteater')
+
+
+n_iters: 10, iter_w: 15, loss: -0.7314729690551758
+w: [0.1093544231925654, 0.09821922423757332, 0.09680565922667098, 0.09470447313530572, 0.11051970852869637, 0.10448790850825937, 0.08338443790380802, 0.09319461200494432, 0.12611791703907466, 0.08321163622310203]
+label victim: (102, 'echidna, spiny anteater, anteater')
+label wb 0: (102, 'echidna, spiny anteater, anteater')
+label wb 1: (102, 'echidna, spiny anteater, anteater')
+label wb 2: (102, 'echidna, spiny anteater, anteater')
+label wb 3: (102, 'echidna, spiny anteater, anteater')
+label wb 4: (102, 'echidna, spiny anteater, anteater')
+label wb 5: (102, 'echidna, spiny anteater, anteater')
+label wb 6: (102, 'echidna, spiny anteater, anteater')
+label wb 7: (102, 'echidna, spiny anteater, anteater')
+label wb 8: (102, 'echidna, spiny anteater, anteater')
+label wb 9: (102, 'echidna, spiny anteater, anteater')
+
+
+n_iters: 10, iter_w: 16, loss: -5.577266693115234
+w: [0.10992307230388801, 0.09797826533368617, 0.09659914191686271, 0.09433270426207792, 0.11136366396345307, 0.10472311180838884, 0.08221083816872125, 0.09264793556864286, 0.12821694006980008, 0.08200432660447904]
+label victim: (102, 'echidna, spiny anteater, anteater')
+label wb 0: (102, 'echidna, spiny anteater, anteater')
+label wb 1: (102, 'echidna, spiny anteater, anteater')
+label wb 2: (102, 'echidna, spiny anteater, anteater')
+label wb 3: (102, 'echidna, spiny anteater, anteater')
+label wb 4: (102, 'echidna, spiny anteater, anteater')
+label wb 5: (102, 'echidna, spiny anteater, anteater')
+label wb 6: (102, 'echidna, spiny anteater, anteater')
+label wb 7: (102, 'echidna, spiny anteater, anteater')
+label wb 8: (102, 'echidna, spiny anteater, anteater')
+label wb 9: (102, 'echidna, spiny anteater, anteater')
+
+
+n_iters: 10, iter_w: 17, loss: -3.5839128494262695
+w: [0.11038061480365656, 0.09777766551443268, 0.09646424030020669, 0.09402788442818119, 0.11206688452310498, 0.10513455699197069, 0.0809778725211588, 0.09208821835794774, 0.13018833918152273, 0.08089372337781796]
+label victim: (102, 'echidna, spiny anteater, anteater')
+label wb 0: (102, 'echidna, spiny anteater, anteater')
+label wb 1: (102, 'echidna, spiny anteater, anteater')
+label wb 2: (102, 'echidna, spiny anteater, anteater')
+label wb 3: (102, 'echidna, spiny anteater, anteater')
+label wb 4: (102, 'echidna, spiny anteater, anteater')
+label wb 5: (102, 'echidna, spiny anteater, anteater')
+label wb 6: (102, 'echidna, spiny anteater, anteater')
+label wb 7: (102, 'echidna, spiny anteater, anteater')
+label wb 8: (102, 'echidna, spiny anteater, anteater')
+label wb 9: (102, 'echidna, spiny anteater, anteater')
+
+
+n_iters: 10, iter_w: 18, loss: -7.367006301879883
+w: [0.11082249779951323, 0.09746904398182812, 0.09622496374444205, 0.09376535423742433, 0.11285432161164348, 0.10555378762536113, 0.07979488082465919, 0.09152446705817319, 0.1321802709518081, 0.07981041216514718]
+label victim: (102, 'echidna, spiny anteater, anteater')
+label wb 0: (102, 'echidna, spiny anteater, anteater')
+label wb 1: (102, 'echidna, spiny anteater, anteater')
+label wb 2: (102, 'echidna, spiny anteater, anteater')
+label wb 3: (102, 'echidna, spiny anteater, anteater')
+label wb 4: (102, 'echidna, spiny anteater, anteater')
+label wb 5: (102, 'echidna, spiny anteater, anteater')
+label wb 6: (102, 'echidna, spiny anteater, anteater')
+label wb 7: (102, 'echidna, spiny anteater, anteater')
+label wb 8: (102, 'echidna, spiny anteater, anteater')
+label wb 9: (102, 'echidna, spiny anteater, anteater')
+
+
+n_iters: 10, iter_w: 19, loss: -4.4983415603637695
+w: [0.11130283205171171, 0.09716847293843067, 0.09598531492439284, 0.09347297850342123, 0.11377504351785453, 0.1057801272295234, 0.07869430653443088, 0.09085658661255484, 0.13424950720583784, 0.07871483048184202]
+label victim: (102, 'echidna, spiny anteater, anteater')
+label wb 0: (102, 'echidna, spiny anteater, anteater')
+label wb 1: (102, 'echidna, spiny anteater, anteater')
+label wb 2: (102, 'echidna, spiny anteater, anteater')
+label wb 3: (102, 'echidna, spiny anteater, anteater')
+label wb 4: (102, 'echidna, spiny anteater, anteater')
+label wb 5: (102, 'echidna, spiny anteater, anteater')
+label wb 6: (102, 'echidna, spiny anteater, anteater')
+label wb 7: (102, 'echidna, spiny anteater, anteater')
+label wb 8: (102, 'echidna, spiny anteater, anteater')
+label wb 9: (102, 'echidna, spiny anteater, anteater')
+
+
+n_iters: 10, iter_w: 20, loss: -7.656852722167969
+w: [0.11181354640271503, 0.09682906936941128, 0.09586870178600759, 0.09318110049913135, 0.11459868628939071, 0.10597841987960717, 0.0776463943261479, 0.0903179980690597, 0.13610748214633833, 0.07765860123219091]
+label victim: (102, 'echidna, spiny anteater, anteater')
+label wb 0: (102, 'echidna, spiny anteater, anteater')
+label wb 1: (102, 'echidna, spiny anteater, anteater')
+label wb 2: (102, 'echidna, spiny anteater, anteater')
+label wb 3: (102, 'echidna, spiny anteater, anteater')
+label wb 4: (102, 'echidna, spiny anteater, anteater')
+label wb 5: (102, 'echidna, spiny anteater, anteater')
+label wb 6: (102, 'echidna, spiny anteater, anteater')
+label wb 7: (102, 'echidna, spiny anteater, anteater')
+label wb 8: (102, 'echidna, spiny anteater, anteater')
+label wb 9: (102, 'echidna, spiny anteater, anteater')
+
+
+n_iters: 10, iter_w: 21, loss: -5.511442184448242
+w: [0.11228616960743472, 0.0964094557421446, 0.09564305786667697, 0.0928864291064922, 0.11545382301178952, 0.10627741858053776, 0.07652090510737651, 0.08971642512653155, 0.13830058319806682, 0.07650573265294948]
+label victim: (102, 'echidna, spiny anteater, anteater')
+label wb 0: (102, 'echidna, spiny anteater, anteater')
+label wb 1: (102, 'echidna, spiny anteater, anteater')
+label wb 2: (102, 'echidna, spiny anteater, anteater')
+label wb 3: (102, 'echidna, spiny anteater, anteater')
+label wb 4: (102, 'echidna, spiny anteater, anteater')
+label wb 5: (102, 'echidna, spiny anteater, anteater')
+label wb 6: (102, 'echidna, spiny anteater, anteater')
+label wb 7: (102, 'echidna, spiny anteater, anteater')
+label wb 8: (102, 'echidna, spiny anteater, anteater')
+label wb 9: (102, 'echidna, spiny anteater, anteater')
+
+
+n_iters: 10, iter_w: 22, loss: -5.75306510925293
+w: [0.1126024988233067, 0.09609286455222645, 0.09537140312787203, 0.09262490846927564, 0.11634815532365438, 0.10662899526670226, 0.07545042614701522, 0.08911886011585661, 0.14031762322540836, 0.07544426494868227]
+label victim: (102, 'echidna, spiny anteater, anteater')
+label wb 0: (102, 'echidna, spiny anteater, anteater')
+label wb 1: (102, 'echidna, spiny anteater, anteater')
+label wb 2: (102, 'echidna, spiny anteater, anteater')
+label wb 3: (102, 'echidna, spiny anteater, anteater')
+label wb 4: (102, 'echidna, spiny anteater, anteater')
+label wb 5: (102, 'echidna, spiny anteater, anteater')
+label wb 6: (102, 'echidna, spiny anteater, anteater')
+label wb 7: (102, 'echidna, spiny anteater, anteater')
+label wb 8: (102, 'echidna, spiny anteater, anteater')
+label wb 9: (102, 'echidna, spiny anteater, anteater')
+
+
+n_iters: 10, iter_w: 23, loss: -6.309103012084961
+w: [0.11295517312537816, 0.09583188642442153, 0.09506901502846792, 0.09230432407227872, 0.11702210520039266, 0.10700309970666344, 0.07437491715599535, 0.08855193931309627, 0.14249126513064925, 0.07439627484265678]
+label victim: (102, 'echidna, spiny anteater, anteater')
+label wb 0: (102, 'echidna, spiny anteater, anteater')
+label wb 1: (102, 'echidna, spiny anteater, anteater')
+label wb 2: (102, 'echidna, spiny anteater, anteater')
+label wb 3: (102, 'echidna, spiny anteater, anteater')
+label wb 4: (102, 'echidna, spiny anteater, anteater')
+label wb 5: (102, 'echidna, spiny anteater, anteater')
+label wb 6: (102, 'echidna, spiny anteater, anteater')
+label wb 7: (102, 'echidna, spiny anteater, anteater')
+label wb 8: (102, 'echidna, spiny anteater, anteater')
+label wb 9: (102, 'echidna, spiny anteater, anteater')
+
+
+n_iters: 10, iter_w: 24, loss: -7.233552932739258
+w: [0.11329326041042627, 0.09559433063712232, 0.09483718155360737, 0.09195471894186917, 0.11766881413114968, 0.10719140707791741, 0.07329277596779328, 0.0879889929218493, 0.14484160069671925, 0.07333691766154586]
+label victim: (102, 'echidna, spiny anteater, anteater')
+label wb 0: (102, 'echidna, spiny anteater, anteater')
+label wb 1: (102, 'echidna, spiny anteater, anteater')
+label wb 2: (102, 'echidna, spiny anteater, anteater')
+label wb 3: (102, 'echidna, spiny anteater, anteater')
+label wb 4: (102, 'echidna, spiny anteater, anteater')
+label wb 5: (102, 'echidna, spiny anteater, anteater')
+label wb 6: (102, 'echidna, spiny anteater, anteater')
+label wb 7: (102, 'echidna, spiny anteater, anteater')
+label wb 8: (102, 'echidna, spiny anteater, anteater')
+label wb 9: (102, 'echidna, spiny anteater, anteater')
+
+
+n_iters: 10, iter_w: 25, loss: -5.155778884887695
+w: [0.11360633198617927, 0.0953342180482616, 0.09449917686675152, 0.09167838416137519, 0.1184434398694542, 0.10746804765985402, 0.07224450435912072, 0.08749101816618826, 0.1468907677031112, 0.07234411117970416]
+label victim: (102, 'echidna, spiny anteater, anteater')
+label wb 0: (102, 'echidna, spiny anteater, anteater')
+label wb 1: (102, 'echidna, spiny anteater, anteater')
+label wb 2: (102, 'echidna, spiny anteater, anteater')
+label wb 3: (102, 'echidna, spiny anteater, anteater')
+label wb 4: (102, 'echidna, spiny anteater, anteater')
+label wb 5: (102, 'echidna, spiny anteater, anteater')
+label wb 6: (102, 'echidna, spiny anteater, anteater')
+label wb 7: (102, 'echidna, spiny anteater, anteater')
+label wb 8: (102, 'echidna, spiny anteater, anteater')
+label wb 9: (102, 'echidna, spiny anteater, anteater')
+
+
+n_iters: 10, iter_w: 26, loss: -4.334904670715332
+w: [0.11393567862803904, 0.09496350787156946, 0.09407022055400546, 0.09140175030280259, 0.11925865103159397, 0.10763212490877085, 0.0712107744512807, 0.08689613809512352, 0.14928786023065727, 0.07134329392615725]
+label victim: (102, 'echidna, spiny anteater, anteater')
+label wb 0: (102, 'echidna, spiny anteater, anteater')
+label wb 1: (102, 'echidna, spiny anteater, anteater')
+label wb 2: (102, 'echidna, spiny anteater, anteater')
+label wb 3: (102, 'echidna, spiny anteater, anteater')
+label wb 4: (102, 'echidna, spiny anteater, anteater')
+label wb 5: (102, 'echidna, spiny anteater, anteater')
+label wb 6: (102, 'echidna, spiny anteater, anteater')
+label wb 7: (102, 'echidna, spiny anteater, anteater')
+label wb 8: (102, 'echidna, spiny anteater, anteater')
+label wb 9: (102, 'echidna, spiny anteater, anteater')
+
+
+n_iters: 10, iter_w: 27, loss: -6.494646072387695
+w: [0.11414275348498995, 0.09467965903953422, 0.0936980917340494, 0.0912154790890594, 0.11998642651810319, 0.10788338830715075, 0.0701771979935728, 0.0863010085974555, 0.15157721524320467, 0.07033877999288003]
+label victim: (102, 'echidna, spiny anteater, anteater')
+label wb 0: (102, 'echidna, spiny anteater, anteater')
+label wb 1: (102, 'echidna, spiny anteater, anteater')
+label wb 2: (102, 'echidna, spiny anteater, anteater')
+label wb 3: (102, 'echidna, spiny anteater, anteater')
+label wb 4: (102, 'echidna, spiny anteater, anteater')
+label wb 5: (102, 'echidna, spiny anteater, anteater')
+label wb 6: (102, 'echidna, spiny anteater, anteater')
+label wb 7: (102, 'echidna, spiny anteater, anteater')
+label wb 8: (102, 'echidna, spiny anteater, anteater')
+label wb 9: (102, 'echidna, spiny anteater, anteater')
+
+
+n_iters: 10, iter_w: 28, loss: -6.490992546081543
+w: [0.11440647313387206, 0.09443449218751755, 0.09337533056534644, 0.09088035577553791, 0.1208257620851339, 0.1081069592069757, 0.06924261039172885, 0.08568787452751737, 0.1536803171792051, 0.06935982494716507]
+label victim: (102, 'echidna, spiny anteater, anteater')
+label wb 0: (102, 'echidna, spiny anteater, anteater')
+label wb 1: (102, 'echidna, spiny anteater, anteater')
+label wb 2: (102, 'echidna, spiny anteater, anteater')
+label wb 3: (102, 'echidna, spiny anteater, anteater')
+label wb 4: (102, 'echidna, spiny anteater, anteater')
+label wb 5: (102, 'echidna, spiny anteater, anteater')
+label wb 6: (102, 'echidna, spiny anteater, anteater')
+label wb 7: (102, 'echidna, spiny anteater, anteater')
+label wb 8: (102, 'echidna, spiny anteater, anteater')
+label wb 9: (102, 'echidna, spiny anteater, anteater')
+
+
+n_iters: 10, iter_w: 29, loss: -4.700199127197266
+w: [0.11464228087059083, 0.09412943970088405, 0.09308490020413655, 0.09064468368321357, 0.12137438076146977, 0.10828793712839654, 0.06836690598695896, 0.08512473830353486, 0.15589970170167272, 0.06844503165914213]
+label victim: (102, 'echidna, spiny anteater, anteater')
+label wb 0: (102, 'echidna, spiny anteater, anteater')
+label wb 1: (102, 'echidna, spiny anteater, anteater')
+label wb 2: (102, 'echidna, spiny anteater, anteater')
+label wb 3: (102, 'echidna, spiny anteater, anteater')
+label wb 4: (102, 'echidna, spiny anteater, anteater')
+label wb 5: (102, 'echidna, spiny anteater, anteater')
+label wb 6: (102, 'echidna, spiny anteater, anteater')
+label wb 7: (102, 'echidna, spiny anteater, anteater')
+label wb 8: (102, 'echidna, spiny anteater, anteater')
+label wb 9: (102, 'echidna, spiny anteater, anteater')
+
+
+n_iters: 10, iter_w: 30, loss: -6.880949974060059
+w: [0.11477573742458376, 0.09377894749103188, 0.09276411848438651, 0.09033083039837908, 0.1220429955386954, 0.10860516310707655, 0.06743304994052968, 0.0845187329352343, 0.15827652437522902, 0.06747390030485376]
+label victim: (102, 'echidna, spiny anteater, anteater')
+label wb 0: (102, 'echidna, spiny anteater, anteater')
+label wb 1: (102, 'echidna, spiny anteater, anteater')
+label wb 2: (102, 'echidna, spiny anteater, anteater')
+label wb 3: (102, 'echidna, spiny anteater, anteater')
+label wb 4: (102, 'echidna, spiny anteater, anteater')
+label wb 5: (102, 'echidna, spiny anteater, anteater')
+label wb 6: (102, 'echidna, spiny anteater, anteater')
+label wb 7: (102, 'echidna, spiny anteater, anteater')
+label wb 8: (102, 'echidna, spiny anteater, anteater')
+label wb 9: (102, 'echidna, spiny anteater, anteater')
+
+
+n_iters: 10, iter_w: 31, loss: -8.085195541381836
+w: [0.11501825657150498, 0.09347997543173986, 0.09253688583687372, 0.09012946420427465, 0.12260900996412831, 0.10885159236100019, 0.06651270064987731, 0.08401475182638082, 0.1602835543654326, 0.06656380878878754]
+label victim: (102, 'echidna, spiny anteater, anteater')
+label wb 0: (102, 'echidna, spiny anteater, anteater')
+label wb 1: (102, 'echidna, spiny anteater, anteater')
+label wb 2: (102, 'echidna, spiny anteater, anteater')
+label wb 3: (102, 'echidna, spiny anteater, anteater')
+label wb 4: (102, 'echidna, spiny anteater, anteater')
+label wb 5: (102, 'echidna, spiny anteater, anteater')
+label wb 6: (102, 'echidna, spiny anteater, anteater')
+label wb 7: (102, 'echidna, spiny anteater, anteater')
+label wb 8: (102, 'echidna, spiny anteater, anteater')
+label wb 9: (102, 'echidna, spiny anteater, anteater')
+
+
+n_iters: 10, iter_w: 32, loss: -6.278141021728516
+w: [0.11523281683469096, 0.09326101672979377, 0.09226719712826213, 0.0897761837189024, 0.12329296150621731, 0.10914076969869435, 0.06561472589082751, 0.08350542525073137, 0.1622751123662659, 0.06563379087561427]
+label victim: (102, 'echidna, spiny anteater, anteater')
+label wb 0: (102, 'echidna, spiny anteater, anteater')
+label wb 1: (102, 'echidna, spiny anteater, anteater')
+label wb 2: (102, 'echidna, spiny anteater, anteater')
+label wb 3: (102, 'echidna, spiny anteater, anteater')
+label wb 4: (102, 'echidna, spiny anteater, anteater')
+label wb 5: (102, 'echidna, spiny anteater, anteater')
+label wb 6: (102, 'echidna, spiny anteater, anteater')
+label wb 7: (102, 'echidna, spiny anteater, anteater')
+label wb 8: (102, 'echidna, spiny anteater, anteater')
+label wb 9: (102, 'echidna, spiny anteater, anteater')
+
+
+n_iters: 10, iter_w: 33, loss: -6.011570930480957
+w: [0.11543827776244314, 0.0929867672467701, 0.0918564442961428, 0.08957774012581707, 0.12381509522277015, 0.10930879081164134, 0.06469686722595865, 0.08302024293977033, 0.1644881062622899, 0.06481166810639657]
+label victim: (102, 'echidna, spiny anteater, anteater')
+label wb 0: (102, 'echidna, spiny anteater, anteater')
+label wb 1: (102, 'echidna, spiny anteater, anteater')
+label wb 2: (102, 'echidna, spiny anteater, anteater')
+label wb 3: (102, 'echidna, spiny anteater, anteater')
+label wb 4: (102, 'echidna, spiny anteater, anteater')
+label wb 5: (102, 'echidna, spiny anteater, anteater')
+label wb 6: (102, 'echidna, spiny anteater, anteater')
+label wb 7: (102, 'echidna, spiny anteater, anteater')
+label wb 8: (102, 'echidna, spiny anteater, anteater')
+label wb 9: (102, 'echidna, spiny anteater, anteater')
+
+
+n_iters: 10, iter_w: 34, loss: -6.769454002380371
+w: [0.11562286845420909, 0.0928140685569392, 0.09155829674933698, 0.08940545371114092, 0.12441579762380559, 0.1094586322529073, 0.06387088251541741, 0.0825555902494341, 0.16630818103814876, 0.0639902288486607]
+label victim: (102, 'echidna, spiny anteater, anteater')
+label wb 0: (102, 'echidna, spiny anteater, anteater')
+label wb 1: (102, 'echidna, spiny anteater, anteater')
+label wb 2: (102, 'echidna, spiny anteater, anteater')
+label wb 3: (102, 'echidna, spiny anteater, anteater')
+label wb 4: (102, 'echidna, spiny anteater, anteater')
+label wb 5: (102, 'echidna, spiny anteater, anteater')
+label wb 6: (102, 'echidna, spiny anteater, anteater')
+label wb 7: (102, 'echidna, spiny anteater, anteater')
+label wb 8: (102, 'echidna, spiny anteater, anteater')
+label wb 9: (102, 'echidna, spiny anteater, anteater')
+
+
+n_iters: 10, iter_w: 35, loss: -6.059399604797363
+w: [0.11588677395084371, 0.09244526418946818, 0.09115891601383656, 0.08921883859632061, 0.1250022687361577, 0.10951832243072025, 0.06314846971795031, 0.08214864022303749, 0.16828856846750428, 0.06318393767416086]
+label victim: (102, 'echidna, spiny anteater, anteater')
+label wb 0: (102, 'echidna, spiny anteater, anteater')
+label wb 1: (102, 'echidna, spiny anteater, anteater')
+label wb 2: (102, 'echidna, spiny anteater, anteater')
+label wb 3: (102, 'echidna, spiny anteater, anteater')
+label wb 4: (102, 'echidna, spiny anteater, anteater')
+label wb 5: (102, 'echidna, spiny anteater, anteater')
+label wb 6: (102, 'echidna, spiny anteater, anteater')
+label wb 7: (102, 'echidna, spiny anteater, anteater')
+label wb 8: (102, 'echidna, spiny anteater, anteater')
+label wb 9: (102, 'echidna, spiny anteater, anteater')
+
+
+n_iters: 10, iter_w: 36, loss: -7.310720443725586
+w: [0.11604310818684012, 0.09216126444631546, 0.09083301866248503, 0.08907655759485386, 0.1255430408499271, 0.1096746198505671, 0.0623717717578782, 0.08175404293449343, 0.17011563112005704, 0.06242694459658261]
+label victim: (102, 'echidna, spiny anteater, anteater')
+label wb 0: (102, 'echidna, spiny anteater, anteater')
+label wb 1: (102, 'echidna, spiny anteater, anteater')
+label wb 2: (102, 'echidna, spiny anteater, anteater')
+label wb 3: (102, 'echidna, spiny anteater, anteater')
+label wb 4: (102, 'echidna, spiny anteater, anteater')
+label wb 5: (102, 'echidna, spiny anteater, anteater')
+label wb 6: (102, 'echidna, spiny anteater, anteater')
+label wb 7: (102, 'echidna, spiny anteater, anteater')
+label wb 8: (102, 'echidna, spiny anteater, anteater')
+label wb 9: (102, 'echidna, spiny anteater, anteater')
+
+
+n_iters: 10, iter_w: 37, loss: -5.399129867553711
+w: [0.11616357472963944, 0.09182656800872374, 0.09037360661391461, 0.08889214184091507, 0.12615269450509997, 0.10993697067146067, 0.06160596625461519, 0.08139086422476327, 0.1719919446697769, 0.06166566848109114]
+label victim: (102, 'echidna, spiny anteater, anteater')
+label wb 0: (102, 'echidna, spiny anteater, anteater')
+label wb 1: (102, 'echidna, spiny anteater, anteater')
+label wb 2: (102, 'echidna, spiny anteater, anteater')
+label wb 3: (102, 'echidna, spiny anteater, anteater')
+label wb 4: (102, 'echidna, spiny anteater, anteater')
+label wb 5: (102, 'echidna, spiny anteater, anteater')
+label wb 6: (102, 'echidna, spiny anteater, anteater')
+label wb 7: (102, 'echidna, spiny anteater, anteater')
+label wb 8: (102, 'echidna, spiny anteater, anteater')
+label wb 9: (102, 'echidna, spiny anteater, anteater')
+
+
+n_iters: 10, iter_w: 38, loss: -5.416512489318848
+w: [0.11614565454760013, 0.09150921412922775, 0.0900542232008038, 0.08865930746681726, 0.12671020879737455, 0.11009984065659924, 0.06084839721526085, 0.08104301595706359, 0.17407955188469282, 0.06085058614456002]
+label victim: (102, 'echidna, spiny anteater, anteater')
+label wb 0: (102, 'echidna, spiny anteater, anteater')
+label wb 1: (102, 'echidna, spiny anteater, anteater')
+label wb 2: (102, 'echidna, spiny anteater, anteater')
+label wb 3: (102, 'echidna, spiny anteater, anteater')
+label wb 4: (102, 'echidna, spiny anteater, anteater')
+label wb 5: (102, 'echidna, spiny anteater, anteater')
+label wb 6: (102, 'echidna, spiny anteater, anteater')
+label wb 7: (102, 'echidna, spiny anteater, anteater')
+label wb 8: (102, 'echidna, spiny anteater, anteater')
+label wb 9: (102, 'echidna, spiny anteater, anteater')
+
+
+n_iters: 10, iter_w: 39, loss: -6.203317642211914
+w: [0.11618579734261474, 0.09120154763159455, 0.08961628211039589, 0.08849947878937084, 0.12729734827093966, 0.11039396348244859, 0.06015816334452273, 0.08067410548710997, 0.17580823466199172, 0.060165078879011256]
+label victim: (102, 'echidna, spiny anteater, anteater')
+label wb 0: (102, 'echidna, spiny anteater, anteater')
+label wb 1: (102, 'echidna, spiny anteater, anteater')
+label wb 2: (102, 'echidna, spiny anteater, anteater')
+label wb 3: (102, 'echidna, spiny anteater, anteater')
+label wb 4: (102, 'echidna, spiny anteater, anteater')
+label wb 5: (102, 'echidna, spiny anteater, anteater')
+label wb 6: (102, 'echidna, spiny anteater, anteater')
+label wb 7: (102, 'echidna, spiny anteater, anteater')
+label wb 8: (102, 'echidna, spiny anteater, anteater')
+label wb 9: (102, 'echidna, spiny anteater, anteater')
+
+
+n_iters: 10, iter_w: 40, loss: -4.832098007202148
+w: [0.11625522295500981, 0.09095991723639692, 0.08929028695013151, 0.08830073010557186, 0.12773272076993422, 0.11060386522679842, 0.059424585682460854, 0.08031628868871954, 0.1777212346172602, 0.05939514776771683]
+label victim: (102, 'echidna, spiny anteater, anteater')
+label wb 0: (102, 'echidna, spiny anteater, anteater')
+label wb 1: (102, 'echidna, spiny anteater, anteater')
+label wb 2: (102, 'echidna, spiny anteater, anteater')
+label wb 3: (102, 'echidna, spiny anteater, anteater')
+label wb 4: (102, 'echidna, spiny anteater, anteater')
+label wb 5: (102, 'echidna, spiny anteater, anteater')
+label wb 6: (102, 'echidna, spiny anteater, anteater')
+label wb 7: (102, 'echidna, spiny anteater, anteater')
+label wb 8: (102, 'echidna, spiny anteater, anteater')
+label wb 9: (102, 'echidna, spiny anteater, anteater')
+
+
+n_iters: 10, iter_w: 41, loss: -6.225833892822266
+w: [0.11633209515422387, 0.09064215671006186, 0.08887367688261395, 0.08807996992953372, 0.1282024393316317, 0.11074703918964854, 0.05869792291724923, 0.07993616837116085, 0.17979697403326309, 0.05869155748061313]
+label victim: (102, 'echidna, spiny anteater, anteater')
+label wb 0: (102, 'echidna, spiny anteater, anteater')
+label wb 1: (102, 'echidna, spiny anteater, anteater')
+label wb 2: (102, 'echidna, spiny anteater, anteater')
+label wb 3: (102, 'echidna, spiny anteater, anteater')
+label wb 4: (102, 'echidna, spiny anteater, anteater')
+label wb 5: (102, 'echidna, spiny anteater, anteater')
+label wb 6: (102, 'echidna, spiny anteater, anteater')
+label wb 7: (102, 'echidna, spiny anteater, anteater')
+label wb 8: (102, 'echidna, spiny anteater, anteater')
+label wb 9: (102, 'echidna, spiny anteater, anteater')
+
+
+n_iters: 10, iter_w: 42, loss: -6.533108711242676
+w: [0.11634341270503956, 0.09020913593233433, 0.0884720845183884, 0.08783457034968697, 0.12860656613075608, 0.11100652897253752, 0.058013560149277964, 0.0796178741167363, 0.1819140035104935, 0.05798226361474948]
+label victim: (102, 'echidna, spiny anteater, anteater')
+label wb 0: (102, 'echidna, spiny anteater, anteater')
+label wb 1: (102, 'echidna, spiny anteater, anteater')
+label wb 2: (102, 'echidna, spiny anteater, anteater')
+label wb 3: (102, 'echidna, spiny anteater, anteater')
+label wb 4: (102, 'echidna, spiny anteater, anteater')
+label wb 5: (102, 'echidna, spiny anteater, anteater')
+label wb 6: (102, 'echidna, spiny anteater, anteater')
+label wb 7: (102, 'echidna, spiny anteater, anteater')
+label wb 8: (102, 'echidna, spiny anteater, anteater')
+label wb 9: (102, 'echidna, spiny anteater, anteater')
+
+
+n_iters: 10, iter_w: 43, loss: -5.655165672302246
+w: [0.11631734559904261, 0.08991087792801493, 0.08805184453109353, 0.08760345395250226, 0.12921742724604157, 0.11115122660436437, 0.05730514604010098, 0.07922842955528425, 0.18396053306981544, 0.05725371547374007]
+label victim: (102, 'echidna, spiny anteater, anteater')
+label wb 0: (102, 'echidna, spiny anteater, anteater')
+label wb 1: (102, 'echidna, spiny anteater, anteater')
+label wb 2: (102, 'echidna, spiny anteater, anteater')
+label wb 3: (102, 'echidna, spiny anteater, anteater')
+label wb 4: (102, 'echidna, spiny anteater, anteater')
+label wb 5: (102, 'echidna, spiny anteater, anteater')
+label wb 6: (102, 'echidna, spiny anteater, anteater')
+label wb 7: (102, 'echidna, spiny anteater, anteater')
+label wb 8: (102, 'echidna, spiny anteater, anteater')
+label wb 9: (102, 'echidna, spiny anteater, anteater')
+
+
+n_iters: 10, iter_w: 44, loss: -5.881255149841309
+w: [0.11623338334647705, 0.08960497580883744, 0.0876260052269319, 0.08741021273376404, 0.12983945396083624, 0.11137437871897189, 0.05669604879599846, 0.07888276518264246, 0.1857282988190442, 0.056604477406496274]
+label victim: (102, 'echidna, spiny anteater, anteater')
+label wb 0: (102, 'echidna, spiny anteater, anteater')
+label wb 1: (102, 'echidna, spiny anteater, anteater')
+label wb 2: (102, 'echidna, spiny anteater, anteater')
+label wb 3: (102, 'echidna, spiny anteater, anteater')
+label wb 4: (102, 'echidna, spiny anteater, anteater')
+label wb 5: (102, 'echidna, spiny anteater, anteater')
+label wb 6: (102, 'echidna, spiny anteater, anteater')
+label wb 7: (102, 'echidna, spiny anteater, anteater')
+label wb 8: (102, 'echidna, spiny anteater, anteater')
+label wb 9: (102, 'echidna, spiny anteater, anteater')
+
+
+n_iters: 10, iter_w: 45, loss: -5.6691131591796875
+w: [0.11619090985432426, 0.0891443047905344, 0.08726422417106479, 0.08717960706156033, 0.1304416196935564, 0.11158008016356676, 0.05598830852185524, 0.0785164688515925, 0.18775519523284523, 0.05593928165910022]
+label victim: (102, 'echidna, spiny anteater, anteater')
+label wb 0: (102, 'echidna, spiny anteater, anteater')
+label wb 1: (102, 'echidna, spiny anteater, anteater')
+label wb 2: (102, 'echidna, spiny anteater, anteater')
+label wb 3: (102, 'echidna, spiny anteater, anteater')
+label wb 4: (102, 'echidna, spiny anteater, anteater')
+label wb 5: (102, 'echidna, spiny anteater, anteater')
+label wb 6: (102, 'echidna, spiny anteater, anteater')
+label wb 7: (102, 'echidna, spiny anteater, anteater')
+label wb 8: (102, 'echidna, spiny anteater, anteater')
+label wb 9: (102, 'echidna, spiny anteater, anteater')
+
+
+n_iters: 10, iter_w: 46, loss: -3.822439193725586
+w: [0.11626905453865231, 0.0888802113623791, 0.08688413275629672, 0.08712112294417873, 0.1311265342176679, 0.11161911932289091, 0.05537617893250372, 0.07816637998126659, 0.18927416952484274, 0.055283096419321255]
+label victim: (102, 'echidna, spiny anteater, anteater')
+label wb 0: (102, 'echidna, spiny anteater, anteater')
+label wb 1: (102, 'echidna, spiny anteater, anteater')
+label wb 2: (102, 'echidna, spiny anteater, anteater')
+label wb 3: (102, 'echidna, spiny anteater, anteater')
+label wb 4: (102, 'echidna, spiny anteater, anteater')
+label wb 5: (102, 'echidna, spiny anteater, anteater')
+label wb 6: (102, 'echidna, spiny anteater, anteater')
+label wb 7: (102, 'echidna, spiny anteater, anteater')
+label wb 8: (102, 'echidna, spiny anteater, anteater')
+label wb 9: (102, 'echidna, spiny anteater, anteater')
+
+
+n_iters: 10, iter_w: 47, loss: -5.626888275146484
+w: [0.11639453432677778, 0.08861659958752452, 0.08635690291083865, 0.08698416823044877, 0.13156336371043892, 0.11170551363115883, 0.05472938355269877, 0.07782954839140606, 0.19112517018801572, 0.05469481547069187]
+label victim: (102, 'echidna, spiny anteater, anteater')
+label wb 0: (102, 'echidna, spiny anteater, anteater')
+label wb 1: (102, 'echidna, spiny anteater, anteater')
+label wb 2: (102, 'echidna, spiny anteater, anteater')
+label wb 3: (102, 'echidna, spiny anteater, anteater')
+label wb 4: (102, 'echidna, spiny anteater, anteater')
+label wb 5: (102, 'echidna, spiny anteater, anteater')
+label wb 6: (102, 'echidna, spiny anteater, anteater')
+label wb 7: (102, 'echidna, spiny anteater, anteater')
+label wb 8: (102, 'echidna, spiny anteater, anteater')
+label wb 9: (102, 'echidna, spiny anteater, anteater')
+
+
+n_iters: 10, iter_w: 48, loss: -6.519325256347656
+w: [0.11636536029494207, 0.08840457320347724, 0.08586439371416715, 0.08683702693719283, 0.13236890903789963, 0.11174609934757992, 0.05415669784986328, 0.07756168262173471, 0.19258341800459713, 0.054111838988546025]
+label victim: (102, 'echidna, spiny anteater, anteater')
+label wb 0: (102, 'echidna, spiny anteater, anteater')
+label wb 1: (102, 'echidna, spiny anteater, anteater')
+label wb 2: (102, 'echidna, spiny anteater, anteater')
+label wb 3: (102, 'echidna, spiny anteater, anteater')
+label wb 4: (102, 'echidna, spiny anteater, anteater')
+label wb 5: (102, 'echidna, spiny anteater, anteater')
+label wb 6: (102, 'echidna, spiny anteater, anteater')
+label wb 7: (102, 'echidna, spiny anteater, anteater')
+label wb 8: (102, 'echidna, spiny anteater, anteater')
+label wb 9: (102, 'echidna, spiny anteater, anteater')
+
+
+n_iters: 10, iter_w: 49, loss: -3.9869422912597656
+w: [0.11638701250615228, 0.088169729742738, 0.08536617696190732, 0.08675519998084351, 0.1328931872071765, 0.11190830740883183, 0.053574476663666916, 0.07726350977114514, 0.19417637320415485, 0.053506026553383726]
+label victim: (102, 'echidna, spiny anteater, anteater')
+label wb 0: (102, 'echidna, spiny anteater, anteater')
+label wb 1: (102, 'echidna, spiny anteater, anteater')
+label wb 2: (102, 'echidna, spiny anteater, anteater')
+label wb 3: (102, 'echidna, spiny anteater, anteater')
+label wb 4: (102, 'echidna, spiny anteater, anteater')
+label wb 5: (102, 'echidna, spiny anteater, anteater')
+label wb 6: (102, 'echidna, spiny anteater, anteater')
+label wb 7: (102, 'echidna, spiny anteater, anteater')
+label wb 8: (102, 'echidna, spiny anteater, anteater')
+label wb 9: (102, 'echidna, spiny anteater, anteater')
+
+

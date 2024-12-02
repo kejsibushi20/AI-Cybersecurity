@@ -1,0 +1,750 @@
+n_iters: 10, iter_w: 0, loss: -0.8465757369995117
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+label victim: (679, 'necklace')
+label wb 0: (679, 'necklace')
+label wb 1: (679, 'necklace')
+label wb 2: (679, 'necklace')
+label wb 3: (679, 'necklace')
+label wb 4: (679, 'necklace')
+label wb 5: (679, 'necklace')
+label wb 6: (679, 'necklace')
+label wb 7: (679, 'necklace')
+label wb 8: (679, 'necklace')
+label wb 9: (679, 'necklace')
+
+
+n_iters: 10, iter_w: 1, loss: -2.3134546279907227
+w: [0.1000514503229272, 0.10003405599143306, 0.1000285986898339, 0.09990557509119136, 0.10003803836440373, 0.10014143129622982, 0.10004863389767946, 0.10003567127637251, 0.10003405012838164, 0.09968249494154725]
+label victim: (679, 'necklace')
+label wb 0: (679, 'necklace')
+label wb 1: (679, 'necklace')
+label wb 2: (679, 'necklace')
+label wb 3: (679, 'necklace')
+label wb 4: (679, 'necklace')
+label wb 5: (679, 'necklace')
+label wb 6: (679, 'necklace')
+label wb 7: (679, 'necklace')
+label wb 8: (679, 'necklace')
+label wb 9: (679, 'necklace')
+
+
+n_iters: 10, iter_w: 2, loss: -0.9943208694458008
+w: [0.09999077018865243, 0.1000152854884986, 0.09990211191327603, 0.09937360941775251, 0.10036603701045614, 0.1007211256497349, 0.09974020103673183, 0.09985555238189989, 0.10107354212289167, 0.09896176479010606]
+label victim: (679, 'necklace')
+label wb 0: (679, 'necklace')
+label wb 1: (679, 'necklace')
+label wb 2: (679, 'necklace')
+label wb 3: (679, 'necklace')
+label wb 4: (679, 'necklace')
+label wb 5: (679, 'necklace')
+label wb 6: (679, 'necklace')
+label wb 7: (679, 'necklace')
+label wb 8: (679, 'necklace')
+label wb 9: (679, 'necklace')
+
+
+n_iters: 10, iter_w: 3, loss: 0.2851247787475586
+w: [0.1000584200403974, 0.10007877660642607, 0.09991250506503725, 0.0987523664249035, 0.100689725495524, 0.10135624693330082, 0.09927459654892272, 0.099581474899811, 0.10220961630492736, 0.0980862716807499]
+label victim: (496, 'Christmas stocking')
+label wb 0: (679, 'necklace')
+label wb 1: (679, 'necklace')
+label wb 2: (679, 'necklace')
+label wb 3: (679, 'necklace')
+label wb 4: (679, 'necklace')
+label wb 5: (679, 'necklace')
+label wb 6: (679, 'necklace')
+label wb 7: (679, 'necklace')
+label wb 8: (679, 'necklace')
+label wb 9: (679, 'necklace')
+
+
+n_iters: 10, iter_w: 4, loss: -0.6416721343994141
+w: [0.10013497104550381, 0.10008163796532928, 0.1000448639405344, 0.09813037456057827, 0.10108051556423481, 0.1020299432875169, 0.09870716580372894, 0.09919445759014353, 0.10350699023606291, 0.09708908000636703]
+label victim: (679, 'necklace')
+label wb 0: (679, 'necklace')
+label wb 1: (679, 'necklace')
+label wb 2: (679, 'necklace')
+label wb 3: (679, 'necklace')
+label wb 4: (679, 'necklace')
+label wb 5: (679, 'necklace')
+label wb 6: (679, 'necklace')
+label wb 7: (679, 'necklace')
+label wb 8: (679, 'necklace')
+label wb 9: (679, 'necklace')
+
+
+n_iters: 10, iter_w: 5, loss: 2.192101001739502
+w: [0.10017998745827833, 0.10006354930722625, 0.10014144874847385, 0.09747402073279103, 0.10140324981586296, 0.10278856400691973, 0.0980634633187716, 0.09887744919125234, 0.10499653432772207, 0.0960117330927019]
+label victim: (496, 'Christmas stocking')
+label wb 0: (679, 'necklace')
+label wb 1: (679, 'necklace')
+label wb 2: (679, 'necklace')
+label wb 3: (679, 'necklace')
+label wb 4: (679, 'necklace')
+label wb 5: (679, 'necklace')
+label wb 6: (679, 'necklace')
+label wb 7: (679, 'necklace')
+label wb 8: (679, 'necklace')
+label wb 9: (679, 'necklace')
+
+
+n_iters: 10, iter_w: 6, loss: -0.11618614196777344
+w: [0.10022358255785113, 0.10001258918247331, 0.10011840042545335, 0.09682726764420965, 0.10174822083764437, 0.103634095306568, 0.09739071510436072, 0.09845035415563812, 0.10666245312004176, 0.0949323216657597]
+label victim: (679, 'necklace')
+label wb 0: (679, 'necklace')
+label wb 1: (679, 'necklace')
+label wb 2: (679, 'necklace')
+label wb 3: (679, 'necklace')
+label wb 4: (679, 'necklace')
+label wb 5: (679, 'necklace')
+label wb 6: (679, 'necklace')
+label wb 7: (679, 'necklace')
+label wb 8: (679, 'necklace')
+label wb 9: (679, 'necklace')
+
+
+n_iters: 10, iter_w: 7, loss: 2.826514720916748
+w: [0.10019676189227088, 0.10000455835941198, 0.10011165227196689, 0.09614069904588386, 0.10204966663283803, 0.10452581996735202, 0.09662850454063408, 0.09794972283589469, 0.10849787342276694, 0.09389474103098051]
+label victim: (496, 'Christmas stocking')
+label wb 0: (679, 'necklace')
+label wb 1: (679, 'necklace')
+label wb 2: (679, 'necklace')
+label wb 3: (679, 'necklace')
+label wb 4: (679, 'necklace')
+label wb 5: (679, 'necklace')
+label wb 6: (679, 'necklace')
+label wb 7: (679, 'necklace')
+label wb 8: (679, 'necklace')
+label wb 9: (679, 'necklace')
+
+
+n_iters: 10, iter_w: 8, loss: -0.7687082290649414
+w: [0.10017924770048985, 0.10001896161444555, 0.10011477918842421, 0.09550118036376146, 0.10229565937261927, 0.10528297014423828, 0.09592135375275657, 0.09750823482828531, 0.11039773552393407, 0.09277987751104538]
+label victim: (679, 'necklace')
+label wb 0: (679, 'necklace')
+label wb 1: (679, 'necklace')
+label wb 2: (679, 'necklace')
+label wb 3: (679, 'necklace')
+label wb 4: (679, 'necklace')
+label wb 5: (679, 'necklace')
+label wb 6: (679, 'necklace')
+label wb 7: (679, 'necklace')
+label wb 8: (679, 'necklace')
+label wb 9: (679, 'necklace')
+
+
+n_iters: 10, iter_w: 9, loss: -0.8330821990966797
+w: [0.1001303647141763, 0.09994845912492467, 0.10013088728346042, 0.09481626426822251, 0.10254001842897521, 0.10631412848798098, 0.09519616993519013, 0.09707092731685824, 0.11217264922607392, 0.09168013121413775]
+label victim: (679, 'necklace')
+label wb 0: (679, 'necklace')
+label wb 1: (679, 'necklace')
+label wb 2: (679, 'necklace')
+label wb 3: (679, 'necklace')
+label wb 4: (679, 'necklace')
+label wb 5: (679, 'necklace')
+label wb 6: (679, 'necklace')
+label wb 7: (679, 'necklace')
+label wb 8: (679, 'necklace')
+label wb 9: (679, 'necklace')
+
+
+n_iters: 10, iter_w: 10, loss: -0.8094329833984375
+w: [0.10014275243874518, 0.09988622879597138, 0.10006304506921734, 0.09416645576872043, 0.10295643823459076, 0.10706876283580805, 0.09445076614581013, 0.09662659068184687, 0.11402336382507358, 0.0906155962042164]
+label victim: (679, 'necklace')
+label wb 0: (679, 'necklace')
+label wb 1: (679, 'necklace')
+label wb 2: (679, 'necklace')
+label wb 3: (679, 'necklace')
+label wb 4: (679, 'necklace')
+label wb 5: (679, 'necklace')
+label wb 6: (679, 'necklace')
+label wb 7: (679, 'necklace')
+label wb 8: (679, 'necklace')
+label wb 9: (679, 'necklace')
+
+
+n_iters: 10, iter_w: 11, loss: 0.21210193634033203
+w: [0.10015227449703015, 0.09971522182522818, 0.10011072257297828, 0.09351545179379177, 0.10323495804158164, 0.10785294206193714, 0.09367351533194843, 0.09613978230026016, 0.11610588173613394, 0.0894992498391104]
+label victim: (641, 'maraca')
+label wb 0: (679, 'necklace')
+label wb 1: (679, 'necklace')
+label wb 2: (679, 'necklace')
+label wb 3: (679, 'necklace')
+label wb 4: (679, 'necklace')
+label wb 5: (679, 'necklace')
+label wb 6: (679, 'necklace')
+label wb 7: (679, 'necklace')
+label wb 8: (679, 'necklace')
+label wb 9: (679, 'necklace')
+
+
+n_iters: 10, iter_w: 12, loss: 2.524890422821045
+w: [0.10012411707999204, 0.09949558718000824, 0.10019811102494894, 0.09286257708215923, 0.10367822364628734, 0.10866694540459977, 0.09288903871651057, 0.09556123309197047, 0.11813359578855466, 0.08839057098496877]
+label victim: (808, 'sombrero')
+label wb 0: (679, 'necklace')
+label wb 1: (679, 'necklace')
+label wb 2: (679, 'necklace')
+label wb 3: (679, 'necklace')
+label wb 4: (679, 'necklace')
+label wb 5: (679, 'necklace')
+label wb 6: (679, 'necklace')
+label wb 7: (679, 'necklace')
+label wb 8: (679, 'necklace')
+label wb 9: (679, 'necklace')
+
+
+n_iters: 10, iter_w: 13, loss: 2.6272835731506348
+w: [0.10003695486227865, 0.09924227389797033, 0.10020993154521972, 0.09217882392752871, 0.10394384156179125, 0.1096259996994766, 0.09205105176561588, 0.09507506615028781, 0.12034576998050389, 0.08729028660932715]
+label victim: (496, 'Christmas stocking')
+label wb 0: (679, 'necklace')
+label wb 1: (679, 'necklace')
+label wb 2: (679, 'necklace')
+label wb 3: (679, 'necklace')
+label wb 4: (679, 'necklace')
+label wb 5: (679, 'necklace')
+label wb 6: (679, 'necklace')
+label wb 7: (679, 'necklace')
+label wb 8: (679, 'necklace')
+label wb 9: (679, 'necklace')
+
+
+n_iters: 10, iter_w: 14, loss: 0.38045692443847656
+w: [0.09999483362384122, 0.09902383136463018, 0.10023380479291562, 0.09152040249070054, 0.10423279560818227, 0.11052543749358355, 0.09128980710829979, 0.09448121814351357, 0.12253360749797981, 0.08616426187635344]
+label victim: (641, 'maraca')
+label wb 0: (679, 'necklace')
+label wb 1: (679, 'necklace')
+label wb 2: (679, 'necklace')
+label wb 3: (679, 'necklace')
+label wb 4: (679, 'necklace')
+label wb 5: (679, 'necklace')
+label wb 6: (679, 'necklace')
+label wb 7: (679, 'necklace')
+label wb 8: (679, 'necklace')
+label wb 9: (679, 'necklace')
+
+
+n_iters: 10, iter_w: 15, loss: 0.2567920684814453
+w: [0.1000204512592308, 0.09872816542369725, 0.10019127637998505, 0.0908527403894332, 0.10453042662668796, 0.11145506592308199, 0.0905105583263249, 0.09397971750461795, 0.12458227228266372, 0.08514932588427702]
+label victim: (911, 'wool, woolen, woollen')
+label wb 0: (679, 'necklace')
+label wb 1: (679, 'necklace')
+label wb 2: (679, 'necklace')
+label wb 3: (679, 'necklace')
+label wb 4: (679, 'necklace')
+label wb 5: (679, 'necklace')
+label wb 6: (679, 'necklace')
+label wb 7: (679, 'necklace')
+label wb 8: (679, 'necklace')
+label wb 9: (679, 'necklace')
+
+
+n_iters: 10, iter_w: 16, loss: -0.6908283233642578
+w: [0.1000275137098729, 0.09842332555439894, 0.10022952710957636, 0.09014559083619966, 0.10483297508582638, 0.11238308725631843, 0.08979175536491792, 0.09342111881056919, 0.1266615021078708, 0.08408360416444942]
+label victim: (679, 'necklace')
+label wb 0: (679, 'necklace')
+label wb 1: (679, 'necklace')
+label wb 2: (679, 'necklace')
+label wb 3: (679, 'necklace')
+label wb 4: (679, 'necklace')
+label wb 5: (679, 'necklace')
+label wb 6: (679, 'necklace')
+label wb 7: (679, 'necklace')
+label wb 8: (679, 'necklace')
+label wb 9: (679, 'necklace')
+
+
+n_iters: 10, iter_w: 17, loss: 2.746870994567871
+w: [0.10002729732694537, 0.09806964707703926, 0.10021768826341687, 0.0894500688489043, 0.10513615804618927, 0.11337919783708954, 0.08902476728897338, 0.09285258963330427, 0.12879904644365703, 0.08304353923448066]
+label victim: (496, 'Christmas stocking')
+label wb 0: (679, 'necklace')
+label wb 1: (679, 'necklace')
+label wb 2: (679, 'necklace')
+label wb 3: (679, 'necklace')
+label wb 4: (679, 'necklace')
+label wb 5: (679, 'necklace')
+label wb 6: (679, 'necklace')
+label wb 7: (679, 'necklace')
+label wb 8: (679, 'necklace')
+label wb 9: (679, 'necklace')
+
+
+n_iters: 10, iter_w: 18, loss: 0.8111109733581543
+w: [0.10014165268610166, 0.09774622103596906, 0.10015182486762025, 0.08876787419715208, 0.10552733242811982, 0.11426075272909164, 0.08821310863294636, 0.09234235466656697, 0.1307559673674603, 0.08209291138897189]
+label victim: (496, 'Christmas stocking')
+label wb 0: (679, 'necklace')
+label wb 1: (679, 'necklace')
+label wb 2: (679, 'necklace')
+label wb 3: (679, 'necklace')
+label wb 4: (679, 'necklace')
+label wb 5: (679, 'necklace')
+label wb 6: (679, 'necklace')
+label wb 7: (679, 'necklace')
+label wb 8: (679, 'necklace')
+label wb 9: (679, 'necklace')
+
+
+n_iters: 10, iter_w: 19, loss: -1.120976448059082
+w: [0.10014783672035554, 0.0973669695953355, 0.10017795594524899, 0.08808149943489145, 0.10597754464355745, 0.11513056295827923, 0.08752024927186343, 0.09184360606002327, 0.13266032076692338, 0.08109345460352166]
+label victim: (679, 'necklace')
+label wb 0: (679, 'necklace')
+label wb 1: (679, 'necklace')
+label wb 2: (679, 'necklace')
+label wb 3: (679, 'necklace')
+label wb 4: (679, 'necklace')
+label wb 5: (679, 'necklace')
+label wb 6: (679, 'necklace')
+label wb 7: (679, 'necklace')
+label wb 8: (679, 'necklace')
+label wb 9: (679, 'necklace')
+
+
+n_iters: 10, iter_w: 20, loss: 4.796611785888672
+w: [0.10003508358039627, 0.09703007789624103, 0.10022130707268412, 0.0873726362374272, 0.1063691375800113, 0.11607266370040696, 0.08690065586435265, 0.09143138717093464, 0.1344944260769995, 0.08007262482054628]
+label victim: (406, 'altar')
+label wb 0: (679, 'necklace')
+label wb 1: (679, 'necklace')
+label wb 2: (679, 'necklace')
+label wb 3: (679, 'necklace')
+label wb 4: (679, 'necklace')
+label wb 5: (679, 'necklace')
+label wb 6: (679, 'necklace')
+label wb 7: (679, 'necklace')
+label wb 8: (679, 'necklace')
+label wb 9: (679, 'necklace')
+
+
+n_iters: 10, iter_w: 21, loss: 3.589616298675537
+w: [0.09990981590935057, 0.09671885434914296, 0.10023176184801728, 0.08676575922034022, 0.10668074661202216, 0.116924452108228, 0.08610449991615614, 0.09090416855627059, 0.13668704016805092, 0.07907290131242117]
+label victim: (850, 'teddy, teddy bear')
+label wb 0: (679, 'necklace')
+label wb 1: (679, 'necklace')
+label wb 2: (679, 'necklace')
+label wb 3: (679, 'necklace')
+label wb 4: (679, 'necklace')
+label wb 5: (679, 'necklace')
+label wb 6: (679, 'necklace')
+label wb 7: (679, 'necklace')
+label wb 8: (679, 'necklace')
+label wb 9: (679, 'necklace')
+
+
+n_iters: 10, iter_w: 22, loss: 1.1702699661254883
+w: [0.09984192991474697, 0.09649059312276216, 0.10029228159303762, 0.08614595130939125, 0.10691847753892682, 0.11765779055904915, 0.0854155714853877, 0.09047443488095673, 0.1386332806749865, 0.07812968892075499]
+label victim: (496, 'Christmas stocking')
+label wb 0: (679, 'necklace')
+label wb 1: (679, 'necklace')
+label wb 2: (679, 'necklace')
+label wb 3: (679, 'necklace')
+label wb 4: (679, 'necklace')
+label wb 5: (679, 'necklace')
+label wb 6: (679, 'necklace')
+label wb 7: (679, 'necklace')
+label wb 8: (679, 'necklace')
+label wb 9: (679, 'necklace')
+
+
+n_iters: 10, iter_w: 23, loss: -0.24950790405273438
+w: [0.09975284905325014, 0.0962575187564007, 0.10025925891804233, 0.08551124544773069, 0.10714002761948319, 0.11856171316522653, 0.08464387120938423, 0.0900358572896217, 0.14062480058758584, 0.07721285795327472]
+label victim: (679, 'necklace')
+label wb 0: (679, 'necklace')
+label wb 1: (679, 'necklace')
+label wb 2: (679, 'necklace')
+label wb 3: (679, 'necklace')
+label wb 4: (679, 'necklace')
+label wb 5: (679, 'necklace')
+label wb 6: (679, 'necklace')
+label wb 7: (679, 'necklace')
+label wb 8: (679, 'necklace')
+label wb 9: (679, 'necklace')
+
+
+n_iters: 10, iter_w: 24, loss: 1.3437390327453613
+w: [0.0997677108353496, 0.09603101973296005, 0.10020438572175329, 0.08493722720034423, 0.10751808096402643, 0.11925810064827977, 0.08390334147177969, 0.08957766173397595, 0.1425291930766114, 0.07627327861491963]
+label victim: (496, 'Christmas stocking')
+label wb 0: (679, 'necklace')
+label wb 1: (679, 'necklace')
+label wb 2: (679, 'necklace')
+label wb 3: (679, 'necklace')
+label wb 4: (679, 'necklace')
+label wb 5: (679, 'necklace')
+label wb 6: (679, 'necklace')
+label wb 7: (679, 'necklace')
+label wb 8: (679, 'necklace')
+label wb 9: (679, 'necklace')
+
+
+n_iters: 10, iter_w: 25, loss: 2.7199411392211914
+w: [0.09972375845657785, 0.0957080878461512, 0.10011823121674236, 0.084313771887082, 0.1078555113239551, 0.12001340152271972, 0.08326191043437874, 0.08909908895651814, 0.14456099201345166, 0.07534524634242312]
+label victim: (496, 'Christmas stocking')
+label wb 0: (679, 'necklace')
+label wb 1: (679, 'necklace')
+label wb 2: (679, 'necklace')
+label wb 3: (679, 'necklace')
+label wb 4: (679, 'necklace')
+label wb 5: (679, 'necklace')
+label wb 6: (679, 'necklace')
+label wb 7: (679, 'necklace')
+label wb 8: (679, 'necklace')
+label wb 9: (679, 'necklace')
+
+
+n_iters: 10, iter_w: 26, loss: -1.4062767028808594
+w: [0.09961088911253617, 0.0954010482092047, 0.10007545990887318, 0.08369258137577794, 0.10824774792635718, 0.12087277214648981, 0.08263045270370159, 0.0886385091352999, 0.14629261132340082, 0.07453792815835852]
+label victim: (679, 'necklace')
+label wb 0: (679, 'necklace')
+label wb 1: (679, 'necklace')
+label wb 2: (679, 'necklace')
+label wb 3: (679, 'necklace')
+label wb 4: (679, 'necklace')
+label wb 5: (679, 'necklace')
+label wb 6: (679, 'necklace')
+label wb 7: (679, 'necklace')
+label wb 8: (679, 'necklace')
+label wb 9: (679, 'necklace')
+
+
+n_iters: 10, iter_w: 27, loss: 0.8761777877807617
+w: [0.09942457154425637, 0.09506036239089445, 0.10005279399464145, 0.08305020443293315, 0.10848333539090173, 0.1217353192785928, 0.08196726387205173, 0.08826433310566364, 0.1482940631405129, 0.07366775284955172]
+label victim: (496, 'Christmas stocking')
+label wb 0: (679, 'necklace')
+label wb 1: (679, 'necklace')
+label wb 2: (679, 'necklace')
+label wb 3: (679, 'necklace')
+label wb 4: (679, 'necklace')
+label wb 5: (679, 'necklace')
+label wb 6: (679, 'necklace')
+label wb 7: (679, 'necklace')
+label wb 8: (679, 'necklace')
+label wb 9: (679, 'necklace')
+
+
+n_iters: 10, iter_w: 28, loss: 0.952549934387207
+w: [0.0992724982669045, 0.09481250580997311, 0.10007578893878658, 0.08250461365310675, 0.10872104696379038, 0.1224603574656113, 0.08128511661797434, 0.08783310078952043, 0.15023443388939525, 0.07280053760493742]
+label victim: (496, 'Christmas stocking')
+label wb 0: (679, 'necklace')
+label wb 1: (679, 'necklace')
+label wb 2: (679, 'necklace')
+label wb 3: (679, 'necklace')
+label wb 4: (679, 'necklace')
+label wb 5: (679, 'necklace')
+label wb 6: (679, 'necklace')
+label wb 7: (679, 'necklace')
+label wb 8: (679, 'necklace')
+label wb 9: (679, 'necklace')
+
+
+n_iters: 10, iter_w: 29, loss: 0.40917301177978516
+w: [0.09915937580005432, 0.09450309377882059, 0.10007188300314497, 0.08193693745139803, 0.10891166031309442, 0.1231699353087949, 0.08060647176525305, 0.08739082648923976, 0.15229877305110182, 0.07195104303909813]
+label victim: (855, 'thimble')
+label wb 0: (679, 'necklace')
+label wb 1: (679, 'necklace')
+label wb 2: (679, 'necklace')
+label wb 3: (679, 'necklace')
+label wb 4: (679, 'necklace')
+label wb 5: (679, 'necklace')
+label wb 6: (679, 'necklace')
+label wb 7: (679, 'necklace')
+label wb 8: (679, 'necklace')
+label wb 9: (679, 'necklace')
+
+
+n_iters: 10, iter_w: 30, loss: -2.5297250747680664
+w: [0.09896883902512314, 0.0942610832790948, 0.099965867928367, 0.08136842379050777, 0.1091583108056176, 0.12387516592059349, 0.07996780170360429, 0.08698880043828101, 0.15431297826765428, 0.07113272884115666]
+label victim: (679, 'necklace')
+label wb 0: (679, 'necklace')
+label wb 1: (679, 'necklace')
+label wb 2: (679, 'necklace')
+label wb 3: (679, 'necklace')
+label wb 4: (679, 'necklace')
+label wb 5: (679, 'necklace')
+label wb 6: (679, 'necklace')
+label wb 7: (679, 'necklace')
+label wb 8: (679, 'necklace')
+label wb 9: (679, 'necklace')
+
+
+n_iters: 10, iter_w: 31, loss: -1.082442283630371
+w: [0.09891195014286057, 0.09402418829042287, 0.0998550067982184, 0.08084402874729543, 0.10936333208690666, 0.12462866723238539, 0.07929622224201778, 0.08647704209606315, 0.15628337141647863, 0.07031619094735102]
+label victim: (679, 'necklace')
+label wb 0: (679, 'necklace')
+label wb 1: (679, 'necklace')
+label wb 2: (679, 'necklace')
+label wb 3: (679, 'necklace')
+label wb 4: (679, 'necklace')
+label wb 5: (679, 'necklace')
+label wb 6: (679, 'necklace')
+label wb 7: (679, 'necklace')
+label wb 8: (679, 'necklace')
+label wb 9: (679, 'necklace')
+
+
+n_iters: 10, iter_w: 32, loss: -0.7754850387573242
+w: [0.09872890564265593, 0.09365676423813012, 0.09983859748505627, 0.08027049556470164, 0.10958766748155792, 0.12531874547986374, 0.07876266256320673, 0.08610814966312559, 0.1582273014048169, 0.06950071047688508]
+label victim: (679, 'necklace')
+label wb 0: (679, 'necklace')
+label wb 1: (679, 'necklace')
+label wb 2: (679, 'necklace')
+label wb 3: (679, 'necklace')
+label wb 4: (679, 'necklace')
+label wb 5: (679, 'necklace')
+label wb 6: (679, 'necklace')
+label wb 7: (679, 'necklace')
+label wb 8: (679, 'necklace')
+label wb 9: (679, 'necklace')
+
+
+n_iters: 10, iter_w: 33, loss: -1.2311830520629883
+w: [0.09860592673658372, 0.09331832817130505, 0.09979827588932424, 0.07976623706653042, 0.10992568593038234, 0.12606204755862185, 0.07809611034439817, 0.08566573481647678, 0.16011806192212555, 0.06864359156425198]
+label victim: (679, 'necklace')
+label wb 0: (679, 'necklace')
+label wb 1: (679, 'necklace')
+label wb 2: (679, 'necklace')
+label wb 3: (679, 'necklace')
+label wb 4: (679, 'necklace')
+label wb 5: (679, 'necklace')
+label wb 6: (679, 'necklace')
+label wb 7: (679, 'necklace')
+label wb 8: (679, 'necklace')
+label wb 9: (679, 'necklace')
+
+
+n_iters: 10, iter_w: 34, loss: -1.370558738708496
+w: [0.09844474312905364, 0.09298769679704803, 0.09970546507417558, 0.07924373513418538, 0.11020783142090859, 0.12669933890639176, 0.07752283315673587, 0.0853016586132279, 0.16201504928987734, 0.06787164847839587]
+label victim: (679, 'necklace')
+label wb 0: (679, 'necklace')
+label wb 1: (679, 'necklace')
+label wb 2: (679, 'necklace')
+label wb 3: (679, 'necklace')
+label wb 4: (679, 'necklace')
+label wb 5: (679, 'necklace')
+label wb 6: (679, 'necklace')
+label wb 7: (679, 'necklace')
+label wb 8: (679, 'necklace')
+label wb 9: (679, 'necklace')
+
+
+n_iters: 10, iter_w: 35, loss: 1.0282583236694336
+w: [0.09825147349683397, 0.09266280810835349, 0.09956334588406461, 0.07868365218777945, 0.1105041260947431, 0.12746597650147284, 0.07693751609158496, 0.08483994422149088, 0.16400485732075892, 0.06708630009291786]
+label victim: (496, 'Christmas stocking')
+label wb 0: (679, 'necklace')
+label wb 1: (679, 'necklace')
+label wb 2: (679, 'necklace')
+label wb 3: (679, 'necklace')
+label wb 4: (679, 'necklace')
+label wb 5: (679, 'necklace')
+label wb 6: (679, 'necklace')
+label wb 7: (679, 'necklace')
+label wb 8: (679, 'necklace')
+label wb 9: (679, 'necklace')
+
+
+n_iters: 10, iter_w: 36, loss: -2.0924882888793945
+w: [0.09813991785088037, 0.09236425875730926, 0.09948192601720965, 0.07822452279351626, 0.11083439989596103, 0.1281208682879337, 0.07634260140517259, 0.0844602459336669, 0.1657028084007223, 0.06632845065762773]
+label victim: (679, 'necklace')
+label wb 0: (679, 'necklace')
+label wb 1: (679, 'necklace')
+label wb 2: (679, 'necklace')
+label wb 3: (679, 'necklace')
+label wb 4: (679, 'necklace')
+label wb 5: (679, 'necklace')
+label wb 6: (679, 'necklace')
+label wb 7: (679, 'necklace')
+label wb 8: (679, 'necklace')
+label wb 9: (679, 'necklace')
+
+
+n_iters: 10, iter_w: 37, loss: -1.5170974731445312
+w: [0.09793902378926321, 0.09211870397751536, 0.09934374633206146, 0.07773579927179043, 0.11103953311991288, 0.12886211769391948, 0.07577708648464787, 0.0839850499991217, 0.167581716600137, 0.06561722273163076]
+label victim: (679, 'necklace')
+label wb 0: (679, 'necklace')
+label wb 1: (679, 'necklace')
+label wb 2: (679, 'necklace')
+label wb 3: (679, 'necklace')
+label wb 4: (679, 'necklace')
+label wb 5: (679, 'necklace')
+label wb 6: (679, 'necklace')
+label wb 7: (679, 'necklace')
+label wb 8: (679, 'necklace')
+label wb 9: (679, 'necklace')
+
+
+n_iters: 10, iter_w: 38, loss: 1.8630118370056152
+w: [0.09796986987224572, 0.0917718163400778, 0.09929608631784778, 0.0772691691213888, 0.11126848459013386, 0.12955165949996753, 0.0752361201862765, 0.08353010968144493, 0.1692768470074421, 0.06482983738317494]
+label victim: (406, 'altar')
+label wb 0: (679, 'necklace')
+label wb 1: (679, 'necklace')
+label wb 2: (679, 'necklace')
+label wb 3: (679, 'necklace')
+label wb 4: (679, 'necklace')
+label wb 5: (679, 'necklace')
+label wb 6: (679, 'necklace')
+label wb 7: (679, 'necklace')
+label wb 8: (679, 'necklace')
+label wb 9: (679, 'necklace')
+
+
+n_iters: 10, iter_w: 39, loss: -0.5100131034851074
+w: [0.09783643558068586, 0.09144284645816085, 0.09916865337828, 0.07680819444620865, 0.11146298542805821, 0.1302862166822087, 0.07465658736528118, 0.083103307737997, 0.17114631853091972, 0.06408845439219987]
+label victim: (679, 'necklace')
+label wb 0: (679, 'necklace')
+label wb 1: (679, 'necklace')
+label wb 2: (679, 'necklace')
+label wb 3: (679, 'necklace')
+label wb 4: (679, 'necklace')
+label wb 5: (679, 'necklace')
+label wb 6: (679, 'necklace')
+label wb 7: (679, 'necklace')
+label wb 8: (679, 'necklace')
+label wb 9: (679, 'necklace')
+
+
+n_iters: 10, iter_w: 40, loss: 0.9101123809814453
+w: [0.09783261939987119, 0.09118690324257107, 0.09907659608891467, 0.07631021879356141, 0.1116874311594828, 0.13076711432211147, 0.07409955348038848, 0.0826701504670709, 0.1730113081792717, 0.06335810486675633]
+label victim: (641, 'maraca')
+label wb 0: (679, 'necklace')
+label wb 1: (679, 'necklace')
+label wb 2: (679, 'necklace')
+label wb 3: (679, 'necklace')
+label wb 4: (679, 'necklace')
+label wb 5: (679, 'necklace')
+label wb 6: (679, 'necklace')
+label wb 7: (679, 'necklace')
+label wb 8: (679, 'necklace')
+label wb 9: (679, 'necklace')
+
+
+n_iters: 10, iter_w: 41, loss: 2.82033634185791
+w: [0.09778076598541512, 0.09089984775933116, 0.09888379650776681, 0.07584876731106557, 0.11187021580919712, 0.13131650450906235, 0.07361297046009584, 0.08229426399191823, 0.17482418545154488, 0.06266868221460287]
+label victim: (496, 'Christmas stocking')
+label wb 0: (679, 'necklace')
+label wb 1: (679, 'necklace')
+label wb 2: (679, 'necklace')
+label wb 3: (679, 'necklace')
+label wb 4: (679, 'necklace')
+label wb 5: (679, 'necklace')
+label wb 6: (679, 'necklace')
+label wb 7: (679, 'necklace')
+label wb 8: (679, 'necklace')
+label wb 9: (679, 'necklace')
+
+
+n_iters: 10, iter_w: 42, loss: 3.4605960845947266
+w: [0.09767827096461995, 0.09054764551382757, 0.09878672665154221, 0.0754211910249446, 0.11216815470868259, 0.13190876493979575, 0.07313969926008515, 0.08196104633380843, 0.17634118159357162, 0.062047319009122054]
+label victim: (496, 'Christmas stocking')
+label wb 0: (679, 'necklace')
+label wb 1: (679, 'necklace')
+label wb 2: (679, 'necklace')
+label wb 3: (679, 'necklace')
+label wb 4: (679, 'necklace')
+label wb 5: (679, 'necklace')
+label wb 6: (679, 'necklace')
+label wb 7: (679, 'necklace')
+label wb 8: (679, 'necklace')
+label wb 9: (679, 'necklace')
+
+
+n_iters: 10, iter_w: 43, loss: -0.6312589645385742
+w: [0.09751954957241975, 0.09033982952772858, 0.09873163145217048, 0.0750276806749004, 0.11247256489886474, 0.13240242446579875, 0.07267032887623226, 0.08166721082273812, 0.17773780272041442, 0.06143097698873244]
+label victim: (679, 'necklace')
+label wb 0: (679, 'necklace')
+label wb 1: (679, 'necklace')
+label wb 2: (679, 'necklace')
+label wb 3: (679, 'necklace')
+label wb 4: (679, 'necklace')
+label wb 5: (679, 'necklace')
+label wb 6: (679, 'necklace')
+label wb 7: (679, 'necklace')
+label wb 8: (679, 'necklace')
+label wb 9: (679, 'necklace')
+
+
+n_iters: 10, iter_w: 44, loss: 2.950826644897461
+w: [0.09732991345574948, 0.08999092123627667, 0.09871571671152785, 0.07454931077828543, 0.11274550758145721, 0.13299541097312156, 0.0721481334913255, 0.08131562054050923, 0.17942346389744818, 0.06078600133429887]
+label victim: (406, 'altar')
+label wb 0: (679, 'necklace')
+label wb 1: (679, 'necklace')
+label wb 2: (679, 'necklace')
+label wb 3: (679, 'necklace')
+label wb 4: (679, 'necklace')
+label wb 5: (679, 'necklace')
+label wb 6: (679, 'necklace')
+label wb 7: (679, 'necklace')
+label wb 8: (679, 'necklace')
+label wb 9: (679, 'necklace')
+
+
+n_iters: 10, iter_w: 45, loss: 4.03713846206665
+w: [0.09718827647356745, 0.0897511187418695, 0.09859800679870225, 0.07411787684894848, 0.11285045965732173, 0.13374770095097746, 0.07168721446552284, 0.08098594291014696, 0.18094477599741407, 0.06012862715552923]
+label victim: (496, 'Christmas stocking')
+label wb 0: (679, 'necklace')
+label wb 1: (679, 'necklace')
+label wb 2: (679, 'necklace')
+label wb 3: (679, 'necklace')
+label wb 4: (679, 'necklace')
+label wb 5: (679, 'necklace')
+label wb 6: (679, 'necklace')
+label wb 7: (679, 'necklace')
+label wb 8: (679, 'necklace')
+label wb 9: (679, 'necklace')
+
+
+n_iters: 10, iter_w: 46, loss: 0.8659868240356445
+w: [0.09701041850757934, 0.08948216721937209, 0.09852921910557963, 0.07366368350211301, 0.11303265817536506, 0.13433913031928515, 0.07128275661586957, 0.08065615907892923, 0.18240754876058932, 0.05959625871531748]
+label victim: (496, 'Christmas stocking')
+label wb 0: (679, 'necklace')
+label wb 1: (679, 'necklace')
+label wb 2: (679, 'necklace')
+label wb 3: (679, 'necklace')
+label wb 4: (679, 'necklace')
+label wb 5: (679, 'necklace')
+label wb 6: (679, 'necklace')
+label wb 7: (679, 'necklace')
+label wb 8: (679, 'necklace')
+label wb 9: (679, 'necklace')
+
+
+n_iters: 10, iter_w: 47, loss: 1.1483821868896484
+w: [0.09698503040983492, 0.08917444048041019, 0.09834838359600423, 0.07311768065256066, 0.11311336680941995, 0.1349069016068294, 0.0708208586566748, 0.08031466242597593, 0.1842618768700961, 0.058956798492193804]
+label victim: (496, 'Christmas stocking')
+label wb 0: (679, 'necklace')
+label wb 1: (679, 'necklace')
+label wb 2: (679, 'necklace')
+label wb 3: (679, 'necklace')
+label wb 4: (679, 'necklace')
+label wb 5: (679, 'necklace')
+label wb 6: (679, 'necklace')
+label wb 7: (679, 'necklace')
+label wb 8: (679, 'necklace')
+label wb 9: (679, 'necklace')
+
+
+n_iters: 10, iter_w: 48, loss: -0.6402254104614258
+w: [0.09687920443151919, 0.08888957176104859, 0.09826815569874084, 0.07264728217150819, 0.11341023389730386, 0.13560053295938676, 0.07042496076244163, 0.07995350959726055, 0.18555801780571687, 0.05836853091507349]
+label victim: (679, 'necklace')
+label wb 0: (679, 'necklace')
+label wb 1: (679, 'necklace')
+label wb 2: (679, 'necklace')
+label wb 3: (679, 'necklace')
+label wb 4: (679, 'necklace')
+label wb 5: (679, 'necklace')
+label wb 6: (679, 'necklace')
+label wb 7: (679, 'necklace')
+label wb 8: (679, 'necklace')
+label wb 9: (679, 'necklace')
+
+
+n_iters: 10, iter_w: 49, loss: -1.031585693359375
+w: [0.09686775323084819, 0.08858708141411643, 0.09815510770649183, 0.07221127220501022, 0.11344744022045875, 0.13613075234349362, 0.06998440114068143, 0.07966699445302831, 0.1871567161568514, 0.05779248112901986]
+label victim: (679, 'necklace')
+label wb 0: (679, 'necklace')
+label wb 1: (679, 'necklace')
+label wb 2: (679, 'necklace')
+label wb 3: (679, 'necklace')
+label wb 4: (679, 'necklace')
+label wb 5: (679, 'necklace')
+label wb 6: (679, 'necklace')
+label wb 7: (679, 'necklace')
+label wb 8: (679, 'necklace')
+label wb 9: (679, 'necklace')
+
+

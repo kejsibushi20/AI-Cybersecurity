@@ -1,0 +1,750 @@
+n_iters: 10, iter_w: 0, loss: 4.50708532333374
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+label victim: (425, 'barn')
+label wb 0: (648, 'medicine chest, medicine cabinet')
+label wb 1: (648, 'medicine chest, medicine cabinet')
+label wb 2: (648, 'medicine chest, medicine cabinet')
+label wb 3: (648, 'medicine chest, medicine cabinet')
+label wb 4: (648, 'medicine chest, medicine cabinet')
+label wb 5: (648, 'medicine chest, medicine cabinet')
+label wb 6: (648, 'medicine chest, medicine cabinet')
+label wb 7: (648, 'medicine chest, medicine cabinet')
+label wb 8: (648, 'medicine chest, medicine cabinet')
+label wb 9: (648, 'medicine chest, medicine cabinet')
+
+
+n_iters: 10, iter_w: 1, loss: 0.4192948341369629
+w: [0.09983890396396, 0.1001359934773202, 0.09994992599518479, 0.1000720136668686, 0.10006549582457275, 0.10003565784013807, 0.10003878388119622, 0.10013221562933282, 0.09981213270284833, 0.09991887701857816]
+label victim: (483, 'castle')
+label wb 0: (648, 'medicine chest, medicine cabinet')
+label wb 1: (648, 'medicine chest, medicine cabinet')
+label wb 2: (648, 'medicine chest, medicine cabinet')
+label wb 3: (648, 'medicine chest, medicine cabinet')
+label wb 4: (648, 'medicine chest, medicine cabinet')
+label wb 5: (648, 'medicine chest, medicine cabinet')
+label wb 6: (648, 'medicine chest, medicine cabinet')
+label wb 7: (648, 'medicine chest, medicine cabinet')
+label wb 8: (648, 'medicine chest, medicine cabinet')
+label wb 9: (648, 'medicine chest, medicine cabinet')
+
+
+n_iters: 10, iter_w: 2, loss: 0.42908382415771484
+w: [0.09972192315056133, 0.1002038020763796, 0.09957040559034379, 0.10001354746002926, 0.10001241862398133, 0.10044164855192687, 0.09990609931603292, 0.10022231305462931, 0.10039150967542898, 0.09951633250068673]
+label victim: (893, 'wallet, billfold, notecase, pocketbook')
+label wb 0: (648, 'medicine chest, medicine cabinet')
+label wb 1: (648, 'medicine chest, medicine cabinet')
+label wb 2: (648, 'medicine chest, medicine cabinet')
+label wb 3: (648, 'medicine chest, medicine cabinet')
+label wb 4: (648, 'medicine chest, medicine cabinet')
+label wb 5: (648, 'medicine chest, medicine cabinet')
+label wb 6: (648, 'medicine chest, medicine cabinet')
+label wb 7: (648, 'medicine chest, medicine cabinet')
+label wb 8: (648, 'medicine chest, medicine cabinet')
+label wb 9: (648, 'medicine chest, medicine cabinet')
+
+
+n_iters: 10, iter_w: 3, loss: -3.9486217498779297
+w: [0.09965864273194186, 0.10022480039583093, 0.09910469752271132, 0.09980225650190896, 0.10019342291547399, 0.10101610709547329, 0.09967461599165862, 0.10012002006770138, 0.10122220818531362, 0.09898322859198605]
+label victim: (648, 'medicine chest, medicine cabinet')
+label wb 0: (648, 'medicine chest, medicine cabinet')
+label wb 1: (648, 'medicine chest, medicine cabinet')
+label wb 2: (648, 'medicine chest, medicine cabinet')
+label wb 3: (648, 'medicine chest, medicine cabinet')
+label wb 4: (648, 'medicine chest, medicine cabinet')
+label wb 5: (648, 'medicine chest, medicine cabinet')
+label wb 6: (648, 'medicine chest, medicine cabinet')
+label wb 7: (648, 'medicine chest, medicine cabinet')
+label wb 8: (648, 'medicine chest, medicine cabinet')
+label wb 9: (648, 'medicine chest, medicine cabinet')
+
+
+n_iters: 10, iter_w: 4, loss: -2.286065101623535
+w: [0.09954390892958012, 0.1002342108368153, 0.09856179989835748, 0.09959865472780957, 0.10036595300410393, 0.10154451186158128, 0.0995469596367593, 0.09992480802292224, 0.10232342514735901, 0.09835576793471176]
+label victim: (648, 'medicine chest, medicine cabinet')
+label wb 0: (648, 'medicine chest, medicine cabinet')
+label wb 1: (648, 'medicine chest, medicine cabinet')
+label wb 2: (648, 'medicine chest, medicine cabinet')
+label wb 3: (648, 'medicine chest, medicine cabinet')
+label wb 4: (648, 'medicine chest, medicine cabinet')
+label wb 5: (648, 'medicine chest, medicine cabinet')
+label wb 6: (648, 'medicine chest, medicine cabinet')
+label wb 7: (648, 'medicine chest, medicine cabinet')
+label wb 8: (648, 'medicine chest, medicine cabinet')
+label wb 9: (648, 'medicine chest, medicine cabinet')
+
+
+n_iters: 10, iter_w: 5, loss: 1.9605035781860352
+w: [0.09943202261836327, 0.10030505190766555, 0.09798064114622303, 0.09935090169405916, 0.10058061154985469, 0.10210493213216013, 0.0993249845177118, 0.09972886083873934, 0.10347691558494782, 0.09771507801027521]
+label victim: (893, 'wallet, billfold, notecase, pocketbook')
+label wb 0: (648, 'medicine chest, medicine cabinet')
+label wb 1: (648, 'medicine chest, medicine cabinet')
+label wb 2: (648, 'medicine chest, medicine cabinet')
+label wb 3: (648, 'medicine chest, medicine cabinet')
+label wb 4: (648, 'medicine chest, medicine cabinet')
+label wb 5: (648, 'medicine chest, medicine cabinet')
+label wb 6: (648, 'medicine chest, medicine cabinet')
+label wb 7: (648, 'medicine chest, medicine cabinet')
+label wb 8: (648, 'medicine chest, medicine cabinet')
+label wb 9: (648, 'medicine chest, medicine cabinet')
+
+
+n_iters: 10, iter_w: 6, loss: -3.526350975036621
+w: [0.09928739639891618, 0.10043211543642663, 0.09730570690839155, 0.09904047788198068, 0.10078533876040653, 0.1027914276217744, 0.09898685837637379, 0.09952611167910728, 0.10488295037991877, 0.09696161655670417]
+label victim: (648, 'medicine chest, medicine cabinet')
+label wb 0: (648, 'medicine chest, medicine cabinet')
+label wb 1: (648, 'medicine chest, medicine cabinet')
+label wb 2: (648, 'medicine chest, medicine cabinet')
+label wb 3: (648, 'medicine chest, medicine cabinet')
+label wb 4: (648, 'medicine chest, medicine cabinet')
+label wb 5: (648, 'medicine chest, medicine cabinet')
+label wb 6: (648, 'medicine chest, medicine cabinet')
+label wb 7: (648, 'medicine chest, medicine cabinet')
+label wb 8: (648, 'medicine chest, medicine cabinet')
+label wb 9: (648, 'medicine chest, medicine cabinet')
+
+
+n_iters: 10, iter_w: 7, loss: -3.108950614929199
+w: [0.09913261333898574, 0.1005045689301765, 0.09667390282148555, 0.09874511275977663, 0.10094897967888507, 0.10349214302780385, 0.09861706429235788, 0.09937684184300631, 0.10625807006579158, 0.09625070324173085]
+label victim: (648, 'medicine chest, medicine cabinet')
+label wb 0: (648, 'medicine chest, medicine cabinet')
+label wb 1: (648, 'medicine chest, medicine cabinet')
+label wb 2: (648, 'medicine chest, medicine cabinet')
+label wb 3: (648, 'medicine chest, medicine cabinet')
+label wb 4: (648, 'medicine chest, medicine cabinet')
+label wb 5: (648, 'medicine chest, medicine cabinet')
+label wb 6: (648, 'medicine chest, medicine cabinet')
+label wb 7: (648, 'medicine chest, medicine cabinet')
+label wb 8: (648, 'medicine chest, medicine cabinet')
+label wb 9: (648, 'medicine chest, medicine cabinet')
+
+
+n_iters: 10, iter_w: 8, loss: -2.2346343994140625
+w: [0.09894262001083266, 0.10053169178976619, 0.09599827087051968, 0.09844396176785705, 0.10111633963311943, 0.10402869615307025, 0.09833926802692676, 0.09925782853040413, 0.10777756274135182, 0.09556376047615212]
+label victim: (648, 'medicine chest, medicine cabinet')
+label wb 0: (648, 'medicine chest, medicine cabinet')
+label wb 1: (648, 'medicine chest, medicine cabinet')
+label wb 2: (648, 'medicine chest, medicine cabinet')
+label wb 3: (648, 'medicine chest, medicine cabinet')
+label wb 4: (648, 'medicine chest, medicine cabinet')
+label wb 5: (648, 'medicine chest, medicine cabinet')
+label wb 6: (648, 'medicine chest, medicine cabinet')
+label wb 7: (648, 'medicine chest, medicine cabinet')
+label wb 8: (648, 'medicine chest, medicine cabinet')
+label wb 9: (648, 'medicine chest, medicine cabinet')
+
+
+n_iters: 10, iter_w: 9, loss: -1.2394418716430664
+w: [0.09888175239600877, 0.10056599977925544, 0.09533728361785439, 0.09815196767111534, 0.10124512288118583, 0.1045938195485357, 0.09797094203552298, 0.09907114180168743, 0.10935382298404338, 0.09482814728479055]
+label victim: (648, 'medicine chest, medicine cabinet')
+label wb 0: (648, 'medicine chest, medicine cabinet')
+label wb 1: (648, 'medicine chest, medicine cabinet')
+label wb 2: (648, 'medicine chest, medicine cabinet')
+label wb 3: (648, 'medicine chest, medicine cabinet')
+label wb 4: (648, 'medicine chest, medicine cabinet')
+label wb 5: (648, 'medicine chest, medicine cabinet')
+label wb 6: (648, 'medicine chest, medicine cabinet')
+label wb 7: (648, 'medicine chest, medicine cabinet')
+label wb 8: (648, 'medicine chest, medicine cabinet')
+label wb 9: (648, 'medicine chest, medicine cabinet')
+
+
+n_iters: 10, iter_w: 10, loss: -2.5041913986206055
+w: [0.09876285338823597, 0.10054607739931189, 0.09463476503750644, 0.0978189002287485, 0.10126666858641854, 0.10515299451716037, 0.0977266716766938, 0.09892343785925395, 0.11108182662281793, 0.09408580468385268]
+label victim: (648, 'medicine chest, medicine cabinet')
+label wb 0: (648, 'medicine chest, medicine cabinet')
+label wb 1: (648, 'medicine chest, medicine cabinet')
+label wb 2: (648, 'medicine chest, medicine cabinet')
+label wb 3: (648, 'medicine chest, medicine cabinet')
+label wb 4: (648, 'medicine chest, medicine cabinet')
+label wb 5: (648, 'medicine chest, medicine cabinet')
+label wb 6: (648, 'medicine chest, medicine cabinet')
+label wb 7: (648, 'medicine chest, medicine cabinet')
+label wb 8: (648, 'medicine chest, medicine cabinet')
+label wb 9: (648, 'medicine chest, medicine cabinet')
+
+
+n_iters: 10, iter_w: 11, loss: -2.801957607269287
+w: [0.09861689425913998, 0.10060895043476796, 0.09393882822462243, 0.09756290762054849, 0.10122266052269398, 0.10583785140498153, 0.09726227057330278, 0.09876521596244592, 0.11279486085880555, 0.09338956013869155]
+label victim: (648, 'medicine chest, medicine cabinet')
+label wb 0: (648, 'medicine chest, medicine cabinet')
+label wb 1: (648, 'medicine chest, medicine cabinet')
+label wb 2: (648, 'medicine chest, medicine cabinet')
+label wb 3: (648, 'medicine chest, medicine cabinet')
+label wb 4: (648, 'medicine chest, medicine cabinet')
+label wb 5: (648, 'medicine chest, medicine cabinet')
+label wb 6: (648, 'medicine chest, medicine cabinet')
+label wb 7: (648, 'medicine chest, medicine cabinet')
+label wb 8: (648, 'medicine chest, medicine cabinet')
+label wb 9: (648, 'medicine chest, medicine cabinet')
+
+
+n_iters: 10, iter_w: 12, loss: -3.754885673522949
+w: [0.09851794504098123, 0.1005556849091714, 0.09322402910917146, 0.0971921492734579, 0.10125771002054883, 0.10646966525657109, 0.09698518327568376, 0.09859326370889568, 0.11454858378460328, 0.09265578562091528]
+label victim: (648, 'medicine chest, medicine cabinet')
+label wb 0: (648, 'medicine chest, medicine cabinet')
+label wb 1: (648, 'medicine chest, medicine cabinet')
+label wb 2: (648, 'medicine chest, medicine cabinet')
+label wb 3: (648, 'medicine chest, medicine cabinet')
+label wb 4: (648, 'medicine chest, medicine cabinet')
+label wb 5: (648, 'medicine chest, medicine cabinet')
+label wb 6: (648, 'medicine chest, medicine cabinet')
+label wb 7: (648, 'medicine chest, medicine cabinet')
+label wb 8: (648, 'medicine chest, medicine cabinet')
+label wb 9: (648, 'medicine chest, medicine cabinet')
+
+
+n_iters: 10, iter_w: 13, loss: -4.315585613250732
+w: [0.09840420571159532, 0.10056122046219083, 0.09253231802653956, 0.09683727523813423, 0.1011625917148315, 0.10710381447436923, 0.09671785796987707, 0.0983709561612284, 0.11637281329346925, 0.09193694694776464]
+label victim: (648, 'medicine chest, medicine cabinet')
+label wb 0: (648, 'medicine chest, medicine cabinet')
+label wb 1: (648, 'medicine chest, medicine cabinet')
+label wb 2: (648, 'medicine chest, medicine cabinet')
+label wb 3: (648, 'medicine chest, medicine cabinet')
+label wb 4: (648, 'medicine chest, medicine cabinet')
+label wb 5: (648, 'medicine chest, medicine cabinet')
+label wb 6: (648, 'medicine chest, medicine cabinet')
+label wb 7: (648, 'medicine chest, medicine cabinet')
+label wb 8: (648, 'medicine chest, medicine cabinet')
+label wb 9: (648, 'medicine chest, medicine cabinet')
+
+
+n_iters: 10, iter_w: 14, loss: -3.478649139404297
+w: [0.09827573909400604, 0.10063130108410477, 0.09179956238093011, 0.09650730195262291, 0.10124539218843881, 0.10775157246665039, 0.09624419050628913, 0.09818845494639022, 0.11815419477836563, 0.09120229060220206]
+label victim: (648, 'medicine chest, medicine cabinet')
+label wb 0: (648, 'medicine chest, medicine cabinet')
+label wb 1: (648, 'medicine chest, medicine cabinet')
+label wb 2: (648, 'medicine chest, medicine cabinet')
+label wb 3: (648, 'medicine chest, medicine cabinet')
+label wb 4: (648, 'medicine chest, medicine cabinet')
+label wb 5: (648, 'medicine chest, medicine cabinet')
+label wb 6: (648, 'medicine chest, medicine cabinet')
+label wb 7: (648, 'medicine chest, medicine cabinet')
+label wb 8: (648, 'medicine chest, medicine cabinet')
+label wb 9: (648, 'medicine chest, medicine cabinet')
+
+
+n_iters: 10, iter_w: 15, loss: -2.486344337463379
+w: [0.09823038328188877, 0.10073462226833527, 0.0910816995078892, 0.09620905234885645, 0.10128221885651102, 0.10835346059409985, 0.09571215305731488, 0.09790953826335287, 0.11999692144830043, 0.09048995037345119]
+label victim: (648, 'medicine chest, medicine cabinet')
+label wb 0: (648, 'medicine chest, medicine cabinet')
+label wb 1: (648, 'medicine chest, medicine cabinet')
+label wb 2: (648, 'medicine chest, medicine cabinet')
+label wb 3: (648, 'medicine chest, medicine cabinet')
+label wb 4: (648, 'medicine chest, medicine cabinet')
+label wb 5: (648, 'medicine chest, medicine cabinet')
+label wb 6: (648, 'medicine chest, medicine cabinet')
+label wb 7: (648, 'medicine chest, medicine cabinet')
+label wb 8: (648, 'medicine chest, medicine cabinet')
+label wb 9: (648, 'medicine chest, medicine cabinet')
+
+
+n_iters: 10, iter_w: 16, loss: 1.597529411315918
+w: [0.09812092582387918, 0.1007895933489998, 0.09041882538398055, 0.09585320936370123, 0.10126446795698343, 0.10898357118930613, 0.09528144502259492, 0.09774086136474495, 0.12177867997988351, 0.0897684205659265]
+label victim: (406, 'altar')
+label wb 0: (648, 'medicine chest, medicine cabinet')
+label wb 1: (648, 'medicine chest, medicine cabinet')
+label wb 2: (648, 'medicine chest, medicine cabinet')
+label wb 3: (648, 'medicine chest, medicine cabinet')
+label wb 4: (648, 'medicine chest, medicine cabinet')
+label wb 5: (648, 'medicine chest, medicine cabinet')
+label wb 6: (648, 'medicine chest, medicine cabinet')
+label wb 7: (648, 'medicine chest, medicine cabinet')
+label wb 8: (648, 'medicine chest, medicine cabinet')
+label wb 9: (648, 'medicine chest, medicine cabinet')
+
+
+n_iters: 10, iter_w: 17, loss: -1.4246416091918945
+w: [0.09800453748186887, 0.10075728975433601, 0.08981285891583336, 0.09552338758875312, 0.10143616645748632, 0.10949358422301834, 0.09478232931308517, 0.09761132320476314, 0.12348970080057936, 0.08908882226027631]
+label victim: (648, 'medicine chest, medicine cabinet')
+label wb 0: (648, 'medicine chest, medicine cabinet')
+label wb 1: (648, 'medicine chest, medicine cabinet')
+label wb 2: (648, 'medicine chest, medicine cabinet')
+label wb 3: (648, 'medicine chest, medicine cabinet')
+label wb 4: (648, 'medicine chest, medicine cabinet')
+label wb 5: (648, 'medicine chest, medicine cabinet')
+label wb 6: (648, 'medicine chest, medicine cabinet')
+label wb 7: (648, 'medicine chest, medicine cabinet')
+label wb 8: (648, 'medicine chest, medicine cabinet')
+label wb 9: (648, 'medicine chest, medicine cabinet')
+
+
+n_iters: 10, iter_w: 18, loss: -4.024454116821289
+w: [0.0978815900290933, 0.10078971292785864, 0.08919836280717276, 0.09522096009287022, 0.10156170955575242, 0.11006494352367624, 0.09433987317701084, 0.09742107454074231, 0.12513027180702108, 0.08839150153880232]
+label victim: (648, 'medicine chest, medicine cabinet')
+label wb 0: (648, 'medicine chest, medicine cabinet')
+label wb 1: (648, 'medicine chest, medicine cabinet')
+label wb 2: (648, 'medicine chest, medicine cabinet')
+label wb 3: (648, 'medicine chest, medicine cabinet')
+label wb 4: (648, 'medicine chest, medicine cabinet')
+label wb 5: (648, 'medicine chest, medicine cabinet')
+label wb 6: (648, 'medicine chest, medicine cabinet')
+label wb 7: (648, 'medicine chest, medicine cabinet')
+label wb 8: (648, 'medicine chest, medicine cabinet')
+label wb 9: (648, 'medicine chest, medicine cabinet')
+
+
+n_iters: 10, iter_w: 19, loss: -4.006801128387451
+w: [0.09780255069160829, 0.10070141198262318, 0.08859544638499867, 0.09484045906724671, 0.10171673800491551, 0.11053897808047679, 0.09403922734450894, 0.09721197629567754, 0.12682776245138358, 0.08772544969656094]
+label victim: (648, 'medicine chest, medicine cabinet')
+label wb 0: (648, 'medicine chest, medicine cabinet')
+label wb 1: (648, 'medicine chest, medicine cabinet')
+label wb 2: (648, 'medicine chest, medicine cabinet')
+label wb 3: (648, 'medicine chest, medicine cabinet')
+label wb 4: (648, 'medicine chest, medicine cabinet')
+label wb 5: (648, 'medicine chest, medicine cabinet')
+label wb 6: (648, 'medicine chest, medicine cabinet')
+label wb 7: (648, 'medicine chest, medicine cabinet')
+label wb 8: (648, 'medicine chest, medicine cabinet')
+label wb 9: (648, 'medicine chest, medicine cabinet')
+
+
+n_iters: 10, iter_w: 20, loss: -2.7863454818725586
+w: [0.09761447393779694, 0.1006777987850714, 0.08791918141556379, 0.09452591994519992, 0.10188262426551649, 0.1111431978758608, 0.09367925694434863, 0.09706981245203637, 0.12849071679993335, 0.08699701757867241]
+label victim: (648, 'medicine chest, medicine cabinet')
+label wb 0: (648, 'medicine chest, medicine cabinet')
+label wb 1: (648, 'medicine chest, medicine cabinet')
+label wb 2: (648, 'medicine chest, medicine cabinet')
+label wb 3: (648, 'medicine chest, medicine cabinet')
+label wb 4: (648, 'medicine chest, medicine cabinet')
+label wb 5: (648, 'medicine chest, medicine cabinet')
+label wb 6: (648, 'medicine chest, medicine cabinet')
+label wb 7: (648, 'medicine chest, medicine cabinet')
+label wb 8: (648, 'medicine chest, medicine cabinet')
+label wb 9: (648, 'medicine chest, medicine cabinet')
+
+
+n_iters: 10, iter_w: 21, loss: -2.594308853149414
+w: [0.09739689669311888, 0.10069993955313067, 0.08730067864475201, 0.09427220821900302, 0.10195983214225617, 0.11157929336577, 0.09325933299921761, 0.09684985132951111, 0.1303976682385872, 0.08628429881465337]
+label victim: (648, 'medicine chest, medicine cabinet')
+label wb 0: (648, 'medicine chest, medicine cabinet')
+label wb 1: (648, 'medicine chest, medicine cabinet')
+label wb 2: (648, 'medicine chest, medicine cabinet')
+label wb 3: (648, 'medicine chest, medicine cabinet')
+label wb 4: (648, 'medicine chest, medicine cabinet')
+label wb 5: (648, 'medicine chest, medicine cabinet')
+label wb 6: (648, 'medicine chest, medicine cabinet')
+label wb 7: (648, 'medicine chest, medicine cabinet')
+label wb 8: (648, 'medicine chest, medicine cabinet')
+label wb 9: (648, 'medicine chest, medicine cabinet')
+
+
+n_iters: 10, iter_w: 22, loss: -4.624759674072266
+w: [0.0971837484897818, 0.10070609558083277, 0.08659883904586714, 0.09400019887194655, 0.10214726045388313, 0.1121958446629362, 0.09282664545481524, 0.09666358653261621, 0.13208405897072265, 0.08559372193659824]
+label victim: (648, 'medicine chest, medicine cabinet')
+label wb 0: (648, 'medicine chest, medicine cabinet')
+label wb 1: (648, 'medicine chest, medicine cabinet')
+label wb 2: (648, 'medicine chest, medicine cabinet')
+label wb 3: (648, 'medicine chest, medicine cabinet')
+label wb 4: (648, 'medicine chest, medicine cabinet')
+label wb 5: (648, 'medicine chest, medicine cabinet')
+label wb 6: (648, 'medicine chest, medicine cabinet')
+label wb 7: (648, 'medicine chest, medicine cabinet')
+label wb 8: (648, 'medicine chest, medicine cabinet')
+label wb 9: (648, 'medicine chest, medicine cabinet')
+
+
+n_iters: 10, iter_w: 23, loss: -2.2642898559570312
+w: [0.0970118531868325, 0.1007093940965372, 0.08597404470516919, 0.09372427973564691, 0.10237979827163779, 0.11276664285238676, 0.09241451141131045, 0.09643200213574173, 0.13366791920400803, 0.08491955440072951]
+label victim: (648, 'medicine chest, medicine cabinet')
+label wb 0: (648, 'medicine chest, medicine cabinet')
+label wb 1: (648, 'medicine chest, medicine cabinet')
+label wb 2: (648, 'medicine chest, medicine cabinet')
+label wb 3: (648, 'medicine chest, medicine cabinet')
+label wb 4: (648, 'medicine chest, medicine cabinet')
+label wb 5: (648, 'medicine chest, medicine cabinet')
+label wb 6: (648, 'medicine chest, medicine cabinet')
+label wb 7: (648, 'medicine chest, medicine cabinet')
+label wb 8: (648, 'medicine chest, medicine cabinet')
+label wb 9: (648, 'medicine chest, medicine cabinet')
+
+
+n_iters: 10, iter_w: 24, loss: -1.8054685592651367
+w: [0.09680248828144211, 0.10070241169220216, 0.08540335942828997, 0.09347360023904806, 0.10251909763941926, 0.11320392124195665, 0.09205465967180597, 0.09620155534480097, 0.13538290833049083, 0.08425599813054406]
+label victim: (648, 'medicine chest, medicine cabinet')
+label wb 0: (648, 'medicine chest, medicine cabinet')
+label wb 1: (648, 'medicine chest, medicine cabinet')
+label wb 2: (648, 'medicine chest, medicine cabinet')
+label wb 3: (648, 'medicine chest, medicine cabinet')
+label wb 4: (648, 'medicine chest, medicine cabinet')
+label wb 5: (648, 'medicine chest, medicine cabinet')
+label wb 6: (648, 'medicine chest, medicine cabinet')
+label wb 7: (648, 'medicine chest, medicine cabinet')
+label wb 8: (648, 'medicine chest, medicine cabinet')
+label wb 9: (648, 'medicine chest, medicine cabinet')
+
+
+n_iters: 10, iter_w: 25, loss: -4.3208909034729
+w: [0.09659799195650802, 0.10076988769947605, 0.08481685187749986, 0.09317581683664435, 0.10269944110822238, 0.11363058947241393, 0.09181698173328028, 0.09592267873333517, 0.1369655098017905, 0.0836042507808293]
+label victim: (648, 'medicine chest, medicine cabinet')
+label wb 0: (648, 'medicine chest, medicine cabinet')
+label wb 1: (648, 'medicine chest, medicine cabinet')
+label wb 2: (648, 'medicine chest, medicine cabinet')
+label wb 3: (648, 'medicine chest, medicine cabinet')
+label wb 4: (648, 'medicine chest, medicine cabinet')
+label wb 5: (648, 'medicine chest, medicine cabinet')
+label wb 6: (648, 'medicine chest, medicine cabinet')
+label wb 7: (648, 'medicine chest, medicine cabinet')
+label wb 8: (648, 'medicine chest, medicine cabinet')
+label wb 9: (648, 'medicine chest, medicine cabinet')
+
+
+n_iters: 10, iter_w: 26, loss: 0.3647804260253906
+w: [0.09638157091343444, 0.10070049495802039, 0.08411727715041346, 0.09286111565001945, 0.10285274705654807, 0.11414437012743313, 0.09150032191924957, 0.09579603007018102, 0.13869361460852073, 0.08295245754617957]
+label victim: (853, 'thatch, thatched roof')
+label wb 0: (648, 'medicine chest, medicine cabinet')
+label wb 1: (648, 'medicine chest, medicine cabinet')
+label wb 2: (648, 'medicine chest, medicine cabinet')
+label wb 3: (648, 'medicine chest, medicine cabinet')
+label wb 4: (648, 'medicine chest, medicine cabinet')
+label wb 5: (648, 'medicine chest, medicine cabinet')
+label wb 6: (648, 'medicine chest, medicine cabinet')
+label wb 7: (648, 'medicine chest, medicine cabinet')
+label wb 8: (648, 'medicine chest, medicine cabinet')
+label wb 9: (648, 'medicine chest, medicine cabinet')
+
+
+n_iters: 10, iter_w: 27, loss: -1.0767097473144531
+w: [0.09617085189503509, 0.10073820873318842, 0.0834855449854803, 0.0925752382874344, 0.103160677621126, 0.11468274896029267, 0.09122502285092329, 0.0955896603734915, 0.1400503736994947, 0.0823216725935336]
+label victim: (648, 'medicine chest, medicine cabinet')
+label wb 0: (648, 'medicine chest, medicine cabinet')
+label wb 1: (648, 'medicine chest, medicine cabinet')
+label wb 2: (648, 'medicine chest, medicine cabinet')
+label wb 3: (648, 'medicine chest, medicine cabinet')
+label wb 4: (648, 'medicine chest, medicine cabinet')
+label wb 5: (648, 'medicine chest, medicine cabinet')
+label wb 6: (648, 'medicine chest, medicine cabinet')
+label wb 7: (648, 'medicine chest, medicine cabinet')
+label wb 8: (648, 'medicine chest, medicine cabinet')
+label wb 9: (648, 'medicine chest, medicine cabinet')
+
+
+n_iters: 10, iter_w: 28, loss: -1.761174201965332
+w: [0.0959780851751468, 0.10071857528120243, 0.08292893295683268, 0.09231150553278464, 0.10327279032161682, 0.115196681977321, 0.09099486789098282, 0.09538527084598057, 0.14149381384041454, 0.08171947617771769]
+label victim: (648, 'medicine chest, medicine cabinet')
+label wb 0: (648, 'medicine chest, medicine cabinet')
+label wb 1: (648, 'medicine chest, medicine cabinet')
+label wb 2: (648, 'medicine chest, medicine cabinet')
+label wb 3: (648, 'medicine chest, medicine cabinet')
+label wb 4: (648, 'medicine chest, medicine cabinet')
+label wb 5: (648, 'medicine chest, medicine cabinet')
+label wb 6: (648, 'medicine chest, medicine cabinet')
+label wb 7: (648, 'medicine chest, medicine cabinet')
+label wb 8: (648, 'medicine chest, medicine cabinet')
+label wb 9: (648, 'medicine chest, medicine cabinet')
+
+
+n_iters: 10, iter_w: 29, loss: -2.515136241912842
+w: [0.09575433345240916, 0.10070859852903583, 0.08238187610065753, 0.0920037726836413, 0.10339126601162404, 0.11552786701770353, 0.0907460428422167, 0.09521101235642264, 0.1431740606558745, 0.0811011703504148]
+label victim: (648, 'medicine chest, medicine cabinet')
+label wb 0: (648, 'medicine chest, medicine cabinet')
+label wb 1: (648, 'medicine chest, medicine cabinet')
+label wb 2: (648, 'medicine chest, medicine cabinet')
+label wb 3: (648, 'medicine chest, medicine cabinet')
+label wb 4: (648, 'medicine chest, medicine cabinet')
+label wb 5: (648, 'medicine chest, medicine cabinet')
+label wb 6: (648, 'medicine chest, medicine cabinet')
+label wb 7: (648, 'medicine chest, medicine cabinet')
+label wb 8: (648, 'medicine chest, medicine cabinet')
+label wb 9: (648, 'medicine chest, medicine cabinet')
+
+
+n_iters: 10, iter_w: 30, loss: -2.319756507873535
+w: [0.09558142761477427, 0.10077070042519816, 0.08177613663137792, 0.0917153536230458, 0.10352895872009203, 0.11613746216372761, 0.0904576048962668, 0.09505789377001271, 0.14444877071513, 0.08052569144037482]
+label victim: (648, 'medicine chest, medicine cabinet')
+label wb 0: (648, 'medicine chest, medicine cabinet')
+label wb 1: (648, 'medicine chest, medicine cabinet')
+label wb 2: (648, 'medicine chest, medicine cabinet')
+label wb 3: (648, 'medicine chest, medicine cabinet')
+label wb 4: (648, 'medicine chest, medicine cabinet')
+label wb 5: (648, 'medicine chest, medicine cabinet')
+label wb 6: (648, 'medicine chest, medicine cabinet')
+label wb 7: (648, 'medicine chest, medicine cabinet')
+label wb 8: (648, 'medicine chest, medicine cabinet')
+label wb 9: (648, 'medicine chest, medicine cabinet')
+
+
+n_iters: 10, iter_w: 31, loss: -2.868040084838867
+w: [0.09539848692331523, 0.10084053667467385, 0.08110669699062875, 0.09139787081606737, 0.10360598200100103, 0.11661830282516283, 0.0901261110846283, 0.09479904934152329, 0.14618465008349993, 0.07992231325949924]
+label victim: (648, 'medicine chest, medicine cabinet')
+label wb 0: (648, 'medicine chest, medicine cabinet')
+label wb 1: (648, 'medicine chest, medicine cabinet')
+label wb 2: (648, 'medicine chest, medicine cabinet')
+label wb 3: (648, 'medicine chest, medicine cabinet')
+label wb 4: (648, 'medicine chest, medicine cabinet')
+label wb 5: (648, 'medicine chest, medicine cabinet')
+label wb 6: (648, 'medicine chest, medicine cabinet')
+label wb 7: (648, 'medicine chest, medicine cabinet')
+label wb 8: (648, 'medicine chest, medicine cabinet')
+label wb 9: (648, 'medicine chest, medicine cabinet')
+
+
+n_iters: 10, iter_w: 32, loss: -4.116513252258301
+w: [0.09519902979986342, 0.10084776303317486, 0.08047110739025656, 0.09113519937526085, 0.10373114219770017, 0.11702432438407857, 0.08985832153688902, 0.09460406673381602, 0.1477685634859694, 0.07936048206299122]
+label victim: (648, 'medicine chest, medicine cabinet')
+label wb 0: (648, 'medicine chest, medicine cabinet')
+label wb 1: (648, 'medicine chest, medicine cabinet')
+label wb 2: (648, 'medicine chest, medicine cabinet')
+label wb 3: (648, 'medicine chest, medicine cabinet')
+label wb 4: (648, 'medicine chest, medicine cabinet')
+label wb 5: (648, 'medicine chest, medicine cabinet')
+label wb 6: (648, 'medicine chest, medicine cabinet')
+label wb 7: (648, 'medicine chest, medicine cabinet')
+label wb 8: (648, 'medicine chest, medicine cabinet')
+label wb 9: (648, 'medicine chest, medicine cabinet')
+
+
+n_iters: 10, iter_w: 33, loss: -3.5318126678466797
+w: [0.09495173198608049, 0.10079147293437589, 0.07980410823377762, 0.09082292797505985, 0.10382733252253089, 0.11758210075193898, 0.08960619573309611, 0.09441237005945988, 0.149422992116936, 0.07877876768674429]
+label victim: (648, 'medicine chest, medicine cabinet')
+label wb 0: (648, 'medicine chest, medicine cabinet')
+label wb 1: (648, 'medicine chest, medicine cabinet')
+label wb 2: (648, 'medicine chest, medicine cabinet')
+label wb 3: (648, 'medicine chest, medicine cabinet')
+label wb 4: (648, 'medicine chest, medicine cabinet')
+label wb 5: (648, 'medicine chest, medicine cabinet')
+label wb 6: (648, 'medicine chest, medicine cabinet')
+label wb 7: (648, 'medicine chest, medicine cabinet')
+label wb 8: (648, 'medicine chest, medicine cabinet')
+label wb 9: (648, 'medicine chest, medicine cabinet')
+
+
+n_iters: 10, iter_w: 34, loss: -1.3988847732543945
+w: [0.09476537498132528, 0.10072021266695139, 0.07912311698315927, 0.09057149458968515, 0.10393275838073805, 0.11801579491367065, 0.08934817596200491, 0.09431604085770122, 0.1509830890750838, 0.07822394158968034]
+label victim: (648, 'medicine chest, medicine cabinet')
+label wb 0: (648, 'medicine chest, medicine cabinet')
+label wb 1: (648, 'medicine chest, medicine cabinet')
+label wb 2: (648, 'medicine chest, medicine cabinet')
+label wb 3: (648, 'medicine chest, medicine cabinet')
+label wb 4: (648, 'medicine chest, medicine cabinet')
+label wb 5: (648, 'medicine chest, medicine cabinet')
+label wb 6: (648, 'medicine chest, medicine cabinet')
+label wb 7: (648, 'medicine chest, medicine cabinet')
+label wb 8: (648, 'medicine chest, medicine cabinet')
+label wb 9: (648, 'medicine chest, medicine cabinet')
+
+
+n_iters: 10, iter_w: 35, loss: -1.235672950744629
+w: [0.09461572304274678, 0.1007844196550709, 0.07844211177441444, 0.09033406142194292, 0.1040286751355316, 0.11864360129486418, 0.08898582782296983, 0.0942086460450661, 0.15232800450584968, 0.07762892930154355]
+label victim: (648, 'medicine chest, medicine cabinet')
+label wb 0: (648, 'medicine chest, medicine cabinet')
+label wb 1: (648, 'medicine chest, medicine cabinet')
+label wb 2: (648, 'medicine chest, medicine cabinet')
+label wb 3: (648, 'medicine chest, medicine cabinet')
+label wb 4: (648, 'medicine chest, medicine cabinet')
+label wb 5: (648, 'medicine chest, medicine cabinet')
+label wb 6: (648, 'medicine chest, medicine cabinet')
+label wb 7: (648, 'medicine chest, medicine cabinet')
+label wb 8: (648, 'medicine chest, medicine cabinet')
+label wb 9: (648, 'medicine chest, medicine cabinet')
+
+
+n_iters: 10, iter_w: 36, loss: -2.4493322372436523
+w: [0.09439470154396543, 0.1007528925874159, 0.07778924544701556, 0.09012789595001429, 0.10419192303795757, 0.11909054121146384, 0.08868040307213809, 0.09408667067598875, 0.1537953445007763, 0.07709038197326426]
+label victim: (648, 'medicine chest, medicine cabinet')
+label wb 0: (648, 'medicine chest, medicine cabinet')
+label wb 1: (648, 'medicine chest, medicine cabinet')
+label wb 2: (648, 'medicine chest, medicine cabinet')
+label wb 3: (648, 'medicine chest, medicine cabinet')
+label wb 4: (648, 'medicine chest, medicine cabinet')
+label wb 5: (648, 'medicine chest, medicine cabinet')
+label wb 6: (648, 'medicine chest, medicine cabinet')
+label wb 7: (648, 'medicine chest, medicine cabinet')
+label wb 8: (648, 'medicine chest, medicine cabinet')
+label wb 9: (648, 'medicine chest, medicine cabinet')
+
+
+n_iters: 10, iter_w: 37, loss: -3.693314552307129
+w: [0.09420221763723967, 0.10077076251993654, 0.07713607952692583, 0.08991032186760345, 0.10436389604451259, 0.11960211665656123, 0.08844826545679457, 0.0939924985058881, 0.15502935646080807, 0.07654448532372989]
+label victim: (648, 'medicine chest, medicine cabinet')
+label wb 0: (648, 'medicine chest, medicine cabinet')
+label wb 1: (648, 'medicine chest, medicine cabinet')
+label wb 2: (648, 'medicine chest, medicine cabinet')
+label wb 3: (648, 'medicine chest, medicine cabinet')
+label wb 4: (648, 'medicine chest, medicine cabinet')
+label wb 5: (648, 'medicine chest, medicine cabinet')
+label wb 6: (648, 'medicine chest, medicine cabinet')
+label wb 7: (648, 'medicine chest, medicine cabinet')
+label wb 8: (648, 'medicine chest, medicine cabinet')
+label wb 9: (648, 'medicine chest, medicine cabinet')
+
+
+n_iters: 10, iter_w: 38, loss: -5.6032915115356445
+w: [0.0939580513596838, 0.10070015073473705, 0.0764984656308163, 0.08966262409464634, 0.10455876099298458, 0.12017053891629995, 0.0882320930394269, 0.09386248477787167, 0.15638313183745056, 0.07597369861608284]
+label victim: (648, 'medicine chest, medicine cabinet')
+label wb 0: (648, 'medicine chest, medicine cabinet')
+label wb 1: (648, 'medicine chest, medicine cabinet')
+label wb 2: (648, 'medicine chest, medicine cabinet')
+label wb 3: (648, 'medicine chest, medicine cabinet')
+label wb 4: (648, 'medicine chest, medicine cabinet')
+label wb 5: (648, 'medicine chest, medicine cabinet')
+label wb 6: (648, 'medicine chest, medicine cabinet')
+label wb 7: (648, 'medicine chest, medicine cabinet')
+label wb 8: (648, 'medicine chest, medicine cabinet')
+label wb 9: (648, 'medicine chest, medicine cabinet')
+
+
+n_iters: 10, iter_w: 39, loss: -3.248176097869873
+w: [0.09373454715517714, 0.10065857788358748, 0.07586802921715743, 0.08940454405014181, 0.10469589725544788, 0.12070592505961909, 0.08791739162564635, 0.09366373929798463, 0.15799723857394676, 0.07535410988129145]
+label victim: (648, 'medicine chest, medicine cabinet')
+label wb 0: (648, 'medicine chest, medicine cabinet')
+label wb 1: (648, 'medicine chest, medicine cabinet')
+label wb 2: (648, 'medicine chest, medicine cabinet')
+label wb 3: (648, 'medicine chest, medicine cabinet')
+label wb 4: (648, 'medicine chest, medicine cabinet')
+label wb 5: (648, 'medicine chest, medicine cabinet')
+label wb 6: (648, 'medicine chest, medicine cabinet')
+label wb 7: (648, 'medicine chest, medicine cabinet')
+label wb 8: (648, 'medicine chest, medicine cabinet')
+label wb 9: (648, 'medicine chest, medicine cabinet')
+
+
+n_iters: 10, iter_w: 40, loss: 0.8160920143127441
+w: [0.0935660785340416, 0.10063315281145747, 0.07520360954328412, 0.08910155378658544, 0.10487456976005557, 0.12113091068293462, 0.08776112127686812, 0.09358542467058076, 0.1593333861482739, 0.07481019278591845]
+label victim: (853, 'thatch, thatched roof')
+label wb 0: (648, 'medicine chest, medicine cabinet')
+label wb 1: (648, 'medicine chest, medicine cabinet')
+label wb 2: (648, 'medicine chest, medicine cabinet')
+label wb 3: (648, 'medicine chest, medicine cabinet')
+label wb 4: (648, 'medicine chest, medicine cabinet')
+label wb 5: (648, 'medicine chest, medicine cabinet')
+label wb 6: (648, 'medicine chest, medicine cabinet')
+label wb 7: (648, 'medicine chest, medicine cabinet')
+label wb 8: (648, 'medicine chest, medicine cabinet')
+label wb 9: (648, 'medicine chest, medicine cabinet')
+
+
+n_iters: 10, iter_w: 41, loss: -2.1472978591918945
+w: [0.09331467009419318, 0.10061750866547105, 0.07461488157037564, 0.08884050302794938, 0.105023820054473, 0.12161494532362498, 0.08757122406903387, 0.09340040971504485, 0.16073460516969615, 0.07426743231013798]
+label victim: (648, 'medicine chest, medicine cabinet')
+label wb 0: (648, 'medicine chest, medicine cabinet')
+label wb 1: (648, 'medicine chest, medicine cabinet')
+label wb 2: (648, 'medicine chest, medicine cabinet')
+label wb 3: (648, 'medicine chest, medicine cabinet')
+label wb 4: (648, 'medicine chest, medicine cabinet')
+label wb 5: (648, 'medicine chest, medicine cabinet')
+label wb 6: (648, 'medicine chest, medicine cabinet')
+label wb 7: (648, 'medicine chest, medicine cabinet')
+label wb 8: (648, 'medicine chest, medicine cabinet')
+label wb 9: (648, 'medicine chest, medicine cabinet')
+
+
+n_iters: 10, iter_w: 42, loss: -1.2997980117797852
+w: [0.0930665812787009, 0.1005213624974511, 0.07397542366062058, 0.08861140654540027, 0.10526438185745429, 0.12206224454479854, 0.08719181967425084, 0.09326512173561703, 0.16231863185890658, 0.07372302634679995]
+label victim: (648, 'medicine chest, medicine cabinet')
+label wb 0: (648, 'medicine chest, medicine cabinet')
+label wb 1: (648, 'medicine chest, medicine cabinet')
+label wb 2: (648, 'medicine chest, medicine cabinet')
+label wb 3: (648, 'medicine chest, medicine cabinet')
+label wb 4: (648, 'medicine chest, medicine cabinet')
+label wb 5: (648, 'medicine chest, medicine cabinet')
+label wb 6: (648, 'medicine chest, medicine cabinet')
+label wb 7: (648, 'medicine chest, medicine cabinet')
+label wb 8: (648, 'medicine chest, medicine cabinet')
+label wb 9: (648, 'medicine chest, medicine cabinet')
+
+
+n_iters: 10, iter_w: 43, loss: -4.096564769744873
+w: [0.09286426426021945, 0.1004448619020396, 0.07330401038791678, 0.08838237659737239, 0.10546607313824514, 0.12263277220184572, 0.0869851530804008, 0.09310564269654917, 0.16362435123551267, 0.0731904944998982]
+label victim: (648, 'medicine chest, medicine cabinet')
+label wb 0: (648, 'medicine chest, medicine cabinet')
+label wb 1: (648, 'medicine chest, medicine cabinet')
+label wb 2: (648, 'medicine chest, medicine cabinet')
+label wb 3: (648, 'medicine chest, medicine cabinet')
+label wb 4: (648, 'medicine chest, medicine cabinet')
+label wb 5: (648, 'medicine chest, medicine cabinet')
+label wb 6: (648, 'medicine chest, medicine cabinet')
+label wb 7: (648, 'medicine chest, medicine cabinet')
+label wb 8: (648, 'medicine chest, medicine cabinet')
+label wb 9: (648, 'medicine chest, medicine cabinet')
+
+
+n_iters: 10, iter_w: 44, loss: -2.1948766708374023
+w: [0.09263453602621373, 0.1003565830130912, 0.07272954435453367, 0.08814313655272298, 0.10560569446372395, 0.12312459787719596, 0.08660702673236716, 0.09297924018667705, 0.16514731835017157, 0.07267232244330275]
+label victim: (648, 'medicine chest, medicine cabinet')
+label wb 0: (648, 'medicine chest, medicine cabinet')
+label wb 1: (648, 'medicine chest, medicine cabinet')
+label wb 2: (648, 'medicine chest, medicine cabinet')
+label wb 3: (648, 'medicine chest, medicine cabinet')
+label wb 4: (648, 'medicine chest, medicine cabinet')
+label wb 5: (648, 'medicine chest, medicine cabinet')
+label wb 6: (648, 'medicine chest, medicine cabinet')
+label wb 7: (648, 'medicine chest, medicine cabinet')
+label wb 8: (648, 'medicine chest, medicine cabinet')
+label wb 9: (648, 'medicine chest, medicine cabinet')
+
+
+n_iters: 10, iter_w: 45, loss: -1.0267081260681152
+w: [0.09236473292517597, 0.1002825066227994, 0.07207612906083498, 0.08790288026971702, 0.1056937964395077, 0.1236975609489085, 0.08634483690679567, 0.09282400000006356, 0.16667054082293692, 0.07214301600326033]
+label victim: (648, 'medicine chest, medicine cabinet')
+label wb 0: (648, 'medicine chest, medicine cabinet')
+label wb 1: (648, 'medicine chest, medicine cabinet')
+label wb 2: (648, 'medicine chest, medicine cabinet')
+label wb 3: (648, 'medicine chest, medicine cabinet')
+label wb 4: (648, 'medicine chest, medicine cabinet')
+label wb 5: (648, 'medicine chest, medicine cabinet')
+label wb 6: (648, 'medicine chest, medicine cabinet')
+label wb 7: (648, 'medicine chest, medicine cabinet')
+label wb 8: (648, 'medicine chest, medicine cabinet')
+label wb 9: (648, 'medicine chest, medicine cabinet')
+
+
+n_iters: 10, iter_w: 46, loss: -3.3163771629333496
+w: [0.09206699680988772, 0.10026064309278554, 0.07143281806731808, 0.08768695230812427, 0.10582708951051191, 0.12426726622399731, 0.08613571300276314, 0.0926591535560557, 0.16799132156858768, 0.0716720458599687]
+label victim: (648, 'medicine chest, medicine cabinet')
+label wb 0: (648, 'medicine chest, medicine cabinet')
+label wb 1: (648, 'medicine chest, medicine cabinet')
+label wb 2: (648, 'medicine chest, medicine cabinet')
+label wb 3: (648, 'medicine chest, medicine cabinet')
+label wb 4: (648, 'medicine chest, medicine cabinet')
+label wb 5: (648, 'medicine chest, medicine cabinet')
+label wb 6: (648, 'medicine chest, medicine cabinet')
+label wb 7: (648, 'medicine chest, medicine cabinet')
+label wb 8: (648, 'medicine chest, medicine cabinet')
+label wb 9: (648, 'medicine chest, medicine cabinet')
+
+
+n_iters: 10, iter_w: 47, loss: -3.4359703063964844
+w: [0.09179290656064625, 0.10020058812983763, 0.07079841436424317, 0.0874653160304517, 0.10610926738323191, 0.12476645291015902, 0.08580759790552338, 0.0924528871290288, 0.16943610177524723, 0.07117046781163086]
+label victim: (648, 'medicine chest, medicine cabinet')
+label wb 0: (648, 'medicine chest, medicine cabinet')
+label wb 1: (648, 'medicine chest, medicine cabinet')
+label wb 2: (648, 'medicine chest, medicine cabinet')
+label wb 3: (648, 'medicine chest, medicine cabinet')
+label wb 4: (648, 'medicine chest, medicine cabinet')
+label wb 5: (648, 'medicine chest, medicine cabinet')
+label wb 6: (648, 'medicine chest, medicine cabinet')
+label wb 7: (648, 'medicine chest, medicine cabinet')
+label wb 8: (648, 'medicine chest, medicine cabinet')
+label wb 9: (648, 'medicine chest, medicine cabinet')
+
+
+n_iters: 10, iter_w: 48, loss: -4.856594085693359
+w: [0.09150250088586764, 0.10011406264993342, 0.0701990135023416, 0.08731292419876296, 0.10622076340763419, 0.1252616349000628, 0.08557287675959768, 0.09237614268664936, 0.1707202777352344, 0.07071980327391583]
+label victim: (648, 'medicine chest, medicine cabinet')
+label wb 0: (648, 'medicine chest, medicine cabinet')
+label wb 1: (648, 'medicine chest, medicine cabinet')
+label wb 2: (648, 'medicine chest, medicine cabinet')
+label wb 3: (648, 'medicine chest, medicine cabinet')
+label wb 4: (648, 'medicine chest, medicine cabinet')
+label wb 5: (648, 'medicine chest, medicine cabinet')
+label wb 6: (648, 'medicine chest, medicine cabinet')
+label wb 7: (648, 'medicine chest, medicine cabinet')
+label wb 8: (648, 'medicine chest, medicine cabinet')
+label wb 9: (648, 'medicine chest, medicine cabinet')
+
+
+n_iters: 10, iter_w: 49, loss: -3.8498802185058594
+w: [0.09129549267352789, 0.10004617407381955, 0.06959691614733556, 0.08711916630352702, 0.10636846964153189, 0.12582039843832543, 0.08538031771954606, 0.09224743307190943, 0.17188216253659305, 0.07024346939388415]
+label victim: (648, 'medicine chest, medicine cabinet')
+label wb 0: (648, 'medicine chest, medicine cabinet')
+label wb 1: (648, 'medicine chest, medicine cabinet')
+label wb 2: (648, 'medicine chest, medicine cabinet')
+label wb 3: (648, 'medicine chest, medicine cabinet')
+label wb 4: (648, 'medicine chest, medicine cabinet')
+label wb 5: (648, 'medicine chest, medicine cabinet')
+label wb 6: (648, 'medicine chest, medicine cabinet')
+label wb 7: (648, 'medicine chest, medicine cabinet')
+label wb 8: (648, 'medicine chest, medicine cabinet')
+label wb 9: (648, 'medicine chest, medicine cabinet')
+
+

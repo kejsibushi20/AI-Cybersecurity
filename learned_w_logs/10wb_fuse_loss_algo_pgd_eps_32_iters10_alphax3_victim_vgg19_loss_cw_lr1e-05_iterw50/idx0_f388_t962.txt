@@ -1,0 +1,750 @@
+n_iters: 10, iter_w: 0, loss: 5.918590545654297
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+label victim: (327, 'starfish, sea star')
+label wb 0: (962, 'meat loaf, meatloaf')
+label wb 1: (962, 'meat loaf, meatloaf')
+label wb 2: (962, 'meat loaf, meatloaf')
+label wb 3: (962, 'meat loaf, meatloaf')
+label wb 4: (962, 'meat loaf, meatloaf')
+label wb 5: (962, 'meat loaf, meatloaf')
+label wb 6: (962, 'meat loaf, meatloaf')
+label wb 7: (962, 'meat loaf, meatloaf')
+label wb 8: (962, 'meat loaf, meatloaf')
+label wb 9: (962, 'meat loaf, meatloaf')
+
+
+n_iters: 10, iter_w: 1, loss: -3.6101417541503906
+w: [0.09997761672127184, 0.0999733902401424, 0.09997523948451868, 0.10017893307746721, 0.0998456486192078, 0.09997159196516103, 0.09982664456291879, 0.10006381128973509, 0.10011004057169766, 0.1000770834678795]
+label victim: (962, 'meat loaf, meatloaf')
+label wb 0: (962, 'meat loaf, meatloaf')
+label wb 1: (962, 'meat loaf, meatloaf')
+label wb 2: (962, 'meat loaf, meatloaf')
+label wb 3: (962, 'meat loaf, meatloaf')
+label wb 4: (962, 'meat loaf, meatloaf')
+label wb 5: (962, 'meat loaf, meatloaf')
+label wb 6: (962, 'meat loaf, meatloaf')
+label wb 7: (962, 'meat loaf, meatloaf')
+label wb 8: (962, 'meat loaf, meatloaf')
+label wb 9: (962, 'meat loaf, meatloaf')
+
+
+n_iters: 10, iter_w: 2, loss: -0.2891721725463867
+w: [0.09994412704437078, 0.09992397034102685, 0.09949077801996396, 0.09989293720087056, 0.09970320495438878, 0.10017798420883432, 0.09939841052662797, 0.10019119688592004, 0.10152190724107783, 0.09975548357691902]
+label victim: (962, 'meat loaf, meatloaf')
+label wb 0: (962, 'meat loaf, meatloaf')
+label wb 1: (962, 'meat loaf, meatloaf')
+label wb 2: (962, 'meat loaf, meatloaf')
+label wb 3: (962, 'meat loaf, meatloaf')
+label wb 4: (962, 'meat loaf, meatloaf')
+label wb 5: (962, 'meat loaf, meatloaf')
+label wb 6: (962, 'meat loaf, meatloaf')
+label wb 7: (962, 'meat loaf, meatloaf')
+label wb 8: (962, 'meat loaf, meatloaf')
+label wb 9: (962, 'meat loaf, meatloaf')
+
+
+n_iters: 10, iter_w: 3, loss: -8.248641014099121
+w: [0.09986039507793801, 0.09979272803499978, 0.09866123058313614, 0.09931226409193203, 0.09968686592719675, 0.10073865091027163, 0.09877782359865639, 0.10014008338939095, 0.10393782846108127, 0.09909212992539708]
+label victim: (962, 'meat loaf, meatloaf')
+label wb 0: (962, 'meat loaf, meatloaf')
+label wb 1: (962, 'meat loaf, meatloaf')
+label wb 2: (962, 'meat loaf, meatloaf')
+label wb 3: (962, 'meat loaf, meatloaf')
+label wb 4: (962, 'meat loaf, meatloaf')
+label wb 5: (962, 'meat loaf, meatloaf')
+label wb 6: (962, 'meat loaf, meatloaf')
+label wb 7: (962, 'meat loaf, meatloaf')
+label wb 8: (962, 'meat loaf, meatloaf')
+label wb 9: (962, 'meat loaf, meatloaf')
+
+
+n_iters: 10, iter_w: 4, loss: -9.902347564697266
+w: [0.09962898245045318, 0.09954522300855469, 0.0976674863139725, 0.09859282946208678, 0.09966171118596065, 0.10155365162259383, 0.09818810077623076, 0.09996165929533375, 0.10695619475856831, 0.09824416112624537]
+label victim: (962, 'meat loaf, meatloaf')
+label wb 0: (962, 'meat loaf, meatloaf')
+label wb 1: (962, 'meat loaf, meatloaf')
+label wb 2: (962, 'meat loaf, meatloaf')
+label wb 3: (962, 'meat loaf, meatloaf')
+label wb 4: (962, 'meat loaf, meatloaf')
+label wb 5: (962, 'meat loaf, meatloaf')
+label wb 6: (962, 'meat loaf, meatloaf')
+label wb 7: (962, 'meat loaf, meatloaf')
+label wb 8: (962, 'meat loaf, meatloaf')
+label wb 9: (962, 'meat loaf, meatloaf')
+
+
+n_iters: 10, iter_w: 5, loss: -4.3285932540893555
+w: [0.09934955800477051, 0.0992915044034384, 0.0965928957990622, 0.09768666255547727, 0.09969099806848036, 0.10260812932724306, 0.09741861073837076, 0.09974843223148394, 0.11038042644862979, 0.09723278242304366]
+label victim: (962, 'meat loaf, meatloaf')
+label wb 0: (962, 'meat loaf, meatloaf')
+label wb 1: (962, 'meat loaf, meatloaf')
+label wb 2: (962, 'meat loaf, meatloaf')
+label wb 3: (962, 'meat loaf, meatloaf')
+label wb 4: (962, 'meat loaf, meatloaf')
+label wb 5: (962, 'meat loaf, meatloaf')
+label wb 6: (962, 'meat loaf, meatloaf')
+label wb 7: (962, 'meat loaf, meatloaf')
+label wb 8: (962, 'meat loaf, meatloaf')
+label wb 9: (962, 'meat loaf, meatloaf')
+
+
+n_iters: 10, iter_w: 6, loss: -5.335214614868164
+w: [0.09909349350845333, 0.0989411154679866, 0.09537040500946892, 0.09678499748921496, 0.09972611863074825, 0.10368996801662625, 0.0965762357350754, 0.09951177968876779, 0.11421179114462782, 0.09609409530903085]
+label victim: (962, 'meat loaf, meatloaf')
+label wb 0: (962, 'meat loaf, meatloaf')
+label wb 1: (962, 'meat loaf, meatloaf')
+label wb 2: (962, 'meat loaf, meatloaf')
+label wb 3: (962, 'meat loaf, meatloaf')
+label wb 4: (962, 'meat loaf, meatloaf')
+label wb 5: (962, 'meat loaf, meatloaf')
+label wb 6: (962, 'meat loaf, meatloaf')
+label wb 7: (962, 'meat loaf, meatloaf')
+label wb 8: (962, 'meat loaf, meatloaf')
+label wb 9: (962, 'meat loaf, meatloaf')
+
+
+n_iters: 10, iter_w: 7, loss: -4.413272857666016
+w: [0.09887284329111065, 0.09861207761403021, 0.09420602222954216, 0.09581767449784771, 0.09973162628049186, 0.10471225890153787, 0.09565970255159782, 0.09919285505467923, 0.11820808917639396, 0.09498685040276854]
+label victim: (962, 'meat loaf, meatloaf')
+label wb 0: (962, 'meat loaf, meatloaf')
+label wb 1: (962, 'meat loaf, meatloaf')
+label wb 2: (962, 'meat loaf, meatloaf')
+label wb 3: (962, 'meat loaf, meatloaf')
+label wb 4: (962, 'meat loaf, meatloaf')
+label wb 5: (962, 'meat loaf, meatloaf')
+label wb 6: (962, 'meat loaf, meatloaf')
+label wb 7: (962, 'meat loaf, meatloaf')
+label wb 8: (962, 'meat loaf, meatloaf')
+label wb 9: (962, 'meat loaf, meatloaf')
+
+
+n_iters: 10, iter_w: 8, loss: -10.268322944641113
+w: [0.09853425835247706, 0.09828192328457656, 0.09308733722288343, 0.09488056534091095, 0.09963269549972566, 0.10573081872767578, 0.0948198757263294, 0.09898761645597172, 0.12219298172629733, 0.09385192766315213]
+label victim: (962, 'meat loaf, meatloaf')
+label wb 0: (962, 'meat loaf, meatloaf')
+label wb 1: (962, 'meat loaf, meatloaf')
+label wb 2: (962, 'meat loaf, meatloaf')
+label wb 3: (962, 'meat loaf, meatloaf')
+label wb 4: (962, 'meat loaf, meatloaf')
+label wb 5: (962, 'meat loaf, meatloaf')
+label wb 6: (962, 'meat loaf, meatloaf')
+label wb 7: (962, 'meat loaf, meatloaf')
+label wb 8: (962, 'meat loaf, meatloaf')
+label wb 9: (962, 'meat loaf, meatloaf')
+
+
+n_iters: 10, iter_w: 9, loss: -4.8059797286987305
+w: [0.09825623644854603, 0.09783642591823435, 0.09191854110356727, 0.09389165400681984, 0.0997395698812159, 0.10662600259111621, 0.09402551308019864, 0.09867477726062368, 0.12633256185984842, 0.09269871784982954]
+label victim: (962, 'meat loaf, meatloaf')
+label wb 0: (962, 'meat loaf, meatloaf')
+label wb 1: (962, 'meat loaf, meatloaf')
+label wb 2: (962, 'meat loaf, meatloaf')
+label wb 3: (962, 'meat loaf, meatloaf')
+label wb 4: (962, 'meat loaf, meatloaf')
+label wb 5: (962, 'meat loaf, meatloaf')
+label wb 6: (962, 'meat loaf, meatloaf')
+label wb 7: (962, 'meat loaf, meatloaf')
+label wb 8: (962, 'meat loaf, meatloaf')
+label wb 9: (962, 'meat loaf, meatloaf')
+
+
+n_iters: 10, iter_w: 10, loss: -7.827404022216797
+w: [0.09793175822283638, 0.09744442214129694, 0.09075904993373463, 0.0929716953980307, 0.09997720780681332, 0.10754312749725217, 0.09314632842842954, 0.09840004982880161, 0.13030517940295566, 0.09152118133984904]
+label victim: (962, 'meat loaf, meatloaf')
+label wb 0: (962, 'meat loaf, meatloaf')
+label wb 1: (962, 'meat loaf, meatloaf')
+label wb 2: (962, 'meat loaf, meatloaf')
+label wb 3: (962, 'meat loaf, meatloaf')
+label wb 4: (962, 'meat loaf, meatloaf')
+label wb 5: (962, 'meat loaf, meatloaf')
+label wb 6: (962, 'meat loaf, meatloaf')
+label wb 7: (962, 'meat loaf, meatloaf')
+label wb 8: (962, 'meat loaf, meatloaf')
+label wb 9: (962, 'meat loaf, meatloaf')
+
+
+n_iters: 10, iter_w: 11, loss: -5.485820770263672
+w: [0.09768794626208045, 0.0970401098778753, 0.08963739478450145, 0.09211169853830725, 0.0999833193515404, 0.10847704949883918, 0.09235331172921811, 0.09801547162096061, 0.13431762291671712, 0.09037607541996008]
+label victim: (962, 'meat loaf, meatloaf')
+label wb 0: (962, 'meat loaf, meatloaf')
+label wb 1: (962, 'meat loaf, meatloaf')
+label wb 2: (962, 'meat loaf, meatloaf')
+label wb 3: (962, 'meat loaf, meatloaf')
+label wb 4: (962, 'meat loaf, meatloaf')
+label wb 5: (962, 'meat loaf, meatloaf')
+label wb 6: (962, 'meat loaf, meatloaf')
+label wb 7: (962, 'meat loaf, meatloaf')
+label wb 8: (962, 'meat loaf, meatloaf')
+label wb 9: (962, 'meat loaf, meatloaf')
+
+
+n_iters: 10, iter_w: 12, loss: -6.957111358642578
+w: [0.09738043836977772, 0.09658676124013353, 0.08845790122130331, 0.0912612466122665, 0.10003271741931484, 0.10941353241465453, 0.0915932218636491, 0.09778608390839447, 0.13827066446663272, 0.08921743248387327]
+label victim: (962, 'meat loaf, meatloaf')
+label wb 0: (962, 'meat loaf, meatloaf')
+label wb 1: (962, 'meat loaf, meatloaf')
+label wb 2: (962, 'meat loaf, meatloaf')
+label wb 3: (962, 'meat loaf, meatloaf')
+label wb 4: (962, 'meat loaf, meatloaf')
+label wb 5: (962, 'meat loaf, meatloaf')
+label wb 6: (962, 'meat loaf, meatloaf')
+label wb 7: (962, 'meat loaf, meatloaf')
+label wb 8: (962, 'meat loaf, meatloaf')
+label wb 9: (962, 'meat loaf, meatloaf')
+
+
+n_iters: 10, iter_w: 13, loss: -8.921728134155273
+w: [0.09711617811922535, 0.09614231736002744, 0.08729048913161462, 0.09050552545946455, 0.10010838841698981, 0.11023594728821287, 0.0907967970204435, 0.09750744427443821, 0.14219651239433867, 0.08810040053524484]
+label victim: (962, 'meat loaf, meatloaf')
+label wb 0: (962, 'meat loaf, meatloaf')
+label wb 1: (962, 'meat loaf, meatloaf')
+label wb 2: (962, 'meat loaf, meatloaf')
+label wb 3: (962, 'meat loaf, meatloaf')
+label wb 4: (962, 'meat loaf, meatloaf')
+label wb 5: (962, 'meat loaf, meatloaf')
+label wb 6: (962, 'meat loaf, meatloaf')
+label wb 7: (962, 'meat loaf, meatloaf')
+label wb 8: (962, 'meat loaf, meatloaf')
+label wb 9: (962, 'meat loaf, meatloaf')
+
+
+n_iters: 10, iter_w: 14, loss: -8.079364776611328
+w: [0.0968238435202654, 0.09566949940357318, 0.08613659803005227, 0.08965499502230052, 0.10023478488895851, 0.11110218957423032, 0.09000083635450286, 0.09720685960458351, 0.14618896501276749, 0.08698142858876602]
+label victim: (962, 'meat loaf, meatloaf')
+label wb 0: (962, 'meat loaf, meatloaf')
+label wb 1: (962, 'meat loaf, meatloaf')
+label wb 2: (962, 'meat loaf, meatloaf')
+label wb 3: (962, 'meat loaf, meatloaf')
+label wb 4: (962, 'meat loaf, meatloaf')
+label wb 5: (962, 'meat loaf, meatloaf')
+label wb 6: (962, 'meat loaf, meatloaf')
+label wb 7: (962, 'meat loaf, meatloaf')
+label wb 8: (962, 'meat loaf, meatloaf')
+label wb 9: (962, 'meat loaf, meatloaf')
+
+
+n_iters: 10, iter_w: 15, loss: -10.470290184020996
+w: [0.09658462661104884, 0.09525222790365565, 0.08513899484997664, 0.08881233504703322, 0.10017767959028281, 0.11192740659041586, 0.08919291925244077, 0.09686177634846478, 0.15012611562130104, 0.08592591818538044]
+label victim: (962, 'meat loaf, meatloaf')
+label wb 0: (962, 'meat loaf, meatloaf')
+label wb 1: (962, 'meat loaf, meatloaf')
+label wb 2: (962, 'meat loaf, meatloaf')
+label wb 3: (962, 'meat loaf, meatloaf')
+label wb 4: (962, 'meat loaf, meatloaf')
+label wb 5: (962, 'meat loaf, meatloaf')
+label wb 6: (962, 'meat loaf, meatloaf')
+label wb 7: (962, 'meat loaf, meatloaf')
+label wb 8: (962, 'meat loaf, meatloaf')
+label wb 9: (962, 'meat loaf, meatloaf')
+
+
+n_iters: 10, iter_w: 16, loss: -4.256124496459961
+w: [0.09636959247080829, 0.09480232689176553, 0.08408881552617015, 0.0880541376737683, 0.10020293140235947, 0.11276111876055073, 0.08837745274070039, 0.09655300745746569, 0.15395081542075492, 0.08483980165565663]
+label victim: (962, 'meat loaf, meatloaf')
+label wb 0: (962, 'meat loaf, meatloaf')
+label wb 1: (962, 'meat loaf, meatloaf')
+label wb 2: (962, 'meat loaf, meatloaf')
+label wb 3: (962, 'meat loaf, meatloaf')
+label wb 4: (962, 'meat loaf, meatloaf')
+label wb 5: (962, 'meat loaf, meatloaf')
+label wb 6: (962, 'meat loaf, meatloaf')
+label wb 7: (962, 'meat loaf, meatloaf')
+label wb 8: (962, 'meat loaf, meatloaf')
+label wb 9: (962, 'meat loaf, meatloaf')
+
+
+n_iters: 10, iter_w: 17, loss: -4.235162734985352
+w: [0.09610525786460386, 0.09430816129191162, 0.08299174435497313, 0.08719743489515845, 0.10029614102789113, 0.11354191054640875, 0.08757711998286831, 0.09615440946678355, 0.1580545089553695, 0.08377331161403163]
+label victim: (962, 'meat loaf, meatloaf')
+label wb 0: (962, 'meat loaf, meatloaf')
+label wb 1: (962, 'meat loaf, meatloaf')
+label wb 2: (962, 'meat loaf, meatloaf')
+label wb 3: (962, 'meat loaf, meatloaf')
+label wb 4: (962, 'meat loaf, meatloaf')
+label wb 5: (962, 'meat loaf, meatloaf')
+label wb 6: (962, 'meat loaf, meatloaf')
+label wb 7: (962, 'meat loaf, meatloaf')
+label wb 8: (962, 'meat loaf, meatloaf')
+label wb 9: (962, 'meat loaf, meatloaf')
+
+
+n_iters: 10, iter_w: 18, loss: -5.365196228027344
+w: [0.0957585755806634, 0.09386724430088206, 0.08193170636992934, 0.08638788773950097, 0.10031025220846564, 0.11440336098372926, 0.08684060537306018, 0.09583371472599055, 0.16191281538968028, 0.08275383732809832]
+label victim: (962, 'meat loaf, meatloaf')
+label wb 0: (962, 'meat loaf, meatloaf')
+label wb 1: (962, 'meat loaf, meatloaf')
+label wb 2: (962, 'meat loaf, meatloaf')
+label wb 3: (962, 'meat loaf, meatloaf')
+label wb 4: (962, 'meat loaf, meatloaf')
+label wb 5: (962, 'meat loaf, meatloaf')
+label wb 6: (962, 'meat loaf, meatloaf')
+label wb 7: (962, 'meat loaf, meatloaf')
+label wb 8: (962, 'meat loaf, meatloaf')
+label wb 9: (962, 'meat loaf, meatloaf')
+
+
+n_iters: 10, iter_w: 19, loss: -6.724521636962891
+w: [0.09536009189480184, 0.09342652950107891, 0.08083980568296735, 0.08563358576765037, 0.10042350774877229, 0.11513867604988959, 0.08608787341623106, 0.0955004757880838, 0.16583382147874093, 0.0817556326717837]
+label victim: (962, 'meat loaf, meatloaf')
+label wb 0: (962, 'meat loaf, meatloaf')
+label wb 1: (962, 'meat loaf, meatloaf')
+label wb 2: (962, 'meat loaf, meatloaf')
+label wb 3: (962, 'meat loaf, meatloaf')
+label wb 4: (962, 'meat loaf, meatloaf')
+label wb 5: (962, 'meat loaf, meatloaf')
+label wb 6: (962, 'meat loaf, meatloaf')
+label wb 7: (962, 'meat loaf, meatloaf')
+label wb 8: (962, 'meat loaf, meatloaf')
+label wb 9: (962, 'meat loaf, meatloaf')
+
+
+n_iters: 10, iter_w: 20, loss: -0.6275787353515625
+w: [0.09501370582820129, 0.09290286759379367, 0.0796952743761674, 0.08476227958074296, 0.10054970382971402, 0.11603611281324994, 0.08534724044060472, 0.09516717334900276, 0.1698401802795592, 0.08068546190896408]
+label victim: (962, 'meat loaf, meatloaf')
+label wb 0: (962, 'meat loaf, meatloaf')
+label wb 1: (962, 'meat loaf, meatloaf')
+label wb 2: (962, 'meat loaf, meatloaf')
+label wb 3: (962, 'meat loaf, meatloaf')
+label wb 4: (962, 'meat loaf, meatloaf')
+label wb 5: (962, 'meat loaf, meatloaf')
+label wb 6: (962, 'meat loaf, meatloaf')
+label wb 7: (962, 'meat loaf, meatloaf')
+label wb 8: (962, 'meat loaf, meatloaf')
+label wb 9: (962, 'meat loaf, meatloaf')
+
+
+n_iters: 10, iter_w: 21, loss: -6.399655342102051
+w: [0.09459788027762563, 0.09237799235385795, 0.07863879578389736, 0.0839974881528519, 0.10052929856850513, 0.11672360598952711, 0.08459502258507426, 0.09495571758206871, 0.17385238270872017, 0.0797318159978719]
+label victim: (962, 'meat loaf, meatloaf')
+label wb 0: (962, 'meat loaf, meatloaf')
+label wb 1: (962, 'meat loaf, meatloaf')
+label wb 2: (962, 'meat loaf, meatloaf')
+label wb 3: (962, 'meat loaf, meatloaf')
+label wb 4: (962, 'meat loaf, meatloaf')
+label wb 5: (962, 'meat loaf, meatloaf')
+label wb 6: (962, 'meat loaf, meatloaf')
+label wb 7: (962, 'meat loaf, meatloaf')
+label wb 8: (962, 'meat loaf, meatloaf')
+label wb 9: (962, 'meat loaf, meatloaf')
+
+
+n_iters: 10, iter_w: 22, loss: -10.052691459655762
+w: [0.09418549269744078, 0.09181820452252235, 0.07761482101832087, 0.08313624091998252, 0.10047699973160473, 0.11745563725317294, 0.08389516124720439, 0.09465720190302573, 0.17796649023982808, 0.07879375046689778]
+label victim: (962, 'meat loaf, meatloaf')
+label wb 0: (962, 'meat loaf, meatloaf')
+label wb 1: (962, 'meat loaf, meatloaf')
+label wb 2: (962, 'meat loaf, meatloaf')
+label wb 3: (962, 'meat loaf, meatloaf')
+label wb 4: (962, 'meat loaf, meatloaf')
+label wb 5: (962, 'meat loaf, meatloaf')
+label wb 6: (962, 'meat loaf, meatloaf')
+label wb 7: (962, 'meat loaf, meatloaf')
+label wb 8: (962, 'meat loaf, meatloaf')
+label wb 9: (962, 'meat loaf, meatloaf')
+
+
+n_iters: 10, iter_w: 23, loss: -3.6077890396118164
+w: [0.0937752558257917, 0.09124966773549821, 0.07660102827126276, 0.08235499929398754, 0.10050304602014208, 0.11820989771567167, 0.08323908976032328, 0.09438180495329064, 0.1818481809345142, 0.07783702948951787]
+label victim: (962, 'meat loaf, meatloaf')
+label wb 0: (962, 'meat loaf, meatloaf')
+label wb 1: (962, 'meat loaf, meatloaf')
+label wb 2: (962, 'meat loaf, meatloaf')
+label wb 3: (962, 'meat loaf, meatloaf')
+label wb 4: (962, 'meat loaf, meatloaf')
+label wb 5: (962, 'meat loaf, meatloaf')
+label wb 6: (962, 'meat loaf, meatloaf')
+label wb 7: (962, 'meat loaf, meatloaf')
+label wb 8: (962, 'meat loaf, meatloaf')
+label wb 9: (962, 'meat loaf, meatloaf')
+
+
+n_iters: 10, iter_w: 24, loss: -5.856564521789551
+w: [0.09339119485145893, 0.0907769924708611, 0.07555613250715656, 0.081613371693904, 0.10057843940924546, 0.11894324247270824, 0.08257086023639913, 0.0941483735262312, 0.18547751085498898, 0.0769438819770465]
+label victim: (962, 'meat loaf, meatloaf')
+label wb 0: (962, 'meat loaf, meatloaf')
+label wb 1: (962, 'meat loaf, meatloaf')
+label wb 2: (962, 'meat loaf, meatloaf')
+label wb 3: (962, 'meat loaf, meatloaf')
+label wb 4: (962, 'meat loaf, meatloaf')
+label wb 5: (962, 'meat loaf, meatloaf')
+label wb 6: (962, 'meat loaf, meatloaf')
+label wb 7: (962, 'meat loaf, meatloaf')
+label wb 8: (962, 'meat loaf, meatloaf')
+label wb 9: (962, 'meat loaf, meatloaf')
+
+
+n_iters: 10, iter_w: 25, loss: 0.03261375427246094
+w: [0.09306870851118405, 0.09017430963937662, 0.07454665262863114, 0.08087711352705262, 0.10059081619545536, 0.11975696489468576, 0.081932024852779, 0.0938367585263668, 0.1891301718303128, 0.07608647939415596]
+label victim: (329, 'sea cucumber, holothurian')
+label wb 0: (962, 'meat loaf, meatloaf')
+label wb 1: (962, 'meat loaf, meatloaf')
+label wb 2: (962, 'meat loaf, meatloaf')
+label wb 3: (962, 'meat loaf, meatloaf')
+label wb 4: (962, 'meat loaf, meatloaf')
+label wb 5: (962, 'meat loaf, meatloaf')
+label wb 6: (962, 'meat loaf, meatloaf')
+label wb 7: (962, 'meat loaf, meatloaf')
+label wb 8: (962, 'meat loaf, meatloaf')
+label wb 9: (962, 'meat loaf, meatloaf')
+
+
+n_iters: 10, iter_w: 26, loss: -8.414043426513672
+w: [0.09273545839877413, 0.08961963111399557, 0.07353104692659196, 0.08001911354806475, 0.10069869180316607, 0.12042122252676982, 0.0813432313255691, 0.09352794783203242, 0.19284819080766552, 0.07525546571737071]
+label victim: (962, 'meat loaf, meatloaf')
+label wb 0: (962, 'meat loaf, meatloaf')
+label wb 1: (962, 'meat loaf, meatloaf')
+label wb 2: (962, 'meat loaf, meatloaf')
+label wb 3: (962, 'meat loaf, meatloaf')
+label wb 4: (962, 'meat loaf, meatloaf')
+label wb 5: (962, 'meat loaf, meatloaf')
+label wb 6: (962, 'meat loaf, meatloaf')
+label wb 7: (962, 'meat loaf, meatloaf')
+label wb 8: (962, 'meat loaf, meatloaf')
+label wb 9: (962, 'meat loaf, meatloaf')
+
+
+n_iters: 10, iter_w: 27, loss: -5.7736406326293945
+w: [0.09238307334565625, 0.08909274610856377, 0.07261041569082252, 0.07933412023526375, 0.10057780540114442, 0.12113033569486124, 0.08076323658892122, 0.09323847905068039, 0.1963878372910745, 0.07448195059301173]
+label victim: (962, 'meat loaf, meatloaf')
+label wb 0: (962, 'meat loaf, meatloaf')
+label wb 1: (962, 'meat loaf, meatloaf')
+label wb 2: (962, 'meat loaf, meatloaf')
+label wb 3: (962, 'meat loaf, meatloaf')
+label wb 4: (962, 'meat loaf, meatloaf')
+label wb 5: (962, 'meat loaf, meatloaf')
+label wb 6: (962, 'meat loaf, meatloaf')
+label wb 7: (962, 'meat loaf, meatloaf')
+label wb 8: (962, 'meat loaf, meatloaf')
+label wb 9: (962, 'meat loaf, meatloaf')
+
+
+n_iters: 10, iter_w: 28, loss: -0.28064823150634766
+w: [0.0920436574309432, 0.0885493460291817, 0.07166645900653916, 0.07868761096953944, 0.10057719563607474, 0.12178945060181477, 0.08018028225370957, 0.0929486898726892, 0.19985010195776876, 0.07370720624173947]
+label victim: (962, 'meat loaf, meatloaf')
+label wb 0: (962, 'meat loaf, meatloaf')
+label wb 1: (962, 'meat loaf, meatloaf')
+label wb 2: (962, 'meat loaf, meatloaf')
+label wb 3: (962, 'meat loaf, meatloaf')
+label wb 4: (962, 'meat loaf, meatloaf')
+label wb 5: (962, 'meat loaf, meatloaf')
+label wb 6: (962, 'meat loaf, meatloaf')
+label wb 7: (962, 'meat loaf, meatloaf')
+label wb 8: (962, 'meat loaf, meatloaf')
+label wb 9: (962, 'meat loaf, meatloaf')
+
+
+n_iters: 10, iter_w: 29, loss: -3.511502265930176
+w: [0.09162820068572648, 0.08800181606846023, 0.07065179455128105, 0.07800115211068642, 0.10074358646258141, 0.12238713076884945, 0.07961721458089327, 0.0927036346694981, 0.20337258182053478, 0.07289288828148885]
+label victim: (962, 'meat loaf, meatloaf')
+label wb 0: (962, 'meat loaf, meatloaf')
+label wb 1: (962, 'meat loaf, meatloaf')
+label wb 2: (962, 'meat loaf, meatloaf')
+label wb 3: (962, 'meat loaf, meatloaf')
+label wb 4: (962, 'meat loaf, meatloaf')
+label wb 5: (962, 'meat loaf, meatloaf')
+label wb 6: (962, 'meat loaf, meatloaf')
+label wb 7: (962, 'meat loaf, meatloaf')
+label wb 8: (962, 'meat loaf, meatloaf')
+label wb 9: (962, 'meat loaf, meatloaf')
+
+
+n_iters: 10, iter_w: 30, loss: -3.748967170715332
+w: [0.09130415628195424, 0.08750543789266377, 0.06967243342455036, 0.07733370090811621, 0.1006434694825111, 0.12297722499915742, 0.07909268852270653, 0.09243588798469551, 0.20689022057358517, 0.07214477993005972]
+label victim: (962, 'meat loaf, meatloaf')
+label wb 0: (962, 'meat loaf, meatloaf')
+label wb 1: (962, 'meat loaf, meatloaf')
+label wb 2: (962, 'meat loaf, meatloaf')
+label wb 3: (962, 'meat loaf, meatloaf')
+label wb 4: (962, 'meat loaf, meatloaf')
+label wb 5: (962, 'meat loaf, meatloaf')
+label wb 6: (962, 'meat loaf, meatloaf')
+label wb 7: (962, 'meat loaf, meatloaf')
+label wb 8: (962, 'meat loaf, meatloaf')
+label wb 9: (962, 'meat loaf, meatloaf')
+
+
+n_iters: 10, iter_w: 31, loss: -4.224599838256836
+w: [0.09091864272968478, 0.08700997099806215, 0.0687920268292993, 0.07665408393927602, 0.10054735451269102, 0.1236611898979432, 0.07847401945605863, 0.09217863863889632, 0.2103744069815545, 0.07138966601653421]
+label victim: (962, 'meat loaf, meatloaf')
+label wb 0: (962, 'meat loaf, meatloaf')
+label wb 1: (962, 'meat loaf, meatloaf')
+label wb 2: (962, 'meat loaf, meatloaf')
+label wb 3: (962, 'meat loaf, meatloaf')
+label wb 4: (962, 'meat loaf, meatloaf')
+label wb 5: (962, 'meat loaf, meatloaf')
+label wb 6: (962, 'meat loaf, meatloaf')
+label wb 7: (962, 'meat loaf, meatloaf')
+label wb 8: (962, 'meat loaf, meatloaf')
+label wb 9: (962, 'meat loaf, meatloaf')
+
+
+n_iters: 10, iter_w: 32, loss: -4.5618085861206055
+w: [0.09048929119524725, 0.08648371748275623, 0.06792350988699164, 0.07595722497330082, 0.1005392173899539, 0.12425642784107938, 0.07791907244810409, 0.09190909561507976, 0.2138343422709012, 0.07068810089658566]
+label victim: (962, 'meat loaf, meatloaf')
+label wb 0: (962, 'meat loaf, meatloaf')
+label wb 1: (962, 'meat loaf, meatloaf')
+label wb 2: (962, 'meat loaf, meatloaf')
+label wb 3: (962, 'meat loaf, meatloaf')
+label wb 4: (962, 'meat loaf, meatloaf')
+label wb 5: (962, 'meat loaf, meatloaf')
+label wb 6: (962, 'meat loaf, meatloaf')
+label wb 7: (962, 'meat loaf, meatloaf')
+label wb 8: (962, 'meat loaf, meatloaf')
+label wb 9: (962, 'meat loaf, meatloaf')
+
+
+n_iters: 10, iter_w: 33, loss: -3.8932981491088867
+w: [0.09013225744357148, 0.0859723291739867, 0.06707327202436728, 0.0753126617344595, 0.10051851344482975, 0.12483179901362358, 0.07738749568394374, 0.09169323235676959, 0.21710889796780727, 0.06996954115664107]
+label victim: (962, 'meat loaf, meatloaf')
+label wb 0: (962, 'meat loaf, meatloaf')
+label wb 1: (962, 'meat loaf, meatloaf')
+label wb 2: (962, 'meat loaf, meatloaf')
+label wb 3: (962, 'meat loaf, meatloaf')
+label wb 4: (962, 'meat loaf, meatloaf')
+label wb 5: (962, 'meat loaf, meatloaf')
+label wb 6: (962, 'meat loaf, meatloaf')
+label wb 7: (962, 'meat loaf, meatloaf')
+label wb 8: (962, 'meat loaf, meatloaf')
+label wb 9: (962, 'meat loaf, meatloaf')
+
+
+n_iters: 10, iter_w: 34, loss: -4.524262428283691
+w: [0.08966023139563174, 0.08539554604764256, 0.06615320499443236, 0.07465550493906328, 0.10069603163385836, 0.12530018975322788, 0.07691376122793046, 0.09153792619918681, 0.22043689161119753, 0.06925071219782904]
+label victim: (962, 'meat loaf, meatloaf')
+label wb 0: (962, 'meat loaf, meatloaf')
+label wb 1: (962, 'meat loaf, meatloaf')
+label wb 2: (962, 'meat loaf, meatloaf')
+label wb 3: (962, 'meat loaf, meatloaf')
+label wb 4: (962, 'meat loaf, meatloaf')
+label wb 5: (962, 'meat loaf, meatloaf')
+label wb 6: (962, 'meat loaf, meatloaf')
+label wb 7: (962, 'meat loaf, meatloaf')
+label wb 8: (962, 'meat loaf, meatloaf')
+label wb 9: (962, 'meat loaf, meatloaf')
+
+
+n_iters: 10, iter_w: 35, loss: -4.916264533996582
+w: [0.08931615241986784, 0.08482941348643087, 0.06529113895781821, 0.07394432240484448, 0.10064300883342413, 0.1257783208240928, 0.07634660258090707, 0.09127913096256539, 0.22403029544188924, 0.0685416140881598]
+label victim: (962, 'meat loaf, meatloaf')
+label wb 0: (962, 'meat loaf, meatloaf')
+label wb 1: (962, 'meat loaf, meatloaf')
+label wb 2: (962, 'meat loaf, meatloaf')
+label wb 3: (962, 'meat loaf, meatloaf')
+label wb 4: (962, 'meat loaf, meatloaf')
+label wb 5: (962, 'meat loaf, meatloaf')
+label wb 6: (962, 'meat loaf, meatloaf')
+label wb 7: (962, 'meat loaf, meatloaf')
+label wb 8: (962, 'meat loaf, meatloaf')
+label wb 9: (962, 'meat loaf, meatloaf')
+
+
+n_iters: 10, iter_w: 36, loss: -6.470044136047363
+w: [0.0889695936465858, 0.0843059871518494, 0.06439442857766112, 0.07325694787883062, 0.10070465675489673, 0.1263918546887874, 0.07583832891672967, 0.09101191605603944, 0.227228479604393, 0.06789780672422664]
+label victim: (962, 'meat loaf, meatloaf')
+label wb 0: (962, 'meat loaf, meatloaf')
+label wb 1: (962, 'meat loaf, meatloaf')
+label wb 2: (962, 'meat loaf, meatloaf')
+label wb 3: (962, 'meat loaf, meatloaf')
+label wb 4: (962, 'meat loaf, meatloaf')
+label wb 5: (962, 'meat loaf, meatloaf')
+label wb 6: (962, 'meat loaf, meatloaf')
+label wb 7: (962, 'meat loaf, meatloaf')
+label wb 8: (962, 'meat loaf, meatloaf')
+label wb 9: (962, 'meat loaf, meatloaf')
+
+
+n_iters: 10, iter_w: 37, loss: -2.746051788330078
+w: [0.08861436444213697, 0.0837922003063858, 0.0636333174287855, 0.07265082924083967, 0.10054928525195164, 0.1269789199161246, 0.07531105969709662, 0.09077012440119375, 0.23039605162578963, 0.06730384768969568]
+label victim: (962, 'meat loaf, meatloaf')
+label wb 0: (962, 'meat loaf, meatloaf')
+label wb 1: (962, 'meat loaf, meatloaf')
+label wb 2: (962, 'meat loaf, meatloaf')
+label wb 3: (962, 'meat loaf, meatloaf')
+label wb 4: (962, 'meat loaf, meatloaf')
+label wb 5: (962, 'meat loaf, meatloaf')
+label wb 6: (962, 'meat loaf, meatloaf')
+label wb 7: (962, 'meat loaf, meatloaf')
+label wb 8: (962, 'meat loaf, meatloaf')
+label wb 9: (962, 'meat loaf, meatloaf')
+
+
+n_iters: 10, iter_w: 38, loss: 2.526988983154297
+w: [0.08829141183145094, 0.08330968081511425, 0.06279646753460545, 0.07203464224377112, 0.10061624917644688, 0.1274636975356729, 0.07482899412784465, 0.09058095946856119, 0.23337287452511507, 0.06670502274141756]
+label victim: (329, 'sea cucumber, holothurian')
+label wb 0: (962, 'meat loaf, meatloaf')
+label wb 1: (962, 'meat loaf, meatloaf')
+label wb 2: (962, 'meat loaf, meatloaf')
+label wb 3: (962, 'meat loaf, meatloaf')
+label wb 4: (962, 'meat loaf, meatloaf')
+label wb 5: (962, 'meat loaf, meatloaf')
+label wb 6: (962, 'meat loaf, meatloaf')
+label wb 7: (962, 'meat loaf, meatloaf')
+label wb 8: (962, 'meat loaf, meatloaf')
+label wb 9: (962, 'meat loaf, meatloaf')
+
+
+n_iters: 10, iter_w: 39, loss: -4.338146209716797
+w: [0.08802566302808844, 0.082787827027641, 0.0619682196736162, 0.0713631613767035, 0.1004112104344707, 0.12790544037182178, 0.07425122889641406, 0.0903077402792591, 0.2368964372822286, 0.06608307162975664]
+label victim: (962, 'meat loaf, meatloaf')
+label wb 0: (962, 'meat loaf, meatloaf')
+label wb 1: (962, 'meat loaf, meatloaf')
+label wb 2: (962, 'meat loaf, meatloaf')
+label wb 3: (962, 'meat loaf, meatloaf')
+label wb 4: (962, 'meat loaf, meatloaf')
+label wb 5: (962, 'meat loaf, meatloaf')
+label wb 6: (962, 'meat loaf, meatloaf')
+label wb 7: (962, 'meat loaf, meatloaf')
+label wb 8: (962, 'meat loaf, meatloaf')
+label wb 9: (962, 'meat loaf, meatloaf')
+
+
+n_iters: 10, iter_w: 40, loss: -5.710290908813477
+w: [0.08770721473215999, 0.08226881668872847, 0.06114559663100576, 0.07065088841225273, 0.10035868205727433, 0.1283442328330127, 0.07379719196569642, 0.09005362109736771, 0.24013229803043268, 0.06554145755206915]
+label victim: (962, 'meat loaf, meatloaf')
+label wb 0: (962, 'meat loaf, meatloaf')
+label wb 1: (962, 'meat loaf, meatloaf')
+label wb 2: (962, 'meat loaf, meatloaf')
+label wb 3: (962, 'meat loaf, meatloaf')
+label wb 4: (962, 'meat loaf, meatloaf')
+label wb 5: (962, 'meat loaf, meatloaf')
+label wb 6: (962, 'meat loaf, meatloaf')
+label wb 7: (962, 'meat loaf, meatloaf')
+label wb 8: (962, 'meat loaf, meatloaf')
+label wb 9: (962, 'meat loaf, meatloaf')
+
+
+n_iters: 10, iter_w: 41, loss: -3.2308101654052734
+w: [0.08737760624893788, 0.08175878947929775, 0.0603268622485533, 0.07001488015564462, 0.1002639318335414, 0.12877781007161027, 0.07336195933403152, 0.089812880488472, 0.24332577117018728, 0.06497950896972415]
+label victim: (962, 'meat loaf, meatloaf')
+label wb 0: (962, 'meat loaf, meatloaf')
+label wb 1: (962, 'meat loaf, meatloaf')
+label wb 2: (962, 'meat loaf, meatloaf')
+label wb 3: (962, 'meat loaf, meatloaf')
+label wb 4: (962, 'meat loaf, meatloaf')
+label wb 5: (962, 'meat loaf, meatloaf')
+label wb 6: (962, 'meat loaf, meatloaf')
+label wb 7: (962, 'meat loaf, meatloaf')
+label wb 8: (962, 'meat loaf, meatloaf')
+label wb 9: (962, 'meat loaf, meatloaf')
+
+
+n_iters: 10, iter_w: 42, loss: -2.784595489501953
+w: [0.08706577170998017, 0.08123863794713425, 0.05946337171638072, 0.06936159333538969, 0.10056061891912312, 0.12924978904128742, 0.07297260841463594, 0.08952960334045025, 0.2461847209915416, 0.0643732845840768]
+label victim: (962, 'meat loaf, meatloaf')
+label wb 0: (962, 'meat loaf, meatloaf')
+label wb 1: (962, 'meat loaf, meatloaf')
+label wb 2: (962, 'meat loaf, meatloaf')
+label wb 3: (962, 'meat loaf, meatloaf')
+label wb 4: (962, 'meat loaf, meatloaf')
+label wb 5: (962, 'meat loaf, meatloaf')
+label wb 6: (962, 'meat loaf, meatloaf')
+label wb 7: (962, 'meat loaf, meatloaf')
+label wb 8: (962, 'meat loaf, meatloaf')
+label wb 9: (962, 'meat loaf, meatloaf')
+
+
+n_iters: 10, iter_w: 43, loss: -2.1556882858276367
+w: [0.08675481047453132, 0.08068641593551754, 0.05863256966063722, 0.06872945921955172, 0.10054651326498602, 0.12969316075568857, 0.07256666859814258, 0.08930066981631389, 0.24926231314769043, 0.06382741912694068]
+label victim: (962, 'meat loaf, meatloaf')
+label wb 0: (962, 'meat loaf, meatloaf')
+label wb 1: (962, 'meat loaf, meatloaf')
+label wb 2: (962, 'meat loaf, meatloaf')
+label wb 3: (962, 'meat loaf, meatloaf')
+label wb 4: (962, 'meat loaf, meatloaf')
+label wb 5: (962, 'meat loaf, meatloaf')
+label wb 6: (962, 'meat loaf, meatloaf')
+label wb 7: (962, 'meat loaf, meatloaf')
+label wb 8: (962, 'meat loaf, meatloaf')
+label wb 9: (962, 'meat loaf, meatloaf')
+
+
+n_iters: 10, iter_w: 44, loss: -0.12943267822265625
+w: [0.08641981445967156, 0.08015692798127379, 0.057839683629707365, 0.06814199376583133, 0.10059936262387989, 0.13008569343622314, 0.07211772907124546, 0.08900595688981126, 0.25235501768472796, 0.06327782045762805]
+label victim: (962, 'meat loaf, meatloaf')
+label wb 0: (962, 'meat loaf, meatloaf')
+label wb 1: (962, 'meat loaf, meatloaf')
+label wb 2: (962, 'meat loaf, meatloaf')
+label wb 3: (962, 'meat loaf, meatloaf')
+label wb 4: (962, 'meat loaf, meatloaf')
+label wb 5: (962, 'meat loaf, meatloaf')
+label wb 6: (962, 'meat loaf, meatloaf')
+label wb 7: (962, 'meat loaf, meatloaf')
+label wb 8: (962, 'meat loaf, meatloaf')
+label wb 9: (962, 'meat loaf, meatloaf')
+
+
+n_iters: 10, iter_w: 45, loss: -6.04258918762207
+w: [0.08609447379746306, 0.07957528885730172, 0.05705605070431065, 0.06761640553023787, 0.10049239742639038, 0.13046619229605352, 0.0717223805777388, 0.08878477700528775, 0.2554548458113233, 0.062737187993893]
+label victim: (962, 'meat loaf, meatloaf')
+label wb 0: (962, 'meat loaf, meatloaf')
+label wb 1: (962, 'meat loaf, meatloaf')
+label wb 2: (962, 'meat loaf, meatloaf')
+label wb 3: (962, 'meat loaf, meatloaf')
+label wb 4: (962, 'meat loaf, meatloaf')
+label wb 5: (962, 'meat loaf, meatloaf')
+label wb 6: (962, 'meat loaf, meatloaf')
+label wb 7: (962, 'meat loaf, meatloaf')
+label wb 8: (962, 'meat loaf, meatloaf')
+label wb 9: (962, 'meat loaf, meatloaf')
+
+
+n_iters: 10, iter_w: 46, loss: 0.5080938339233398
+w: [0.08568864178156572, 0.07895919009059497, 0.05624069636863317, 0.06709014806760803, 0.1006270873456155, 0.1308628161080779, 0.07129687649587219, 0.08856826919103074, 0.2584951554354917, 0.062171119115510196]
+label victim: (329, 'sea cucumber, holothurian')
+label wb 0: (962, 'meat loaf, meatloaf')
+label wb 1: (962, 'meat loaf, meatloaf')
+label wb 2: (962, 'meat loaf, meatloaf')
+label wb 3: (962, 'meat loaf, meatloaf')
+label wb 4: (962, 'meat loaf, meatloaf')
+label wb 5: (962, 'meat loaf, meatloaf')
+label wb 6: (962, 'meat loaf, meatloaf')
+label wb 7: (962, 'meat loaf, meatloaf')
+label wb 8: (962, 'meat loaf, meatloaf')
+label wb 9: (962, 'meat loaf, meatloaf')
+
+
+n_iters: 10, iter_w: 47, loss: 1.2445354461669922
+w: [0.08537790557843698, 0.07842016920346578, 0.05542868995328178, 0.06655592770417391, 0.10073587464766139, 0.1311283469791772, 0.07078970174449149, 0.08832759505826653, 0.2616185733222616, 0.0616172158087833]
+label victim: (390, 'eel')
+label wb 0: (962, 'meat loaf, meatloaf')
+label wb 1: (962, 'meat loaf, meatloaf')
+label wb 2: (962, 'meat loaf, meatloaf')
+label wb 3: (962, 'meat loaf, meatloaf')
+label wb 4: (962, 'meat loaf, meatloaf')
+label wb 5: (962, 'meat loaf, meatloaf')
+label wb 6: (962, 'meat loaf, meatloaf')
+label wb 7: (962, 'meat loaf, meatloaf')
+label wb 8: (962, 'meat loaf, meatloaf')
+label wb 9: (962, 'meat loaf, meatloaf')
+
+
+n_iters: 10, iter_w: 48, loss: 4.223870754241943
+w: [0.08506298381762141, 0.07790629793505431, 0.05465676492299535, 0.06604066387095323, 0.1007064714068407, 0.13162393345421272, 0.07030993365894757, 0.08807082824217871, 0.2645136763397649, 0.06110844635143098]
+label victim: (329, 'sea cucumber, holothurian')
+label wb 0: (962, 'meat loaf, meatloaf')
+label wb 1: (962, 'meat loaf, meatloaf')
+label wb 2: (962, 'meat loaf, meatloaf')
+label wb 3: (962, 'meat loaf, meatloaf')
+label wb 4: (962, 'meat loaf, meatloaf')
+label wb 5: (962, 'meat loaf, meatloaf')
+label wb 6: (962, 'meat loaf, meatloaf')
+label wb 7: (962, 'meat loaf, meatloaf')
+label wb 8: (962, 'meat loaf, meatloaf')
+label wb 9: (962, 'meat loaf, meatloaf')
+
+
+n_iters: 10, iter_w: 49, loss: -1.1002016067504883
+w: [0.08474799289287199, 0.07742659514768864, 0.05390827274222608, 0.06556523745547181, 0.10065507471586514, 0.13204343133531926, 0.06988234137824804, 0.08787408000547678, 0.2672997272475737, 0.06059724707925845]
+label victim: (962, 'meat loaf, meatloaf')
+label wb 0: (962, 'meat loaf, meatloaf')
+label wb 1: (962, 'meat loaf, meatloaf')
+label wb 2: (962, 'meat loaf, meatloaf')
+label wb 3: (962, 'meat loaf, meatloaf')
+label wb 4: (962, 'meat loaf, meatloaf')
+label wb 5: (962, 'meat loaf, meatloaf')
+label wb 6: (962, 'meat loaf, meatloaf')
+label wb 7: (962, 'meat loaf, meatloaf')
+label wb 8: (962, 'meat loaf, meatloaf')
+label wb 9: (962, 'meat loaf, meatloaf')
+
+

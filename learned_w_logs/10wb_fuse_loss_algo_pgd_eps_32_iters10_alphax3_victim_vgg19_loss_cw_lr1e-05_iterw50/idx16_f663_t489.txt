@@ -1,0 +1,750 @@
+n_iters: 10, iter_w: 0, loss: -5.839861869812012
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+label victim: (489, 'chainlink fence')
+label wb 0: (489, 'chainlink fence')
+label wb 1: (489, 'chainlink fence')
+label wb 2: (489, 'chainlink fence')
+label wb 3: (489, 'chainlink fence')
+label wb 4: (489, 'chainlink fence')
+label wb 5: (489, 'chainlink fence')
+label wb 6: (489, 'chainlink fence')
+label wb 7: (489, 'chainlink fence')
+label wb 8: (489, 'chainlink fence')
+label wb 9: (489, 'chainlink fence')
+
+
+n_iters: 10, iter_w: 1, loss: -5.986946105957031
+w: [0.09959558865364271, 0.09973789716044519, 0.09973866721873932, 0.0997795711236674, 0.10014226196642295, 0.10065974899718536, 0.0994566199624985, 0.09958139530813759, 0.10181478699814235, 0.0994934626111187]
+label victim: (489, 'chainlink fence')
+label wb 0: (489, 'chainlink fence')
+label wb 1: (489, 'chainlink fence')
+label wb 2: (489, 'chainlink fence')
+label wb 3: (489, 'chainlink fence')
+label wb 4: (489, 'chainlink fence')
+label wb 5: (489, 'chainlink fence')
+label wb 6: (489, 'chainlink fence')
+label wb 7: (489, 'chainlink fence')
+label wb 8: (489, 'chainlink fence')
+label wb 9: (489, 'chainlink fence')
+
+
+n_iters: 10, iter_w: 2, loss: -4.97788143157959
+w: [0.09872919274924652, 0.09911725060964194, 0.09894944798508247, 0.09913606570143293, 0.10010945907333751, 0.10257683537957606, 0.09836577747187428, 0.0987782326236144, 0.10605444306337024, 0.09818329534282355]
+label victim: (489, 'chainlink fence')
+label wb 0: (489, 'chainlink fence')
+label wb 1: (489, 'chainlink fence')
+label wb 2: (489, 'chainlink fence')
+label wb 3: (489, 'chainlink fence')
+label wb 4: (489, 'chainlink fence')
+label wb 5: (489, 'chainlink fence')
+label wb 6: (489, 'chainlink fence')
+label wb 7: (489, 'chainlink fence')
+label wb 8: (489, 'chainlink fence')
+label wb 9: (489, 'chainlink fence')
+
+
+n_iters: 10, iter_w: 3, loss: -3.7501955032348633
+w: [0.09766829336271177, 0.09850534793047827, 0.09799889373694116, 0.09837553858657108, 0.09996450122908578, 0.10523549023569391, 0.09696966796579097, 0.09774572125385553, 0.11093928057147852, 0.09659726512739289]
+label victim: (489, 'chainlink fence')
+label wb 0: (489, 'chainlink fence')
+label wb 1: (489, 'chainlink fence')
+label wb 2: (489, 'chainlink fence')
+label wb 3: (489, 'chainlink fence')
+label wb 4: (489, 'chainlink fence')
+label wb 5: (489, 'chainlink fence')
+label wb 6: (489, 'chainlink fence')
+label wb 7: (489, 'chainlink fence')
+label wb 8: (489, 'chainlink fence')
+label wb 9: (489, 'chainlink fence')
+
+
+n_iters: 10, iter_w: 4, loss: -5.137777328491211
+w: [0.09656413723361225, 0.09775179855171086, 0.0968925772513975, 0.09754726428103609, 0.09996324540989235, 0.10813205773870321, 0.09557392222819756, 0.09655559083749073, 0.11616555422087993, 0.09485385224707958]
+label victim: (489, 'chainlink fence')
+label wb 0: (489, 'chainlink fence')
+label wb 1: (489, 'chainlink fence')
+label wb 2: (489, 'chainlink fence')
+label wb 3: (489, 'chainlink fence')
+label wb 4: (489, 'chainlink fence')
+label wb 5: (489, 'chainlink fence')
+label wb 6: (489, 'chainlink fence')
+label wb 7: (489, 'chainlink fence')
+label wb 8: (489, 'chainlink fence')
+label wb 9: (489, 'chainlink fence')
+
+
+n_iters: 10, iter_w: 5, loss: -4.28409481048584
+w: [0.09543515957041288, 0.09701829333423247, 0.09583791500738388, 0.09662690152231863, 0.09998974196082537, 0.11104300312055693, 0.09412406253868844, 0.09535214213062422, 0.12143942931491707, 0.0931333515000403]
+label victim: (489, 'chainlink fence')
+label wb 0: (489, 'chainlink fence')
+label wb 1: (489, 'chainlink fence')
+label wb 2: (489, 'chainlink fence')
+label wb 3: (489, 'chainlink fence')
+label wb 4: (489, 'chainlink fence')
+label wb 5: (489, 'chainlink fence')
+label wb 6: (489, 'chainlink fence')
+label wb 7: (489, 'chainlink fence')
+label wb 8: (489, 'chainlink fence')
+label wb 9: (489, 'chainlink fence')
+
+
+n_iters: 10, iter_w: 6, loss: -4.87761116027832
+w: [0.09427816254147033, 0.09615487509729455, 0.09476294081163741, 0.0956374049665604, 0.10004968850236176, 0.11397996562588, 0.09271320251413875, 0.09419249606231371, 0.12683812993523558, 0.09139313394310762]
+label victim: (489, 'chainlink fence')
+label wb 0: (489, 'chainlink fence')
+label wb 1: (489, 'chainlink fence')
+label wb 2: (489, 'chainlink fence')
+label wb 3: (489, 'chainlink fence')
+label wb 4: (489, 'chainlink fence')
+label wb 5: (489, 'chainlink fence')
+label wb 6: (489, 'chainlink fence')
+label wb 7: (489, 'chainlink fence')
+label wb 8: (489, 'chainlink fence')
+label wb 9: (489, 'chainlink fence')
+
+
+n_iters: 10, iter_w: 7, loss: -7.081449508666992
+w: [0.0931112515081555, 0.09538378960910865, 0.09374402956145787, 0.0946137240406398, 0.10022116628578749, 0.1169947178641487, 0.09129515263905609, 0.09304085494699002, 0.1319048805179425, 0.08969043302671338]
+label victim: (489, 'chainlink fence')
+label wb 0: (489, 'chainlink fence')
+label wb 1: (489, 'chainlink fence')
+label wb 2: (489, 'chainlink fence')
+label wb 3: (489, 'chainlink fence')
+label wb 4: (489, 'chainlink fence')
+label wb 5: (489, 'chainlink fence')
+label wb 6: (489, 'chainlink fence')
+label wb 7: (489, 'chainlink fence')
+label wb 8: (489, 'chainlink fence')
+label wb 9: (489, 'chainlink fence')
+
+
+n_iters: 10, iter_w: 8, loss: -7.269582748413086
+w: [0.09190645480780299, 0.09461383058705014, 0.09261157201782479, 0.09361808294408759, 0.10040975109761399, 0.120053087479455, 0.08975954026746695, 0.09192254620995685, 0.13713691413646806, 0.0879682204522736]
+label victim: (489, 'chainlink fence')
+label wb 0: (489, 'chainlink fence')
+label wb 1: (489, 'chainlink fence')
+label wb 2: (489, 'chainlink fence')
+label wb 3: (489, 'chainlink fence')
+label wb 4: (489, 'chainlink fence')
+label wb 5: (489, 'chainlink fence')
+label wb 6: (489, 'chainlink fence')
+label wb 7: (489, 'chainlink fence')
+label wb 8: (489, 'chainlink fence')
+label wb 9: (489, 'chainlink fence')
+
+
+n_iters: 10, iter_w: 9, loss: -6.887701988220215
+w: [0.09070627098600863, 0.09382670569335287, 0.09156017360489287, 0.09266923160918492, 0.10032028440253235, 0.12330231184272923, 0.08843829323046458, 0.0907949623497761, 0.14211842859928794, 0.08626333768177062]
+label victim: (489, 'chainlink fence')
+label wb 0: (489, 'chainlink fence')
+label wb 1: (489, 'chainlink fence')
+label wb 2: (489, 'chainlink fence')
+label wb 3: (489, 'chainlink fence')
+label wb 4: (489, 'chainlink fence')
+label wb 5: (489, 'chainlink fence')
+label wb 6: (489, 'chainlink fence')
+label wb 7: (489, 'chainlink fence')
+label wb 8: (489, 'chainlink fence')
+label wb 9: (489, 'chainlink fence')
+
+
+n_iters: 10, iter_w: 10, loss: -4.999737739562988
+w: [0.08955074817140148, 0.0930585851069109, 0.09044595844588979, 0.09167610459615586, 0.10038620746269931, 0.12636023674335892, 0.08702883287347889, 0.08971202219197891, 0.14713813160109107, 0.08464317280703486]
+label victim: (489, 'chainlink fence')
+label wb 0: (489, 'chainlink fence')
+label wb 1: (489, 'chainlink fence')
+label wb 2: (489, 'chainlink fence')
+label wb 3: (489, 'chainlink fence')
+label wb 4: (489, 'chainlink fence')
+label wb 5: (489, 'chainlink fence')
+label wb 6: (489, 'chainlink fence')
+label wb 7: (489, 'chainlink fence')
+label wb 8: (489, 'chainlink fence')
+label wb 9: (489, 'chainlink fence')
+
+
+n_iters: 10, iter_w: 11, loss: -5.178993225097656
+w: [0.08832286947959003, 0.09220417837273415, 0.08936354474296843, 0.0906930180375064, 0.10038415508145349, 0.12949219200879347, 0.08560854775372144, 0.08858107367272264, 0.15236219514862182, 0.08298822570188805]
+label victim: (489, 'chainlink fence')
+label wb 0: (489, 'chainlink fence')
+label wb 1: (489, 'chainlink fence')
+label wb 2: (489, 'chainlink fence')
+label wb 3: (489, 'chainlink fence')
+label wb 4: (489, 'chainlink fence')
+label wb 5: (489, 'chainlink fence')
+label wb 6: (489, 'chainlink fence')
+label wb 7: (489, 'chainlink fence')
+label wb 8: (489, 'chainlink fence')
+label wb 9: (489, 'chainlink fence')
+
+
+n_iters: 10, iter_w: 12, loss: -4.925997734069824
+w: [0.08710071518464108, 0.09140303187061036, 0.0882339738860081, 0.08971517277438402, 0.10044711157329216, 0.13255319347151773, 0.08415756464169907, 0.0874729613116563, 0.15756254845875786, 0.08135372682743325]
+label victim: (489, 'chainlink fence')
+label wb 0: (489, 'chainlink fence')
+label wb 1: (489, 'chainlink fence')
+label wb 2: (489, 'chainlink fence')
+label wb 3: (489, 'chainlink fence')
+label wb 4: (489, 'chainlink fence')
+label wb 5: (489, 'chainlink fence')
+label wb 6: (489, 'chainlink fence')
+label wb 7: (489, 'chainlink fence')
+label wb 8: (489, 'chainlink fence')
+label wb 9: (489, 'chainlink fence')
+
+
+n_iters: 10, iter_w: 13, loss: -7.14507532119751
+w: [0.08595764591025708, 0.09062806850860007, 0.08715436588212455, 0.08875636880160084, 0.10047201142741394, 0.13562388840152034, 0.08281959529319717, 0.08637244106744102, 0.16245501906632603, 0.07976059564151906]
+label victim: (489, 'chainlink fence')
+label wb 0: (489, 'chainlink fence')
+label wb 1: (489, 'chainlink fence')
+label wb 2: (489, 'chainlink fence')
+label wb 3: (489, 'chainlink fence')
+label wb 4: (489, 'chainlink fence')
+label wb 5: (489, 'chainlink fence')
+label wb 6: (489, 'chainlink fence')
+label wb 7: (489, 'chainlink fence')
+label wb 8: (489, 'chainlink fence')
+label wb 9: (489, 'chainlink fence')
+
+
+n_iters: 10, iter_w: 14, loss: -6.476101875305176
+w: [0.0846950242421207, 0.08983114218659048, 0.08610164099751595, 0.0877692755902776, 0.10053743982509376, 0.13867589132973493, 0.08143283984541495, 0.08529412098796117, 0.16748453306811173, 0.07817809192717853]
+label victim: (489, 'chainlink fence')
+label wb 0: (489, 'chainlink fence')
+label wb 1: (489, 'chainlink fence')
+label wb 2: (489, 'chainlink fence')
+label wb 3: (489, 'chainlink fence')
+label wb 4: (489, 'chainlink fence')
+label wb 5: (489, 'chainlink fence')
+label wb 6: (489, 'chainlink fence')
+label wb 7: (489, 'chainlink fence')
+label wb 8: (489, 'chainlink fence')
+label wb 9: (489, 'chainlink fence')
+
+
+n_iters: 10, iter_w: 15, loss: -5.15565299987793
+w: [0.08353400412433135, 0.08900471910744268, 0.08506372294509693, 0.08681603042682727, 0.10063678779270235, 0.14163101388807653, 0.08025780440231743, 0.08421510544220681, 0.17220612672477112, 0.07663468514622754]
+label victim: (489, 'chainlink fence')
+label wb 0: (489, 'chainlink fence')
+label wb 1: (489, 'chainlink fence')
+label wb 2: (489, 'chainlink fence')
+label wb 3: (489, 'chainlink fence')
+label wb 4: (489, 'chainlink fence')
+label wb 5: (489, 'chainlink fence')
+label wb 6: (489, 'chainlink fence')
+label wb 7: (489, 'chainlink fence')
+label wb 8: (489, 'chainlink fence')
+label wb 9: (489, 'chainlink fence')
+
+
+n_iters: 10, iter_w: 16, loss: -6.343832015991211
+w: [0.08229801977074476, 0.08819747127500095, 0.08407109882584693, 0.08589635439524632, 0.1006746688811042, 0.14457470072145034, 0.07897857641882823, 0.08312995100630073, 0.17706654249914755, 0.07511261620633004]
+label victim: (489, 'chainlink fence')
+label wb 0: (489, 'chainlink fence')
+label wb 1: (489, 'chainlink fence')
+label wb 2: (489, 'chainlink fence')
+label wb 3: (489, 'chainlink fence')
+label wb 4: (489, 'chainlink fence')
+label wb 5: (489, 'chainlink fence')
+label wb 6: (489, 'chainlink fence')
+label wb 7: (489, 'chainlink fence')
+label wb 8: (489, 'chainlink fence')
+label wb 9: (489, 'chainlink fence')
+
+
+n_iters: 10, iter_w: 17, loss: -5.024566650390625
+w: [0.08115299043578544, 0.08736562761247885, 0.08301705566884694, 0.08497881199879256, 0.10064840630913197, 0.14751362990491693, 0.07778023097523284, 0.08213401698447867, 0.1817282682024925, 0.07368096190784326]
+label victim: (489, 'chainlink fence')
+label wb 0: (489, 'chainlink fence')
+label wb 1: (489, 'chainlink fence')
+label wb 2: (489, 'chainlink fence')
+label wb 3: (489, 'chainlink fence')
+label wb 4: (489, 'chainlink fence')
+label wb 5: (489, 'chainlink fence')
+label wb 6: (489, 'chainlink fence')
+label wb 7: (489, 'chainlink fence')
+label wb 8: (489, 'chainlink fence')
+label wb 9: (489, 'chainlink fence')
+
+
+n_iters: 10, iter_w: 18, loss: -5.854694366455078
+w: [0.08005076206135782, 0.08656337834744769, 0.08198217878785719, 0.08410382963028974, 0.10061043780701333, 0.15040721827886475, 0.07657139924329627, 0.08115050129091365, 0.18628663509014412, 0.07227365946281557]
+label victim: (489, 'chainlink fence')
+label wb 0: (489, 'chainlink fence')
+label wb 1: (489, 'chainlink fence')
+label wb 2: (489, 'chainlink fence')
+label wb 3: (489, 'chainlink fence')
+label wb 4: (489, 'chainlink fence')
+label wb 5: (489, 'chainlink fence')
+label wb 6: (489, 'chainlink fence')
+label wb 7: (489, 'chainlink fence')
+label wb 8: (489, 'chainlink fence')
+label wb 9: (489, 'chainlink fence')
+
+
+n_iters: 10, iter_w: 19, loss: -3.211228370666504
+w: [0.07899575703574946, 0.08572344865574598, 0.0808746807816297, 0.08319644547920702, 0.10053756519262466, 0.1533710851784953, 0.07537609371693053, 0.08014907335375104, 0.19089463565525563, 0.07088121495061064]
+label victim: (489, 'chainlink fence')
+label wb 0: (489, 'chainlink fence')
+label wb 1: (489, 'chainlink fence')
+label wb 2: (489, 'chainlink fence')
+label wb 3: (489, 'chainlink fence')
+label wb 4: (489, 'chainlink fence')
+label wb 5: (489, 'chainlink fence')
+label wb 6: (489, 'chainlink fence')
+label wb 7: (489, 'chainlink fence')
+label wb 8: (489, 'chainlink fence')
+label wb 9: (489, 'chainlink fence')
+
+
+n_iters: 10, iter_w: 20, loss: -5.784700393676758
+w: [0.07792368146260473, 0.0849300206365279, 0.07983524652509988, 0.08232593245447177, 0.10047066065403491, 0.15629558294590087, 0.07419025449290427, 0.0791899891841193, 0.19528574527075965, 0.06955288637357654]
+label victim: (489, 'chainlink fence')
+label wb 0: (489, 'chainlink fence')
+label wb 1: (489, 'chainlink fence')
+label wb 2: (489, 'chainlink fence')
+label wb 3: (489, 'chainlink fence')
+label wb 4: (489, 'chainlink fence')
+label wb 5: (489, 'chainlink fence')
+label wb 6: (489, 'chainlink fence')
+label wb 7: (489, 'chainlink fence')
+label wb 8: (489, 'chainlink fence')
+label wb 9: (489, 'chainlink fence')
+
+
+n_iters: 10, iter_w: 21, loss: -4.2806243896484375
+w: [0.07685708688573817, 0.08413413074875191, 0.07885520533342005, 0.08143474039150193, 0.10048034022030268, 0.15918414970565084, 0.07298195556121607, 0.07821284340533571, 0.1995657452572561, 0.0682938024908264]
+label victim: (489, 'chainlink fence')
+label wb 0: (489, 'chainlink fence')
+label wb 1: (489, 'chainlink fence')
+label wb 2: (489, 'chainlink fence')
+label wb 3: (489, 'chainlink fence')
+label wb 4: (489, 'chainlink fence')
+label wb 5: (489, 'chainlink fence')
+label wb 6: (489, 'chainlink fence')
+label wb 7: (489, 'chainlink fence')
+label wb 8: (489, 'chainlink fence')
+label wb 9: (489, 'chainlink fence')
+
+
+n_iters: 10, iter_w: 22, loss: -6.740843296051025
+w: [0.07579781050761447, 0.08334348984533915, 0.07784566533999092, 0.08055733835154717, 0.10039415282682998, 0.16178264879307747, 0.07189479163869925, 0.07725102673415933, 0.20412760959959061, 0.06700546636315147]
+label victim: (489, 'chainlink fence')
+label wb 0: (489, 'chainlink fence')
+label wb 1: (489, 'chainlink fence')
+label wb 2: (489, 'chainlink fence')
+label wb 3: (489, 'chainlink fence')
+label wb 4: (489, 'chainlink fence')
+label wb 5: (489, 'chainlink fence')
+label wb 6: (489, 'chainlink fence')
+label wb 7: (489, 'chainlink fence')
+label wb 8: (489, 'chainlink fence')
+label wb 9: (489, 'chainlink fence')
+
+
+n_iters: 10, iter_w: 23, loss: -6.723016738891602
+w: [0.07479679060782421, 0.08257830676106889, 0.0768320988429755, 0.07967649570831735, 0.10039916823062164, 0.1644564376584846, 0.07079755364255622, 0.07629587685660441, 0.20840430033072016, 0.06576297136082711]
+label victim: (489, 'chainlink fence')
+label wb 0: (489, 'chainlink fence')
+label wb 1: (489, 'chainlink fence')
+label wb 2: (489, 'chainlink fence')
+label wb 3: (489, 'chainlink fence')
+label wb 4: (489, 'chainlink fence')
+label wb 5: (489, 'chainlink fence')
+label wb 6: (489, 'chainlink fence')
+label wb 7: (489, 'chainlink fence')
+label wb 8: (489, 'chainlink fence')
+label wb 9: (489, 'chainlink fence')
+
+
+n_iters: 10, iter_w: 24, loss: -4.163910865783691
+w: [0.07379763214025109, 0.08177245915785099, 0.07589350509552559, 0.07882238370312988, 0.10044108330548701, 0.16706393660773272, 0.06983508087601786, 0.07537461787514978, 0.2125202650184437, 0.06447903622041137]
+label victim: (489, 'chainlink fence')
+label wb 0: (489, 'chainlink fence')
+label wb 1: (489, 'chainlink fence')
+label wb 2: (489, 'chainlink fence')
+label wb 3: (489, 'chainlink fence')
+label wb 4: (489, 'chainlink fence')
+label wb 5: (489, 'chainlink fence')
+label wb 6: (489, 'chainlink fence')
+label wb 7: (489, 'chainlink fence')
+label wb 8: (489, 'chainlink fence')
+label wb 9: (489, 'chainlink fence')
+
+
+n_iters: 10, iter_w: 25, loss: -5.142999649047852
+w: [0.07281376556552419, 0.0809953584792691, 0.07487245153941165, 0.07800342248802052, 0.1004270863685918, 0.16963648689958935, 0.06883424442937809, 0.07448609973949206, 0.21664763721904176, 0.06328344727168159]
+label victim: (489, 'chainlink fence')
+label wb 0: (489, 'chainlink fence')
+label wb 1: (489, 'chainlink fence')
+label wb 2: (489, 'chainlink fence')
+label wb 3: (489, 'chainlink fence')
+label wb 4: (489, 'chainlink fence')
+label wb 5: (489, 'chainlink fence')
+label wb 6: (489, 'chainlink fence')
+label wb 7: (489, 'chainlink fence')
+label wb 8: (489, 'chainlink fence')
+label wb 9: (489, 'chainlink fence')
+
+
+n_iters: 10, iter_w: 26, loss: -6.381609916687012
+w: [0.07195183995837703, 0.08030459081957243, 0.07398075983580145, 0.07723175832669091, 0.10052866681811687, 0.17214510524326723, 0.06771805877059633, 0.07364838148377977, 0.22030340910373802, 0.062187429640059945]
+label victim: (489, 'chainlink fence')
+label wb 0: (489, 'chainlink fence')
+label wb 1: (489, 'chainlink fence')
+label wb 2: (489, 'chainlink fence')
+label wb 3: (489, 'chainlink fence')
+label wb 4: (489, 'chainlink fence')
+label wb 5: (489, 'chainlink fence')
+label wb 6: (489, 'chainlink fence')
+label wb 7: (489, 'chainlink fence')
+label wb 8: (489, 'chainlink fence')
+label wb 9: (489, 'chainlink fence')
+
+
+n_iters: 10, iter_w: 27, loss: -7.526808738708496
+w: [0.07104321436789866, 0.07953544505160441, 0.0730977074662938, 0.0764117982136807, 0.1005308343930823, 0.17458621085553552, 0.06666155081635887, 0.07283066086518544, 0.22425591222601945, 0.0610466657443408]
+label victim: (489, 'chainlink fence')
+label wb 0: (489, 'chainlink fence')
+label wb 1: (489, 'chainlink fence')
+label wb 2: (489, 'chainlink fence')
+label wb 3: (489, 'chainlink fence')
+label wb 4: (489, 'chainlink fence')
+label wb 5: (489, 'chainlink fence')
+label wb 6: (489, 'chainlink fence')
+label wb 7: (489, 'chainlink fence')
+label wb 8: (489, 'chainlink fence')
+label wb 9: (489, 'chainlink fence')
+
+
+n_iters: 10, iter_w: 28, loss: -5.672295570373535
+w: [0.07024349556115929, 0.07884930417970913, 0.07222660899176608, 0.0756493331367873, 0.10054370839454999, 0.17682748913140606, 0.06576653346849659, 0.072059720218176, 0.22787233187199418, 0.05996147504595553]
+label victim: (489, 'chainlink fence')
+label wb 0: (489, 'chainlink fence')
+label wb 1: (489, 'chainlink fence')
+label wb 2: (489, 'chainlink fence')
+label wb 3: (489, 'chainlink fence')
+label wb 4: (489, 'chainlink fence')
+label wb 5: (489, 'chainlink fence')
+label wb 6: (489, 'chainlink fence')
+label wb 7: (489, 'chainlink fence')
+label wb 8: (489, 'chainlink fence')
+label wb 9: (489, 'chainlink fence')
+
+
+n_iters: 10, iter_w: 29, loss: -6.357210159301758
+w: [0.0693340011186755, 0.07809146913531341, 0.07129151347758823, 0.07488381424569274, 0.10051066068572576, 0.17908461473760698, 0.0648598322678644, 0.07130139098130346, 0.23174852422765213, 0.05889417912257744]
+label victim: (489, 'chainlink fence')
+label wb 0: (489, 'chainlink fence')
+label wb 1: (489, 'chainlink fence')
+label wb 2: (489, 'chainlink fence')
+label wb 3: (489, 'chainlink fence')
+label wb 4: (489, 'chainlink fence')
+label wb 5: (489, 'chainlink fence')
+label wb 6: (489, 'chainlink fence')
+label wb 7: (489, 'chainlink fence')
+label wb 8: (489, 'chainlink fence')
+label wb 9: (489, 'chainlink fence')
+
+
+n_iters: 10, iter_w: 30, loss: -5.639013767242432
+w: [0.06853938884912855, 0.07742942222055638, 0.07043919752792513, 0.07416630499984576, 0.10051512123748368, 0.18134127930515676, 0.06388623460893882, 0.0705298392311186, 0.23527874363620585, 0.05787446838364045]
+label victim: (489, 'chainlink fence')
+label wb 0: (489, 'chainlink fence')
+label wb 1: (489, 'chainlink fence')
+label wb 2: (489, 'chainlink fence')
+label wb 3: (489, 'chainlink fence')
+label wb 4: (489, 'chainlink fence')
+label wb 5: (489, 'chainlink fence')
+label wb 6: (489, 'chainlink fence')
+label wb 7: (489, 'chainlink fence')
+label wb 8: (489, 'chainlink fence')
+label wb 9: (489, 'chainlink fence')
+
+
+n_iters: 10, iter_w: 31, loss: -5.591862678527832
+w: [0.06776299022286385, 0.07677586838443722, 0.06956720673981967, 0.07346070126855682, 0.10040765697641849, 0.1835266888714223, 0.06305005366887673, 0.06976386671159517, 0.23877768540558317, 0.05690728175042667]
+label victim: (489, 'chainlink fence')
+label wb 0: (489, 'chainlink fence')
+label wb 1: (489, 'chainlink fence')
+label wb 2: (489, 'chainlink fence')
+label wb 3: (489, 'chainlink fence')
+label wb 4: (489, 'chainlink fence')
+label wb 5: (489, 'chainlink fence')
+label wb 6: (489, 'chainlink fence')
+label wb 7: (489, 'chainlink fence')
+label wb 8: (489, 'chainlink fence')
+label wb 9: (489, 'chainlink fence')
+
+
+n_iters: 10, iter_w: 32, loss: -5.995553016662598
+w: [0.06695803310355095, 0.07618923153878036, 0.06864038079976369, 0.07273385497785728, 0.10028641684798488, 0.18556015836634168, 0.06212587751158073, 0.06892928738048146, 0.24261346349072413, 0.05596329598293484]
+label victim: (489, 'chainlink fence')
+label wb 0: (489, 'chainlink fence')
+label wb 1: (489, 'chainlink fence')
+label wb 2: (489, 'chainlink fence')
+label wb 3: (489, 'chainlink fence')
+label wb 4: (489, 'chainlink fence')
+label wb 5: (489, 'chainlink fence')
+label wb 6: (489, 'chainlink fence')
+label wb 7: (489, 'chainlink fence')
+label wb 8: (489, 'chainlink fence')
+label wb 9: (489, 'chainlink fence')
+
+
+n_iters: 10, iter_w: 33, loss: -3.082688331604004
+w: [0.06617108772079139, 0.0755407316714076, 0.06769988943815293, 0.07205994494007906, 0.10046778623463458, 0.18767546380906297, 0.06139830885557946, 0.06815881560710856, 0.24575288513405433, 0.05507508658912913]
+label victim: (489, 'chainlink fence')
+label wb 0: (489, 'chainlink fence')
+label wb 1: (489, 'chainlink fence')
+label wb 2: (489, 'chainlink fence')
+label wb 3: (489, 'chainlink fence')
+label wb 4: (489, 'chainlink fence')
+label wb 5: (489, 'chainlink fence')
+label wb 6: (489, 'chainlink fence')
+label wb 7: (489, 'chainlink fence')
+label wb 8: (489, 'chainlink fence')
+label wb 9: (489, 'chainlink fence')
+
+
+n_iters: 10, iter_w: 34, loss: -4.547521591186523
+w: [0.065405368677125, 0.07485350504734256, 0.06682292234065255, 0.07138999909570755, 0.10055706248599176, 0.18972001276911307, 0.06055387116270877, 0.06747521898446492, 0.2490326294453871, 0.05418940999150659]
+label victim: (489, 'chainlink fence')
+label wb 0: (489, 'chainlink fence')
+label wb 1: (489, 'chainlink fence')
+label wb 2: (489, 'chainlink fence')
+label wb 3: (489, 'chainlink fence')
+label wb 4: (489, 'chainlink fence')
+label wb 5: (489, 'chainlink fence')
+label wb 6: (489, 'chainlink fence')
+label wb 7: (489, 'chainlink fence')
+label wb 8: (489, 'chainlink fence')
+label wb 9: (489, 'chainlink fence')
+
+
+n_iters: 10, iter_w: 35, loss: -6.627411842346191
+w: [0.06465538918601899, 0.07422893126807752, 0.06601333715587458, 0.07072320034074416, 0.10059616375789131, 0.1916791719708013, 0.05969499671699617, 0.06680795243312314, 0.25229781289777825, 0.05330304427269459]
+label victim: (489, 'chainlink fence')
+label wb 0: (489, 'chainlink fence')
+label wb 1: (489, 'chainlink fence')
+label wb 2: (489, 'chainlink fence')
+label wb 3: (489, 'chainlink fence')
+label wb 4: (489, 'chainlink fence')
+label wb 5: (489, 'chainlink fence')
+label wb 6: (489, 'chainlink fence')
+label wb 7: (489, 'chainlink fence')
+label wb 8: (489, 'chainlink fence')
+label wb 9: (489, 'chainlink fence')
+
+
+n_iters: 10, iter_w: 36, loss: -3.010477066040039
+w: [0.06385677346821834, 0.0736481134604375, 0.06518781696118174, 0.0700801626191645, 0.10053958785246603, 0.19346051942180958, 0.058919326725926584, 0.06620025249925052, 0.2556248441364743, 0.05248260285507081]
+label victim: (489, 'chainlink fence')
+label wb 0: (489, 'chainlink fence')
+label wb 1: (489, 'chainlink fence')
+label wb 2: (489, 'chainlink fence')
+label wb 3: (489, 'chainlink fence')
+label wb 4: (489, 'chainlink fence')
+label wb 5: (489, 'chainlink fence')
+label wb 6: (489, 'chainlink fence')
+label wb 7: (489, 'chainlink fence')
+label wb 8: (489, 'chainlink fence')
+label wb 9: (489, 'chainlink fence')
+
+
+n_iters: 10, iter_w: 37, loss: -5.654986381530762
+w: [0.06310342144429788, 0.07308834967005001, 0.06435726257446747, 0.06946990500103543, 0.10057623882934222, 0.19529260917873073, 0.05807196337080325, 0.06554505438688264, 0.2588039126767417, 0.05169128286764851]
+label victim: (489, 'chainlink fence')
+label wb 0: (489, 'chainlink fence')
+label wb 1: (489, 'chainlink fence')
+label wb 2: (489, 'chainlink fence')
+label wb 3: (489, 'chainlink fence')
+label wb 4: (489, 'chainlink fence')
+label wb 5: (489, 'chainlink fence')
+label wb 6: (489, 'chainlink fence')
+label wb 7: (489, 'chainlink fence')
+label wb 8: (489, 'chainlink fence')
+label wb 9: (489, 'chainlink fence')
+
+
+n_iters: 10, iter_w: 38, loss: -6.391430377960205
+w: [0.062375156616366424, 0.07248453523527032, 0.06355453572906626, 0.06884012919426014, 0.10076532057252557, 0.1970636202078555, 0.057330617348228696, 0.06494350725438906, 0.2617671115339483, 0.05087546630808968]
+label victim: (489, 'chainlink fence')
+label wb 0: (489, 'chainlink fence')
+label wb 1: (489, 'chainlink fence')
+label wb 2: (489, 'chainlink fence')
+label wb 3: (489, 'chainlink fence')
+label wb 4: (489, 'chainlink fence')
+label wb 5: (489, 'chainlink fence')
+label wb 6: (489, 'chainlink fence')
+label wb 7: (489, 'chainlink fence')
+label wb 8: (489, 'chainlink fence')
+label wb 9: (489, 'chainlink fence')
+
+
+n_iters: 10, iter_w: 39, loss: -6.1266937255859375
+w: [0.06163569059658783, 0.07185588566245527, 0.06275242578008673, 0.06822461374148243, 0.10086659190778967, 0.1989047830909168, 0.05655271471103183, 0.06432887205549022, 0.26480059374787573, 0.050077828706283516]
+label victim: (489, 'chainlink fence')
+label wb 0: (489, 'chainlink fence')
+label wb 1: (489, 'chainlink fence')
+label wb 2: (489, 'chainlink fence')
+label wb 3: (489, 'chainlink fence')
+label wb 4: (489, 'chainlink fence')
+label wb 5: (489, 'chainlink fence')
+label wb 6: (489, 'chainlink fence')
+label wb 7: (489, 'chainlink fence')
+label wb 8: (489, 'chainlink fence')
+label wb 9: (489, 'chainlink fence')
+
+
+n_iters: 10, iter_w: 40, loss: -6.869269847869873
+w: [0.060891700536069654, 0.07120008680483368, 0.06197363545616168, 0.06763143892373942, 0.10106814693922221, 0.2008431963646918, 0.05580016959442561, 0.06380286276838563, 0.2674490672843373, 0.049339695328132815]
+label victim: (489, 'chainlink fence')
+label wb 0: (489, 'chainlink fence')
+label wb 1: (489, 'chainlink fence')
+label wb 2: (489, 'chainlink fence')
+label wb 3: (489, 'chainlink fence')
+label wb 4: (489, 'chainlink fence')
+label wb 5: (489, 'chainlink fence')
+label wb 6: (489, 'chainlink fence')
+label wb 7: (489, 'chainlink fence')
+label wb 8: (489, 'chainlink fence')
+label wb 9: (489, 'chainlink fence')
+
+
+n_iters: 10, iter_w: 41, loss: -6.543717384338379
+w: [0.06015939146231388, 0.07055421371365861, 0.06115571710511736, 0.06701937797044015, 0.10116864573314772, 0.202613662925832, 0.05510047728799027, 0.06320658995198208, 0.27045754130781174, 0.04856438254170615]
+label victim: (489, 'chainlink fence')
+label wb 0: (489, 'chainlink fence')
+label wb 1: (489, 'chainlink fence')
+label wb 2: (489, 'chainlink fence')
+label wb 3: (489, 'chainlink fence')
+label wb 4: (489, 'chainlink fence')
+label wb 5: (489, 'chainlink fence')
+label wb 6: (489, 'chainlink fence')
+label wb 7: (489, 'chainlink fence')
+label wb 8: (489, 'chainlink fence')
+label wb 9: (489, 'chainlink fence')
+
+
+n_iters: 10, iter_w: 42, loss: -6.226703643798828
+w: [0.05944817751914865, 0.07000747883848858, 0.06027650404829409, 0.06642350479804927, 0.10124878010832813, 0.20435839510647832, 0.0544727287205698, 0.06258587256880692, 0.2733701570183092, 0.04780840127352698]
+label victim: (489, 'chainlink fence')
+label wb 0: (489, 'chainlink fence')
+label wb 1: (489, 'chainlink fence')
+label wb 2: (489, 'chainlink fence')
+label wb 3: (489, 'chainlink fence')
+label wb 4: (489, 'chainlink fence')
+label wb 5: (489, 'chainlink fence')
+label wb 6: (489, 'chainlink fence')
+label wb 7: (489, 'chainlink fence')
+label wb 8: (489, 'chainlink fence')
+label wb 9: (489, 'chainlink fence')
+
+
+n_iters: 10, iter_w: 43, loss: -6.191854476928711
+w: [0.058770751755779525, 0.06940382494325019, 0.0594591097430541, 0.06584194491548766, 0.10123287315401704, 0.20607503977432481, 0.053843344309319724, 0.06199412135190623, 0.2763071421757836, 0.047071847877077036]
+label victim: (489, 'chainlink fence')
+label wb 0: (489, 'chainlink fence')
+label wb 1: (489, 'chainlink fence')
+label wb 2: (489, 'chainlink fence')
+label wb 3: (489, 'chainlink fence')
+label wb 4: (489, 'chainlink fence')
+label wb 5: (489, 'chainlink fence')
+label wb 6: (489, 'chainlink fence')
+label wb 7: (489, 'chainlink fence')
+label wb 8: (489, 'chainlink fence')
+label wb 9: (489, 'chainlink fence')
+
+
+n_iters: 10, iter_w: 44, loss: -6.129427433013916
+w: [0.058170188851422125, 0.06883535782032807, 0.05861577146597131, 0.06528914475062625, 0.10118071109970839, 0.20787313460091325, 0.053190976163384904, 0.061461935019686526, 0.2790030815672577, 0.04637969866070149]
+label victim: (489, 'chainlink fence')
+label wb 0: (489, 'chainlink fence')
+label wb 1: (489, 'chainlink fence')
+label wb 2: (489, 'chainlink fence')
+label wb 3: (489, 'chainlink fence')
+label wb 4: (489, 'chainlink fence')
+label wb 5: (489, 'chainlink fence')
+label wb 6: (489, 'chainlink fence')
+label wb 7: (489, 'chainlink fence')
+label wb 8: (489, 'chainlink fence')
+label wb 9: (489, 'chainlink fence')
+
+
+n_iters: 10, iter_w: 45, loss: -6.273767471313477
+w: [0.057518050571148456, 0.06820698660894907, 0.05785397702752737, 0.06475229178972525, 0.1012666215496705, 0.20947537186291487, 0.052553753741616006, 0.0609531930191433, 0.2817102635452031, 0.04570949028410205]
+label victim: (489, 'chainlink fence')
+label wb 0: (489, 'chainlink fence')
+label wb 1: (489, 'chainlink fence')
+label wb 2: (489, 'chainlink fence')
+label wb 3: (489, 'chainlink fence')
+label wb 4: (489, 'chainlink fence')
+label wb 5: (489, 'chainlink fence')
+label wb 6: (489, 'chainlink fence')
+label wb 7: (489, 'chainlink fence')
+label wb 8: (489, 'chainlink fence')
+label wb 9: (489, 'chainlink fence')
+
+
+n_iters: 10, iter_w: 46, loss: -5.171298027038574
+w: [0.05685299817983502, 0.06758282284723302, 0.05708375189609816, 0.06428476440984442, 0.10132303491457861, 0.21107963043885786, 0.05201092272714409, 0.060491819880045546, 0.284204767096506, 0.04508548760985731]
+label victim: (489, 'chainlink fence')
+label wb 0: (489, 'chainlink fence')
+label wb 1: (489, 'chainlink fence')
+label wb 2: (489, 'chainlink fence')
+label wb 3: (489, 'chainlink fence')
+label wb 4: (489, 'chainlink fence')
+label wb 5: (489, 'chainlink fence')
+label wb 6: (489, 'chainlink fence')
+label wb 7: (489, 'chainlink fence')
+label wb 8: (489, 'chainlink fence')
+label wb 9: (489, 'chainlink fence')
+
+
+n_iters: 10, iter_w: 47, loss: -4.532248497009277
+w: [0.05624058323822333, 0.06699138954863339, 0.05637077585368505, 0.06379025317152227, 0.10120727142915761, 0.21269731660503333, 0.05145158896129131, 0.05997251580372749, 0.28679693824765273, 0.044481367141073605]
+label victim: (489, 'chainlink fence')
+label wb 0: (489, 'chainlink fence')
+label wb 1: (489, 'chainlink fence')
+label wb 2: (489, 'chainlink fence')
+label wb 3: (489, 'chainlink fence')
+label wb 4: (489, 'chainlink fence')
+label wb 5: (489, 'chainlink fence')
+label wb 6: (489, 'chainlink fence')
+label wb 7: (489, 'chainlink fence')
+label wb 8: (489, 'chainlink fence')
+label wb 9: (489, 'chainlink fence')
+
+
+n_iters: 10, iter_w: 48, loss: -6.140317916870117
+w: [0.055665859180862656, 0.06645405528775716, 0.055646870310878345, 0.06327610708045939, 0.10113825307674017, 0.21425126493924673, 0.05085258093337695, 0.05951681297216436, 0.28932877896488896, 0.04386941725362543]
+label victim: (489, 'chainlink fence')
+label wb 0: (489, 'chainlink fence')
+label wb 1: (489, 'chainlink fence')
+label wb 2: (489, 'chainlink fence')
+label wb 3: (489, 'chainlink fence')
+label wb 4: (489, 'chainlink fence')
+label wb 5: (489, 'chainlink fence')
+label wb 6: (489, 'chainlink fence')
+label wb 7: (489, 'chainlink fence')
+label wb 8: (489, 'chainlink fence')
+label wb 9: (489, 'chainlink fence')
+
+
+n_iters: 10, iter_w: 49, loss: -5.816269874572754
+w: [0.05511500025276892, 0.0659184337503719, 0.0549168634089128, 0.06281462394973313, 0.10118863980718085, 0.21571395718811304, 0.050318762770914016, 0.058992707988744134, 0.29173280213383856, 0.0432882087494228]
+label victim: (489, 'chainlink fence')
+label wb 0: (489, 'chainlink fence')
+label wb 1: (489, 'chainlink fence')
+label wb 2: (489, 'chainlink fence')
+label wb 3: (489, 'chainlink fence')
+label wb 4: (489, 'chainlink fence')
+label wb 5: (489, 'chainlink fence')
+label wb 6: (489, 'chainlink fence')
+label wb 7: (489, 'chainlink fence')
+label wb 8: (489, 'chainlink fence')
+label wb 9: (489, 'chainlink fence')
+
+

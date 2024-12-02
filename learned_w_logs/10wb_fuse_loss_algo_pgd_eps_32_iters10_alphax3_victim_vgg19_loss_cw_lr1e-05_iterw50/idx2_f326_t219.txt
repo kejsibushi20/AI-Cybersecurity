@@ -1,0 +1,750 @@
+n_iters: 10, iter_w: 0, loss: 1.733788013458252
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+label victim: (397, 'puffer, pufferfish, blowfish, globefish')
+label wb 0: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 1: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 2: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 3: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 4: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 5: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 6: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 7: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 8: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 9: (219, 'cocker spaniel, English cocker spaniel, cocker')
+
+
+n_iters: 10, iter_w: 1, loss: 3.5102624893188477
+w: [0.0999568108962909, 0.09998202994454408, 0.10022092388991949, 0.09965505515324842, 0.09998974184007091, 0.10003537259786445, 0.10006977098968647, 0.10021911112508529, 0.0999663482947135, 0.09990483526857667]
+label victim: (397, 'puffer, pufferfish, blowfish, globefish')
+label wb 0: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 1: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 2: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 3: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 4: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 5: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 6: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 7: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 8: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 9: (219, 'cocker spaniel, English cocker spaniel, cocker')
+
+
+n_iters: 10, iter_w: 2, loss: -5.852931976318359
+w: [0.09989403955824312, 0.09974640355786668, 0.10019177303333278, 0.0989899960184614, 0.10065474549078009, 0.10014695534040258, 0.09990763103956884, 0.10028898098568648, 0.10083697219765726, 0.09934250277800069]
+label victim: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 0: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 1: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 2: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 3: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 4: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 5: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 6: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 7: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 8: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 9: (219, 'cocker spaniel, English cocker spaniel, cocker')
+
+
+n_iters: 10, iter_w: 3, loss: -1.0777902603149414
+w: [0.09994141152318839, 0.09953109477620042, 0.10002267622640579, 0.09820097410984635, 0.10147505844211403, 0.1001686233657282, 0.0996847622610908, 0.10029151907530484, 0.10212672598157148, 0.09855715423854962]
+label victim: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 0: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 1: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 2: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 3: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 4: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 5: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 6: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 7: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 8: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 9: (219, 'cocker spaniel, English cocker spaniel, cocker')
+
+
+n_iters: 10, iter_w: 4, loss: -1.5280113220214844
+w: [0.10002800034542729, 0.09932313474277557, 0.09978150349431555, 0.0974021912843247, 0.1025305407890136, 0.10024702187370721, 0.09938441227222564, 0.10025527543819193, 0.10342688135345314, 0.09762103840656539]
+label victim: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 0: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 1: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 2: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 3: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 4: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 5: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 6: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 7: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 8: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 9: (219, 'cocker spaniel, English cocker spaniel, cocker')
+
+
+n_iters: 10, iter_w: 5, loss: 0.46484375
+w: [0.10019811211403667, 0.09915704940572731, 0.09955742471779166, 0.0965339122768139, 0.10352225869483066, 0.10025139197986475, 0.09915782514337664, 0.1001103162169253, 0.10486248525673511, 0.09664922419389803]
+label victim: (611, 'jigsaw puzzle')
+label wb 0: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 1: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 2: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 3: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 4: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 5: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 6: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 7: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 8: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 9: (219, 'cocker spaniel, English cocker spaniel, cocker')
+
+
+n_iters: 10, iter_w: 6, loss: -0.4251890182495117
+w: [0.1003324053109775, 0.09895401726010684, 0.09942612855389064, 0.09565817472331067, 0.10456183988097001, 0.10025189532060573, 0.0988722884505683, 0.09994733879441507, 0.10641789476002822, 0.0955780169451271]
+label victim: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 0: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 1: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 2: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 3: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 4: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 5: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 6: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 7: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 8: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 9: (219, 'cocker spaniel, English cocker spaniel, cocker')
+
+
+n_iters: 10, iter_w: 7, loss: -0.07879924774169922
+w: [0.10054399100687539, 0.0988042280671065, 0.09904728979502002, 0.09475448204677317, 0.10565970224116693, 0.10029178151967164, 0.09860632788836418, 0.0998239699353938, 0.10797964922643484, 0.09448857827319349]
+label victim: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 0: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 1: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 2: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 3: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 4: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 5: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 6: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 7: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 8: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 9: (219, 'cocker spaniel, English cocker spaniel, cocker')
+
+
+n_iters: 10, iter_w: 8, loss: 0.4656987190246582
+w: [0.10062958584896038, 0.09866946767340753, 0.09873886744522788, 0.09379714054885867, 0.10690057142529875, 0.1002883410469368, 0.09834787629994104, 0.09952530758410243, 0.10971966785361663, 0.09338317427364981]
+label victim: (611, 'jigsaw puzzle')
+label wb 0: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 1: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 2: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 3: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 4: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 5: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 6: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 7: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 8: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 9: (219, 'cocker spaniel, English cocker spaniel, cocker')
+
+
+n_iters: 10, iter_w: 9, loss: -0.5084123611450195
+w: [0.1008975567279438, 0.0984787630542164, 0.09845495765101986, 0.09285520521410373, 0.10803184720476204, 0.10021396519523848, 0.09791250384823638, 0.09922244089464494, 0.11168291512455747, 0.09224984508527688]
+label victim: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 0: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 1: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 2: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 3: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 4: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 5: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 6: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 7: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 8: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 9: (219, 'cocker spaniel, English cocker spaniel, cocker')
+
+
+n_iters: 10, iter_w: 10, loss: -5.333158493041992
+w: [0.10112071114468839, 0.09834968008406553, 0.09818042035057091, 0.09189738336998672, 0.10899315517354206, 0.10021725984089208, 0.09766568042413452, 0.09902794788733654, 0.11337743820569601, 0.09117032351908726]
+label victim: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 0: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 1: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 2: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 3: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 4: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 5: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 6: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 7: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 8: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 9: (219, 'cocker spaniel, English cocker spaniel, cocker')
+
+
+n_iters: 10, iter_w: 11, loss: -4.070856094360352
+w: [0.10134901895455344, 0.09813864223499029, 0.09793010453465015, 0.0908824764020027, 0.1099850047580111, 0.10008628217488978, 0.09737651796606316, 0.09880164168004767, 0.11534295165549076, 0.090107359639301]
+label victim: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 0: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 1: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 2: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 3: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 4: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 5: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 6: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 7: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 8: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 9: (219, 'cocker spaniel, English cocker spaniel, cocker')
+
+
+n_iters: 10, iter_w: 12, loss: -4.7250566482543945
+w: [0.10158033711733715, 0.09800185677862401, 0.09772721725936886, 0.08992298147197215, 0.11096165112201932, 0.10004781581936381, 0.09697007287071903, 0.09855863911069894, 0.11721646839450182, 0.08901296005539494]
+label victim: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 0: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 1: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 2: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 3: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 4: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 5: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 6: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 7: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 8: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 9: (219, 'cocker spaniel, English cocker spaniel, cocker')
+
+
+n_iters: 10, iter_w: 13, loss: -5.413271903991699
+w: [0.10175444325254614, 0.0978654328778306, 0.09745895747465452, 0.08902988533261054, 0.11203457043374576, 0.1000159632807703, 0.09663455347983872, 0.0982977002776741, 0.11895936509776427, 0.08794912849256499]
+label victim: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 0: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 1: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 2: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 3: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 4: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 5: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 6: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 7: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 8: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 9: (219, 'cocker spaniel, English cocker spaniel, cocker')
+
+
+n_iters: 10, iter_w: 14, loss: 0.6550960540771484
+w: [0.10188099910145675, 0.09769486134596235, 0.09716244415114797, 0.08808766048383268, 0.11291576766423542, 0.09994127407254356, 0.0962422486031614, 0.09802023786909757, 0.12114726739827505, 0.08690723931028742]
+label victim: (735, 'poncho')
+label wb 0: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 1: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 2: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 3: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 4: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 5: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 6: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 7: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 8: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 9: (219, 'cocker spaniel, English cocker spaniel, cocker')
+
+
+n_iters: 10, iter_w: 15, loss: 0.044063568115234375
+w: [0.1021167074755567, 0.09752769190459118, 0.09685750475890081, 0.08710554370606431, 0.11388796692911217, 0.09973575148426533, 0.09596675495234339, 0.09774234403151233, 0.12319916571868436, 0.0858605690389695]
+label victim: (611, 'jigsaw puzzle')
+label wb 0: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 1: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 2: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 3: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 4: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 5: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 6: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 7: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 8: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 9: (219, 'cocker spaniel, English cocker spaniel, cocker')
+
+
+n_iters: 10, iter_w: 16, loss: 4.668234348297119
+w: [0.10227646186947822, 0.09733730935164558, 0.09653221868278482, 0.08623600931747527, 0.11510436991012088, 0.09961473909259345, 0.0954352348774763, 0.09745676439188485, 0.12516347698850835, 0.08484341551803234]
+label victim: (397, 'puffer, pufferfish, blowfish, globefish')
+label wb 0: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 1: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 2: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 3: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 4: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 5: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 6: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 7: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 8: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 9: (219, 'cocker spaniel, English cocker spaniel, cocker')
+
+
+n_iters: 10, iter_w: 17, loss: 3.9382219314575195
+w: [0.1024440911599177, 0.09708733442246344, 0.09629618524751618, 0.08536375332341922, 0.11592284775446753, 0.09944328498549176, 0.0951835437534494, 0.09724394697497188, 0.12719913821972587, 0.08381587415857701]
+label victim: (396, 'lionfish')
+label wb 0: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 1: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 2: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 3: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 4: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 5: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 6: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 7: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 8: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 9: (219, 'cocker spaniel, English cocker spaniel, cocker')
+
+
+n_iters: 10, iter_w: 18, loss: -0.26102638244628906
+w: [0.1026413383764, 0.09687417615031324, 0.09599954634127837, 0.08448075446563043, 0.11688176314518701, 0.09940878725655025, 0.09481895935029482, 0.0970228309722134, 0.12907568017345444, 0.08279616376867811]
+label victim: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 0: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 1: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 2: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 3: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 4: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 5: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 6: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 7: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 8: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 9: (219, 'cocker spaniel, English cocker spaniel, cocker')
+
+
+n_iters: 10, iter_w: 19, loss: -4.165935516357422
+w: [0.10286876956675912, 0.09674057750821118, 0.09576181302523643, 0.08363460157101622, 0.11767552162038437, 0.09924250461491818, 0.09445487411801415, 0.09677806776481412, 0.1310202924982239, 0.08182297771242225]
+label victim: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 0: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 1: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 2: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 3: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 4: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 5: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 6: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 7: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 8: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 9: (219, 'cocker spaniel, English cocker spaniel, cocker')
+
+
+n_iters: 10, iter_w: 20, loss: 2.5951595306396484
+w: [0.1029166222661757, 0.09657964018870781, 0.09539251382284868, 0.08279811450611667, 0.1185834111489379, 0.09901219674847331, 0.09413693067658392, 0.09650070582821924, 0.13319381952308385, 0.08088604529085293]
+label victim: (397, 'puffer, pufferfish, blowfish, globefish')
+label wb 0: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 1: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 2: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 3: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 4: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 5: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 6: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 7: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 8: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 9: (219, 'cocker spaniel, English cocker spaniel, cocker')
+
+
+n_iters: 10, iter_w: 21, loss: -0.3674335479736328
+w: [0.10293868754443321, 0.09638296809807458, 0.0951332211460036, 0.08204112776809938, 0.11949845235498602, 0.09887822907386787, 0.09367336241630266, 0.09621501105645121, 0.13530986208690574, 0.07992907845487578]
+label victim: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 0: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 1: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 2: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 3: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 4: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 5: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 6: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 7: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 8: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 9: (219, 'cocker spaniel, English cocker spaniel, cocker')
+
+
+n_iters: 10, iter_w: 22, loss: 3.9729952812194824
+w: [0.10310731864653684, 0.09625870222388289, 0.0948083444829631, 0.08127899880720563, 0.12030299803740185, 0.09870787913730207, 0.0933928001246006, 0.09594161476568423, 0.13719580760750624, 0.07900553616691638]
+label victim: (611, 'jigsaw puzzle')
+label wb 0: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 1: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 2: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 3: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 4: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 5: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 6: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 7: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 8: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 9: (219, 'cocker spaniel, English cocker spaniel, cocker')
+
+
+n_iters: 10, iter_w: 23, loss: -0.5374422073364258
+w: [0.10318316082362594, 0.0960847041583102, 0.09453298483350386, 0.08048331895889184, 0.12115133665561946, 0.09849299771667919, 0.0929890038601472, 0.09560348322619276, 0.13946163058690594, 0.07801737918012366]
+label victim: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 0: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 1: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 2: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 3: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 4: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 5: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 6: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 7: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 8: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 9: (219, 'cocker spaniel, English cocker spaniel, cocker')
+
+
+n_iters: 10, iter_w: 24, loss: 0.5075569152832031
+w: [0.10330284127590177, 0.09581169489153282, 0.0942675200060558, 0.07968997766654624, 0.12208668616332405, 0.09832930689290063, 0.09259772273553671, 0.09534098798239198, 0.14147470622400496, 0.07709855616180497]
+label victim: (611, 'jigsaw puzzle')
+label wb 0: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 1: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 2: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 3: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 4: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 5: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 6: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 7: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 8: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 9: (219, 'cocker spaniel, English cocker spaniel, cocker')
+
+
+n_iters: 10, iter_w: 25, loss: 3.107952117919922
+w: [0.10347961112895207, 0.09563541451393937, 0.09398535963599051, 0.07899048521518605, 0.12292016201954836, 0.09819845742182567, 0.09224624189711039, 0.0950945263309404, 0.14321130675575441, 0.07623843508075276]
+label victim: (324, 'cabbage butterfly')
+label wb 0: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 1: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 2: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 3: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 4: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 5: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 6: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 7: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 8: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 9: (219, 'cocker spaniel, English cocker spaniel, cocker')
+
+
+n_iters: 10, iter_w: 26, loss: -5.72288703918457
+w: [0.10350932821646079, 0.09552291170807804, 0.09366321216935752, 0.07838317795699697, 0.12391799274378437, 0.0980088716154927, 0.09199227156212023, 0.0948693501205373, 0.14475369161662757, 0.07537919229054439]
+label victim: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 0: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 1: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 2: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 3: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 4: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 5: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 6: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 7: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 8: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 9: (219, 'cocker spaniel, English cocker spaniel, cocker')
+
+
+n_iters: 10, iter_w: 27, loss: -0.6329917907714844
+w: [0.10349326526170116, 0.09532134092934547, 0.09332442434295914, 0.07770983994892394, 0.12472708387410651, 0.09787800816101828, 0.09162075020989235, 0.09465508277502177, 0.14671451594352383, 0.07455568855350754]
+label victim: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 0: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 1: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 2: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 3: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 4: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 5: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 6: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 7: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 8: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 9: (219, 'cocker spaniel, English cocker spaniel, cocker')
+
+
+n_iters: 10, iter_w: 28, loss: -2.6203956604003906
+w: [0.10361373982075878, 0.09506819365146729, 0.09306196895307992, 0.07707263549834417, 0.1256515542921192, 0.09767554419601336, 0.09123898069388416, 0.09439542018403074, 0.14848345518310943, 0.07373850752719296]
+label victim: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 0: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 1: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 2: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 3: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 4: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 5: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 6: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 7: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 8: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 9: (219, 'cocker spaniel, English cocker spaniel, cocker')
+
+
+n_iters: 10, iter_w: 29, loss: -5.090940475463867
+w: [0.10362780438174513, 0.09487241203209279, 0.09286640257434536, 0.07643707478062646, 0.12653765173712506, 0.09741610247985269, 0.0909157686472467, 0.09418561840929678, 0.15017638235583297, 0.07296478260183606]
+label victim: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 0: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 1: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 2: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 3: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 4: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 5: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 6: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 7: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 8: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 9: (219, 'cocker spaniel, English cocker spaniel, cocker')
+
+
+n_iters: 10, iter_w: 30, loss: -1.069106101989746
+w: [0.10365171281619907, 0.09473339698632254, 0.09264844946819259, 0.07581196669402107, 0.12732564109444505, 0.09723275030649517, 0.09055606759578586, 0.09397769076936884, 0.1519234590202485, 0.07213886524892121]
+label victim: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 0: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 1: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 2: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 3: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 4: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 5: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 6: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 7: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 8: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 9: (219, 'cocker spaniel, English cocker spaniel, cocker')
+
+
+n_iters: 10, iter_w: 31, loss: 2.775320053100586
+w: [0.10357401153155206, 0.09448914108842778, 0.09241550151840097, 0.07516788088729745, 0.12825815359607476, 0.09712278030142121, 0.09024983502162552, 0.09370686416839744, 0.15361428448479567, 0.07140154740200706]
+label victim: (397, 'puffer, pufferfish, blowfish, globefish')
+label wb 0: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 1: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 2: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 3: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 4: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 5: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 6: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 7: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 8: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 9: (219, 'cocker spaniel, English cocker spaniel, cocker')
+
+
+n_iters: 10, iter_w: 32, loss: 1.4477567672729492
+w: [0.10365646428946527, 0.09437261592515488, 0.09216154563179398, 0.07457169605241624, 0.12922248913790882, 0.09693936937907839, 0.08979557750171725, 0.09342391777207085, 0.1552150867698272, 0.0706412375405671]
+label victim: (396, 'lionfish')
+label wb 0: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 1: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 2: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 3: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 4: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 5: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 6: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 7: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 8: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 9: (219, 'cocker spaniel, English cocker spaniel, cocker')
+
+
+n_iters: 10, iter_w: 33, loss: 3.2803196907043457
+w: [0.10369646225246248, 0.09424332014730114, 0.09193681360889633, 0.07394071596109647, 0.1302168650127246, 0.09669744920009683, 0.08941724776508966, 0.09319889029531274, 0.15669722637327094, 0.06995500938374881]
+label victim: (396, 'lionfish')
+label wb 0: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 1: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 2: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 3: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 4: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 5: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 6: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 7: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 8: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 9: (219, 'cocker spaniel, English cocker spaniel, cocker')
+
+
+n_iters: 10, iter_w: 34, loss: -2.977886199951172
+w: [0.10377004728892923, 0.09404531928090187, 0.09162495649189023, 0.07334499455725586, 0.13115072669492883, 0.09645196429993481, 0.08908957110229924, 0.09292613640833713, 0.15838344044300393, 0.06921284343251886]
+label victim: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 0: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 1: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 2: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 3: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 4: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 5: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 6: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 7: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 8: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 9: (219, 'cocker spaniel, English cocker spaniel, cocker')
+
+
+n_iters: 10, iter_w: 35, loss: -3.1568193435668945
+w: [0.10386195487694957, 0.09386148691010558, 0.09125975395943359, 0.07274579762217169, 0.1319216392427249, 0.09609971237694151, 0.08879893693067632, 0.09265229458028498, 0.16032557946682227, 0.06847284403388963]
+label victim: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 0: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 1: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 2: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 3: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 4: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 5: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 6: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 7: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 8: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 9: (219, 'cocker spaniel, English cocker spaniel, cocker')
+
+
+n_iters: 10, iter_w: 36, loss: 0.42036008834838867
+w: [0.10398239586646889, 0.09366861356932571, 0.09099747523909846, 0.07217918241772306, 0.132802169063885, 0.09587675507134746, 0.08839014517193675, 0.09242107257870619, 0.16184803537167822, 0.06783415564983017]
+label victim: (396, 'lionfish')
+label wb 0: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 1: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 2: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 3: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 4: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 5: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 6: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 7: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 8: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 9: (219, 'cocker spaniel, English cocker spaniel, cocker')
+
+
+n_iters: 10, iter_w: 37, loss: -0.6972064971923828
+w: [0.10400268751658455, 0.09349232804761885, 0.09074793130932463, 0.07157500237405989, 0.13361832604372514, 0.09570156928039397, 0.0880406946812883, 0.09213161803568476, 0.16355087901657794, 0.06713896369474202]
+label victim: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 0: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 1: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 2: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 3: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 4: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 5: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 6: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 7: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 8: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 9: (219, 'cocker spaniel, English cocker spaniel, cocker')
+
+
+n_iters: 10, iter_w: 38, loss: -0.5825920104980469
+w: [0.10409897844215801, 0.09332663912875443, 0.09035213297736465, 0.07100467208757272, 0.13462679825632246, 0.0954123484865728, 0.08771086508271768, 0.09187005314945891, 0.16512449802869303, 0.0664730143603855]
+label victim: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 0: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 1: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 2: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 3: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 4: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 5: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 6: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 7: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 8: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 9: (219, 'cocker spaniel, English cocker spaniel, cocker')
+
+
+n_iters: 10, iter_w: 39, loss: -3.7730627059936523
+w: [0.10416306568512722, 0.09318064003906405, 0.09008420466522045, 0.07045196635951412, 0.13526014501049485, 0.09522402902902491, 0.08750191551579317, 0.09158568644919383, 0.16671896103302994, 0.06582938621353744]
+label victim: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 0: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 1: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 2: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 3: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 4: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 5: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 6: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 7: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 8: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 9: (219, 'cocker spaniel, English cocker spaniel, cocker')
+
+
+n_iters: 10, iter_w: 40, loss: -2.140613555908203
+w: [0.10419898011037745, 0.09299888456589774, 0.08980596113024218, 0.06985687063663028, 0.13609331124649765, 0.09505495208553184, 0.08713064513767803, 0.09137342029571591, 0.16823838728520302, 0.06524858750622593]
+label victim: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 0: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 1: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 2: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 3: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 4: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 5: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 6: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 7: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 8: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 9: (219, 'cocker spaniel, English cocker spaniel, cocker')
+
+
+n_iters: 10, iter_w: 41, loss: -1.8031721115112305
+w: [0.10427281696832581, 0.09291178395539852, 0.0895182390509048, 0.06936424745141304, 0.13698525181082974, 0.0948275833281932, 0.08679726152233373, 0.09118115382393834, 0.1694889912574045, 0.06465267083125825]
+label victim: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 0: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 1: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 2: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 3: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 4: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 5: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 6: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 7: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 8: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 9: (219, 'cocker spaniel, English cocker spaniel, cocker')
+
+
+n_iters: 10, iter_w: 42, loss: -3.4542064666748047
+w: [0.10429547425373778, 0.09280046217616468, 0.08919506261592774, 0.06880551420459279, 0.13775869097101345, 0.0945856033774557, 0.08649900278951, 0.09091372552816396, 0.17111521540194766, 0.06403124868148638]
+label victim: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 0: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 1: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 2: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 3: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 4: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 5: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 6: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 7: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 8: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 9: (219, 'cocker spaniel, English cocker spaniel, cocker')
+
+
+n_iters: 10, iter_w: 43, loss: -2.5627050399780273
+w: [0.10437616519198262, 0.09266853219803181, 0.08897775816420253, 0.06826597986428509, 0.13848782968101092, 0.09438046163504563, 0.086232684151978, 0.09070686157810542, 0.17242716268391112, 0.06347656485144697]
+label victim: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 0: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 1: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 2: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 3: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 4: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 5: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 6: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 7: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 8: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 9: (219, 'cocker spaniel, English cocker spaniel, cocker')
+
+
+n_iters: 10, iter_w: 44, loss: -5.69621467590332
+w: [0.10444623148897358, 0.09244172130590522, 0.08874122256351902, 0.06778973322208827, 0.13919111130091452, 0.09421825079100601, 0.08594108328599004, 0.09052486426943573, 0.17377999978504116, 0.06292578198712633]
+label victim: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 0: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 1: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 2: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 3: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 4: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 5: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 6: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 7: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 8: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 9: (219, 'cocker spaniel, English cocker spaniel, cocker')
+
+
+n_iters: 10, iter_w: 45, loss: -5.5109100341796875
+w: [0.10452455910259197, 0.09229782425293301, 0.08852756950515712, 0.06725615638532657, 0.13980337990658737, 0.09403277078554759, 0.08560776742108717, 0.09039456361078888, 0.17515834685985285, 0.062397062170127304]
+label victim: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 0: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 1: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 2: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 3: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 4: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 5: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 6: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 7: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 8: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 9: (219, 'cocker spaniel, English cocker spaniel, cocker')
+
+
+n_iters: 10, iter_w: 46, loss: 0.10516643524169922
+w: [0.10439878455448076, 0.09213237450198636, 0.08832658744661241, 0.06672516419413951, 0.14052674044387564, 0.09380634603208216, 0.08530936166163469, 0.0901602771740573, 0.17680432151711578, 0.0618100424740153]
+label victim: (396, 'lionfish')
+label wb 0: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 1: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 2: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 3: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 4: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 5: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 6: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 7: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 8: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 9: (219, 'cocker spaniel, English cocker spaniel, cocker')
+
+
+n_iters: 10, iter_w: 47, loss: -6.76154899597168
+w: [0.1043473782686326, 0.09195638187622378, 0.08809631358869272, 0.06621475283723481, 0.14144034548868142, 0.09362576345570256, 0.08495088623709927, 0.09000471817510834, 0.1781127242638321, 0.061250735808792374]
+label victim: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 0: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 1: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 2: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 3: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 4: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 5: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 6: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 7: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 8: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 9: (219, 'cocker spaniel, English cocker spaniel, cocker')
+
+
+n_iters: 10, iter_w: 48, loss: -6.282857894897461
+w: [0.10444981201444847, 0.09178766106122949, 0.08789192592996259, 0.06570102706191527, 0.14228975203380276, 0.09333538163782942, 0.08460298403758133, 0.08984922051124235, 0.17938367126678106, 0.060708564445207246]
+label victim: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 0: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 1: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 2: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 3: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 4: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 5: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 6: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 7: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 8: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 9: (219, 'cocker spaniel, English cocker spaniel, cocker')
+
+
+n_iters: 10, iter_w: 49, loss: -1.3979425430297852
+w: [0.1043675654557114, 0.09158041996276091, 0.0876724475183579, 0.06524234427418668, 0.14306606896435517, 0.09314462224695011, 0.08422121993412907, 0.08965525841794404, 0.18087380898081715, 0.06017624424478768]
+label victim: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 0: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 1: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 2: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 3: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 4: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 5: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 6: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 7: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 8: (219, 'cocker spaniel, English cocker spaniel, cocker')
+label wb 9: (219, 'cocker spaniel, English cocker spaniel, cocker')
+
+

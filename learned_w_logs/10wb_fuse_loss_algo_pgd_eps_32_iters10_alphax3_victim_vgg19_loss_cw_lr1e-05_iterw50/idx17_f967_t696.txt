@@ -1,0 +1,750 @@
+n_iters: 10, iter_w: 0, loss: -0.4069709777832031
+w: [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+label victim: (696, 'paintbrush')
+label wb 0: (696, 'paintbrush')
+label wb 1: (696, 'paintbrush')
+label wb 2: (696, 'paintbrush')
+label wb 3: (528, 'dial telephone, dial phone')
+label wb 4: (696, 'paintbrush')
+label wb 5: (696, 'paintbrush')
+label wb 6: (696, 'paintbrush')
+label wb 7: (696, 'paintbrush')
+label wb 8: (696, 'paintbrush')
+label wb 9: (696, 'paintbrush')
+
+
+n_iters: 10, iter_w: 1, loss: -0.9910974502563477
+w: [0.09990709854566239, 0.0999100864918781, 0.09957475659369794, 0.09954852516838272, 0.1000371955600055, 0.10016980479314419, 0.09994507805624975, 0.10017197086566544, 0.1006873525676437, 0.10004813135767028]
+label victim: (696, 'paintbrush')
+label wb 0: (696, 'paintbrush')
+label wb 1: (696, 'paintbrush')
+label wb 2: (696, 'paintbrush')
+label wb 3: (696, 'paintbrush')
+label wb 4: (696, 'paintbrush')
+label wb 5: (696, 'paintbrush')
+label wb 6: (696, 'paintbrush')
+label wb 7: (696, 'paintbrush')
+label wb 8: (696, 'paintbrush')
+label wb 9: (696, 'paintbrush')
+
+
+n_iters: 10, iter_w: 2, loss: -1.4958629608154297
+w: [0.09969806594811859, 0.09953103916429339, 0.09863039719785485, 0.09886845388970919, 0.10017544349814057, 0.1007715292169186, 0.09981321211520064, 0.10012212248854517, 0.10276290396652182, 0.09962683251469714]
+label victim: (696, 'paintbrush')
+label wb 0: (696, 'paintbrush')
+label wb 1: (696, 'paintbrush')
+label wb 2: (696, 'paintbrush')
+label wb 3: (696, 'paintbrush')
+label wb 4: (696, 'paintbrush')
+label wb 5: (696, 'paintbrush')
+label wb 6: (696, 'paintbrush')
+label wb 7: (696, 'paintbrush')
+label wb 8: (696, 'paintbrush')
+label wb 9: (696, 'paintbrush')
+
+
+n_iters: 10, iter_w: 3, loss: -2.3659777641296387
+w: [0.09939812307855801, 0.09904529984471261, 0.09754660926939997, 0.09803118681930935, 0.10022066759828796, 0.1014041286566327, 0.0996595585440931, 0.1000047594434675, 0.10579274405057155, 0.0988969226949672]
+label victim: (696, 'paintbrush')
+label wb 0: (696, 'paintbrush')
+label wb 1: (696, 'paintbrush')
+label wb 2: (696, 'paintbrush')
+label wb 3: (696, 'paintbrush')
+label wb 4: (696, 'paintbrush')
+label wb 5: (696, 'paintbrush')
+label wb 6: (696, 'paintbrush')
+label wb 7: (696, 'paintbrush')
+label wb 8: (696, 'paintbrush')
+label wb 9: (696, 'paintbrush')
+
+
+n_iters: 10, iter_w: 4, loss: -3.754331588745117
+w: [0.099151726572373, 0.09854056281410284, 0.0965141436427884, 0.09740714336437835, 0.10031443767968624, 0.10206007537097839, 0.09934661122146893, 0.09985771392453838, 0.10865245610914477, 0.09815512930054072]
+label victim: (696, 'paintbrush')
+label wb 0: (696, 'paintbrush')
+label wb 1: (696, 'paintbrush')
+label wb 2: (696, 'paintbrush')
+label wb 3: (696, 'paintbrush')
+label wb 4: (696, 'paintbrush')
+label wb 5: (696, 'paintbrush')
+label wb 6: (696, 'paintbrush')
+label wb 7: (696, 'paintbrush')
+label wb 8: (696, 'paintbrush')
+label wb 9: (696, 'paintbrush')
+
+
+n_iters: 10, iter_w: 5, loss: -1.5259103775024414
+w: [0.09884014052566181, 0.09810942934681872, 0.09547199899799813, 0.09679349286772113, 0.10036616639136713, 0.10271666783310093, 0.09901350123439936, 0.09973780514416412, 0.11147040727318265, 0.09748039038558609]
+label victim: (696, 'paintbrush')
+label wb 0: (696, 'paintbrush')
+label wb 1: (696, 'paintbrush')
+label wb 2: (696, 'paintbrush')
+label wb 3: (696, 'paintbrush')
+label wb 4: (696, 'paintbrush')
+label wb 5: (696, 'paintbrush')
+label wb 6: (696, 'paintbrush')
+label wb 7: (696, 'paintbrush')
+label wb 8: (696, 'paintbrush')
+label wb 9: (696, 'paintbrush')
+
+
+n_iters: 10, iter_w: 6, loss: -1.2405691146850586
+w: [0.0985408263916991, 0.09751034824991091, 0.09433196046779223, 0.0961554003471106, 0.1004258049466246, 0.10338727190702704, 0.09868856581593503, 0.09956488774240736, 0.11475376170341495, 0.09664117242807817]
+label victim: (696, 'paintbrush')
+label wb 0: (696, 'paintbrush')
+label wb 1: (696, 'paintbrush')
+label wb 2: (696, 'paintbrush')
+label wb 3: (696, 'paintbrush')
+label wb 4: (696, 'paintbrush')
+label wb 5: (696, 'paintbrush')
+label wb 6: (696, 'paintbrush')
+label wb 7: (696, 'paintbrush')
+label wb 8: (696, 'paintbrush')
+label wb 9: (696, 'paintbrush')
+
+
+n_iters: 10, iter_w: 7, loss: -3.4480819702148438
+w: [0.09811110545722572, 0.0969085345052995, 0.09320701007579854, 0.0953945825972117, 0.10037969940806958, 0.10399101948524281, 0.09842621182196959, 0.09930467076115776, 0.11852514581929513, 0.09575202006872953]
+label victim: (696, 'paintbrush')
+label wb 0: (696, 'paintbrush')
+label wb 1: (696, 'paintbrush')
+label wb 2: (696, 'paintbrush')
+label wb 3: (696, 'paintbrush')
+label wb 4: (696, 'paintbrush')
+label wb 5: (696, 'paintbrush')
+label wb 6: (696, 'paintbrush')
+label wb 7: (696, 'paintbrush')
+label wb 8: (696, 'paintbrush')
+label wb 9: (696, 'paintbrush')
+
+
+n_iters: 10, iter_w: 8, loss: -1.6244573593139648
+w: [0.09769857438339218, 0.0963553463672541, 0.09213592696795024, 0.09478167065717931, 0.10028731496529289, 0.10475119993558885, 0.0980641502216375, 0.0989818504819924, 0.12211742857235956, 0.09482653744735298]
+label victim: (696, 'paintbrush')
+label wb 0: (696, 'paintbrush')
+label wb 1: (696, 'paintbrush')
+label wb 2: (696, 'paintbrush')
+label wb 3: (696, 'paintbrush')
+label wb 4: (696, 'paintbrush')
+label wb 5: (696, 'paintbrush')
+label wb 6: (696, 'paintbrush')
+label wb 7: (696, 'paintbrush')
+label wb 8: (696, 'paintbrush')
+label wb 9: (696, 'paintbrush')
+
+
+n_iters: 10, iter_w: 9, loss: -0.7599043846130371
+w: [0.09748449484445841, 0.0957733602295422, 0.09096656451674591, 0.09403842021173565, 0.10027312183126628, 0.10560682610480221, 0.09768096414257146, 0.09870194722764995, 0.12567537968586395, 0.09379892120536393]
+label victim: (696, 'paintbrush')
+label wb 0: (696, 'paintbrush')
+label wb 1: (696, 'paintbrush')
+label wb 2: (696, 'paintbrush')
+label wb 3: (696, 'paintbrush')
+label wb 4: (696, 'paintbrush')
+label wb 5: (696, 'paintbrush')
+label wb 6: (696, 'paintbrush')
+label wb 7: (696, 'paintbrush')
+label wb 8: (696, 'paintbrush')
+label wb 9: (696, 'paintbrush')
+
+
+n_iters: 10, iter_w: 10, loss: -4.336900234222412
+w: [0.09717879340785644, 0.0951527506589216, 0.08989862532170229, 0.0933472583174358, 0.10023326080820498, 0.10648226775059699, 0.0972932322830737, 0.09844065113218406, 0.12910325090560118, 0.09286990941442308]
+label victim: (696, 'paintbrush')
+label wb 0: (696, 'paintbrush')
+label wb 1: (696, 'paintbrush')
+label wb 2: (696, 'paintbrush')
+label wb 3: (696, 'paintbrush')
+label wb 4: (696, 'paintbrush')
+label wb 5: (696, 'paintbrush')
+label wb 6: (696, 'paintbrush')
+label wb 7: (696, 'paintbrush')
+label wb 8: (696, 'paintbrush')
+label wb 9: (696, 'paintbrush')
+
+
+n_iters: 10, iter_w: 11, loss: -1.3871550559997559
+w: [0.09687330664829641, 0.09456754553207947, 0.08886957675343118, 0.09267651745677188, 0.10024296368948742, 0.10729109586613725, 0.09703462470248364, 0.09809638739723814, 0.13241073266567427, 0.09193724928840039]
+label victim: (696, 'paintbrush')
+label wb 0: (696, 'paintbrush')
+label wb 1: (696, 'paintbrush')
+label wb 2: (696, 'paintbrush')
+label wb 3: (696, 'paintbrush')
+label wb 4: (696, 'paintbrush')
+label wb 5: (696, 'paintbrush')
+label wb 6: (696, 'paintbrush')
+label wb 7: (696, 'paintbrush')
+label wb 8: (696, 'paintbrush')
+label wb 9: (696, 'paintbrush')
+
+
+n_iters: 10, iter_w: 12, loss: -4.8328857421875
+w: [0.09651220960785861, 0.09401188271516885, 0.08779960574154004, 0.09195519683381254, 0.10022262078884658, 0.10823050223536351, 0.09653579593762006, 0.09765806946577389, 0.13609358798932325, 0.09098052868469286]
+label victim: (696, 'paintbrush')
+label wb 0: (696, 'paintbrush')
+label wb 1: (696, 'paintbrush')
+label wb 2: (696, 'paintbrush')
+label wb 3: (696, 'paintbrush')
+label wb 4: (696, 'paintbrush')
+label wb 5: (696, 'paintbrush')
+label wb 6: (696, 'paintbrush')
+label wb 7: (696, 'paintbrush')
+label wb 8: (696, 'paintbrush')
+label wb 9: (696, 'paintbrush')
+
+
+n_iters: 10, iter_w: 13, loss: -3.638827323913574
+w: [0.09610600872546368, 0.09335893964759986, 0.0867238427274485, 0.09126968849371243, 0.10028115802463033, 0.10906951582612141, 0.09617122780018791, 0.09724917467482623, 0.13969139947732637, 0.09007904460268332]
+label victim: (696, 'paintbrush')
+label wb 0: (696, 'paintbrush')
+label wb 1: (696, 'paintbrush')
+label wb 2: (696, 'paintbrush')
+label wb 3: (696, 'paintbrush')
+label wb 4: (696, 'paintbrush')
+label wb 5: (696, 'paintbrush')
+label wb 6: (696, 'paintbrush')
+label wb 7: (696, 'paintbrush')
+label wb 8: (696, 'paintbrush')
+label wb 9: (696, 'paintbrush')
+
+
+n_iters: 10, iter_w: 14, loss: -2.881103515625
+w: [0.09558810981947209, 0.09266916776938218, 0.08554664362159395, 0.09051151832550922, 0.10024820568216429, 0.10976018031222701, 0.095770596623854, 0.09682476384240216, 0.14397282742731476, 0.08910798657608024]
+label victim: (696, 'paintbrush')
+label wb 0: (696, 'paintbrush')
+label wb 1: (696, 'paintbrush')
+label wb 2: (696, 'paintbrush')
+label wb 3: (696, 'paintbrush')
+label wb 4: (696, 'paintbrush')
+label wb 5: (696, 'paintbrush')
+label wb 6: (696, 'paintbrush')
+label wb 7: (696, 'paintbrush')
+label wb 8: (696, 'paintbrush')
+label wb 9: (696, 'paintbrush')
+
+
+n_iters: 10, iter_w: 15, loss: -3.8675918579101562
+w: [0.09523487581486789, 0.09204951058462997, 0.08445245852248433, 0.08985196759629825, 0.10039989442867131, 0.11063777265884667, 0.0954593090852772, 0.09647716841811675, 0.14728549533472884, 0.0881515475560788]
+label victim: (696, 'paintbrush')
+label wb 0: (696, 'paintbrush')
+label wb 1: (696, 'paintbrush')
+label wb 2: (696, 'paintbrush')
+label wb 3: (696, 'paintbrush')
+label wb 4: (696, 'paintbrush')
+label wb 5: (696, 'paintbrush')
+label wb 6: (696, 'paintbrush')
+label wb 7: (696, 'paintbrush')
+label wb 8: (696, 'paintbrush')
+label wb 9: (696, 'paintbrush')
+
+
+n_iters: 10, iter_w: 16, loss: -1.855635643005371
+w: [0.09486076153208169, 0.09145166161858088, 0.08345376278857185, 0.0891890024453588, 0.10028601090200373, 0.11129994534338872, 0.09503822870218137, 0.09618268376186358, 0.1509850801006889, 0.08725286280528045]
+label victim: (696, 'paintbrush')
+label wb 0: (696, 'paintbrush')
+label wb 1: (696, 'paintbrush')
+label wb 2: (696, 'paintbrush')
+label wb 3: (696, 'paintbrush')
+label wb 4: (696, 'paintbrush')
+label wb 5: (696, 'paintbrush')
+label wb 6: (696, 'paintbrush')
+label wb 7: (696, 'paintbrush')
+label wb 8: (696, 'paintbrush')
+label wb 9: (696, 'paintbrush')
+
+
+n_iters: 10, iter_w: 17, loss: -2.0616626739501953
+w: [0.09448346246497771, 0.09084736944203313, 0.08248140434216794, 0.08842796766710588, 0.10035925651651643, 0.11206250005533865, 0.09462890631444429, 0.09599549563892969, 0.15432864433354027, 0.08638499322494618]
+label victim: (696, 'paintbrush')
+label wb 0: (696, 'paintbrush')
+label wb 1: (696, 'paintbrush')
+label wb 2: (696, 'paintbrush')
+label wb 3: (696, 'paintbrush')
+label wb 4: (696, 'paintbrush')
+label wb 5: (696, 'paintbrush')
+label wb 6: (696, 'paintbrush')
+label wb 7: (696, 'paintbrush')
+label wb 8: (696, 'paintbrush')
+label wb 9: (696, 'paintbrush')
+
+
+n_iters: 10, iter_w: 18, loss: -3.136777877807617
+w: [0.09402108854611496, 0.09032243017931016, 0.08151732621634816, 0.08772347998745786, 0.10046954317037479, 0.11276215585522456, 0.09416623668157509, 0.09578175745887048, 0.15771647191110943, 0.08551950999361457]
+label victim: (696, 'paintbrush')
+label wb 0: (696, 'paintbrush')
+label wb 1: (696, 'paintbrush')
+label wb 2: (696, 'paintbrush')
+label wb 3: (696, 'paintbrush')
+label wb 4: (696, 'paintbrush')
+label wb 5: (696, 'paintbrush')
+label wb 6: (696, 'paintbrush')
+label wb 7: (696, 'paintbrush')
+label wb 8: (696, 'paintbrush')
+label wb 9: (696, 'paintbrush')
+
+
+n_iters: 10, iter_w: 19, loss: -0.7155895233154297
+w: [0.09357956429709426, 0.08969557872598369, 0.08049392937049725, 0.08691052501702685, 0.1005664446853833, 0.1134369848303019, 0.09360287279096435, 0.09542123109746097, 0.16167537264477227, 0.08461749654051512]
+label victim: (696, 'paintbrush')
+label wb 0: (696, 'paintbrush')
+label wb 1: (696, 'paintbrush')
+label wb 2: (696, 'paintbrush')
+label wb 3: (696, 'paintbrush')
+label wb 4: (696, 'paintbrush')
+label wb 5: (696, 'paintbrush')
+label wb 6: (696, 'paintbrush')
+label wb 7: (696, 'paintbrush')
+label wb 8: (696, 'paintbrush')
+label wb 9: (696, 'paintbrush')
+
+
+n_iters: 10, iter_w: 20, loss: -2.6596269607543945
+w: [0.09307199592960254, 0.08901843667165245, 0.0795297423295316, 0.08615565881110639, 0.10067904646665746, 0.11413551381364667, 0.09319185028438799, 0.09505819092390747, 0.1654890572798007, 0.08367050748970685]
+label victim: (696, 'paintbrush')
+label wb 0: (696, 'paintbrush')
+label wb 1: (696, 'paintbrush')
+label wb 2: (696, 'paintbrush')
+label wb 3: (696, 'paintbrush')
+label wb 4: (696, 'paintbrush')
+label wb 5: (696, 'paintbrush')
+label wb 6: (696, 'paintbrush')
+label wb 7: (696, 'paintbrush')
+label wb 8: (696, 'paintbrush')
+label wb 9: (696, 'paintbrush')
+
+
+n_iters: 10, iter_w: 21, loss: -1.5948972702026367
+w: [0.09270396237439348, 0.08834935217805404, 0.07853737038387819, 0.0854390573977792, 0.10072342044515203, 0.11480669509771349, 0.0927836205100496, 0.09468325233680713, 0.1692266729030236, 0.08274659637314931]
+label victim: (696, 'paintbrush')
+label wb 0: (696, 'paintbrush')
+label wb 1: (696, 'paintbrush')
+label wb 2: (696, 'paintbrush')
+label wb 3: (696, 'paintbrush')
+label wb 4: (696, 'paintbrush')
+label wb 5: (696, 'paintbrush')
+label wb 6: (696, 'paintbrush')
+label wb 7: (696, 'paintbrush')
+label wb 8: (696, 'paintbrush')
+label wb 9: (696, 'paintbrush')
+
+
+n_iters: 10, iter_w: 22, loss: -2.627142906188965
+w: [0.09236352580408154, 0.08777682570910644, 0.07757332916738206, 0.08489897703849338, 0.1007757148454396, 0.11541570461654653, 0.09237221410260062, 0.0943635860779644, 0.17256589241452291, 0.08189423022386237]
+label victim: (696, 'paintbrush')
+label wb 0: (696, 'paintbrush')
+label wb 1: (696, 'paintbrush')
+label wb 2: (696, 'paintbrush')
+label wb 3: (696, 'paintbrush')
+label wb 4: (696, 'paintbrush')
+label wb 5: (696, 'paintbrush')
+label wb 6: (696, 'paintbrush')
+label wb 7: (696, 'paintbrush')
+label wb 8: (696, 'paintbrush')
+label wb 9: (696, 'paintbrush')
+
+
+n_iters: 10, iter_w: 23, loss: -0.5371198654174805
+w: [0.0920212989242292, 0.08723578142333865, 0.07654526201913471, 0.08424083555182536, 0.1010248231155577, 0.11601817978858026, 0.09192464405468713, 0.09394433221776, 0.17599180259626532, 0.08105304030862157]
+label victim: (696, 'paintbrush')
+label wb 0: (696, 'paintbrush')
+label wb 1: (696, 'paintbrush')
+label wb 2: (696, 'paintbrush')
+label wb 3: (696, 'paintbrush')
+label wb 4: (696, 'paintbrush')
+label wb 5: (696, 'paintbrush')
+label wb 6: (696, 'paintbrush')
+label wb 7: (696, 'paintbrush')
+label wb 8: (696, 'paintbrush')
+label wb 9: (696, 'paintbrush')
+
+
+n_iters: 10, iter_w: 24, loss: -3.3452882766723633
+w: [0.09167206230296411, 0.08666112911690269, 0.07551961298215125, 0.08358287432013593, 0.10117738581647326, 0.1167317647803874, 0.09151662262965272, 0.09354543975909765, 0.17935804300560712, 0.08023506528662797]
+label victim: (696, 'paintbrush')
+label wb 0: (696, 'paintbrush')
+label wb 1: (696, 'paintbrush')
+label wb 2: (696, 'paintbrush')
+label wb 3: (696, 'paintbrush')
+label wb 4: (696, 'paintbrush')
+label wb 5: (696, 'paintbrush')
+label wb 6: (696, 'paintbrush')
+label wb 7: (696, 'paintbrush')
+label wb 8: (696, 'paintbrush')
+label wb 9: (696, 'paintbrush')
+
+
+n_iters: 10, iter_w: 25, loss: -0.5927262306213379
+w: [0.09131432437399031, 0.08610614257398917, 0.07446002873733616, 0.08293968286356655, 0.10131851047255928, 0.11727527775606764, 0.0911163197541633, 0.0932887076191969, 0.18275001983791248, 0.07943098601121815]
+label victim: (696, 'paintbrush')
+label wb 0: (696, 'paintbrush')
+label wb 1: (696, 'paintbrush')
+label wb 2: (696, 'paintbrush')
+label wb 3: (696, 'paintbrush')
+label wb 4: (696, 'paintbrush')
+label wb 5: (696, 'paintbrush')
+label wb 6: (696, 'paintbrush')
+label wb 7: (696, 'paintbrush')
+label wb 8: (696, 'paintbrush')
+label wb 9: (696, 'paintbrush')
+
+
+n_iters: 10, iter_w: 26, loss: -0.8155717849731445
+w: [0.09094848738587236, 0.08556280157039052, 0.07344139656636459, 0.08232744843898532, 0.10144761564552203, 0.11769282513564204, 0.09062448359670597, 0.0928985780081224, 0.18639744694075658, 0.07865891671163822]
+label victim: (696, 'paintbrush')
+label wb 0: (696, 'paintbrush')
+label wb 1: (696, 'paintbrush')
+label wb 2: (696, 'paintbrush')
+label wb 3: (696, 'paintbrush')
+label wb 4: (696, 'paintbrush')
+label wb 5: (696, 'paintbrush')
+label wb 6: (696, 'paintbrush')
+label wb 7: (696, 'paintbrush')
+label wb 8: (696, 'paintbrush')
+label wb 9: (696, 'paintbrush')
+
+
+n_iters: 10, iter_w: 27, loss: 0.6016793251037598
+w: [0.09062367275110025, 0.08503122854172807, 0.07245310105403509, 0.08164725965812362, 0.10157978173368584, 0.11809784201547595, 0.09019241729905958, 0.09265953668002117, 0.18981447930639123, 0.07790068096037932]
+label victim: (816, 'spindle')
+label wb 0: (696, 'paintbrush')
+label wb 1: (696, 'paintbrush')
+label wb 2: (696, 'paintbrush')
+label wb 3: (696, 'paintbrush')
+label wb 4: (696, 'paintbrush')
+label wb 5: (696, 'paintbrush')
+label wb 6: (696, 'paintbrush')
+label wb 7: (696, 'paintbrush')
+label wb 8: (696, 'paintbrush')
+label wb 9: (696, 'paintbrush')
+
+
+n_iters: 10, iter_w: 28, loss: 0.7037672996520996
+w: [0.09032446330845365, 0.08453992528638957, 0.07149949732768907, 0.08096503281159922, 0.10174606099616662, 0.11854654455068278, 0.08978389027040415, 0.09242791207967933, 0.19299996742977857, 0.07716670593915703]
+label victim: (816, 'spindle')
+label wb 0: (696, 'paintbrush')
+label wb 1: (696, 'paintbrush')
+label wb 2: (696, 'paintbrush')
+label wb 3: (696, 'paintbrush')
+label wb 4: (696, 'paintbrush')
+label wb 5: (696, 'paintbrush')
+label wb 6: (696, 'paintbrush')
+label wb 7: (696, 'paintbrush')
+label wb 8: (696, 'paintbrush')
+label wb 9: (696, 'paintbrush')
+
+
+n_iters: 10, iter_w: 29, loss: -3.2426891326904297
+w: [0.09004304506382377, 0.0839852983407888, 0.07052735662182488, 0.08032443852897654, 0.10183638272280647, 0.11893446255231081, 0.08941484834602856, 0.09225271563773822, 0.1962985099913638, 0.07638294219433803]
+label victim: (696, 'paintbrush')
+label wb 0: (696, 'paintbrush')
+label wb 1: (696, 'paintbrush')
+label wb 2: (696, 'paintbrush')
+label wb 3: (696, 'paintbrush')
+label wb 4: (696, 'paintbrush')
+label wb 5: (696, 'paintbrush')
+label wb 6: (696, 'paintbrush')
+label wb 7: (696, 'paintbrush')
+label wb 8: (696, 'paintbrush')
+label wb 9: (696, 'paintbrush')
+
+
+n_iters: 10, iter_w: 30, loss: -3.209731101989746
+w: [0.08970417033214986, 0.08337623545218065, 0.06947720622930507, 0.07965255975511717, 0.10191395056346164, 0.11939794239746895, 0.08917506130622035, 0.09201550295876287, 0.1996644857988724, 0.07562288520646093]
+label victim: (696, 'paintbrush')
+label wb 0: (696, 'paintbrush')
+label wb 1: (696, 'paintbrush')
+label wb 2: (696, 'paintbrush')
+label wb 3: (696, 'paintbrush')
+label wb 4: (696, 'paintbrush')
+label wb 5: (696, 'paintbrush')
+label wb 6: (696, 'paintbrush')
+label wb 7: (696, 'paintbrush')
+label wb 8: (696, 'paintbrush')
+label wb 9: (696, 'paintbrush')
+
+
+n_iters: 10, iter_w: 31, loss: -1.7583866119384766
+w: [0.08933415610013214, 0.0827875264618852, 0.06845174365344744, 0.07900680354077422, 0.10210344744142967, 0.11996194675919361, 0.08868782214094093, 0.09166263676605699, 0.20316837903862991, 0.07483553809750992]
+label victim: (696, 'paintbrush')
+label wb 0: (696, 'paintbrush')
+label wb 1: (696, 'paintbrush')
+label wb 2: (696, 'paintbrush')
+label wb 3: (696, 'paintbrush')
+label wb 4: (696, 'paintbrush')
+label wb 5: (696, 'paintbrush')
+label wb 6: (696, 'paintbrush')
+label wb 7: (696, 'paintbrush')
+label wb 8: (696, 'paintbrush')
+label wb 9: (696, 'paintbrush')
+
+
+n_iters: 10, iter_w: 32, loss: -3.4017906188964844
+w: [0.08896189124799571, 0.08221670423368559, 0.06741630566589085, 0.07837373641506826, 0.1021898611860628, 0.12043534460498868, 0.08845898894978213, 0.09139305973873439, 0.20648296742021677, 0.07407114053757474]
+label victim: (696, 'paintbrush')
+label wb 0: (696, 'paintbrush')
+label wb 1: (696, 'paintbrush')
+label wb 2: (696, 'paintbrush')
+label wb 3: (696, 'paintbrush')
+label wb 4: (696, 'paintbrush')
+label wb 5: (696, 'paintbrush')
+label wb 6: (696, 'paintbrush')
+label wb 7: (696, 'paintbrush')
+label wb 8: (696, 'paintbrush')
+label wb 9: (696, 'paintbrush')
+
+
+n_iters: 10, iter_w: 33, loss: 2.2325892448425293
+w: [0.08862498060461337, 0.08170928748666584, 0.06639745998594757, 0.07784607234833177, 0.10226643821560132, 0.12087291534801022, 0.08801146730360114, 0.09125936730793817, 0.20960239815094472, 0.07340961324834581]
+label victim: (808, 'sombrero')
+label wb 0: (696, 'paintbrush')
+label wb 1: (696, 'paintbrush')
+label wb 2: (696, 'paintbrush')
+label wb 3: (696, 'paintbrush')
+label wb 4: (696, 'paintbrush')
+label wb 5: (696, 'paintbrush')
+label wb 6: (696, 'paintbrush')
+label wb 7: (696, 'paintbrush')
+label wb 8: (696, 'paintbrush')
+label wb 9: (696, 'paintbrush')
+
+
+n_iters: 10, iter_w: 34, loss: -1.1276044845581055
+w: [0.08822525943973422, 0.08117757962204757, 0.06540418535462339, 0.07722055588797823, 0.102409645504928, 0.12134008915725455, 0.0876406185975455, 0.09123796456619224, 0.21254516251379782, 0.07279893935589835]
+label victim: (696, 'paintbrush')
+label wb 0: (696, 'paintbrush')
+label wb 1: (696, 'paintbrush')
+label wb 2: (696, 'paintbrush')
+label wb 3: (696, 'paintbrush')
+label wb 4: (696, 'paintbrush')
+label wb 5: (696, 'paintbrush')
+label wb 6: (696, 'paintbrush')
+label wb 7: (696, 'paintbrush')
+label wb 8: (696, 'paintbrush')
+label wb 9: (696, 'paintbrush')
+
+
+n_iters: 10, iter_w: 35, loss: -2.817533016204834
+w: [0.08792632351338948, 0.08057173679176252, 0.06450266381527969, 0.07663002291183049, 0.10258183145760777, 0.12188876385735135, 0.08730904736546191, 0.09110297582344465, 0.2153191168187175, 0.07216751764515454]
+label victim: (696, 'paintbrush')
+label wb 0: (696, 'paintbrush')
+label wb 1: (696, 'paintbrush')
+label wb 2: (696, 'paintbrush')
+label wb 3: (696, 'paintbrush')
+label wb 4: (696, 'paintbrush')
+label wb 5: (696, 'paintbrush')
+label wb 6: (696, 'paintbrush')
+label wb 7: (696, 'paintbrush')
+label wb 8: (696, 'paintbrush')
+label wb 9: (696, 'paintbrush')
+
+
+n_iters: 10, iter_w: 36, loss: -2.855933666229248
+w: [0.087729747644175, 0.08012135337089932, 0.06354931575070692, 0.07605485829983834, 0.10278309060396339, 0.12244673554552829, 0.08695749720812171, 0.09093203824246954, 0.21779541206515776, 0.07162995126913967]
+label victim: (696, 'paintbrush')
+label wb 0: (696, 'paintbrush')
+label wb 1: (696, 'paintbrush')
+label wb 2: (696, 'paintbrush')
+label wb 3: (696, 'paintbrush')
+label wb 4: (696, 'paintbrush')
+label wb 5: (696, 'paintbrush')
+label wb 6: (696, 'paintbrush')
+label wb 7: (696, 'paintbrush')
+label wb 8: (696, 'paintbrush')
+label wb 9: (696, 'paintbrush')
+
+
+n_iters: 10, iter_w: 37, loss: 2.7046432495117188
+w: [0.08737549401727653, 0.07954555842649502, 0.06262045822703358, 0.07550533171551854, 0.10278729390644464, 0.12305179034925735, 0.08663382775870013, 0.09067932336739103, 0.22075624341716887, 0.07104467881471438]
+label victim: (464, 'buckle')
+label wb 0: (696, 'paintbrush')
+label wb 1: (696, 'paintbrush')
+label wb 2: (696, 'paintbrush')
+label wb 3: (696, 'paintbrush')
+label wb 4: (696, 'paintbrush')
+label wb 5: (696, 'paintbrush')
+label wb 6: (696, 'paintbrush')
+label wb 7: (696, 'paintbrush')
+label wb 8: (696, 'paintbrush')
+label wb 9: (696, 'paintbrush')
+
+
+n_iters: 10, iter_w: 38, loss: -1.6045527458190918
+w: [0.0871711575610013, 0.07908853794788465, 0.06175889191418167, 0.07501541042254554, 0.10289877128447067, 0.12348139694809238, 0.08638659818967812, 0.09048251605252296, 0.22324484835598338, 0.07047187132363941]
+label victim: (696, 'paintbrush')
+label wb 0: (696, 'paintbrush')
+label wb 1: (696, 'paintbrush')
+label wb 2: (696, 'paintbrush')
+label wb 3: (696, 'paintbrush')
+label wb 4: (696, 'paintbrush')
+label wb 5: (696, 'paintbrush')
+label wb 6: (696, 'paintbrush')
+label wb 7: (696, 'paintbrush')
+label wb 8: (696, 'paintbrush')
+label wb 9: (696, 'paintbrush')
+
+
+n_iters: 10, iter_w: 39, loss: -3.490274429321289
+w: [0.08690161436210603, 0.07846633648575126, 0.06093566512593587, 0.07444161357250452, 0.1029194379354374, 0.12394721090733776, 0.08608420111661452, 0.0903294450015411, 0.22608152091978723, 0.06989295457298443]
+label victim: (696, 'paintbrush')
+label wb 0: (696, 'paintbrush')
+label wb 1: (696, 'paintbrush')
+label wb 2: (696, 'paintbrush')
+label wb 3: (696, 'paintbrush')
+label wb 4: (696, 'paintbrush')
+label wb 5: (696, 'paintbrush')
+label wb 6: (696, 'paintbrush')
+label wb 7: (696, 'paintbrush')
+label wb 8: (696, 'paintbrush')
+label wb 9: (696, 'paintbrush')
+
+
+n_iters: 10, iter_w: 40, loss: -4.008739471435547
+w: [0.08664687093448803, 0.0779637264845998, 0.060133523689715064, 0.07388809225872663, 0.10304160690080937, 0.1243767891268144, 0.08570118240947366, 0.09018648104283025, 0.22873692284049277, 0.06932480431205007]
+label victim: (696, 'paintbrush')
+label wb 0: (696, 'paintbrush')
+label wb 1: (696, 'paintbrush')
+label wb 2: (696, 'paintbrush')
+label wb 3: (696, 'paintbrush')
+label wb 4: (696, 'paintbrush')
+label wb 5: (696, 'paintbrush')
+label wb 6: (696, 'paintbrush')
+label wb 7: (696, 'paintbrush')
+label wb 8: (696, 'paintbrush')
+label wb 9: (696, 'paintbrush')
+
+
+n_iters: 10, iter_w: 41, loss: 0.22185611724853516
+w: [0.08638754764966121, 0.07743815417538397, 0.05942001725043926, 0.0734185013871899, 0.10316972039776777, 0.12462699570420335, 0.08543792006187803, 0.09006064441783533, 0.23122749417323318, 0.06881300478240808]
+label victim: (441, 'beer glass')
+label wb 0: (696, 'paintbrush')
+label wb 1: (696, 'paintbrush')
+label wb 2: (696, 'paintbrush')
+label wb 3: (696, 'paintbrush')
+label wb 4: (696, 'paintbrush')
+label wb 5: (696, 'paintbrush')
+label wb 6: (696, 'paintbrush')
+label wb 7: (696, 'paintbrush')
+label wb 8: (696, 'paintbrush')
+label wb 9: (696, 'paintbrush')
+
+
+n_iters: 10, iter_w: 42, loss: -0.7304630279541016
+w: [0.08612323261303426, 0.07699369054174723, 0.0586385279033627, 0.07293478285876594, 0.10333986398983606, 0.12497204724063574, 0.08508071824651246, 0.08992342943252518, 0.23371048425985191, 0.06828322291372853]
+label victim: (696, 'paintbrush')
+label wb 0: (696, 'paintbrush')
+label wb 1: (696, 'paintbrush')
+label wb 2: (696, 'paintbrush')
+label wb 3: (696, 'paintbrush')
+label wb 4: (696, 'paintbrush')
+label wb 5: (696, 'paintbrush')
+label wb 6: (696, 'paintbrush')
+label wb 7: (696, 'paintbrush')
+label wb 8: (696, 'paintbrush')
+label wb 9: (696, 'paintbrush')
+
+
+n_iters: 10, iter_w: 43, loss: -0.9548330307006836
+w: [0.08586586708504347, 0.07646947071087101, 0.057829804467932025, 0.07244173447620278, 0.10352564605575305, 0.1253662903604832, 0.08478665663501686, 0.08979428470004672, 0.23615908997773008, 0.06776115553092082]
+label victim: (696, 'paintbrush')
+label wb 0: (696, 'paintbrush')
+label wb 1: (696, 'paintbrush')
+label wb 2: (696, 'paintbrush')
+label wb 3: (696, 'paintbrush')
+label wb 4: (696, 'paintbrush')
+label wb 5: (696, 'paintbrush')
+label wb 6: (696, 'paintbrush')
+label wb 7: (696, 'paintbrush')
+label wb 8: (696, 'paintbrush')
+label wb 9: (696, 'paintbrush')
+
+
+n_iters: 10, iter_w: 44, loss: -0.5063052177429199
+w: [0.08557218884430404, 0.0759780679344626, 0.056992338175297357, 0.07193138807263548, 0.10362086563742019, 0.12570918321541974, 0.08443479384638677, 0.08961540337381828, 0.23896136626339823, 0.06718440463685722]
+label victim: (696, 'paintbrush')
+label wb 0: (696, 'paintbrush')
+label wb 1: (696, 'paintbrush')
+label wb 2: (696, 'paintbrush')
+label wb 3: (696, 'paintbrush')
+label wb 4: (696, 'paintbrush')
+label wb 5: (696, 'paintbrush')
+label wb 6: (696, 'paintbrush')
+label wb 7: (696, 'paintbrush')
+label wb 8: (696, 'paintbrush')
+label wb 9: (696, 'paintbrush')
+
+
+n_iters: 10, iter_w: 45, loss: -2.5320887565612793
+w: [0.08525315239029013, 0.07546610479745743, 0.056303593589409444, 0.07140546971017256, 0.10374023104365894, 0.12580563760640054, 0.08429750418194838, 0.08956287638420249, 0.24147996479003694, 0.06668546550642315]
+label victim: (696, 'paintbrush')
+label wb 0: (696, 'paintbrush')
+label wb 1: (696, 'paintbrush')
+label wb 2: (696, 'paintbrush')
+label wb 3: (696, 'paintbrush')
+label wb 4: (696, 'paintbrush')
+label wb 5: (696, 'paintbrush')
+label wb 6: (696, 'paintbrush')
+label wb 7: (696, 'paintbrush')
+label wb 8: (696, 'paintbrush')
+label wb 9: (696, 'paintbrush')
+
+
+n_iters: 10, iter_w: 46, loss: -2.971020221710205
+w: [0.08496934258932633, 0.07492424066159994, 0.055553872610762306, 0.0709564271578118, 0.10384516127475674, 0.12604812318286962, 0.08403728901157355, 0.08950103484000549, 0.24394928806459437, 0.06621522060669985]
+label victim: (696, 'paintbrush')
+label wb 0: (696, 'paintbrush')
+label wb 1: (696, 'paintbrush')
+label wb 2: (696, 'paintbrush')
+label wb 3: (696, 'paintbrush')
+label wb 4: (696, 'paintbrush')
+label wb 5: (696, 'paintbrush')
+label wb 6: (696, 'paintbrush')
+label wb 7: (696, 'paintbrush')
+label wb 8: (696, 'paintbrush')
+label wb 9: (696, 'paintbrush')
+
+
+n_iters: 10, iter_w: 47, loss: -0.13010787963867188
+w: [0.08469504437865202, 0.07449145154951425, 0.05477352069790196, 0.07050675226187507, 0.1039141890685907, 0.12629104355937387, 0.0837616194859682, 0.0895075915215962, 0.24635523736857118, 0.06570355010795671]
+label victim: (696, 'paintbrush')
+label wb 0: (696, 'paintbrush')
+label wb 1: (696, 'paintbrush')
+label wb 2: (696, 'paintbrush')
+label wb 3: (696, 'paintbrush')
+label wb 4: (696, 'paintbrush')
+label wb 5: (696, 'paintbrush')
+label wb 6: (696, 'paintbrush')
+label wb 7: (696, 'paintbrush')
+label wb 8: (696, 'paintbrush')
+label wb 9: (696, 'paintbrush')
+
+
+n_iters: 10, iter_w: 48, loss: -3.9809436798095703
+w: [0.08444064704574383, 0.0740208217809387, 0.05405877192161923, 0.07006866278368645, 0.10389416569735553, 0.12658018906324975, 0.08342489402510685, 0.08942787546117381, 0.24884766845253567, 0.06523630376859]
+label victim: (696, 'paintbrush')
+label wb 0: (696, 'paintbrush')
+label wb 1: (696, 'paintbrush')
+label wb 2: (696, 'paintbrush')
+label wb 3: (696, 'paintbrush')
+label wb 4: (696, 'paintbrush')
+label wb 5: (696, 'paintbrush')
+label wb 6: (696, 'paintbrush')
+label wb 7: (696, 'paintbrush')
+label wb 8: (696, 'paintbrush')
+label wb 9: (696, 'paintbrush')
+
+
+n_iters: 10, iter_w: 49, loss: -0.707127571105957
+w: [0.08423444567709863, 0.0735333105006814, 0.0533772949938179, 0.06964336340967095, 0.1038219237787804, 0.12686728574138376, 0.08309151775041078, 0.08920823958977442, 0.2514622431785262, 0.06476037537985568]
+label victim: (696, 'paintbrush')
+label wb 0: (696, 'paintbrush')
+label wb 1: (696, 'paintbrush')
+label wb 2: (696, 'paintbrush')
+label wb 3: (696, 'paintbrush')
+label wb 4: (696, 'paintbrush')
+label wb 5: (696, 'paintbrush')
+label wb 6: (696, 'paintbrush')
+label wb 7: (696, 'paintbrush')
+label wb 8: (696, 'paintbrush')
+label wb 9: (696, 'paintbrush')
+
+
